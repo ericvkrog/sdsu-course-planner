@@ -4,6 +4,8 @@ An unofficial academic planning tool for San Diego State University students. St
 
 This project was built as a full-stack resume project focused on constraint solving, catalog data processing, and an interactive planning UI.
 
+This public repository was migrated from a private version, with history cleaned before publication.
+
 ## Features
 
 - Generate prerequisite-aware degree plans for SDSU bachelor's programs
