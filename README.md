@@ -6,6 +6,10 @@ This project was built as a full-stack resume project focused on constraint solv
 
 This public repository was migrated from a private version, with history cleaned before publication.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 ## Features
 
 - Generate prerequisite-aware degree plans for SDSU bachelor's programs
