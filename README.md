@@ -19,7 +19,7 @@ The project demonstrates a practical mix of product thinking and engineering: ta
 
 - Frontend: React, Vite, Tailwind CSS
 - Backend: Python, FastAPI, Pydantic
-- Data store: Supabase / PostgreSQL
+- Database: Supabase / PostgreSQL
 - Planning logic: NetworkX and a custom constraint solver
 
 ## Local Setup
