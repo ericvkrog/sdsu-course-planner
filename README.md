@@ -171,4 +171,4 @@ This is an MVP/prototype academic planning tool. It is not affiliated with San D
 
 ## License
 
-No license has been selected yet.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
