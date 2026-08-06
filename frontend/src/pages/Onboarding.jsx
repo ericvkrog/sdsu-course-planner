@@ -91,11 +91,18 @@ export default function Onboarding() {
       {/* Main */}
       <main className="flex-1 flex items-center justify-center px-4 py-12">
         <div className="w-full max-w-lg">
-          <div className="mb-4 rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-800">
-            <span className="font-semibold">Prototype.</span> Course data is
-            scraped from the SDSU catalog and has not been manually verified
-            for all majors. Do not use in place of official academic
-            advising.
+          <div className="mb-4 flex gap-3 rounded-lg border-2 border-amber-400 bg-amber-50 px-4 py-3 text-sm text-amber-900 shadow-sm">
+            <span className="text-lg leading-none" aria-hidden="true">
+              ⚠️
+            </span>
+            <p>
+              <span className="font-bold">Prototype.</span> Course data is
+              scraped from the SDSU catalog and has not been manually
+              verified for all majors.{" "}
+              <span className="font-semibold">
+                Do not use in place of official academic advising.
+              </span>
+            </p>
           </div>
 
           <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
