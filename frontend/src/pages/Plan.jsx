@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import PlanGrid from "../components/PlanGrid.jsx";
 import ConflictAlert from "../components/ConflictAlert.jsx";
 import CourseDrawer from "../components/CourseDrawer.jsx";
+import Spinner from "../components/Spinner.jsx";
 import { usePlan } from "../hooks/usePlan.js";
 
 export default function Plan() {
@@ -106,7 +107,13 @@ export default function Plan() {
             <span>{totalPlaced} courses</span>
             <span>{totalUnits} units</span>
             {adjusting && (
-              <span className="text-sdsu-red animate-pulse">Saving…</span>
+              <span
+                className="inline-flex items-center gap-1.5 text-sdsu-red"
+                title="Can take up to a minute if the server's waking up."
+              >
+                <Spinner className="h-3.5 w-3.5 text-sdsu-red" />
+                Saving…
+              </span>
             )}
           </div>
         </div>

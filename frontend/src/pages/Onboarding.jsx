@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { generatePlan, getMajors } from "../api/client.js";
+import Spinner from "../components/Spinner.jsx";
 
 const CURRENT_YEAR = new Date().getFullYear();
 const YEARS = Array.from({ length: 4 }, (_, i) => CURRENT_YEAR + i);
@@ -123,26 +124,7 @@ export default function Onboarding() {
                   Major
                   {majorsLoading && (
                     <span className="inline-flex items-center gap-1.5 ml-2 align-middle text-gray-500 font-normal">
-                      <svg
-                        className="h-3.5 w-3.5 animate-spin text-sdsu-red"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        aria-hidden="true"
-                      >
-                        <circle
-                          className="opacity-25"
-                          cx="12"
-                          cy="12"
-                          r="10"
-                          stroke="currentColor"
-                          strokeWidth="4"
-                        />
-                        <path
-                          className="opacity-75"
-                          fill="currentColor"
-                          d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"
-                        />
-                      </svg>
+                      <Spinner className="h-3.5 w-3.5 text-sdsu-red" />
                       loading majors — can take up to a minute if the
                       server's waking up
                     </span>
@@ -306,10 +288,16 @@ export default function Onboarding() {
               <button
                 type="submit"
                 disabled={loading}
-                className="w-full bg-sdsu-red text-white font-semibold py-2.5 rounded-lg hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-sm"
+                className="w-full flex items-center justify-center gap-2 bg-sdsu-red text-white font-semibold py-2.5 rounded-lg hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-sm"
               >
+                {loading && <Spinner className="h-4 w-4 text-white" />}
                 {loading ? "Generating Plan…" : "Generate My Plan →"}
               </button>
+              {loading && (
+                <p className="text-xs text-gray-500 text-center -mt-1">
+                  Can take up to a minute if the server's waking up.
+                </p>
+              )}
             </form>
           </div>
         </div>

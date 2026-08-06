@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { getCourse, getPrereqGraph, getSwapOptions } from "../api/client.js";
 import PrereqGraph from "./PrereqGraph.jsx";
+import Spinner from "./Spinner.jsx";
 
 export default function CourseDrawer({
   course,
@@ -115,7 +116,10 @@ export default function CourseDrawer({
         {/* Body */}
         <div className="flex-1 overflow-y-auto p-5 space-y-5">
           {loading && (
-            <p className="text-sm text-gray-500 animate-pulse">Loading…</p>
+            <p className="flex items-center gap-1.5 text-sm text-gray-500">
+              <Spinner className="h-3.5 w-3.5 text-sdsu-red" />
+              Loading — can take up to a minute if the server's waking up
+            </p>
           )}
 
           {/* Quick stats */}
@@ -181,7 +185,17 @@ export default function CourseDrawer({
                               <span className="font-mono text-xs font-semibold text-gray-900">
                                 {o.course_code}
                               </span>
-                              <span className="text-xs text-gray-500">
+                              <span
+                                className="inline-flex items-center gap-1 text-xs text-gray-500"
+                                title={
+                                  swapping === o.course_code
+                                    ? "Can take up to a minute if the server's waking up."
+                                    : undefined
+                                }
+                              >
+                                {swapping === o.course_code && (
+                                  <Spinner className="h-3 w-3 text-sdsu-red" />
+                                )}
                                 {swapping === o.course_code ? "Swapping…" : `${o.units}u`}
                               </span>
                             </div>
