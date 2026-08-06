@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: sdsu-course-planner-backend
+    env: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    # rootDir puts the working directory at backend/, but the app's modules
+    # use absolute imports rooted at the repo root (e.g. "backend.api.main"),
+    # so start back up one level before invoking uvicorn.
+    startCommand: cd .. && uvicorn backend.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: FRONTEND_URL
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false
