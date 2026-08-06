@@ -1,0 +1,56 @@
+{
+  "code": "THEATRE_ARTS_EMPHASIS_IN_YOUTH_THEATRE_B_A",
+  "name": "Theatre Arts, Emphasis in Youth Theatre, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12217",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12217",
+  "poid": "12217",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "PSFA 305W",
+    "RWS 305W",
+    "RWS 500W"
+  ],
+  "lower_division": [
+    "THEA 100",
+    "THEA 111",
+    "THEA 120",
+    "THEA 130",
+    "THEA 240",
+    "TFM 160"
+  ],
+  "upper_required": [
+    "PSFA 305W",
+    "RWS 305W",
+    "RWS 500W",
+    "THEA 310",
+    "THEA 315",
+    "THEA 325",
+    "THEA 359",
+    "THEA 460A",
+    "THEA 460B",
+    "THEA 510",
+    "THEA 580",
+    "THEA 446A",
+    "THEA 446B",
+    "THEA 446D"
+  ],
+  "elective_areas": {
+    "Theatre Design and Management Electives": [
+      "THEA 335",
+      "THEA 336",
+      "THEA 440",
+      "THEA 447",
+      "THEA 452",
+      "THEA 459",
+      "THEA 470",
+      "THEA 476"
+    ]
+  },
+  "default_electives": [
+    "THEA 335"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,51 @@
+{
+  "code": "ECONOMICS_B_A",
+  "name": "Economics, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11981",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11981",
+  "poid": "11981",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ECON 101",
+    "ECON 102",
+    "ECON 201",
+    "STAT 119",
+    "STAT 250",
+    "MATH 120",
+    "MATH 124",
+    "MATH 150"
+  ],
+  "upper_required": [
+    "ECON 301",
+    "ECON 320",
+    "ECON 321"
+  ],
+  "elective_areas": {
+    "International Economics Electives": [
+      "ECON 330",
+      "ECON 360",
+      "ECON 365",
+      "ECON 460",
+      "ECON 463",
+      "ECON 464",
+      "ECON 466",
+      "ECON 561",
+      "ECON 592"
+    ],
+    "Variable Unit and Repeatable Courses": [
+      "ECON 496",
+      "ECON 596",
+      "ECON 499",
+      "ECON 495"
+    ]
+  },
+  "default_electives": [
+    "ECON 330",
+    "ECON 495"
+  ],
+  "unresolved_codes": []
+}

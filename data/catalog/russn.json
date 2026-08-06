@@ -1,0 +1,376 @@
+[
+  {
+    "course_code": "RUSSN 100A",
+    "title": "Beginning Russian 1",
+    "units": 5,
+    "department": "RUSSN",
+    "description": "Pronunciation, oral practice, reading, essentials of grammar.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Russian. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian. No credit will be given for RUSSN 100A,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 100B",
+    "title": "Beginning Russian 2",
+    "units": 5,
+    "department": "RUSSN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Russian. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 110",
+    "title": "Slavic Legends and Tales",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Introduces fairy tales, folk epics and legends and examines aesthetic, social, and psychological values they reflect. Cultural influence of Slavic folklore in literature, music, painting, film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 200A",
+    "title": "Intermediate Russian 1",
+    "units": 5,
+    "department": "RUSSN",
+    "description": "Practical application and review of the basic principles of Russian. Oral practice, reading of cultural material in Russian.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Russian. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian. No credit will be given for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 200B",
+    "title": "Intermediate Russian 2",
+    "units": 5,
+    "department": "RUSSN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Russian. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 200A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 250",
+    "title": "Russian Culture in a Digital World",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "New media’s impact on social, cultural, and political development of Russian society. Russian art, values and ideologies, state power, nationalism, and democracy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English. Native speakers of Russian will not receive credit for taking lower division courses in Russian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 300",
+    "title": "Russian Culture, Identity, and Society",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Examines Russian culture and identity from Imperial times to today. Students analyze primary sources exploring autocracy, religion, gender, empire, nature, ecology, and memory while investigating how cultural practices shape and reflect evolving definitions of Russian national identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in English",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 301",
+    "title": "Advanced Grammar and Composition",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Advanced grammar and stylistics; intensive writing practice; reports based on outside reading.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian. No credit will be given for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 303",
+    "title": "Russian for Business Communication",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Russian business communication to include business letters, reports, presentations. Topics include banking, business etiquette, international trade, marketing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 305A",
+    "title": "Heroes and Villains: Russian Literature of the Nineteenth Century",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Nineteenth century Russian literature in translation. Prose fiction in cultural and historical context of Russian Empire to include works by Dostoevsky, Pushkin, Tolstoy, Turgenev.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English with readings in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 305B",
+    "title": "Russian Literature of the Twentieth Century",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Twentieth century Russian literature including works by Zamyatin, Pasternak, Akhmatova, Solzhenitsyn.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English with readings in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 310",
+    "title": "Russian and East European Cinema",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Through study of films from 1950s to post-Soviet times, major concerns of East Europeans are addressed through cinema. Interrelationships among cinematic traditions of Russia, Poland, Hungary, Czechoslovakia, and former Yugoslavia/Balkans.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 311",
+    "title": "Russian Through Media",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Russian stylistics and discourse grammar in context. Emphasis on communicative skills: listening, speaking, reading, and writing. Students work with Internet materials, newspapers, magazines, and excerpts from Russian and Soviet films.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 200B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 430",
+    "title": "Russian Civilization",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Russian civilization through literary texts, visual art, music, and film. Relationships between art and politics, art and national identity, art of the fantastic and doublespeak, art of postcommunism and postmodernism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 200B",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 435",
+    "title": "Russian and East European Jewish Culture",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Russian and East European Jewish culture from 1900s to present. How literature written in Russian, Polish, Czech, Lithuanian, German by writers of Jewish origin as well as visual arts and cinema reflect changing problem of Jewish national identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 495",
+    "title": "Russian Internship",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Practical work experience in a field related to Russian studies. Work done under joint direction of activity sponsor and instructor. Approved international internships may count towards international experience requirement for major.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "RUSSN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 501",
+    "title": "Translation",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Comparison of Russian and English through translation of a variety of texts from Russian to English and from English to Russian.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Russian. No credit will be given for lower division courses taken after successfully completing any upper division Russian course taught in Russian.",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 570",
+    "title": "Issues in Russian Literary and Cultural Studies",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Themes within literary, intellectual, and cultural movements in Russian literature of the nineteenth to twenty-first centuries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RUSSN 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RUSSN 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 596",
+    "title": "Topics in Russian Studies",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Topics in Russian language, literature, or linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "RUSSN 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RUSSN 696",
+    "title": "Topics in Russian Studies",
+    "units": 3,
+    "department": "RUSSN",
+    "description": "Intensive study in specific areas of Russian.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RUSSN 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "RUSSN",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

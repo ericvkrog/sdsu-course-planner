@@ -1,0 +1,101 @@
+{
+  "code": "COMMUNICATION_B_A",
+  "name": "Communication, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11960",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11960",
+  "poid": "11960",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RWS 305W",
+    "PSFA 305W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "RWS 305W",
+    "PSFA 305W",
+    "COMM 300",
+    "COMM 350",
+    "COMM 495"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "COMM 160",
+      "COMM 201",
+      "COMM 204",
+      "COMM 245"
+    ],
+    "Mathematics Competency Requirement": [
+      "STAT 250",
+      "STAT 350A",
+      "STAT 350B",
+      "SOC 201",
+      "SOC 406",
+      "SOC 407"
+    ],
+    "Conceptualizing Communication": [
+      "COMM 321",
+      "COMM 371",
+      "COMM 415",
+      "COMM 450",
+      "COMM 470",
+      "COMM 492"
+    ],
+    "Investigating Communication": [
+      "COMM 407",
+      "COMM 420",
+      "COMM 441",
+      "COMM 462",
+      "COMM 465"
+    ],
+    "Communication Electives": [
+      "COMM 301",
+      "COMM 307",
+      "COMM 406",
+      "COMM 444",
+      "COMM 445",
+      "COMM 446",
+      "COMM 452",
+      "COMM 482",
+      "COMM 485",
+      "COMM 490",
+      "COMM 496",
+      "COMM 499",
+      "COMM 508",
+      "COMM 540",
+      "COMM 555"
+    ],
+    "Requirements": [
+      "COMM 421",
+      "COMM 422",
+      "COMM 423",
+      "COMM 424",
+      "COMM 425",
+      "COMM 426",
+      "COMM 427",
+      "COMM 428"
+    ]
+  },
+  "default_electives": [
+    "COMM 160",
+    "COMM 201",
+    "COMM 204",
+    "SOC 201",
+    "COMM 321",
+    "COMM 371",
+    "COMM 415",
+    "COMM 407",
+    "COMM 420",
+    "COMM 301",
+    "COMM 307",
+    "COMM 406",
+    "COMM 444",
+    "COMM 445",
+    "COMM 421",
+    "COMM 422",
+    "COMM 423"
+  ],
+  "unresolved_codes": []
+}

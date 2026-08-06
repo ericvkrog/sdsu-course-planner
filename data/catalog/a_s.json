@@ -1,0 +1,483 @@
+[
+  {
+    "course_code": "A S 100A",
+    "title": "Heritage and Values of the United States Air Force",
+    "units": 2,
+    "department": "A",
+    "description": "Overview of Air Force basic characteristics, missions, and organizations. Laboratory to include applied principles of motivation, organizational behavior, participative group management in solving problems, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 100B",
+    "title": "Heritage and Values of the United States Air Force",
+    "units": 2,
+    "department": "A",
+    "description": "Overview of Air Force basic characteristics, missions, and organizations. Laboratory to include applied solving problems, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 101A",
+    "title": "Heritage and Values of the United States Air Force",
+    "units": 1,
+    "department": "A",
+    "description": "Overview of the United States Air Force to include basic characteristics, missions, and organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Open to non-minors who wish to explore the Air Force.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 101B",
+    "title": "Heritage and Values of the United States Air Force",
+    "units": 1,
+    "department": "A",
+    "description": "Overview of the United States Air Force to include basic characteristics, missions, and organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Open to non-minors who wish to explore the Air Force.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 200A",
+    "title": "Team and Leadership Fundamentals",
+    "units": 2,
+    "department": "A",
+    "description": "Lecture includes development and foundations of cadet leadership for the individual and team. Laboratory to include applied principles of motivation, organizational behavior, participative group management in solving problems, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 200B",
+    "title": "Team and Leadership Fundamentals",
+    "units": 2,
+    "department": "A",
+    "description": "Lecture includes development and foundations of cadet leadership for the individual and team. Laboratory to include applied principles of motivation, organizational behavior, participative group management in solving problems, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 201A",
+    "title": "Team and Leadership Fundamentals",
+    "units": 1,
+    "department": "A",
+    "description": "Overview of the United States Air Force to include basic characteristics, missions, and organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Open to non-minors who wish to explore the Air Force.",
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 201B",
+    "title": "Team and Leadership Fundamentals",
+    "units": 1,
+    "department": "A",
+    "description": "Overview of the United States Air Force to include basic characteristics, missions, and organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Open to non-minors who wish to explore the Air Force.",
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 233",
+    "title": "Field Training Unit",
+    "units": 2,
+    "department": "A",
+    "description": "Required for advanced cadets, military orientation, and flight familiarization.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Credit granted for field training camp on basis of individual student application with approval of Aerospace Studies department chair.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 250A",
+    "title": "Heritage and Values / Team and Leadership Fundamentals",
+    "units": 3,
+    "department": "A",
+    "description": "Overview of Air Force basic characteristics, missions, and organizations. Includes development and foundations of cadet leadership for the individual and team. Laboratory includes the application of principles of motivation, organizational behavior, participative group management in solving problems, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "Two lectures and two hours of activity (lab).",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 250B",
+    "title": "Heritage and Values / Team and Leadership Fundamentals",
+    "units": 3,
+    "department": "A",
+    "description": "Overview of Air Force basic characteristics, missions, and organizations. Includes development and foundations of cadet leadership for the individual and team. Includes a laboratory designed to apply principles of motivation, organizational behavior, participative group management in problem solving, and time management.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A S 300A",
+    "title": "Leading People and Effective Communication",
+    "units": 4,
+    "department": "A",
+    "description": "Lecture includes advanced experiences and skills in communication, leadership and management in supervised environments. Laboratory to include coordinating and organizing activities, exercise group planning, leadership development, management and problem-solving skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 300B",
+    "title": "Leading People and Effective Communication",
+    "units": 4,
+    "department": "A",
+    "description": "Lecture includes advanced experiences and skills in communication, leadership, and management in supervised environments. Laboratory to include coordinating and organizing activities, exercise group planning, leadership development, management and problem-solving skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 400A",
+    "title": "National Security Affairs/Preparation for Active Duty",
+    "units": 4,
+    "department": "A",
+    "description": "Lecture includes roles of military officers in American society and complex political and social issues facing military professions. Laboratory to include coordinating and organizing activities, exercise group planning, leadership development, management and problem-solving skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 300A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 300B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 400B",
+    "title": "National Security Affairs/Preparation for Active Duty",
+    "units": 3,
+    "department": "A",
+    "description": "Lecture includes roles of military officers in American society and complex political and social issues facing military professions. Laboratory to include coordinating and organizing activities, exercise group planning, leadership development, management and problem-solving skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A S 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 101B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 200B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 201B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 300A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 300B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A S 400A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "A",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

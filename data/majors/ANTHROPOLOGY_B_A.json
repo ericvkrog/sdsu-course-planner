@@ -1,0 +1,51 @@
+{
+  "code": "ANTHROPOLOGY_B_A",
+  "name": "Anthropology, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11894",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11894",
+  "poid": "11894",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ANTH 101",
+    "ANTH 102",
+    "ANTH 103"
+  ],
+  "upper_required": [
+    "ANTH 301",
+    "ANTH 302",
+    "ANTH 303",
+    "ANTH 304",
+    "ANTH 410",
+    "ANTH 460",
+    "ANTH 395"
+  ],
+  "elective_areas": {
+    "Methods": [
+      "ANTH 348",
+      "ANTH 355",
+      "ANTH 360",
+      "ANTH 483",
+      "ANTH 495",
+      "ANTH 499",
+      "ANTH 505",
+      "ANTH 520",
+      "ANTH 531",
+      "ANTH 532",
+      "ANTH 546",
+      "ANTH 560",
+      "ANTH 562",
+      "ANTH 563",
+      "ANTH 564",
+      "ANTH 583"
+    ]
+  },
+  "default_electives": [
+    "ANTH 348",
+    "ANTH 355"
+  ],
+  "unresolved_codes": []
+}

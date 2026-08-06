@@ -1,0 +1,315 @@
+[
+  {
+    "course_code": "JAPAN 111",
+    "title": "Elementary Japanese I",
+    "units": 5,
+    "department": "JAPAN",
+    "description": "Elementary language skills: fundamental grammar, idiomatic expressions, hiragana, katakana, and basic kanji characters. Reading, writing, speaking, oral-aural drills, and relationship between language and culture.\u00a0Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for taking lower division courses. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese. No credit will be given for JAPAN 111,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 112",
+    "title": "Elementary Japanese II",
+    "units": 5,
+    "department": "JAPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Preparation for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 111",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 211",
+    "title": "Intermediate Japanese I",
+    "units": 5,
+    "department": "JAPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Preparation for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 112",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 212",
+    "title": "Intermediate Japanese II",
+    "units": 5,
+    "department": "JAPAN",
+    "description": "Strengthening communication skills in Japanese; various literary styles; additional kyoiku kanji. Cultural values shaping modern Japanese society; intercultural communication.\u00a0Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Preparation for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "JAPAN",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "JAPAN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for taking lower division courses. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 311",
+    "title": "Third Year Japanese I",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Preparation for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 212",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 312",
+    "title": "Third Year Japanese II",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Further strengthening of communication skills in Japanese; various literary styles; introduction of chugaku kanji. Social and economic issues in Japan and the U.S.; cultural values shaping business conduct in Japan; characteristics of Japanese management; intercultural communication.\u00a0\u00a0Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Preparation for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 321",
+    "title": "Advanced Japanese Discourse",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Development of advanced communication skills through Japanese media such as Japanese news broadcasts and television drama. Focus on listening comprehension.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 212",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 322",
+    "title": "Advanced Conversation Through Media",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Development of advanced communication skills through Japanese media such as Japanese news broadcasts and television drama. Focus on oral communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 311",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "JAPAN 321",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 332",
+    "title": "Narratives of Japanese Popular Culture",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Popular Japanese narrative traditions from 1600 to present in mainstream cultural products to include written and pictorial texts, performing arts, film, animation, and graphic novels. Class, gender, nationalism, and identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 411",
+    "title": "Fourth Year Japanese I",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Preparation for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 312",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JAPAN 322",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 412",
+    "title": "Fourth Year Japanese II",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Japanese. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 411",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JAPAN 421",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 421",
+    "title": "Japanese Literature Through Text and Film",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Japanese literature from earliest times to present. Major works of modern Japanese fiction as a literary genre and their cinematic interpretation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 312",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JAPAN 322",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 422",
+    "title": "Newspaper Reading and Advanced Composition",
+    "units": 3,
+    "department": "JAPAN",
+    "description": "Development of reading and writing skills through texts taken from current Japanese newspapers and broadcast news.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese. Native speakers of Japanese or students whose placement test results demonstrate educated native or near-native fluency will not receive credit for",
+    "prerequisites": [
+      {
+        "prereq_code": "JAPAN 411",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JAPAN 421",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JAPAN 495",
+    "title": "Japanese Internship",
+    "units": 1,
+    "department": "JAPAN",
+    "description": "Practical work experience in a field related to Japanese studies. Work done under joint direction of activity sponsor and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 496",
+    "title": "Topics in Japanese Studies",
+    "units": 1,
+    "department": "JAPAN",
+    "description": "Topics in Japanese language, literature, culture and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JAPAN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "JAPAN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Japanese. No credit will be given for lower division courses taken after successfully completing any upper division Japanese course taught in Japanese.",
+    "prerequisites": []
+  }
+]

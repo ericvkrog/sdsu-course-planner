@@ -1,0 +1,47 @@
+{
+  "code": "SOCIOLOGY_B_A",
+  "name": "Sociology, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12197",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12197",
+  "poid": "12197",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "SOC 101",
+    "SOC 102",
+    "SOC 201"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Major": [
+      "SOC 301",
+      "SOC 401",
+      "SOC 403",
+      "SOC 406",
+      "SOC 407",
+      "SOC 408",
+      "SOC 433",
+      "SOC 455",
+      "SOC 450",
+      "SOC 457",
+      "SOC 458",
+      "SOC 459"
+    ]
+  },
+  "default_electives": [
+    "SOC 301",
+    "SOC 401",
+    "SOC 403",
+    "SOC 406",
+    "SOC 407",
+    "SOC 408",
+    "SOC 433",
+    "SOC 450",
+    "SOC 455",
+    "SOC 457"
+  ],
+  "unresolved_codes": []
+}

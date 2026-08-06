@@ -1,0 +1,1529 @@
+[
+  {
+    "course_code": "CS 100",
+    "title": "Computer Science Principles",
+    "units": 3,
+    "department": "CS",
+    "description": "Capabilities and applications of computers. Algorithmic problem-solving methods and computer programming. Using computers to examine questions from other fields of study. Practical and theoretical limits to computation. Machine intelligence and heuristic problem solving. Social and legal impact of computers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 150",
+    "title": "Introductory Computer Programming",
+    "units": 3,
+    "department": "CS",
+    "description": "Computing methodology, process, and computational problem solving. Algorithm Design; program design, development, and testing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CS 107",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 150L",
+    "title": "Introductory Computer Programming Laboratory",
+    "units": 1,
+    "department": "CS",
+    "description": "Programming experiences designed to demonstrate and reinforce concepts through active experimentation and programming exercises.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 160",
+    "title": "Intermediate Computer Programming",
+    "units": 3,
+    "department": "CS",
+    "description": "Advanced computing methodology, process, and computational problem solving. Programming environment and data structures. Object-oriented program design and development. Binary trees, linear lists, maps, queues, recursion, stacks.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 160L",
+    "title": "Intermediate Computer Programming Laboratory",
+    "units": 1,
+    "department": "CS",
+    "description": "Programming experiences designed to demonstrate and reinforce concepts through active experimentation and programming exercises.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 200",
+    "title": "Introduction to Data Science and Python",
+    "units": 4,
+    "department": "CS",
+    "description": "Basic data analysis with Python to include confidence intervals, regression, and sampling. Data structures, displaying data, and programming constructs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to Computer Science majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 210",
+    "title": "Data Structures",
+    "units": 3,
+    "department": "CS",
+    "description": "Representations and operations on basic data structures. Arrays, linked lists, stacks, queues, and recursion; binary search trees and balanced trees; hash tables, dynamic storage management; introduction to graphs. An object oriented programming language will be used.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 240",
+    "title": "Computer Organization",
+    "units": 3,
+    "department": "CS",
+    "description": "Organization and assembly language to include CPU, logic circuits, and memory. Data representation, interrupts, looping and addressing techniques, macros, and traps.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 250",
+    "title": "Introduction to Software Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "Alternatives analyses, information management, networking and communications, parallel and distributed processing, principles and practices, security and encryption. Ethical, legal, and social issues in computing. Modeling will be used to capture and explore designs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 301",
+    "title": "Computers and Society",
+    "units": 3,
+    "department": "CS",
+    "description": "Impact of computers and computing technology on society: applications, benefits, and risks. Topics include privacy, copyright, computer crime, constitutional issues, risks of computer failures, evaluating reliability of computer models, computers in the workplace, trade and communications in the global village.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to computer science majors or to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CS 305",
+    "title": "Data Structures for Scientists and Engineers",
+    "units": 3,
+    "department": "CS",
+    "description": "Program design and development. Object-oriented programming to include inheritance, polymorphism, and generic code. Representations and operations on basic data structures: arrays, linked lists, stacks, queues, and trees.\u00a0Not open to Computer Science majors.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 320",
+    "title": "Programming Languages",
+    "units": 3,
+    "department": "CS",
+    "description": "Principles of high-level programming languages, including formal techniques for syntax specification and implementation issues. Languages studied should include at least C++, FORTRAN, and LISP.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 160L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 370",
+    "title": "Computer Architecture",
+    "units": 3,
+    "department": "CS",
+    "description": "Logic gates, combinational circuits, sequential circuits, memory and bus system, control unit, CPU, exception processing, traps and interrupts, input-output and communication, reduced instruction set computers, use of simulators for analysis and design of computer circuits, and traps/interrupts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 420",
+    "title": "Advanced Programming Languages",
+    "units": 3,
+    "department": "CS",
+    "description": "Concurrent programming, logic programming, object-oriented programming. Implementation issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 440",
+    "title": "Social, Legal, and Ethical Issues in Computing",
+    "units": 3,
+    "department": "CS",
+    "description": "Impact of computers, applications, and benefits, copyright, privacy, computer crime, constitutional issues, risks of computer failures, evaluating reliability of computer models, trade and communications in the global village, computers in the workplace, responsibilities of the computer professional.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 160L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 450",
+    "title": "Introduction to Artificial Intelligence",
+    "units": 3,
+    "department": "CS",
+    "description": "First-order logic. Heuristic and uninformed search. Deep neural networks, hierarchical clustering, k-means, linear regression, support vector machines. Image classification and object tracking. Language models, parsing, speech generation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 460",
+    "title": "Algorithms",
+    "units": 3,
+    "department": "CS",
+    "description": "Algorithms for solving frequently occurring problems. Analysis techniques, divide and conquer algorithms with applications, graph problems, greedy algorithms. Introduction to NP complete problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 470",
+    "title": "UNIX System Administration",
+    "units": 3,
+    "department": "CS",
+    "description": "Installing the UNIX operating system on a UNIX workstation, adding user accounts, backing up and restoring user files, installing windows, adding network capabilities, adding printers and other peripherals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 480",
+    "title": "Operating Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "File system, I/O management, interprocess communication, memory management, processes and threads, program structures, thread synchronization, virtual memory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 490",
+    "title": "Senior Seminar",
+    "units": 1,
+    "department": "CS",
+    "description": "Preparation and delivery of oral presentations on advanced topics in computer science. General principles of organization and style appropriate for presenting such material.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 497",
+    "title": "Undergraduate Research Seminar",
+    "units": 3,
+    "department": "CS",
+    "description": "Designing and carrying out independent research in one of the areas of computer science. Literature search, technical report writing, and oral presentation of results.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 498",
+    "title": "Undergraduate Honors Thesis",
+    "units": 3,
+    "department": "CS",
+    "description": "Directed research in computer science and completion of honors thesis. Thesis to be presented at the annual SDSU Research Symposium and/or defended before a committee of faculty.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 497",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 503",
+    "title": "Scientific Database Techniques",
+    "units": 3,
+    "department": "CS",
+    "description": "Fundamental data models for handling scientific data, including flat file, indexed compressed files, relational databases, and object oriented databases, and their associated query technologies; e.g. file formats, input/output libraries, string searching, structured query language, object-oriented structured query language, hypertext markup language/common gateway interface, and other specialized interfaces. Designed for computational science students.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Computer science majors and minors must obtain adviser approval. See",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 514",
+    "title": "Database Theory and Implementation",
+    "units": 3,
+    "department": "CS",
+    "description": "Database systems architecture. Storage structures and access techniques. Relational model, relational algebra and calculus, normalization of relations, hierarchical and network models. Current database systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CS 503",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 521",
+    "title": "Internet of Things - Software and Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "Introduction to the Internet of Things (IoT) from a systems and software perspective. IoT ecosystem including sensors, embedded CPUs, networking protocols, software, cloud services, and security and privacy requirements. IoT use cases, system design, and programming project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Use of C/C++ required",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 530",
+    "title": "Systems Programming",
+    "units": 3,
+    "department": "CS",
+    "description": "Design and implementation of system software. Relationship between software design and machine architecture. Assemblers, compilers, debuggers, editors, linkers and loaders, macro processors. Object oriented concepts and programming fundamentals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not acceptable for the M.S. degree in computer science.",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 532",
+    "title": "Software Engineering",
+    "units": 3,
+    "department": "CS",
+    "description": "Theory and methodology of programming complex computer software. Analysis, design, and implementation of programs. Team projects required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 545",
+    "title": "Introduction to Web Application Development",
+    "units": 3,
+    "department": "CS",
+    "description": "World Wide Web application development. Client-side and server-side scripting, CSS, Javascript, PHP and CGI programming with Perl, XHTML. Application integration with SQL database systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 549",
+    "title": "Machine Learning",
+    "units": 3,
+    "department": "CS",
+    "description": "Algorithms and computer methods for machine learning. Supervised methods: convolutional neural networks, feedforward neural networks, linear regression, logistic regression, support vector machine; unsupervised methods: dimensionality reduction, k-means clustering, subspace learning. Applications in classification, regression and visualization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 553",
+    "title": "Neural Networks",
+    "units": 3,
+    "department": "CS",
+    "description": "Computer algorithms and methods for neural networks. Convolutional networks, feedforward networks, generative adversarial networks, graphical neural networks, recurrent neural networks; backward propagation, computational graph, regularization, stochastic gradient descent; autoencoder networks and deep structure models.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 556",
+    "title": "Robotics",
+    "units": 3,
+    "department": "CS",
+    "description": "Robotic systems and their components. Spatial descriptions and transformations. Kinematics and inverse kinematics of robots. Robotic programming and simulation environments to include Matlab Robotics Toolbox. Mobile robots. Trajectory tracking and control. Path planning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 558",
+    "title": "Computer Simulation",
+    "units": 3,
+    "department": "CS",
+    "description": "Methodology of simulation for discrete and continuous dynamic systems. State-of-the-art programming techniques and languages. Statistical aspects of simulation. Students will design, program, execute, and document a simulation of their choice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 559",
+    "title": "Computer Vision",
+    "units": 3,
+    "department": "CS",
+    "description": "Algorithms and computer methods for processing of images, edge detection and filtering in spatial domain, FFT and filtering, frequency domain analysis of images, image compression, low level image processing, neighborhood operations, segmentation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 561",
+    "title": "Deep Learning for Natural Language Processing",
+    "units": 3,
+    "department": "CS",
+    "description": "Approaches on deep neural networks. Common tasks, modern programming frameworks, and state-of-the-art models.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 562",
+    "title": "Automata Theory",
+    "units": 3,
+    "department": "CS",
+    "description": "Definition of finite automata. Classification of finite automaton definable languages. Minimization of finite automata. Nondeterministic finite automata. Sequential machines with output. Regular sets and expressions. Introduction to grammars.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 572",
+    "title": "Microprocessor Architecture",
+    "units": 3,
+    "department": "CS",
+    "description": "Architecture of state-of-the-art microprocessor. Internal pipeline, internal cache, external cache, and memory management. Programming a uniprocessor. Communication among computers in a distributed environment. Architecture and programming of a multiprocessor system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 574",
+    "title": "Computer Security",
+    "units": 3,
+    "department": "CS",
+    "description": "Principles of computer security and application of principles to operating systems, database systems, and computer networks. Topics include encryption techniques, access controls, and information flow controls.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 576",
+    "title": "Computer Networks and Distributed Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "Basic networking concepts to include seven-layer reference model, transmission media, addressing, subnetting and supernetting, networking devices, LANs and WANs, internetworking, distributed processing, and client-server model. Basic concepts and protocols of TCP/IP protocol suite and basic Internet services.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 577",
+    "title": "Principles and Techniques of Data Science",
+    "units": 3,
+    "department": "CS",
+    "description": "Data classification, cleaning, common representation and operations, dimensionality reduction, hypothesis testing, life cycle, regression, statistical inference, and visualization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 578",
+    "title": "Wireless Networks",
+    "units": 3,
+    "department": "CS",
+    "description": "Current and future protocols, fundamental theories, low power Internet of things and wireless sensor networks.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 581",
+    "title": "Computational Linguistics",
+    "units": 3,
+    "department": "CS",
+    "description": "Basic concepts in computational linguistics including finite-state transducers, n-gram language models, vector space semantics, statistical classifiers, neural nets, and transformers. Applications to parsing, natural language understanding, and large language models.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 582",
+    "title": "Introduction to Speech Processing",
+    "units": 3,
+    "department": "CS",
+    "description": "Fundamentals of speech processing and speech recognition. Physical aspects of speech production and perception. Mathematical models for speech recognition. Corpus development: data collection, processing, and evaluation. Applications of speech processing and associated research topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 583",
+    "title": "3D Game Programming",
+    "units": 3,
+    "department": "CS",
+    "description": "Development of programming skills using software environment of a game engine and its scripting language. 3D concepts for game play, modeling, and programming. Roles needed in software development team. Contrast creation of original 3D object models for game world with incorporation of pre-created generic models.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 596",
+    "title": "Advanced Topics in Computer Science",
+    "units": 1,
+    "department": "CS",
+    "description": "Selected topics in computer science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 601",
+    "title": "Graduate Seminar",
+    "units": 1,
+    "department": "CS",
+    "description": "Attend\u00a0a minimum of seven\u00a0technical talks\u00a0organized by the departments of Computer Science, Electrical and Computer Science, and Mathematics and Statistics, and short report writing about each talk. The particular talks to attend must\u00a0be approved by the course instructor.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 605",
+    "title": "Scientific Computing",
+    "units": 3,
+    "department": "CS",
+    "description": "Parallel programming using message passing to include high performance computing and MPI language extensions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMP 526",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 609",
+    "title": "Computational Genomics and Bioinformatics",
+    "units": 3,
+    "department": "CS",
+    "description": "Biological and genomic data. Application of computational algorithms to biological questions. Post-genomic techniques in annotation and comparison of microbial and eukaryotic genome sequences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 503",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 514",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 615",
+    "title": "Spatial Database",
+    "units": 3,
+    "department": "CS",
+    "description": "Strategies for databases in which locations are prominent. Access strategies such as quadtrees and R-trees. Topological and other spatial extensions to query languages. Spatial models like non-intersection. Oracle spatial features. Object and object-oriented databases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 514",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 620",
+    "title": "Formal Languages and Syntactic Analysis I",
+    "units": 3,
+    "department": "CS",
+    "description": "Regular, context-free, context-sensitive, and general grammars. Corresponding machine model recognizers. Chomsky and Greibach normal forms. Closure, decidability and undecidability properties.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 635",
+    "title": "Advanced Object-Oriented Design and Programming",
+    "units": 3,
+    "department": "CS",
+    "description": "Advanced topics in object-oriented programming and design, code reuse, building class libraries, quality of objects, coupling, cohesion, design patterns, distributed objects.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 636",
+    "title": "Management of Software Development",
+    "units": 3,
+    "department": "CS",
+    "description": "Managing software projects. Modern software management process models. Project planning, cost estimation, tracking and control, staffing, risk management, and software process improvement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 532",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 645",
+    "title": "Advanced Web Application Development",
+    "units": 3,
+    "department": "CS",
+    "description": "XHTML, CSS, JavaScript, client-side and server-side scripting, Java servlets, JSP, Frameworks. Server systems and development tools appropriate for large, complex project. SQL database via JDBC.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 545",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 646",
+    "title": "Mobile Application Development",
+    "units": 3,
+    "department": "CS",
+    "description": "Design and implementation of applications for smart mobile phones and mobile devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 648",
+    "title": "Advanced Topics in Web and Mobile Applications",
+    "units": 3,
+    "department": "CS",
+    "description": "Advanced technologies, issues, and concepts in Web and mobile software development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CS 545",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 649",
+    "title": "Big Data Tools and Methods",
+    "units": 3,
+    "department": "CS",
+    "description": "Analyze, curate, search, and visualize big data. Apache MapReduce and Spark, distributed databases and messaging/streaming, electronic notebooks, NoSQL databases, programming languages, statistics.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 577",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 503",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 514",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 651",
+    "title": "Machine Learning Operations",
+    "units": 3,
+    "department": "CS",
+    "description": "MLOps life cycle, data versioning, reproducibility, continuous integration and delivery for ML pipelines, monitoring and model drift detection, scalability, ethical considerations, model retraining, model evaluation, automation, hands-on experience with modern MLOps tools and frameworks.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 652",
+    "title": "Foundations of Deep Learning",
+    "units": 3,
+    "department": "CS",
+    "description": "Foundations of deep learning systems and how they adapt to real-world applications. DL Optimization, DL Generalization, Neural Tangent Kernels, Robustness for DL, Deep Generative Models, Self-supervised DL, Transformers, Domain adaptation and generalization, Explainable DL, and Meta-Learning. Project-oriented implementing advanced algorithms.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 653",
+    "title": "Data Mining",
+    "units": 3,
+    "department": "CS",
+    "description": "Foundations of data mining and knowledge discovery. Diverse methods, algorithms, design techniques and application practice including statistical and Bayesian methods, pattern recognition, clustering, knowledge discovery in data sets, machine learning, neural networks, rough and fuzzy sets.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 654",
+    "title": "Reinforcement Learning",
+    "units": 3,
+    "department": "CS",
+    "description": "Reinforcement Learning studies sequential decision-making to maximize cumulative rewards. Widely applied in robotics, finance, healthcare, etc., this course covers topics like Markov decision processes, value-based RL, actor-critic methods, policy gradients, and imitation learning, with practical projects.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 656",
+    "title": "Advanced Robotics",
+    "units": 3,
+    "department": "CS",
+    "description": "Robot kinematics to include Jacobians and velocity. Robot dynamics and joint-space/task-space tracking and control. Genetic algorithms and clustering for inverse kinematics. Trajectory tracking and path planning with mobile robots and articulated rovers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 556",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 657",
+    "title": "Intelligent Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "Genetic and evolutionary algorithms and applications, fuzzy logic and approximate reasoning, rule-based inference engines, intelligent path planning and applications to robotics, dynamic systems and their simulations using Simulink, conventional control and intelligent control, intelligent agents.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 659",
+    "title": "Visual Perception and Learning",
+    "units": 3,
+    "department": "CS",
+    "description": "Computer algorithms and methods for computer vision. Edge detection, histogram of gradients, image filtering, machine learning, robust matching and model fitting, scale-invariant feature transform, stereo vision and 3D scene reconstruction. Object detection, recognition, and visual tracking.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 660",
+    "title": "Algorithm Analysis and Design",
+    "units": 3,
+    "department": "CS",
+    "description": "Algorithm design techniques. Approximation algorithms and reductions among NP-complete problems. Greedy and divide and conquer algorithms. Linear and dynamic programming. Graph algorithms and network flow. NP and computational interactability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 662",
+    "title": "Theory of Parallel Algorithms",
+    "units": 3,
+    "department": "CS",
+    "description": "Models for parallel computation. Parallel algorithms for several common problems including sorting, searching, graph problems, and matrix problems. Complexity of parallel algorithms. Lower bounds on parallel complexity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 663",
+    "title": "Algorithms for Big Data",
+    "units": 3,
+    "department": "CS",
+    "description": "This course covers the design and analysis of algorithms and machine learning in computational models that capture the computation of massive data such as streaming, sublinear, and parallel models.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 666",
+    "title": "Advanced Distributed Systems",
+    "units": 3,
+    "department": "CS",
+    "description": "Design of distributed systems including abstract models, algorithms, and case studies of real-world systems. Group research related to distributed systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 668",
+    "title": "Applied Large Language Models",
+    "units": 3,
+    "department": "CS",
+    "description": "Large language Models (LLM), understanding how an LLM works, training and refining LLMs, preparing data to train an LLM, testing and debugging LLMS, hardening LLMs against attacks, prompt engineering",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 677",
+    "title": "Data Quality Assurance",
+    "units": 3,
+    "department": "CS",
+    "description": "Introduction to the principles of data quality assurance, including data profiling, cleansing, anomaly detection, and quality constraints. Emphasis on data dialects, machine learning for noise cancellation and anomaly detection, and ethical considerations in data-driven decision-making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 679",
+    "title": "Advanced Multimedia Networks",
+    "units": 3,
+    "department": "CS",
+    "description": "Multimedia networking theories, practical techniques, principles, and standards to support quality of service and experience. \u00a0Advanced multimedia compression algorithms and standards, cross layer network protocol design, resource allocation and scheduling algorithm optimization, game theory and network economics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 682",
+    "title": "Speech Processing",
+    "units": 3,
+    "department": "CS",
+    "description": "Algorithms and methods for processing of speech. Feature extraction, human speech production and perception, pattern recognition for acoustic and language modeling as applied to automatic speech and speaker recognition.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CS 696",
+    "title": "Selected Topics in Computer Science",
+    "units": 3,
+    "department": "CS",
+    "description": "Intensive study in specific areas of computer science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 759",
+    "title": "Advanced Computer Vision",
+    "units": 3,
+    "department": "CS",
+    "description": "Advanced Computer Vision explores cutting-edge research in vision and robotics, emphasizing deep learning, multimodal AI, and hands-on projects. Students gain theoretical and practical skills to develop, evaluate, and propose novel solutions for real-world visual artificial intelligence systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 790",
+    "title": "Practicum in Teaching of Computer Science",
+    "units": 1,
+    "department": "CS",
+    "description": "Supervision in teaching computer science. Lecture writing, style of lecture presentation and alternatives, test and syllabus construction, and grading system. Not applicable to an advanced degree. Required for first semester GTA\u2019s.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 792",
+    "title": "Curricular Practical Training",
+    "units": 1,
+    "department": "CS",
+    "description": "Supervised work experience.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "CS",
+    "description": "Research in computer science.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CS",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "CS",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "CS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "CS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

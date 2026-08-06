@@ -1,0 +1,707 @@
+[
+  {
+    "course_code": "LATAM 101",
+    "title": "Introduction to Latin American Studies",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Introduction to Latin American cultures and peoples from an interdisciplinary perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 110",
+    "title": "Elementary Mixtec I",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Mixtec language and culture. Pronunciation, oral practice, reading, and listening comprehension and essentials of grammar in a communicative context and through task-based activities. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 111",
+    "title": "Elementary Mixtec II",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Mixtec. Native speakers of Mixtec or Zapotec will not receive credit for taking lower division courses in Mixtec or Zapotec except with advance approval from Latin American Studies.",
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 110",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 120",
+    "title": "Elementary Zapotec I",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Zapotec language and culture. Pronunciation, oral practice, reading, listening comprehension, and essentials of grammar. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Zapotec. Native speakers of Mixtec or Zapotec will not receive credit for taking lower division courses in Mixtec or Zapotec except with advance approval from Latin American Studies.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 130",
+    "title": "Elementary Nahuatl I",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Nahuatl language and Nahua culture and history. Grammar essentials, listening comprehension, oral practice, pronunciation, and reading.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 131",
+    "title": "Elementary Nahuatl II",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Nahuatl culture and language. Continued development of comprehension, cultural reflection, grammar, listening, oral practice, pronunciation, reading, and writing in a communicative context and through task-based activities. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 210",
+    "title": "Intermediate Mixtec I",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Further development of speaking and writing skills, both extended to discourse level and with emphasis on language of everyday life. Integrated approach to learning Mixtec to include awareness and appreciation of the Mixtec culture. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Mixtec. Native speakers of Mixtec or Zapotec will not receive credit for taking lower division courses in Mixtec or Zapotec except with advance approval from Latin American Studies.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 230",
+    "title": "Intermediate Nahuatl I",
+    "units": 4,
+    "department": "LATAM",
+    "description": "Further development of speaking and writing skills, extended to discourse level with emphasis on the language of everyday life. Integrated approach to learning Nahuatl to include awareness of Nahua cultures. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LATAM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 306",
+    "title": "Portuguese and Brazilian Cinema and Culture",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Main movements and productions of Portuguese and Brazilian cinema. Social factors and representations of national identities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 307",
+    "title": "Brazilian Music and Culture",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Brazilian music and culture with emphasis on religious and cultural practices of candomble, capoeira, carnival, and notions of race and class in contemporary Brazilian funk and hip-hop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 310",
+    "title": "Mexican and Chicano Music",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Music of Mexico and the Southwest including folk dances appropriate for children and adults. Emphasis on the corrido, its history and development in Mexico and the US.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Course will be taught bilingually.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 320",
+    "title": "Culture and Society of Tijuana",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Mexican dance, art, music, cuisine, politics, tourism industry, education, and other facets of daily life through visits to selected venues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students enrolled in or with prior credit in LATAM 550.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 325",
+    "title": "Political Economy of Brazil",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Effects of development policies, global interactions, and neoliberal economic strategies on the cultures and people of Brazil.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 333",
+    "title": "Race, Ethnicity, and Identity in the Americas",
+    "units": 3,
+    "department": "LATAM",
+    "description": "History and contemporary forms of identity to include ethnicity, gender, nationality, race, and sexuality in Canada, Latin America, and United States",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 350",
+    "title": "Globalization and the Americas",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Causes and consequences of international integration in western hemisphere, including United States and Canada. Emphasis on Latin America. Multiple dimensions of integration examined from variety of disciplinary perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 355",
+    "title": "The United States-Mexico International Border",
+    "units": 3,
+    "department": "LATAM",
+    "description": "History, culture, economics, and politics of US/Mexico border region. Theories and policy issues surrounding development of region; local regional problems and major agencies, institutions, organizations addressing these problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 366",
+    "title": "Latin American Politics",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Introduction to Latin American politics. Knowledge of political change and political systems in Latin America, viewed historically and comparatively, using concepts and theories applicable to more general political analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 370",
+    "title": "History of Mexico: From Independence to Early Twentieth Century",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Cultural history of Mexico from Mexico’s independence from Spain in early nineteenth century to presidency of Lazaro Cardenas. History of legacy of Caudillos, evolution of PRI, and US/Mexico relations from a Mexican perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 380",
+    "title": "US/Mexico Borderlands Folklore",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Border folklore, its complexities and dynamics via myths, rituals, legends, sayings, corridos (ballads), and literature of Chicanos and Mexicanos in the US-Mexican border region.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 400",
+    "title": "Mexican Images in Film",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Comparative study of images presented by Hollywood, Mexican, and Chicano cinemas. Critical analysis and discussion of projected values. Comparison of themes in film and text.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 415",
+    "title": "Pre-Contact and Colonial Latin America",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Indigenous and colonial history of Latin America, pre-contact through early national period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 420",
+    "title": "Latin America through Film",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Exploration of diverse cultures and history of Latin America through feature film by Latin American cinematographers. Political, social, and historic phenomena.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 425",
+    "title": "Illness, Health, and Healing in Latin America",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Cultural, economic, political, and social aspects of healing, health, and illness in Latin America.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 430",
+    "title": "Immigration and Border Politics",
+    "units": 3,
+    "department": "LATAM",
+    "description": "U.S. immigration and border politics within a global and historical perspective. Transformations of sovereignty, communities, identity, and rights within an area of mass migration and economic interdependence. Policy and popular debates about admission, border control, and incorporation of migrants.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 450",
+    "title": "Study Abroad in Latin American Studies",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Selected topics in Latin American studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Courses taught abroad through a program approved by the Center for Latin American Studies. See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 495",
+    "title": "Latin American Studies Internship",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Opportunity for Latin American studies undergraduates to implement area specialist skills. Placement with a local organization with legal, commercial, or social service functions whose activities are primarily Latin American related.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LATAM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 498",
+    "title": "Seminar on Latin America",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Exploration of the interdisciplinary approach to Latin America including evaluation of relevant resources and methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught by a team of instructors representing two or more disciplines.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LATAM",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 545",
+    "title": "The Latin American City",
+    "units": 3,
+    "department": "LATAM",
+    "description": "History and theory of urbanization in Latin America to include urban landscapes, rural to urban migrations, re-creation of community within urban centers, modified identities, globalized labor, segregation, and community borders.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 550",
+    "title": "Mexican-US Border from a Latin American Perspective",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Multidisciplinary analysis of Mexican-US border region.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students enrolled in or with prior credit in LATAM 320.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 553",
+    "title": "History of Slavery in the Americas",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Trans-Atlantic slavery from the fifteenth to nineteenth centuries. Liberation movements, nation-states, revolution, slavery, and capitalism. Agency of enslaved people, agricultural and environmental transformations, legacies of trans-Atlantic slavery and contemporary enslavement, new communities and diversities, race and racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 556",
+    "title": "History of Brazil",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Economic, political, and social history of Brazil from precolonial era to present. Democratic and dictatorial rule, industrialization, populism, race and racism, and slavery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 600",
+    "title": "Seminar in Latin American Studies",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Core seminar in Latin American studies. Historical, conceptual, and methodological survey of Latin American studies from first European conquests in western hemisphere to end of twentieth century.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 601",
+    "title": "Seminar on Methodology of Latin American Studies",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Theories and methodologies of Latin American Studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 620",
+    "title": "Visualizing Latin America through Film",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Ethnographies and award-winning films made by Latin American filmmakers reflect contemporary issues and the unique histories of the region. Most films are in Spanish, Portuguese or an Indigenous language with English subtitles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 625",
+    "title": "Politics of Food in Latin America",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Exploration of the production, preparation, distribution, and consumption of food in Latin America; impact of shifts in the environment, public policy, and economics on food in/security; and the impact that migration/displacement has on food, nutrition, and consumption.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 664",
+    "title": "Health, Society and Human Behavior",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Historical and contemporary examination of health problems of individuals and communities. Health needs, resources; impact of society on health and health on society.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 696",
+    "title": "Experimental Topics",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Intensive study in specific areas of Latin American studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 750",
+    "title": "Seminar: Study in Latin America",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Selected topics seminar in Latin American studies. Students will be required to attend classes at a partner university in Latin America.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 795",
+    "title": "Latin American Studies Internship",
+    "units": 3,
+    "department": "LATAM",
+    "description": "A 160-hour internship approved by instructor in public and private agency.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LATAM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LATAM 797",
+    "title": "Research",
+    "units": 1,
+    "department": "LATAM",
+    "description": "Research in one of the fields of Latin American studies.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LATAM",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "LATAM",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LATAM 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "LATAM",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

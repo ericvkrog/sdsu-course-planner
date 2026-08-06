@@ -1,0 +1,60 @@
+{
+  "code": "ASTRONOMY_B_S",
+  "name": "Astronomy, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11916",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11916",
+  "poid": "11916",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ASTR 101",
+    "ASTR 201",
+    "CS 200",
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 197",
+    "PHYS 196L",
+    "PHYS 197L"
+  ],
+  "upper_required": [
+    "ASTR 350",
+    "ASTR 440",
+    "ASTR 450",
+    "ASTR 498A",
+    "ASTR 498B",
+    "MATH 342A",
+    "MATH 342B",
+    "PHYS 350",
+    "PHYS 354",
+    "PHYS 360",
+    "PHYS 400A"
+  ],
+  "elective_areas": {
+    "Graduation Writing Assessment Requirement": [
+      "RWS 508W"
+    ],
+    "Major Electives": [
+      "ASTR 320",
+      "PHYS 311",
+      "PHYS 317",
+      "PHYS 400B",
+      "PHYS 406",
+      "PHYS 410"
+    ]
+  },
+  "default_electives": [
+    "RWS 508W",
+    "PHYS 311",
+    "PHYS 317",
+    "ASTR 320",
+    "PHYS 400B"
+  ],
+  "unresolved_codes": []
+}

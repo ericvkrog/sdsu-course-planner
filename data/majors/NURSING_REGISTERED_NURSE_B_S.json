@@ -1,0 +1,29 @@
+{
+  "code": "NURSING_REGISTERED_NURSE_B_S",
+  "name": "Nursing, Registered Nurse, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12494",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12494",
+  "poid": "12494",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [],
+  "elective_areas": {
+    "Program": [
+      "NURS 307W",
+      "NURS 312",
+      "NURS 320",
+      "NURS 416",
+      "NURS 444",
+      "NURS 437",
+      "NURS 459"
+    ]
+  },
+  "default_electives": [
+    "NURS 307W"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,831 @@
+[
+  {
+    "course_code": "CCS 100",
+    "title": "Chicana and Chicano Heritage",
+    "units": 3,
+    "department": "CCS",
+    "description": "Cultural achievements and thought of Spanish-speaking peoples of North America; development of aesthetic and ethical values. North American intellectual history and influence of philosophical orientations of native and Mestizo peoples. Implications for social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 110",
+    "title": "Introduction to Chicana and Chicano Studies",
+    "units": 3,
+    "department": "CCS",
+    "description": "Origins, evolution, and current status of Chicana and Chicano studies. Research, theories, methods, and debates in and impact of the field. Current intellectual trends, scholar activism, and societal developments with implications for the field. Career pathway possibilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 111A",
+    "title": "Oral Communication",
+    "units": 3,
+    "department": "CCS",
+    "description": "Training in oral expression.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Chicana and Chicano Studies 111A is equivalent to",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 111B",
+    "title": "Written Communication",
+    "units": 3,
+    "department": "CCS",
+    "description": "Training in written expression. English grammar and composition; the essay, the term paper.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 120A",
+    "title": "Chicana/os and American Government and Politics",
+    "units": 3,
+    "department": "CCS",
+    "description": "From a Chicano/a perspective, an exploration of American political institutions and government operating under the U.S. Constitution in historical and contemporary contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "CCS 120A and CCS 120B is a year-long course sequence that satisfies the graduation requirement in American Institutions. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 120B",
+    "title": "Chicana/os and California Government and Politics",
+    "units": 3,
+    "department": "CCS",
+    "description": "From a Chicano/a perspective, an exploration of U.S. history and California state and local government political institutions with an emphasis on contemporary issues/topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "CCS 120A and CCS 120B is a year-long course sequence that satisfies the graduation requirement in American Institutions. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 141A",
+    "title": "U.S. History from a Chicana/o Perspective to 1865",
+    "units": 3,
+    "department": "CCS",
+    "description": "From a Chicano/a/x perspective, a selected exploration of the U.S. Constitution and indigenous, Spanish, Mexican, and Chicano/a/x influences on U.S. history.  Comparative development of the U.S. and Mexico to 1865.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "CCS 141A and CCS 141B is a year-long course sequence that satisfies the graduation requirement in American Institutions. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 141B",
+    "title": "U.S. History from a Chicana/o Perspective 1865-present",
+    "units": 3,
+    "department": "CCS",
+    "description": "From a Chicano/a perspective, an exploration of Indigenous, Mexican, and Chicano/a influences on California government and U.S. history.   Comparative development of the U.S. and Mexico from 1865.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "CCS 141A and CCS 141B is a year-long course sequence that satisfies the graduation requirement in American Institutions. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 141C",
+    "title": "History of U.S. Interventions in Central America, 1821-present",
+    "units": 3,
+    "department": "CCS",
+    "description": "History of U.S. interventions (military, economic, political, medical, and cultural) and role of U.S. in Central America (primarily Nicaragua, Guatemala, El Salvador, and Honduras) from 1800s-present; Central American migration to U.S..",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 150",
+    "title": "Critical Issues in Chicana Studies",
+    "units": 3,
+    "department": "CCS",
+    "description": "Critical themes in Chicana feminist scholarship: power and resistance; work, family, and culture; cultural representations and presentations; social and biological reproduction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 200",
+    "title": "Intermediate Expository Research and Writing",
+    "units": 3,
+    "department": "CCS",
+    "description": "Intermediate composition. Practice in reading, writing, and critical thinking using interdisciplinary sources. Research skills using primary and secondary sources. Argumentative writing skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Especially designed for bilingual/bicultural students. Not open to students with credit in AFRAS 200, AMIND 225, LING 200, or RWS 200 [or ECL 200].",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 220",
+    "title": "Language in the Borderlands",
+    "units": 3,
+    "department": "CCS",
+    "description": "Chicana/o/x linguistic experience and cultural language-use. Cultural context, historical trends, Chicana/o/x English, Chicana/o/x Spanish, Indigenous languages, language contact, variation, racialization of language, issues of identity, linguistic resilience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 235",
+    "title": "Comics and Race",
+    "units": 3,
+    "department": "CCS",
+    "description": "Examination of representations of race, ethnicity, culture, and racialization in comics and comic media. Literary analysis of comics as racial narratives intersecting with historical and contemporary sociopolitical tensions around race and identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 275",
+    "title": "Sports and Race",
+    "units": 3,
+    "department": "CCS",
+    "description": "Intersection of sports and race as it impacts cultural, personal, and social development. Historical and contemporary controversies. Personal cultural experiences with sport as a racialized cultural institution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CCS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 300W",
+    "title": "Theories and Concepts in Chicana and Chicano Studies",
+    "units": 3,
+    "department": "CCS",
+    "description": "Survey of different theoretical approaches and concepts in field of Chicana and Chicano Studies. Advanced introduction to structures of knowledge (history and challenges); the ‘two-cultures’ debates (sciences v. humanities: quantitative v. qualitative methodologies); and mechanisms of position paper writing.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 301",
+    "title": "Political Economy of the Chicano People",
+    "units": 3,
+    "department": "CCS",
+    "description": "Political and economic roots of the oppression and exploitation of the Chicano from historical, institutional, and theoretical points of view. Parallels between the experience of the Chicano and other Hispanic groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 303",
+    "title": "Chicana and Chicano Community Studies",
+    "units": 3,
+    "department": "CCS",
+    "description": "Chicana and Chicano communities from a comparative perspective. Systematic inquiry into methods and issues in community studies. Contemporary social, institutional, and political affairs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 306",
+    "title": "Mexican Immigration",
+    "units": 3,
+    "department": "CCS",
+    "description": "Immigration from Mexico in the context of US immigration history and policies. Comparative study of political, economic, and cultural factors. Undocumented immigration and current US law.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 310",
+    "title": "Mexican and Chicano Music",
+    "units": 3,
+    "department": "CCS",
+    "description": "Music of Mexico and the Southwest including folk dances appropriate for children and adults. Emphasis on the corrido, its history and development in Mexico and the United States.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Course will be taught bilingually.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 320",
+    "title": "Chicana and Chicano Lifestyles",
+    "units": 3,
+    "department": "CCS",
+    "description": "Social relations and cultural evolution in Chicana and Chicano communities, female-male relationships, and family. Influence of Spanish-Mexican cultural heritage and US industrial-capitalist society. Comparative cross-cultural social science methodology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 325",
+    "title": "Latinx Foodways",
+    "units": 3,
+    "department": "CCS",
+    "description": "Focuses on the production, consumption, and distribution of food related to culture, Latina/o/x labor, food policy across borders, and foodways movements. Topics include introduction to food theory, racialized labor and nation, cultural production, identity formation, and transnational borders and economy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 335",
+    "title": "Chicana and Chicano Literature",
+    "units": 3,
+    "department": "CCS",
+    "description": "Ideas, forms, history of significant Chicana and Chicano prose, poetry, and other literary genres.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 340A",
+    "title": "Gender, Sex, and Politics in Colonial Mexico",
+    "units": 3,
+    "department": "CCS",
+    "description": "History of Mexican women under Spanish colonial rule. Women’s agency and diversity of experiences, as they relate to class, race, religion, and sexuality. Nonheteronormative (LGBTQ) sexualities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 141A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 350A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 340B",
+    "title": "Chicana Women’s History: 1848-Present",
+    "units": 3,
+    "department": "CCS",
+    "description": "History of Chicanas in the United States from 1848 to present, focusing on impact of Mexican American War, important female historical figures, and issues related to race, class, religion, and sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 345",
+    "title": "Postcolonial Masculinities",
+    "units": 3,
+    "department": "CCS",
+    "description": "Masculinity in post-colonial contexts, particularly Chicanx/Latinx and BIPOC communities. Intersections of masculinity and race, ethnicity, and culture, to include cultural and historical trends, social and institutional politics and practices, issues of self-identity, media narratives, sexuality, and social and interpersonal relationships.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 350A",
+    "title": "Chicana and Chicano History",
+    "units": 3,
+    "department": "CCS",
+    "description": "Review of indigenous origins; Hispanic institutions and northward expansion; the Mexican Republic; attention to women’s socioeconomic status and significance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 350B",
+    "title": "Chicana and Chicano History",
+    "units": 3,
+    "department": "CCS",
+    "description": "US encroachment and the US-Mexican War; Chicana and Chicano contributions; the multilingual and multicultural Southwest.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 355",
+    "title": "The United States-Mexico International Border",
+    "units": 3,
+    "department": "CCS",
+    "description": "History, culture, economics, and politics of US/Mexico border region. Theories and policy issues surrounding development of region; local regional problems and major agencies, institutions, organizations addressing these problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 360",
+    "title": "Football and Fútbol: Indigenous and Chicanx Engagement in Sport",
+    "units": 3,
+    "department": "CCS",
+    "description": "Comparative cultural analysis of fútbol (soccer) and American football in the U.S. from the perspective of how both sports reflect and shape class, ethnicity, gender, nationality, politics, indigeneity and race, across the spectrum of youth/recreational to professional participation and fandom.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 375",
+    "title": "US/Mexico Border History",
+    "units": 3,
+    "department": "CCS",
+    "description": "Historical problems and movements in the US-Mexican border region, in particular those impacting Spanish-speaking populations on both sides of the border. Contemporary border issues from a historical perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 376",
+    "title": "Chicana and Chicano Culture and Thought",
+    "units": 3,
+    "department": "CCS",
+    "description": "Intellectual history of Chicanas and Chicanos as a synthesis of different cultural traditions and perspectives. Philosophical concepts from pre-Cortesian times to the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 380",
+    "title": "US/Mexico Borderlands Folklore",
+    "units": 3,
+    "department": "CCS",
+    "description": "Border folklore, its complexities and dynamics via myths, rituals, legends, sayings, corridos (ballads), and literature of Chicanos and Mexicanos in the US-Mexican border region.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 396W",
+    "title": "Chicana and Chicano Prose",
+    "units": 3,
+    "department": "CCS",
+    "description": "A writing workshop. Mutual criticism. Exploration of new form and content in Mexican American prose.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 400",
+    "title": "Mexican Images in Film",
+    "units": 3,
+    "department": "CCS",
+    "description": "Comparative study of images presented by Hollywood, Mexican, and Chicano cinemas. Critical analysis and discussion of projected values. Comparison of themes in film and text.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 402",
+    "title": "Humanizing and Decolonizing Approaches to Theory and Research Methods",
+    "units": 3,
+    "department": "CCS",
+    "description": "Interdisciplinary qualitative and quantitative research methods and theoretical frameworks through a decolonial lens. New innovations in applied humanities research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 450",
+    "title": "Chicano and Latino Theatre",
+    "units": 3,
+    "department": "CCS",
+    "description": "Contemporary Chicano theatre including works by people of Puerto Rican, Cuban American, and other Latin American origins in the United States.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 496",
+    "title": "Selected Topics in Chicana and Chicano Studies",
+    "units": 1,
+    "department": "CCS",
+    "description": "May be repeated with new content.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 497",
+    "title": "Senior Thesis",
+    "units": 3,
+    "department": "CCS",
+    "description": "Faculty-supervised independent study culminating in a research paper or project on history, ethos, and social perspectives of Chicana and Chicano studies and indicative of scholarly interest in continued learning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 498",
+    "title": "Internship in US-Mexico Border",
+    "units": 3,
+    "department": "CCS",
+    "description": "Internship in public or private sector institution, agency, or organization engaged in US-Mexican binational relations or border-related issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 355",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LATAM 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CCS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 580",
+    "title": "Chicanas and Chicanos and the Schools",
+    "units": 3,
+    "department": "CCS",
+    "description": "Experiences of Chicana and Chicano youth in the school system from preschool through high school. Historical and sociopolitical context of educational opportunities for Chicana and Chicano youth to include cultural, emotional, social growth and development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 110",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 585",
+    "title": "Methods in Ethnic Studies Teaching: Decolonial Pedagogies in      K-12 Schools",
+    "units": 3,
+    "department": "CCS",
+    "description": "Approaches, methods, and theories of instruction and assessment to include decolonial, humanizing, and liberatory pedagogies. Development of ethnic studies curricula. Ethnicity, race, and racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 580",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AFRAS 421",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 480",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CCS 596",
+    "title": "Topics in Chicana and Chicano Studies",
+    "units": 1,
+    "department": "CCS",
+    "description": "Advanced topics in Chicana and Chicano studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 696",
+    "title": "Topics in Chicana and Chicano Studies",
+    "units": 3,
+    "department": "CCS",
+    "description": "Key issues in Chicana and Chicano studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CCS",
+    "description": "Independent study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "CCS",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CCS 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "CCS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

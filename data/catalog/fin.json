@@ -1,0 +1,733 @@
+[
+  {
+    "course_code": "FIN 240",
+    "title": "Legal Environment of Business",
+    "units": 3,
+    "department": "FIN",
+    "description": "Business legal environment system, sources of law, procedures and ethics associated with implementation of law. Law of torts and intellectual property; contracts and sales; agency and employment; negotiable instruments and banking; business organizations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 250",
+    "title": "Financial Literacy",
+    "units": 3,
+    "department": "FIN",
+    "description": "Financial health, investments, life, property and liability insurance, residence and auto purchases, retirement and estate planning, tax planning, time value of money, and use of credit.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "FIN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 321",
+    "title": "Managerial Economics",
+    "units": 3,
+    "department": "FIN",
+    "description": "Role of economic analysis in management decisions. Study of demand, cost, supply theories from a business viewpoint. Emphasis on managerial decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 325",
+    "title": "Intermediate Finance",
+    "units": 4,
+    "department": "FIN",
+    "description": "Capital expenditure decision process. Measuring and evaluating benefits and costs. Cost of capital and the evaluation process. Capital rationing problems. Risk and uncertainty in decision process. Agency theory, option pricing, and arbitrage pricing in decision process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 326",
+    "title": "Financial Institutions Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Financial theory and risk management techniques related to the management of financial institutions. Impact of the economic, regulatory, and technological environments on management of financial institutions. Interaction of institutions within the financial services sector.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 327",
+    "title": "Investments",
+    "units": 3,
+    "department": "FIN",
+    "description": "Measures of risk and return. Methods of security analysis, valuation, and capital asset pricing model. Portfolio theory and management; stocks, bonds, options, and futures; hedging; mutual funds and partnerships; and investment taxation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 328",
+    "title": "Entrepreneurial Finance",
+    "units": 3,
+    "department": "FIN",
+    "description": "Financial management tools and techniques over the stages of life cycle of a venture: development, start up, rapid growth and maturity. Linkages between market opportunity, competitive position, composition, and sources of financing of the ventures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 329",
+    "title": "International Business Finance",
+    "units": 3,
+    "department": "FIN",
+    "description": "Foreign exchange markets and instruments; international financial institutions; trade and balance of payments; exchange rate behavior and currency-risk hedging: cross-border investment; applications to management of international business.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 331",
+    "title": "Real Estate Principles",
+    "units": 3,
+    "department": "FIN",
+    "description": "Fundamental operations of the real estate market; principles of real property valuation, financing, law, investment, brokerage, management, and development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 333",
+    "title": "Law of Real Property",
+    "units": 3,
+    "department": "FIN",
+    "description": "Legal theory and practice of estates in land; landlord and tenant relationships; land transactions; mortgages and trust deeds; easements; land use; ownership rights in land; environmental law.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 334",
+    "title": "Principles of Risk Management and Insurance",
+    "units": 3,
+    "department": "FIN",
+    "description": "Fundamental risk management and insurance principles. Insurance company legal principles, loss prevention, operations, risk identification and analysis, safety.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 335",
+    "title": "Financial Modeling",
+    "units": 3,
+    "department": "FIN",
+    "description": "Current practices to perform effective financial analysis and decision making. Application of concepts, financial models, and spreadsheet tools to solve a variety of finance problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 336",
+    "title": "Principles of Residential Property Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Roles and responsibilities of the residential property manager to include maintaining property, positioning properties to maximize investment return, and optimizing tenant relations and retention.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 421",
+    "title": "Portfolio Management and Security Analysis",
+    "units": 3,
+    "department": "FIN",
+    "description": "Market efficiency. Risk and utility analysis. Portfolio theory. Security analysis under modern investment theory. Advanced debt management and options techniques. Financial options and futures. Asset allocation and performance evaluation. Limited partnership investment analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 327",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 422",
+    "title": "Property-Liability Insurance",
+    "units": 3,
+    "department": "FIN",
+    "description": "Claims adjusting, marketing, operations, regulation, reinsurance, risk control, and underwriting. Common insurance policies to include commercial property and liability, homeowners, personal auto, and workers’ compensation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 334",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 423",
+    "title": "Financial Analysis and Management",
+    "units": 4,
+    "department": "FIN",
+    "description": "Integration of various aspects of finance, application of financial theory. Financial decision making in the firm. Case study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FIN 325",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 326",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 427",
+    "title": "Derivatives and Financial Risk Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Introduce derivative instruments such as futures, options and swaps, nature of their markets and pricing methods. Applications of those instruments for hedging risks in equities, commodities, and exchange rates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 431",
+    "title": "Real Estate Finance",
+    "units": 3,
+    "department": "FIN",
+    "description": "Methods of financing real estate; sources of funds; governmental financial agencies; feasibility analysis for various types of properties.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 433",
+    "title": "Theory of Real Property Value",
+    "units": 3,
+    "department": "FIN",
+    "description": "Introduction to theories of real property value. Techniques of value determination. Data analysis techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 435",
+    "title": "Real Estate Investment Analysis",
+    "units": 3,
+    "department": "FIN",
+    "description": "Theories and methods of investment analysis applied to real estate. Integration of various aspects of real estate from the investors perspective. Use of computer models for investment decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 436",
+    "title": "Residential Property Management Practices and Issues",
+    "units": 3,
+    "department": "FIN",
+    "description": "Multifamily real estate management. Property interactions, research, data collection, analysis of rental investment asset. Development of management plan for a multifamily rental investment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 336",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 437",
+    "title": "Real Estate Development",
+    "units": 3,
+    "department": "FIN",
+    "description": "Real estate development process. Fundamental real estate market behavior. Project level proforma and master schedule development. Project financing. Shifting priorities and perspectives in due diligence, entitlement, construction, closeout, leasing and occupancy phases. Case studies for multiple property types.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 496",
+    "title": "Selected Topics in Finance",
+    "units": 1,
+    "department": "FIN",
+    "description": "Selected areas of concern in finance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "FIN",
+    "description": "A comprehensive and original study of a problem connected with finance under the direction of one or more members of the finance staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FIN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 522",
+    "title": "Individual Insurance Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Economic, legal, social, and ethical considerations of individual, business and group insurance including life, health, property, and liability insurance. Risk exposure and policy analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 585",
+    "title": "Estate Planning Issues and Practice",
+    "units": 3,
+    "department": "FIN",
+    "description": "Tax and non-tax issues in establishment of a personal estate plan. Financial and non-financial goals and objectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Finance 445 or 705.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 589",
+    "title": "Personal Financial Planning",
+    "units": 3,
+    "department": "FIN",
+    "description": "Financial planning process including data gathering, cash flow and debt considerations. Retirement planning including social security. Education funding. Practice management considerations including establishment of ethical and legal client relationships.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 590",
+    "title": "Personal Financial Planning Practicum",
+    "units": 3,
+    "department": "FIN",
+    "description": "Preparation of family financial plans using comprehensive cases and/or real financial data. Financial planning software. Counseling and communication skills, behavioral finance, client psychology, practice standards, discipline and ethics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Students may register once at the undergraduate level and may repeat with new content at the graduate level.",
+    "prerequisites": [
+      {
+        "prereq_code": "FIN 589",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 596",
+    "title": "Contemporary Topics in Finance",
+    "units": 1,
+    "department": "FIN",
+    "description": "Contemporary topics in modern finance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 617",
+    "title": "Financial Management II",
+    "units": 3,
+    "department": "FIN",
+    "description": "Develops topics to include asset pricing, capital budgeting techniques, dividend policy and financing decisions, applications of options and futures, term structure of interest rates, regulation of financial markets, leasing decisions, corporate control.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 642",
+    "title": "Financial Risk Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Measurement and management of foreign exchange, interest rate, equity, and commodity risks. Risk assessment models, implementation strategies, risk management, and capital allocation. Using derivatives for risk management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 651",
+    "title": "Seminar in Investments",
+    "units": 3,
+    "department": "FIN",
+    "description": "Characteristics of financial markets and instruments. Contemporary as well as traditional approaches to problems of pricing individual securities; portfolio selection and analysis; techniques of analysis; measurement of risk; return, and investment values.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 652",
+    "title": "Seminar in Security Analysis and Portfolio Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Security valuation, alternative instruments, portfolio theory, active and passive management techniques, asset allocation, performance measurement, use of derivative instruments in portfolio management, debt portfolio management techniques, ethical standards.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 653",
+    "title": "Case Studies in Financial Management",
+    "units": 3,
+    "department": "FIN",
+    "description": "Applies theory of finance to practice of financial decision-making. Includes valuation, mergers, and restructurings. Integrates theory and managerial judgment in a decision-making context. Case study format.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 654",
+    "title": "Seminar in International Business Finance",
+    "units": 3,
+    "department": "FIN",
+    "description": "International financial instruments, markets, and institutions; international trade and capital flows; foreign exchange risks and their management; direct and portfolio investment; implications for conduct of global business.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 657",
+    "title": "Financial and Retirement Planning",
+    "units": 3,
+    "department": "FIN",
+    "description": "Decision-making process and theory of individual financial needs. Retirement planning including Social Security. Education planning. Financial strategies that aid in meeting family goals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 659",
+    "title": "Decision Making in the World Economy",
+    "units": 3,
+    "department": "FIN",
+    "description": "Application of macroeconomic theory to business decision making, study of economic environment and government macroeconomic policy from a business viewpoint.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "FIN",
+    "description": "Intensive study in specific areas of finance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 705",
+    "title": "Seminar in Estate Planning",
+    "units": 3,
+    "department": "FIN",
+    "description": "The scope and nature of estate planning. Identification and analysis of the environmental factors and those aspects of federal and state law affecting estate planning and taxation. Estate taxation and social policy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 674",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FIN 797",
+    "title": "Research",
+    "units": 3,
+    "department": "FIN",
+    "description": "Research in the area of finance.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FIN 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FIN",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

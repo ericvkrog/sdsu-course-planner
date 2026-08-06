@@ -1,0 +1,93 @@
+{
+  "code": "AFRICANA_STUDIES_B_A",
+  "name": "Africana Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11890",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11890",
+  "poid": "11890",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "AFRAS 101",
+    "AFRAS 170A"
+  ],
+  "upper_required": [
+    "AFRAS 327",
+    "AFRAS 490",
+    "AFRAS 500"
+  ],
+  "elective_areas": {
+    "Three Units Selected from": [
+      "AFRAS 170B",
+      "AFRAS 240",
+      "AFRAS 260"
+    ],
+    "African American Studies": [
+      "AFRAS 321",
+      "AFRAS 322",
+      "AFRAS 331",
+      "AFRAS 332",
+      "AFRAS 341",
+      "AFRAS 350",
+      "AFRAS 351",
+      "AFRAS 363",
+      "LING 363",
+      "AFRAS 365A",
+      "AFRAS 365B",
+      "AFRAS 380",
+      "AFRAS 385",
+      "AFRAS 421",
+      "AFRAS 422",
+      "AFRAS 423",
+      "AFRAS 455",
+      "AFRAS 466",
+      "AFRAS 470",
+      "AFRAS 471",
+      "AFRAS 472",
+      "AFRAS 476",
+      "AFRAS 485",
+      "AFRAS 510",
+      "AFRAS 518",
+      "AFRAS 542",
+      "AFRAS 571",
+      "THEA 571"
+    ],
+    "African Studies": [
+      "AFRAS 423",
+      "AFRAS 465",
+      "FRENC 465",
+      "AFRAS 466",
+      "AFRAS 470",
+      "AFRAS 472",
+      "AFRAS 473",
+      "AFRAS 485",
+      "AFRAS 520",
+      "AFRAS 521",
+      "POL S 364",
+      "AFRAS 542"
+    ],
+    "Diaspora Studies": [
+      "AFRAS 300",
+      "AFRAS 320",
+      "AFRAS 350",
+      "AFRAS 351",
+      "AFRAS 421",
+      "AFRAS 470",
+      "AFRAS 472",
+      "AFRAS 475",
+      "AFRAS 476",
+      "AFRAS 485",
+      "AFRAS 510",
+      "AFRAS 518"
+    ]
+  },
+  "default_electives": [
+    "AFRAS 170B",
+    "AFRAS 321",
+    "POL S 364",
+    "AFRAS 300"
+  ],
+  "unresolved_codes": []
+}

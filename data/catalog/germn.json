@@ -1,0 +1,368 @@
+[
+  {
+    "course_code": "GERMN 100A",
+    "title": "First Course in German",
+    "units": 5,
+    "department": "GERMN",
+    "description": "Pronunciation, oral practice, readings on German culture and civilization, minimum essentials of grammar. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in German. Native speakers of German will not receive credit for taking lower division courses in German except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German. No credit will be given for German 100A,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 100B",
+    "title": "Second Course in German",
+    "units": 5,
+    "department": "GERMN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in German. Native speakers of German will not receive credit for taking lower division courses in German except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 202",
+    "title": "Readings in German",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Reading comprehension through intermediate-level cultural materials.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "May be taken concurrently with",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 205A",
+    "title": "Third Course in German",
+    "units": 4,
+    "department": "GERMN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in German. Native speakers of German will not receive credit for taking lower division courses in German except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 205B",
+    "title": "Fourth Course in German",
+    "units": 4,
+    "department": "GERMN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in German. Native speakers of German will not receive credit for taking lower division courses in German except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 205A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GERMN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 300",
+    "title": "Zeitgeist and Popular Culture",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Development of advanced proficiency in reading comprehension and oral communication through use of cultural materials. Not open to students who hold a degree from a secondary or post-secondary school in which the primary language of instruction is German.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 202",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GERMN 205B",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 301",
+    "title": "Grammar and Composition",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Grammar and stylistics; intensive writing practice; reports based on outside reading. Not open to students who hold a degree from a secondary or post-secondary school in which the primary language of instruction is German.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 400",
+    "title": "German Studies Through the Media",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Society and institutions of German-speaking regions through spoken and written texts from the media. Emphasis on topics of importance for business, communications, and German area studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 410",
+    "title": "Stories and Histories Since the Middle Ages",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Historical milestones since the Middle Ages examined through various forms and genres of storytelling, while building advanced German language skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 411",
+    "title": "Innovation and Transformation in German Culture",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Transformations of German-speaking communities through major cultural, social, and technological innovations since the beginning of the twentieth century, while building advanced language skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 430",
+    "title": "Culture and Society",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Artistic, cultural, and intellectual innovations in German-speaking societies in Europe and around the world, while building advanced language skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 435",
+    "title": "German Politics",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Key institutions in the German political system. Contemporary debates on culture, economics, environmental policy, identity, migration, and the welfare state. Germany’s contributions to the European Union and the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 495",
+    "title": "German Internship",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Practical work experience in a field related to German studies. Work done under joint direction of activity sponsor and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Approved international internships may count towards international experience requirement for major. Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GERMN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GERMN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in German. No credit will be given for lower division courses taken after successfully completing any upper division German course taught in German.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 575",
+    "title": "Seminar in German Studies",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Directed research on topics in German studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 596",
+    "title": "Topics in German Studies",
+    "units": 3,
+    "department": "GERMN",
+    "description": "Topics in German language, literature, or linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "GERMN 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERMN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERMN 696",
+    "title": "Topics in German Studies",
+    "units": 1,
+    "department": "GERMN",
+    "description": "Intensive study in specific areas of German.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERMN 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GERMN",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

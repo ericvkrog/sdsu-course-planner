@@ -1,0 +1,386 @@
+[
+  {
+    "course_code": "R A 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "R",
+    "description": "An intensive study in specific areas of regulatory affairs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 602",
+    "title": "Introduction to FDA Regulated Industries and Laws",
+    "units": 3,
+    "department": "R",
+    "description": "General introduction and foundational knowledge of the pharmaceutical, biologic, medical device, dietary supplement, cosmetic, tobacco, veterinary product, and combination product industries and related US laws and regulations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 605",
+    "title": "Effective Regulatory Writing and Communication",
+    "units": 3,
+    "department": "R",
+    "description": "Written, oral, and interpersonal communication strategies essential for regulatory affairs professionals. Emphasis is placed on understanding the role of writing in regulatory affairs and building confidence in using writing as a key communication tool.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 696",
+    "title": "Advanced Topics in Regulatory Affairs",
+    "units": 1,
+    "department": "R",
+    "description": "Selected topics in regulatory affairs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 701",
+    "title": "Regulatory Intelligence/Regulatory Strategy",
+    "units": 2,
+    "department": "R",
+    "description": "Regulatory intelligence involves gathering, monitoring, analyzing, and communicating regulatory information. This intelligence shapes regulatory strategy for product development and submission routes; develop skills required of regulatory affairs professionals to prepare and use regulatory intelligence to develop regulatory strategy recommendations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 702",
+    "title": "Pre-Approval Inspections",
+    "units": 1,
+    "department": "R",
+    "description": "To include requirements for hosting successful US FDA Pre-Approval Inspections (PAI) for small and large molecules, effective interpretation and application of current Good Manufacturing Practices (cGMPs), and the differences between FDA and EU requirements for the manufacture and control of pharmaceuticals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 703",
+    "title": "Introduction to Electronic Submissions",
+    "units": 3,
+    "department": "R",
+    "description": "To include introduction to elements of electronic submissions for drugs, biologics, and devices to health authorities. Electronic Common Technical Document (eCTD) and eCopy covered. Software practicum to create content, assign content to XML backbone, hyperlink documents, and validate compliance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 705",
+    "title": "Project Planning for the Biomedical Industries",
+    "units": 3,
+    "department": "R",
+    "description": "Introduction to strategies for effective management, planning, and scheduling of regulatory affairs activities and related tasks associated with project development in biomedical industries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 720",
+    "title": "Emerging Issues and Topics in Regulatory Affairs",
+    "units": 1,
+    "department": "R",
+    "description": "Diverse topics in Regulatory Affairs, including compliance, policy development, and risk management, equipping students with advanced knowledge to navigate and influence regulatory landscapes in various FDA regulated industries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 750",
+    "title": "Leadership for Change and Continuous Improvement",
+    "units": 3,
+    "department": "R",
+    "description": "Control and facilitation of change at a variety of levels within the biotechnology industry. Strategic improvements to increase competitive advantages. Process improvement concepts and methods, quality and statistical tools, and their applications to leadership, manufacturing, and production challenges.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 761",
+    "title": "Drug/Device Product Development and Regulation in Europe and the US",
+    "units": 1,
+    "department": "R",
+    "description": "The basic concepts of drug/device development, and regulatory and quality requirements in Europe and the US, providing exposure to emerging professions in the life science industry and builds skills interacting with these professionals in international environments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 770",
+    "title": "Current Good Manufacturing Practices - General Concepts",
+    "units": 3,
+    "department": "R",
+    "description": "Interpretation and application of current Good Manufacturing Practices (GMPs) to drug substance and drug product manufacture. Differentiation between full and appropriate GMPs required for clinical supplies production and commercial manufacturing. Variances between FDA and European Union requirements for the control and manufacture of pharmaceuticals. Aseptic regulatory inspections processing and preparation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 772",
+    "title": "Post-Approval Activities",
+    "units": 3,
+    "department": "R",
+    "description": "FDA and FTC rules and regulations governing advertising, labeling, and promotion for biologics, generic, over-the-counter, and prescription drugs; and medical devices. Annual reporting requirements, changes to approved marketing applications, Good Manufacturing Practice inspections, post-marketing adverse reaction reporting, product recalls, and risk management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 773",
+    "title": "Medical Device Regulations",
+    "units": 3,
+    "department": "R",
+    "description": "Introduction to regulatory affairs requirements for the medical device industry through stages of product development. FDA medical device regulations, terminology, timelines, and actual steps followed by regulatory affairs professionals. Commercial, operational, and strategic aspects of the regulatory approval process for in vitro diagnostics (IVD) and medical devices. Marketing, regulatory intelligence, risk management, and strategic considerations",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 774",
+    "title": "Investigational and Marketing Applications for Drugs and Biologics",
+    "units": 3,
+    "department": "R",
+    "description": "Content, planning, requirements, and strategy for developing and preparing Food and Drug Administration regulatory submissions to include biologics license applications (BLA), device premarket applications (PMA), device premarket notifications (510[k]), investigational device exemptions (IDE), investigational new drug applications (IND), new drug applications (NDA). Combination product submissions, future submission trends, and risk management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 775",
+    "title": "Clinical Trials: Issues in Design, Conduct, and Evaluation",
+    "units": 3,
+    "department": "R",
+    "description": "Issues in conduct, design, and evaluation of clinical trials by biotechnology, medical device, and pharmaceutical companies for marketing approval of products being studied in human subjects. Macro view of clinical trials within corporate, legal, and regulatory environments. Key steps required to develop and execute a successful clinical development program.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 778",
+    "title": "Quality Control and Quality Assurance: Pharmaceuticals, Biologics, and Medical Devices",
+    "units": 3,
+    "department": "R",
+    "description": "Quality and compliance functions in biotechnology and pharmaceutical companies to include out-of-specification results, developing product specifications, and writing compliant process deviations. Good Laboratory Practices (GLPs). Graded approach for Active Pharmaceutical Ingredients (APIs) manufacturing. Biologics, drugs, and medical device regulations. Quality control (QC) role vs. quality assurance (QA) role. Current trends in industry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 779",
+    "title": "International Regulatory Affairs",
+    "units": 3,
+    "department": "R",
+    "description": "International regulations to include those in the European Union and other key areas of the world that pertain to the development and commercialization of biologics, medical devices, and pharmaceuticals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 781",
+    "title": "Ethics for Life Science Professionals",
+    "units": 3,
+    "department": "R",
+    "description": "Ethical issues confronting regulatory affairs professionals. Development of capacities to apply, generalize, and translate principles and ideas to modern biomedical practice. Responsible conduct surrounding clinical trials, human subjects, informed consent, institutional animal care and use, institutional review boards, trial design, and whistle blowing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 790",
+    "title": "Regulatory Affairs Practicum",
+    "units": 1,
+    "department": "R",
+    "description": "Gain hands-on regulatory affairs experience in the pharmaceutical, biologic, medical device, in vitro diagnostic device, or regulatory authority industries working under the guidance of a faculty mentor and a host organization supervisor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Credit for R A 790 is applicable to a master’s degree with approval of the graduate advisor.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 795",
+    "title": "Capstone Development I",
+    "units": 3,
+    "department": "R",
+    "description": "Emphasis on writing and refining a Capstone paper draft in preparation for mentorship with a Capstone Subject Matter Expert in R A 798.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "R A 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "R A 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "R A 797",
+    "title": "Research",
+    "units": 1,
+    "department": "R",
+    "description": "Research in the area of regulatory sciences.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "R",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "R",
+    "description": "Preparation of thesis or project for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "R A 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "R",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also students must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

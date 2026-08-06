@@ -1,0 +1,60 @@
+[
+  {
+    "course_code": "LIB S 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LIB",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LIB S 300",
+    "title": "Seminar on Classroom Experiences",
+    "units": 1,
+    "department": "LIB",
+    "description": "Weekly seminar discussions will connect theory to practice, support students’ early clinical placements, and prepare them for future coursework in teacher credential programs. Students will explore their professional identity, ethical judgment, and instructional confidence through structured peer exchange and feedback.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended concurrent enrollment in TE 303.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LIB S 498",
+    "title": "Assessment in Liberal Studies",
+    "units": 1,
+    "department": "LIB",
+    "description": "Senior assessment including reflections upon educational experiences in each subject area and role as future educator. Students will explore differences between subject areas and reflect upon learning and teaching.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "LIB S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LIB",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "code": "THEATRE_ARTS_EMPHASIS_IN_PERFORMANCE_B_A",
+  "name": "Theatre Arts, Emphasis in Performance, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12216",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12216",
+  "poid": "12216",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "PSFA 305W",
+    "RWS 305W",
+    "RWS 500W"
+  ],
+  "lower_division": [
+    "THEA 111",
+    "THEA 120",
+    "THEA 130",
+    "THEA 205",
+    "THEA 231",
+    "THEA 240",
+    "TFM 160"
+  ],
+  "upper_required": [
+    "PSFA 305W",
+    "RWS 305W",
+    "RWS 500W"
+  ],
+  "elective_areas": {
+    "Major": [
+      "THEA 325",
+      "THEA 332",
+      "THEA 355",
+      "THEA 446C",
+      "THEA 460A",
+      "THEA 460B"
+    ],
+    "Practicum in Performance": [
+      "THEA 446A",
+      "THEA 446B",
+      "THEA 446D"
+    ],
+    "Performance Electives": [
+      "THEA 320A",
+      "THEA 350",
+      "THEA 351",
+      "THEA 359",
+      "THEA 431",
+      "THEA 434",
+      "THEA 435",
+      "THEA 450",
+      "THEA 451",
+      "THEA 532",
+      "THEA 533"
+    ]
+  },
+  "default_electives": [
+    "THEA 325",
+    "THEA 332",
+    "THEA 355",
+    "THEA 446C",
+    "THEA 460A",
+    "THEA 460B",
+    "THEA 446A",
+    "THEA 446B",
+    "THEA 320A",
+    "THEA 350",
+    "THEA 351",
+    "THEA 359"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,53 @@
+{
+  "code": "JOURNALISM_EMPHASIS_IN_PUBLIC_RELATIONS_B_A",
+  "name": "Journalism, Emphasis in Public Relations, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12092",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12092",
+  "poid": "12092",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "JMS 310W"
+  ],
+  "lower_division": [
+    "JMS 200",
+    "JMS 210",
+    "JMS 220",
+    "JMS 250"
+  ],
+  "upper_required": [
+    "JMS 310W",
+    "JMS 315",
+    "JMS 480",
+    "JMS 481",
+    "JMS 494",
+    "JMS 581",
+    "JMS 585"
+  ],
+  "elective_areas": {
+    "Requirements": [
+      "JMS 312W",
+      "JMS 416",
+      "JMS 428",
+      "JMS 434",
+      "JMS 450",
+      "JMS 452",
+      "JMS 453",
+      "JMS 490",
+      "JMS 492",
+      "JMS 499",
+      "JMS 540",
+      "JMS 545",
+      "JMS 568",
+      "JMS 582",
+      "JMS 590",
+      "JMS 595"
+    ]
+  },
+  "default_electives": [
+    "JMS 312W"
+  ],
+  "unresolved_codes": []
+}

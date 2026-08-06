@@ -1,0 +1,183 @@
+[
+  {
+    "course_code": "PSFA 280",
+    "title": "Adaptation to U.S. Academic Culture",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Cross-cultural adaptation of international students to include interactions with American students and theories of intercultural communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSFA 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PSFA",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSFA 305W",
+    "title": "Writing for Careers in Professional Studies and Fine Arts",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Writing in genres needed for careers in public and government service, communication, fine and performing arts, and related fields.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSFA 320",
+    "title": "Creativity and Communication in the Arts",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Common elements shared by various artistic forms from an international perspective. Focus on creativity and communication as exemplified in subject, form, function, medium, organization, and style. Attendance at dance, drama, film, music, television, and visual art events required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSFA 350",
+    "title": "International Studies",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Awareness of international surroundings and creation of global citizens in PSFA disciplines. Concepts of culture and self-awareness, dimensions of culture, theoretical perspectives, behavioral patterns, and applications in PSFA disciplines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSFA 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PSFA",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSFA 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PSFA",
+    "description": "Individual directed study on topics within context of PSFA international studies minor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSFA 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSFA 501",
+    "title": "Study Abroad I",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Study and practical applications of PSFA-related intercultural issues in a selected international setting. Areas of study within PSFA disciplines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSFA 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSFA 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSFA 502",
+    "title": "Study Abroad II",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Study and practical applications of PSFA-related intercultural issues in a selected international setting. Areas of study within PSFA disciplines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSFA 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSFA 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSFA 550",
+    "title": "International Studies Capstone",
+    "units": 3,
+    "department": "PSFA",
+    "description": "Comparative exploration of the ways visited culture/society/nation addresses a problem or issue relative to approaches taken in US.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSFA 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSFA 502",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

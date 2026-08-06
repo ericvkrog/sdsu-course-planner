@@ -1,0 +1,30 @@
+{
+  "code": "THEATRE_ARTS_B_A",
+  "name": "Theatre Arts, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12212",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12212",
+  "poid": "12212",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "TFM 160"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Emphasis in Performance": [
+      "THEA 111",
+      "THEA 332"
+    ],
+    "Emphasis in Design and Technology and Emphasis in Design for Television and Film": [
+      "THEA 240"
+    ]
+  },
+  "default_electives": [
+    "THEA 111",
+    "THEA 240"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,44 @@
+{
+  "code": "ART_HISTORY_B_A",
+  "name": "Art History, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12795",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12795",
+  "poid": "12795",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "ART 391W"
+  ],
+  "lower_division": [
+    "ART 100",
+    "ART 101",
+    "ART 104",
+    "ART 258",
+    "ART 259",
+    "ART 263"
+  ],
+  "upper_required": [
+    "ART 391W",
+    "ART 371"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": [
+    "ART 557",
+    "ART 558",
+    "ART 559",
+    "ART 560A",
+    "ART 564",
+    "ART 565",
+    "ART 568",
+    "ART 571A",
+    "ART 571B",
+    "ART 573A",
+    "ART 573B",
+    "ART 575",
+    "ART 578",
+    "ART 593"
+  ]
+}

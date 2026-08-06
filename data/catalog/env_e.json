@@ -1,0 +1,461 @@
+[
+  {
+    "course_code": "ENV E 101",
+    "title": "Environmental Engineering Seminar",
+    "units": 3,
+    "department": "ENV",
+    "description": "Air and water pollution control, environmental justice, new technologies to protect the environment, remediation of contaminated sites and groundwater, solid waste treatment and disposal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 200",
+    "title": "Environmental Data Analysis and Applications",
+    "units": 3,
+    "department": "ENV",
+    "description": "Introduction to environmental data acquisition, analysis, and presentation. Techniques for finding, analyzing, and interpreting data. Apply skills to real-world air, water, and soil challenges. Emphasis on practical solutions and interdisciplinary approaches to environmental problem-solving.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ENV",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 320",
+    "title": "Designing Solutions for Environmental Problems",
+    "units": 3,
+    "department": "ENV",
+    "description": "Human interaction with the land, water and air environment; environmental pollution; role of engineering in solving environmental problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 355",
+    "title": "Environmental Engineering",
+    "units": 3,
+    "department": "ENV",
+    "description": "Causes and effects of environmental problems and engineering methods to control them.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 225",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 356",
+    "title": "Environmental Chemistry for Engineers",
+    "units": 3,
+    "department": "ENV",
+    "description": "Underlying principles of chemistry needed to solve environmental problems and covers the fundamentals of quantitative water and wastewater analysis, to include statistical analysis. Environmental applications in physical, equilibrium, organic, colloidal, and biochemistry concepts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 130",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 363",
+    "title": "Environmental Engineering Laboratory",
+    "units": 3,
+    "department": "ENV",
+    "description": "Analysis of natural waters and wastewaters. Sampling and analysis of hazardous environmental pollutants. Techniques to analyze solid waste.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 445",
+    "title": "Water and Wastewater Treatment Systems",
+    "units": 3,
+    "department": "ENV",
+    "description": "Water chemistry, water quality criteria and standards, water usage and distribution, wastewater collection. Biological, chemical, and physical processes to treat water and wastewater. Design of water and wastewater treatment unit processes. Water reuse.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ENV E 441 and ENV E 442.",
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 496",
+    "title": "Advanced Environmental Engineering Topics",
+    "units": 1,
+    "department": "ENV",
+    "description": "Modern developments in environmental engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENV",
+    "description": "Individual study in the area of environmental engineering.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 554",
+    "title": "Process Fundamentals of Environmental Systems",
+    "units": 3,
+    "department": "ENV",
+    "description": "Equilibrium and kinetics of chemical and biological reactions of environmental systems. Considerations of mass-transfer and fluid dynamics in water quality management and air pollution control.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 555",
+    "title": "Sustainable Water and Sanitation Systems",
+    "units": 3,
+    "department": "ENV",
+    "description": "Design and selection of technologies for water delivery, reuse, sanitation, and treatment in developed and developing communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 556",
+    "title": "Air Pollution Engineering",
+    "units": 3,
+    "department": "ENV",
+    "description": "Sources of air pollutants. Transportation, dispersion, and transformation of pollutants in the atmosphere. Measurement and control of air pollution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 558",
+    "title": "Solid and Hazardous Waste Engineering",
+    "units": 3,
+    "department": "ENV",
+    "description": "Municipal solid and hazardous solid wastes from an environmental engineering perspective, including waste minimization and recycling. Engineered volume reduction through composting, incineration, mechanical compaction, and other methods. Ultimate disposal, landfill design and legislative regulations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 560",
+    "title": "Assessment of Treatment System Performance and Monitoring Data",
+    "units": 3,
+    "department": "ENV",
+    "description": "Correlation and regression, data management, descriptive statistics, establishing and evaluating compliance, hypothesis testing, kinetics and hydraulics, monitoring program design, numerical methods, removal efficiencies recognizing symmetry and asymmetry in monitoring data, water and mass balances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 596",
+    "title": "Advanced Environmental Engineering Topics",
+    "units": 1,
+    "department": "ENV",
+    "description": "Modern developments in environmental engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 645",
+    "title": "Aquatic Chemistry for Environmental Engineers",
+    "units": 3,
+    "department": "ENV",
+    "description": "Chemistry of natural and polluted water. Process chemistry for water and wastewater treatment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 646",
+    "title": "Microbiological Principles of Environmental Engineering",
+    "units": 3,
+    "department": "ENV",
+    "description": "Relationships and significance of microorganisms to organic matter decomposition, mineral transformations, and environmental quality. Applied study in natural (water, sediments, wetlands) and disturbed ecosystems (landfills, contaminated sediments, and groundwater).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 647",
+    "title": "Physical and Chemical Processes of Water Pollution Control",
+    "units": 3,
+    "department": "ENV",
+    "description": "Engineering principles and design of physical and chemical processes used in water and wastewater treatment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 554",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV E 645",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV E 648",
+    "title": "Biological Processes and Bioremediation Engineering",
+    "units": 3,
+    "department": "ENV",
+    "description": "Engineering principles and design of biological processes used in wastewater and bioremediation treatment technologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 696",
+    "title": "Advanced Topics in Environmental Engineering",
+    "units": 2,
+    "department": "ENV",
+    "description": "Intensive study in specific areas of environmental engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 797",
+    "title": "Independent Research",
+    "units": 1,
+    "department": "ENV",
+    "description": "Independent research in civil and environmental engineering.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENV",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "ENV",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "ENV",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV E 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "ENV",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

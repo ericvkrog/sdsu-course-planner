@@ -1,0 +1,61 @@
+{
+  "code": "ASIAN_AMERICAN_STUDIES_B_A",
+  "name": "Asian American Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12645",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12645",
+  "poid": "12645",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "AAS 100"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Lower Division Major Electives": [
+      "AAS 101",
+      "AAS 103",
+      "AAS 122",
+      "AAS 150",
+      "AAS 152",
+      "AAS 208",
+      "AAS 261",
+      "AAS 263",
+      "AAS 268",
+      "AAS 270"
+    ],
+    "Major": [
+      "AAS 301",
+      "AAS 313",
+      "AAS 323",
+      "AAS 326",
+      "AAS 380",
+      "AAS 420",
+      "AAS 422",
+      "AAS 428",
+      "AAS 460",
+      "AAS 482",
+      "AAS 483",
+      "AAS 486",
+      "AAS 488",
+      "CAL 415",
+      "CAL 495"
+    ]
+  },
+  "default_electives": [
+    "AAS 101",
+    "AAS 103",
+    "AAS 301",
+    "AAS 313",
+    "AAS 323",
+    "AAS 326",
+    "AAS 380",
+    "CAL 415",
+    "AAS 420",
+    "AAS 422",
+    "AAS 428"
+  ],
+  "unresolved_codes": []
+}

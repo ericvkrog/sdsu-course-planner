@@ -1,0 +1,45 @@
+{
+  "code": "LINGUISTICS_B_A",
+  "name": "Linguistics, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12106",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12106",
+  "poid": "12106",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "LING 305W",
+    "RWS 305W",
+    "RWS 500W"
+  ],
+  "lower_division": [
+    "LING 101"
+  ],
+  "upper_required": [
+    "LING 305W",
+    "RWS 305W",
+    "RWS 500W",
+    "LING 420",
+    "LING 501",
+    "LING 521",
+    "LING 522",
+    "LING 525"
+  ],
+  "elective_areas": {
+    "Statistics and Logic": [
+      "LING 270",
+      "ECON 201",
+      "PHIL 120",
+      "POL S 201",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119",
+      "STAT 250"
+    ]
+  },
+  "default_electives": [
+    "STAT 119"
+  ],
+  "unresolved_codes": []
+}

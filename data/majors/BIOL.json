@@ -1,0 +1,68 @@
+{
+  "code": "BIOL",
+  "name": "Biology, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=11&poid=11830",
+  "verified": true,
+  "source": "hand-verified",
+  "covered_ge_areas": [
+    "2",
+    "5A",
+    "5B",
+    "5C"
+  ],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "BIOL 203",
+    "BIOL 203L",
+    "BIOL 204",
+    "BIOL 204L",
+    "BIOL 215",
+    "CHEM 200",
+    "CHEM 201",
+    "MATH 124",
+    "PHYS 180A",
+    "PHYS 182A",
+    "PHYS 180B",
+    "PHYS 182B"
+  ],
+  "upper_required": [
+    "CHEM 232",
+    "CHEM 232L",
+    "CHEM 365",
+    "BIOL 351",
+    "BIOL 352",
+    "BIOL 354",
+    "BIOL 366",
+    "BIOL 366L"
+  ],
+  "elective_areas": {
+    "Organismal Breadth (choose one)": [
+      "BIOL 350",
+      "BIOL 459",
+      "BIOL 462"
+    ],
+    "Upper-Division Lab Electives (~4u)": [
+      "BIOL 436",
+      "BIOL 464"
+    ],
+    "Upper-Division Major Electives (~11u)": [
+      "BIOL 459",
+      "BIOL 462",
+      "BIOL 480",
+      "BIOL 485",
+      "BIOL 509",
+      "BIOL 510",
+      "BIOL 512",
+      "BIOL 514"
+    ]
+  },
+  "default_electives": [
+    "BIOL 350",
+    "BIOL 459",
+    "BIOL 462",
+    "BIOL 480",
+    "BIOL 485"
+  ]
+}

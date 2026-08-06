@@ -1,0 +1,220 @@
+[
+  {
+    "course_code": "CHIN 100",
+    "title": "Elementary Conversational Chinese",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Introductory conversational course for students with little or no previous background in Chinese. Focuses on daily tasks that one may encounter when first going to a Chinese-speaking community. Develops elementary listening and speaking skills needed for accomplishing these tasks. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Chinese. Native speakers of Mandarin Chinese will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 101",
+    "title": "Elementary Chinese I",
+    "units": 5,
+    "department": "CHIN",
+    "description": "Rudiments of Mandarin pronunciation; listening, speaking, reading, and writing with emphasis on communicative ability; acquisition of the most useful phrases and vocabulary items, and over 300 characters; familiarity with basic sentence structures of Mandarin; information on Chinese culture. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "Taught in Chinese. Native speakers of Mandarin Chinese will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese. See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 102",
+    "title": "Elementary Chinese II",
+    "units": 5,
+    "department": "CHIN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CHIN 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 201",
+    "title": "Intermediate Chinese I",
+    "units": 5,
+    "department": "CHIN",
+    "description": "Development of facility to comprehend and produce spoken Chinese. Acquisition of advanced language structures and an additional 400 characters. Emphasis on connected discourse. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 202",
+    "title": "Intermediate Chinese II",
+    "units": 5,
+    "department": "CHIN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CHIN 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CHIN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 301",
+    "title": "Advanced Chinese I",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Greater facility in oral expression and writing for practical purposes; exposure to various styles of language; newspaper and media Chinese; elements of literary and classical language.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese. No credit will be given for Chinese 301 and",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 302",
+    "title": "Advanced Chinese II",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "CHIN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 353",
+    "title": "Language and Social Interaction in China",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Stereotypes and empirical findings of the relationship between language use and social behavior in China. Confucianism and Cultural Revolution; personal relationships and hierarchical structure; characteristics of Chinese language and interaction; politeness in everyday social encounters in China; cultural miscommunication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 431",
+    "title": "Advanced Conversational Chinese",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Conversation practice on practical, social, and cultural topics, with aid of spoken language materials such as plays and videotapes; learning conversational strategies and stylistic features.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHIN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 433",
+    "title": "News Media Chinese",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Understanding Chinese newspapers and other non-print media materials; special structural characteristics; differences between media types and between speech and writing; reading strategies using schemas and contextual inferences; importance of world knowledge and background information.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHIN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHIN 434",
+    "title": "Business Chinese",
+    "units": 3,
+    "department": "CHIN",
+    "description": "Developing ability to function in Chinese business environment; familiarity with business correspondence, telecommunication, advertising, business terminology and stylistic features, information on intercultural communication, social and cultural background.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 496",
+    "title": "Topics in Chinese Studies",
+    "units": 1,
+    "department": "CHIN",
+    "description": "Topics in Chinese language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHIN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CHIN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Chinese. No credit will be given for lower division courses taken after successfully completing any upper division Chinese course taken in Chinese.",
+    "prerequisites": []
+  }
+]

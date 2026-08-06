@@ -1,0 +1,74 @@
+{
+  "code": "CHICANA_AND_CHICANO_STUDIES_B_A",
+  "name": "Chicana and Chicano Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11943",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11943",
+  "poid": "11943",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "CCS 300W"
+  ],
+  "lower_division": [
+    "CCS 110",
+    "CCS 150"
+  ],
+  "upper_required": [
+    "CCS 300W"
+  ],
+  "elective_areas": {
+    "Upper Division Major Electives": [
+      "CCS 301",
+      "CCS 306",
+      "CCS 310",
+      "LATAM 310",
+      "CCS 320",
+      "CCS 325",
+      "CCS 335",
+      "ECL 335",
+      "CCS 340A",
+      "CCS 340B",
+      "CCS 345",
+      "CCS 350A",
+      "CCS 350B",
+      "CCS 355",
+      "LATAM 355",
+      "CCS 360",
+      "CCS 375",
+      "CCS 376",
+      "CCS 380",
+      "LATAM 380",
+      "CCS 396W",
+      "CCS 400",
+      "LATAM 400",
+      "CCS 450",
+      "CCS 496",
+      "CCS 497",
+      "CCS 498",
+      "CCS 499",
+      "CCS 580",
+      "CCS 585",
+      "AMIND 585",
+      "HIST 548"
+    ],
+    "Capstone/Community Cultural Praxis": [
+      "CCS 303",
+      "CCS 402",
+      "CCS 498",
+      "CCS 596"
+    ]
+  },
+  "default_electives": [
+    "CCS 301",
+    "CCS 306",
+    "CCS 310",
+    "LATAM 310",
+    "CCS 320",
+    "CCS 325",
+    "CCS 335",
+    "CCS 303"
+  ],
+  "unresolved_codes": []
+}

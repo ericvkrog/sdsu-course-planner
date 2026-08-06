@@ -1,0 +1,978 @@
+[
+  {
+    "course_code": "GEOL 100",
+    "title": "Planet Earth",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Earth\u2019s global systems. Plate tectonics, earthquakes, and volcanoes; evolution of our planet and life through geologic time; economic resources including fossil fuels and precious minerals; agents of erosion that shape the land.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 101",
+    "title": "Dynamics of the Earth Laboratory",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Hands-on experience with land forms, rocks, minerals, topographic maps, and aerial photographs. Includes demonstrations and field trips. Designed to accompany and augment",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 104",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 104",
+    "title": "Earth Science",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Earth\u2019s four principal reservoirs and their interconnectedness: solid earth, ocean, atmosphere, and biosphere. How humanity affects and is affected by these reservoirs. Most appropriate for liberal studies majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 205",
+    "title": "Earth System History",
+    "units": 4,
+    "department": "GEOL",
+    "description": "Evolutionary history of earth as traced through rock and fossil records. Stratigraphic and depositional concepts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 210",
+    "title": "GIS and Remote Sensing in the Earth and Environmental Sciences",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Applications of GIS and remote sensing technology. Includes data collection and sources, data storage and organization, data visualization and mapmaking, basic spatial analysis, and ethics and decision-making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 300",
+    "title": "Data Analysis in the Earth and Environmental Sciences I",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Theory and techniques of geological data analysis. Elementary programming to model statistical processes. Statistical inference, error propagation, plotting, and curve fitting using examples in the earth and environmental sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 301",
+    "title": "Geology of National Parks and Monuments",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Geology of a group of national parks and monuments, selected for their geological significance, scenic beauty, and visitor popularity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 100",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 302",
+    "title": "Data Analysis in the Earth and Environmental Sciences II",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Builds on GEOL 300 to quantify and explain real-world Earth system datasets. To include advanced data collection, cleaning, analysis, and interpretation. Provides practical experience with leading data analysis tools and software (i.e., Python).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 303",
+    "title": "Natural Disasters",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Geologic processes that have dramatically affected the human race: earthquakes, volcanoes, landslides, and floods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 100",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 305",
+    "title": "Water and the Environment",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Movement of fresh water on earth. Hydrologic cycling of water from precipitation, runoff, infiltration, stream and groundwater flow to the ocean. Problems caused by over-use of water resources, urbanization, and water pollution examined with case studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 100",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 310",
+    "title": "Geologic Inquiry and Problem Solving",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Guided inquiry field and laboratory approach to solution of geologic problems. Written reports and oral presentations. Required weekend field trips.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 315",
+    "title": "Geochemistry",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Fundamental principles of low- and high-temperature geochemistry. Origin of the elements; formation of the solar system; differentiation of the earth; weathering at the earth\u2019s surface; chemistry of natural waters. Laboratory methods applied to geological problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 323",
+    "title": "Mineralogy",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Practice in determination of common minerals; their geologic environment, utilization, and economic significance. Introduction to optical techniques in mineral identification.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 324",
+    "title": "Petrology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Composition, classification, occurrence, and origin of igneous, sedimentary, and metamorphic rocks. Identification of rocks in hand specimen; petrographic analysis of rocks in thin section; modeling and interpretation of petrologic data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 336",
+    "title": "Sedimentology and Lithostratigraphy",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Sedimentologic description and interpretation of the textures and structures of sediments and sedimentary rocks. Stratigraphic analysis of stratal succession, age relationships, and correlation on local and global scales.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 205",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 390",
+    "title": "Academic and Professional Development in the Earth and Environmental Sciences I",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Exploration and discussion on the nature of science, ethics, civics, artificial intelligence, and other topics. Reflection on and planning for academic and professional development as a scientist within the broader and increasingly complex world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Taken in fall of junior year",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 406",
+    "title": "Structural Geology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Integrates structural and introductory field geology. Principles, causes, and mechanisms of rock deformation combined with field study. Graphical, computer, and analytical techniques for working with folds and faults are applied in the field. Field observations are presented in geologic maps, cross sections, and reports.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 407",
+    "title": "Geophysics",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Principles and field studies of gravity, magnetic, and seismic techniques applied to structure, dynamics, and shallow environment of the earth. Computer-aided data reduction and interpretation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 412",
+    "title": "Processes and Inquiry in the Earth Sciences",
+    "units": 4,
+    "department": "GEOL",
+    "description": "Investigation of processes of inquiry and rational thinking skills characteristic of the earth sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 490",
+    "title": "Academic and Professional Development in the Earth and Environmental Sciences II",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Applications, activities, and reflections designed to promote academic and professional development in the earth and environmental sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Taken in fall of senior year",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 495",
+    "title": "Internship in Earth and Environmental Sciences",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Internship with approved private companies, nonprofit organizations, and government agencies. Deliverables co-developed among student, external supervisor, and instructor. Internship report and periodic conferences required. Three units required if being used to fulfill degree requirement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 496",
+    "title": "Selected Topics in Geology",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Selected topics in geology and related earth sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 498A",
+    "title": "Research Methods and Communication",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Development and testing of scientific hypotheses and their effective communication through oral, written, and visual modes. To be taken prior to registration in",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 498B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 498B",
+    "title": "Senior Thesis",
+    "units": 2,
+    "department": "GEOL",
+    "description": "Individual research project, written thesis, and oral presentation done under supervision of professor chosen by student.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Individual study in field, library, laboratory, or museum work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 502",
+    "title": "Advanced Field Topics",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Intensive field-based course focused on a specific disciplinary area of the geological sciences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "See Schedule of Classes for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 508",
+    "title": "Advanced Field Geology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Investigation of individually assigned areas, preparation of geologic maps, geologic sections, and gathering other types of data as appropriate. Students are responsible for cost of food and transportation. Students must safely perform fieldwork under varied\u00a0weather,\u00a0terrain, and time conditions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 514",
+    "title": "Process Geomorphology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Processes shaping and affecting the earth\u2019s surface, and application of resultant land forms in interpretation of geologic structure, stratigraphy, and neotectonics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 521",
+    "title": "Basin Analysis and Energy Resources",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Analysis of sedimentary basins\u00a0to determine paleogeography, formation, and subsidence over time using applied modelling and data analysis. Implications for hydrocarbon formation, carbon capture and sequestration, and brine extractions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 530",
+    "title": "Geochemistry",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Fundamental principles of low- and high-temperature geochemistry. Origin of the elements; formation of the solar system; differentiation of the earth; weathering at the earth\u2019s surface; chemistry of natural waters. Laboratory methods applied to geological problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 538",
+    "title": "Notable Historic Earthquakes",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Earthquake magnitude, fault source physics and rupture mechanisms, earthquake location and ground motion estimation, geotechnical aspects, earthquake triggering and geodesy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 550",
+    "title": "Engineering Geology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Relationships between geologic processes and works of humans. Topics include rock and soil mechanics, ground water flow, slope stability, seismicity, land subsidence, and evaluation of geologic materials with respect to dam sites, tunnel alignments, and building foundations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 551",
+    "title": "Hydrogeology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Theory of ground water flow. Exploration for and development of the ground water resource. Aquifer tests, water quality, and water resource management. Occurrence of water in alluvial, sedimentary, volcanic, plutonic, and metamorphic terrains.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 552",
+    "title": "Advanced Hydrogeology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Introduction to numerical modeling of subsurface flow and transport. Emphasizes finite difference methods, model conceptualization, calibration, and application using MODFLOW. Students develop skills to design, evaluate, and present groundwater models for research and professional hydrogeologic problems.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 560",
+    "title": "Earthquake Seismology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Theory of seismic wave excitation, propagation, and recording. Methods of seismogram interpretation and analysis. Applications to tectonics and earthquake hazard analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 580",
+    "title": "Seismic Interpretation and 3D Visualization",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Computer-based seismic interpretation, mapping, and modeling in both 2D and 3D. Overview of basic seismic processing. Emphasis on industrial applications, both petroleum and shallow geotechnical.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 587",
+    "title": "Volcanology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Magma and magma chamber properties. Eruptive mechanisms, volcano types, and a variety of volcanic phenomena associated with Hawaiian, Strombolian, Plinian, Vulcanian, and hydrovolcanic eruptions. Volcanic phenomena applied to classic and historic eruptions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 324",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 596",
+    "title": "Advanced Topics in Geology",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Advanced special topics in the geological sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "GEOL",
+    "description": "An intensive study in advanced geology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "Topic to be announced in the Class Schedule.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 621",
+    "title": "Advanced Basin Analysis and Energy Resources",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Analysis of sedimentary basins\u00a0to determine paleogeography, formation, and subsidence over time using applied modelling and data analysis. Implications for hydrocarbon formation, carbon capture and sequestration, and brine extractions. Individual student analyses and presentations on major sedimentary basins.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 623",
+    "title": "Coastal and Marine Geology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Major geologic processes of coastal and marine environments, to include geomorphology, sedimentation, stratigraphy, volcanism, structural geology, and tectonics. Evaluation of scientific literature and analysis of marine geological and geophysical data.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 630",
+    "title": "Selected Topics in Geophysics",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Research topics in seismic, gravity, magnetic, electrical, and electromagnetic methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 633",
+    "title": "Quaternary Geology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Quaternary climate, geochronometric dating and soil stratigraphy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 514",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 638",
+    "title": "Advanced Notable Historic Earthquakes",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Earthquake magnitude, fault source physics and rupture mechanisms, earthquake location and ground motion estimation, geotechnical aspects, earthquake triggering and geodesy. Term project on a selected earthquake including computer-based analysis of source, mechanism, and location.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 642",
+    "title": "Neotectonics",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Observation, interpretation and significance of late Quaternary crustal deformation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 406",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 514",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 650",
+    "title": "Plate Tectonics",
+    "units": 3,
+    "department": "GEOL",
+    "description": "To include analysis of plate boundaries, the driving forces of plate tectonics, global plate reconstructions and the predictive power of plate tectonics. Examines the geological and geophysical evidence, and the consequences for the dynamics of Earth\u2019s Interior.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 652",
+    "title": "Advanced Hydrogeology",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Introduction to numerical modeling of subsurface flow and transport. Emphasizes finite difference methods, model conceptualization, calibration, and application using MODFLOW. Students develop skills to design, evaluate, and present groundwater models for research and professional hydrogeologic problems.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 675",
+    "title": "Groundwater Geochemistry",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Processes affecting inorganic solutes in groundwater. Applications to groundwater geochemical evolution, weathering processes, and inorganic contaminant transport.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 690",
+    "title": "Earthquake Physics I",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Structure and theology of fault zones as inferred from geological and geophysical observations. Stress state and frictional behavior of faults, stress interaction models, thermal, and hydrological properties of fault zones. Mechanics and energy budget of earthquakes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 691",
+    "title": "Earthquake Physics II",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Theoretical and numerical models of earthquake rupture and wave propagation, with applications to ground motion prediction and seismic hazard estimation. Collective behavior of fault networks, seismicity models, earthquake predictability; application to earthquake forecast models.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOL 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 690",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOL 750",
+    "title": "Research and Technical Writing",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Research and technical report writing in geological sciences for students in Plan B.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 797",
+    "title": "Research",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Supervised research in an area of geological sciences.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "GEOL",
+    "description": "Preparation of a thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "GEOL",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "GEOL",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Independent investigation in general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 898",
+    "title": "Doctoral Special Study",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Individual study in field of specialization.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOL 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "GEOL",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

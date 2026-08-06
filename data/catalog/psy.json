@@ -1,0 +1,1830 @@
+[
+  {
+    "course_code": "PSY 101",
+    "title": "Introductory Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Facts, principles, and concepts which are basic to understanding human behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 117",
+    "title": "Health, Happiness, and Academic/Professional Success",
+    "units": 3,
+    "department": "PSY",
+    "description": "Evidenced-based skills to help in multiple areas of life on and off campus to include academics, mental and physical health, social connections and relationships.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 201",
+    "title": "Academic and Career Opportunities in Psychology",
+    "units": 1,
+    "department": "PSY",
+    "description": "Information about careers in psychology. Includes identification of career-related strengths and interests and information on post-baccalaureate options in psychology and related fields. Introduction to resources in Psychology Undergraduate Advising and Career Services.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 211",
+    "title": "Introduction to Cognitive Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Basic principles and research in animal and human cognition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 230",
+    "title": "Developmental Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Psychological development of normal individual from conception through childhood, adolescence, and maturity. Emphasis on interdependence of various periods of the individual\u2019s life. Not open to students with credit in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 270",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 260",
+    "title": "Introduction to Physiological Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Elementary physiology of the nervous system. Physiological mechanisms underlying the psychological phenomena of sensation, perception, emotion, arousal, motivation, learning and memory, and cortical specialization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 280",
+    "title": "Statistical Methods in Psychology",
+    "units": 4,
+    "department": "PSY",
+    "description": "Quantitative methods in psychology for producing, analyzing, and interpreting data. Sampling, basic research designs, describing distributions, correlation, regression, applications of normal probability curve, confidence intervals, and tests of significance. Analysis and interpretation of data using statistical, spreadsheet, and word processing software.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 280X",
+    "title": "Statistical Methods in Psychology Support",
+    "units": 1,
+    "department": "PSY",
+    "description": "Required support course for",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 281",
+    "title": "Data Analysis in Psychology",
+    "units": 2,
+    "department": "PSY",
+    "description": "Statistical and graphic analysis and interpretation of psychological data using computer technology. Activities involve statistical, spreadsheet, and word processing software. Not open to students with credit in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 270",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PSY",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 301",
+    "title": "Introduction to Research Methods in Psychology",
+    "units": 4,
+    "department": "PSY",
+    "description": "Methods used to answer questions in psychology, including case study, observation, survey, experimental, and field study procedures. Class projects using these methods, interpreting results and report writing; critically evaluating research findings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "PSY 281",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 316",
+    "title": "Behavior Modification",
+    "units": 3,
+    "department": "PSY",
+    "description": "Contingencies of reinforcement, stimulus control, response shaping, aversive control, and other basic principles of operant behavior applied to understanding and modification of human behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 319",
+    "title": "Industrial and Organizational Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Broad-based survey of content areas in industrial (selection, job analysis, job performance, individual differences assessment, training) and organizational (work attitudes, stress and well-being, motivation, teams, leadership, diversity/fairness) psychology. Underlying psychological principles that influence human behavior in the workplace.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in PSY 420\u00a0or PSY 421",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 331",
+    "title": "Psychology of Infant and Child Development",
+    "units": 3,
+    "department": "PSY",
+    "description": "Psychological development of normal child from infancy through childhood focusing on physical, social, cognitive, and linguistic aspects of development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 230",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 332",
+    "title": "Psychology of Adolescent and Early Adult Development",
+    "units": 3,
+    "department": "PSY",
+    "description": "Psychological development of individual from adolescence through early adulthood focusing on physical, social, and cognitive aspects of development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 230",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 333",
+    "title": "Developmental Psychopathology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Cognitive, affective, and social aspects of abnormal development from childhood through adolescence. Consideration, within a developmental framework, of etiological theories and factors, problem expression and treatment issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 230",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 340",
+    "title": "Social Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Major problems and findings concerning group behavior and group membership, the socialization of the individual, and processes of social interaction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 344",
+    "title": "Psychology and Culture",
+    "units": 3,
+    "department": "PSY",
+    "description": "Impact of culture in each of psychology\u2019s major areas, theories, and empirical findings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 345",
+    "title": "Chicana and Chicano Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Evolution of psychology of Chicanos with emphasis on understanding underlying roots and foundations. Empirical research conducted with Chicanos in areas of psychology, psychiatry, and mental health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 350",
+    "title": "Psychopathology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Causes and treatment of abnormal behavior with emphasis on major behavior disorders.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 351",
+    "title": "Psychology of Personality",
+    "units": 3,
+    "department": "PSY",
+    "description": "Major theoretical approaches to individual differences and the study of the person. Techniques of personality assessment. Selected research findings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 353",
+    "title": "Stress, Trauma, and the Psychological Experience of Combat",
+    "units": 3,
+    "department": "PSY",
+    "description": "Physiology, psychological experience, historical context, and measurement of stress, to include family and workplace stress, large scale traumatic events and disasters, combat and war. Coping with stress, loss, emotional wounds, and bereavement. Treatment, diagnosis, and potential for personal growth.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 355",
+    "title": "Psychology of Human Sexual Behavior",
+    "units": 3,
+    "department": "PSY",
+    "description": "Evaluation of behavioral and physiological data of normal, aberrant, and dysfunctional human sexual behavior, including description of available treatment methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 356",
+    "title": "Forensic Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "How psychological research and theory informs legal processes. Behavioral analysis, criminal investigation, eyewitness identification, jury selection, juvenile forensics and death penalty cases, mental competencies, police work, school bullying, sexual abuse issues, and threat assessment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 360",
+    "title": "Behavioral Neuroscience",
+    "units": 3,
+    "department": "PSY",
+    "description": "Biological and physiological underpinnings of behavior: genetics, hormones, transmitters, plasticity/regeneration, development, and metabolism/nutrition. Analysis of their role in normal behavior, psychopathology, neurological disorders, and treatment of behavioral disturbances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 361",
+    "title": "Neuropsychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Characterization of human brain-behavior relationships derived from neuropsychometric studies of healthy, neuropsychiatric and brain damaged populations. Emphasis on functional neuroanatomy and the effects of abnormal brain development and disease on processes such as cognition, memory, language, visual-spatial, and other functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 362",
+    "title": "Cognitive Neuroscience",
+    "units": 3,
+    "department": "PSY",
+    "description": "Functional organization of the human brain, including sensorimotor and cognitive systems and their functional interactions; development and evolution; normal and pathological plasticity. Approaches applied to healthy human brain, such as neuroimaging and event-related potentials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 365",
+    "title": "Drugs and Behavior",
+    "units": 3,
+    "department": "PSY",
+    "description": "Fundamentals of regulation, administration, tolerance, dependence, and physiological activity of drugs. Effects of stimulants, depressants, opiates, psychedelics, and psychotherapeutic drugs on the nervous system and on cognitive, personality, and behavioral functioning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 370",
+    "title": "Psychological Testing and Measurement",
+    "units": 3,
+    "department": "PSY",
+    "description": "Measurement theory and the basic principles of testing. Selection, construction and critical evaluation of group tests of intelligence, personality, aptitude, interest and achievement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 380",
+    "title": "Intermediate Cognitive Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Research and theory on attention, language, learning, memory, thinking, and understanding.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 388",
+    "title": "Sensation and Perception",
+    "units": 3,
+    "department": "PSY",
+    "description": "Theory and research in sensory and perceptual processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 407",
+    "title": "Health Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Behavioral components of major illnesses and causes of death and disability. Primary prevention of health problems through behavior change and psychological features of the health care system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 410",
+    "title": "Advanced Research Methods Laboratory",
+    "units": 5,
+    "department": "PSY",
+    "description": "Use of research design, quantitative methods, and research reports as applied to all areas of psychology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 420",
+    "title": "Advanced Topics in Industrial Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Advanced study in industrial psychology. Psychological principles and research methodology applied to personnel management problems. Selected topics may include personnel selection, job analysis, job performance, individual differences assessment, training, and diversity/fairness issues related to implementing personnel systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 421",
+    "title": "Advanced Topics in Organizational Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Advanced study in organizational psychology. Psychological principles and research methodology applied to human behavior at work. Selected topics may include work attitudes, stress and worker well-being, motivation, teams, leadership, organizational development, and diversity/fairness issues related to implementing organizational systems.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 442",
+    "title": "Prejudice and Stereotypes",
+    "units": 3,
+    "department": "PSY",
+    "description": "Classic and contemporary theories and research on prejudice and stereotyping to include origin and forms of phenomena, consequences, and approaches aimed at reducing them.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 452",
+    "title": "Introduction to Counseling and Therapy",
+    "units": 3,
+    "department": "PSY",
+    "description": "Theory, methods, and research in psychological approaches to personality and behavior change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 351",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 456",
+    "title": "Psychology of Death and Bereavement",
+    "units": 3,
+    "department": "PSY",
+    "description": "Latest psychological research and clinical practice in the area of death and dying, geared to assisting the student in appropriate ways of aiding both the dying and the bereaved in coming to terms with death.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 470",
+    "title": "Intermediate Statistics for Psychological Research",
+    "units": 3,
+    "department": "PSY",
+    "description": "Theoretical foundations of statistics including probability theory, distribution theory, and statistical inference. Model-based statistical comparisons. Application of statistical theory to psychological research questions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 491",
+    "title": "Academic or Psychological Counseling Experiences",
+    "units": 3,
+    "department": "PSY",
+    "description": "Individual supervision of academic or psychological counseling experiences, geared to acquisition of counseling and communication skills.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "No more than nine units of Psychology 491,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 492",
+    "title": "Responsible Conduct in Scientific Research",
+    "units": 1,
+    "department": "PSY",
+    "description": "Responsible conduct in scientific research. Topics include conflict of interest, plagiarism, reporting of scientific results, authorship, responsible use and care of animals, responsible use of human subjects.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 494",
+    "title": "Special Study: Techniques for Teaching and Tutoring in Psychology",
+    "units": 2,
+    "department": "PSY",
+    "description": "Practical knowledge and experience in psychology instruction and advanced content in a specific area of psychology.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "No more than nine units of",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 495",
+    "title": "Field Placement in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Students will be assigned to various community agencies and work under joint supervision of an agency supervisor and course instructor, attend class meetings, and staff conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "No more than nine units of PSY 491, PSY 494, PSY 495 may be counted toward the major and no more than 12 units of courses numbered PSY 491, PSY 494, PSY 495, PSY 497, PSY 499\u00a0may be counted toward the major.",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 230",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 351",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 496",
+    "title": "Selected Topics in Psychology",
+    "units": 1,
+    "department": "PSY",
+    "description": "Intensive study in specific areas of psychology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 497",
+    "title": "Senior Project",
+    "units": 1,
+    "department": "PSY",
+    "description": "Individual investigation and APA-style report on a research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "No more than nine units of Psychology 497 and",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 498",
+    "title": "Undergraduate Honors Thesis",
+    "units": 3,
+    "department": "PSY",
+    "description": "Directed research in psychology and completion of honors thesis. Required of students graduating with a Certificate of Recognition of Psychology Honors Thesis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PSY",
+    "description": "Individual study, including library or laboratory research and a written report.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "No more than nine units of",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 561",
+    "title": "Advanced Neuropsychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Biological bases of neuropsychological function and dysfunction, relationships between brain structure and function, neuropsychological assessment tools.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 361",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 568",
+    "title": "Systems Neuroscience",
+    "units": 3,
+    "department": "PSY",
+    "description": "Neuroanatomy and neurophysiology of the mammalian through a signals and systems lens to include auditory, cell physiology, motor and limbic systems, neural development, simple neural models, somatosensory, and visual components. Neuroimaging physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 361",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 570",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 569",
+    "title": "Foundations of Neuroimaging",
+    "units": 3,
+    "department": "PSY",
+    "description": "Physical and mathematical foundations of diffusion, functional, structural, perfusion MRI, and fMRI time series analysis. Cortical-surface based reconstruction and data analysis. Neural basis, localization, and recording of EEG and MEG signals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 596",
+    "title": "Selected Topics in Psychology",
+    "units": 1,
+    "department": "PSY",
+    "description": "Intensive study in specific areas of psychology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 600",
+    "title": "Research Orientation",
+    "units": 1,
+    "department": "PSY",
+    "description": "Research in psychology. All master\u2019s degree students are required to enroll in this course.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 610",
+    "title": "Advanced Research Methods in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Diverse research methods across different areas of psychology. Interdependence of theory and methodology in research to include design, measurement, and validity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 621",
+    "title": "Seminar in Industrial Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Survey course applying psychological principles and research methods of investigation to industrial psychology issues. Topics may include job analysis, job performance appraisal/management, selection/recruitment, and training/development. Legal, ethical, and fairness issues of implementing personnel systems are also considered.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 622",
+    "title": "Seminar in Organizational Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Survey course applying psychological principles and research methods of investigation to organizational behavior issues. Topics include work attitudes/emotions, stress and worker well-being, diversity and fairness, socialization/mentoring, teams, leadership, motivation, power and politics, organizational culture/climate, and organizational development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 421",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 630",
+    "title": "Seminar in Organizational Research and Ethics",
+    "units": 3,
+    "department": "PSY",
+    "description": "Design of field research, quasi-experimental, and non-experimental techniques to address applied psychology questions in organizational settings. Consideration of ethical and professional issues related to organizational research. Selected topic areas within applied psychology include multi-level research, survey research, or program evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 632",
+    "title": "Theories and Methods in Developmental Science",
+    "units": 3,
+    "department": "PSY",
+    "description": "Philosophical and biological origins of developmental psychology. Examination of processes that shape perception, language acquisition, socialization, and cognition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 331",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 332",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 670A",
+    "title": "Advanced Statistics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Fundamentals of multiple regression and correlation. Principles of experimental design. Analysis of variance including factorial and repeated-measures designs and a priori and post hoc comparisons including trend analysis. Computer-based statistical packages in the analysis of data from psychological research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 670B",
+    "title": "Advanced Statistics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Fundamentals of multiple regression and correlation. Principles of experimental design. Analysis of variance including factorial and repeated-measures designs and a priori and post hoc comparisons including trend analysis. Computer-based statistical packages in the analysis of data from psychological research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 675",
+    "title": "Seminar in Psychological Measurement",
+    "units": 3,
+    "department": "PSY",
+    "description": "General principles, theory and methods underlying measurement in studies of group and individual differences in controlled experiments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 696",
+    "title": "Selected Topics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Intensive study in specific areas of psychology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 721",
+    "title": "Advanced Seminar in Industrial Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Advanced selected topics course applying psychological principles and research methods of investigation to industrial psychology issues. Topics may include individual differences assessment, selection, and training. Legal, ethical, and fairness issues of implementing and adjusting personnel systems are also considered.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 621",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 722",
+    "title": "Advanced Seminar in Organizational Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Advanced selected topics course applying psychological principles and research methods of investigation to organizational behavior issues. Topics may include work attitudes/emotions, stress and worker well-being, diversity/fairness, socialization, teams, leadership, motivation, power/politics, organizational culture/climate, and organizational development.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 622",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 740",
+    "title": "Seminar in Social Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Classic and contemporary issues in social psychology including social influence, person perception, attitudes and attitude change, group dynamics, intergroup conflict, and cultural influence.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 751",
+    "title": "Clinical Psychological Science: Theory and Methods",
+    "units": 3,
+    "department": "PSY",
+    "description": "Methodological and theoretical foundations in clinical psychological science. Dissemination/implementation, nosology, and professional issues in clinical psychology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 760",
+    "title": "Seminar in Physiological Correlates of Behavior",
+    "units": 3,
+    "department": "PSY",
+    "description": "Course may be repeated provided it is offered by a different instructor and the subject matter is substantially different. To enroll in the seminar for the second time, the student must submit a petition to be approved by the professor of the course and the master\u2019s program adviser.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 767",
+    "title": "Seminar in Cognitive and Behavioral Neuroscience",
+    "units": 3,
+    "department": "PSY",
+    "description": "Issues of contemporary importance in neuroscience.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 768",
+    "title": "Advanced Systems Neuroscience",
+    "units": 3,
+    "department": "PSY",
+    "description": "Neuroanatomy and neurophysiology of the mammalian through a signals and systems lens to include auditory, cell physiology, motor and limbic systems, neural development, simple neural models, somatosensory, and visual components. Neuroimaging physics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 769",
+    "title": "Advanced Foundations of Neuroimaging",
+    "units": 3,
+    "department": "PSY",
+    "description": "Physical and mathematical foundations of diffusion, functional, structural, perfusion MRI, and fMRI time series analysis. Cortical- surface based reconstruction and data analysis. Neural basis, localization, and recording of EEG and MEG signals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 770A",
+    "title": "Experimental Design and Data Analysis in Behavioral Research",
+    "units": 3,
+    "department": "PSY",
+    "description": "Principles and methods of behavioral research stressing interdependence of experimental design and statistical evaluation of results. General linear model in its regression and ANOVA formulations. Advanced multiple regression and correlation techniques using computer-based statistical packages.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 770B",
+    "title": "Experimental Design and Data Analysis in Behavioral Research",
+    "units": 3,
+    "department": "PSY",
+    "description": "Principles and methods of behavioral research stressing interdependence of experimental design and statistical evaluation of results. General linear model in its regression and ANOVA formulations. Advanced multiple regression and correlation techniques using computer-based statistical packages.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 775",
+    "title": "Multivariate Statistics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Introduction to multivariate techniques. Latent structure models with attention to relationship between latent constructs and observable data. Includes causal models, factor analysis (both exploratory and confirmatory), canonical correlation, path analysis, discriminant function analysis, and loglinear analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 670A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 770A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 770B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 776",
+    "title": "Multilevel Modeling for Psychological Research",
+    "units": 3,
+    "department": "PSY",
+    "description": "Statistical analysis of nested or hierarchical data generated by cross-sectional and longitudinal designs common to psychological science. Examine, critique, and discuss methodological articles regarding multilevel modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 670A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 770A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 770B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 787",
+    "title": "Seminar in Cognitive Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Empirical data, methods, principles, and theories in cognitive psychology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 790",
+    "title": "Practicum in the Teaching of Psychology",
+    "units": 1,
+    "department": "PSY",
+    "description": "Supervision in the teaching of psychology, covering lecture writing, style of lecture presentation, in-class demonstration and exercise, test and syllabi construction, and grading system. Not applicable to an advanced degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 792",
+    "title": "Internship in Applied Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Supervised training in applied\u00a0psychology in a program approved internship setting.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 796",
+    "title": "Selected Topics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Intensive study in specific areas of psychology. In-depth investigation of controversial issues in the field as well as introduction to current and emerging technologies. Cognition, cognitive neuroimaging, and social perception.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 797",
+    "title": "Research",
+    "units": 1,
+    "department": "PSY",
+    "description": "Research in one of the fields of psychology.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PSY",
+    "description": "Individual projects involving library or laboratory research in any area of psychological investigation or interest.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "PSY",
+    "description": "Preparation of a project or thesis for the master\u2019s degree. Credit is contingent upon acceptance of the completed thesis by the Department of Psychology.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "PSY",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 801",
+    "title": "Seminar in History and Ethics in Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Historical background of modern psychology; in-depth examination of the American Psychological Association code of ethics and its application to the conduct of clinical psychologists.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 820",
+    "title": "Seminar in Cultural Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Cultural origins of human behavior; cultural limits of psychological knowledge.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 833",
+    "title": "Seminar in Developmental Psychopathology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Research and theory in biological and social origins of psychopathology. Methods of assessing developmental change and stability, issues related to vulnerability and resiliency, developmental appropriateness of approaches to interventions, and role of culture as a developmental context.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 840",
+    "title": "Seminar in Personality and Social Psychology",
+    "units": 3,
+    "department": "PSY",
+    "description": "Research and theory in personality and social psychology. Theories of personality and individual differences, group processes, sex roles, social perception, and cross-cultural issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 842",
+    "title": "Behavioral Medicine Seminar: Assessment",
+    "units": 3,
+    "department": "PSY",
+    "description": "Assessment methods and issues in behavioral medicine. Development and implementation of assessment plans. Theoretical and practical aspects of psychological, behavioral, and physiological assessment methods for various health issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 843",
+    "title": "Behavioral Medicine Seminar: Intervention",
+    "units": 3,
+    "department": "PSY",
+    "description": "Design and implement interventions by stressing empirically supported approaches to improve health and change health behaviors. Strengths and weaknesses of clinical community interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 842",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 849",
+    "title": "Seminar and Laboratory in Counseling and Psychotherapy",
+    "units": 4,
+    "department": "PSY",
+    "description": "Supervised practice in application of psychotherapeutic and counseling techniques from selected cognitive, dynamic, interpersonal, and behavioral approaches. Open only to students accepted in the doctoral program.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 850",
+    "title": "Seminar in Theory and Practice in Clinical Interventions",
+    "units": 3,
+    "department": "PSY",
+    "description": "Theory and application of clinical interventions, advanced study of interviewing techniques, behavioral interventions, cognitive/ behavioral interventions, and family/child interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 852",
+    "title": "Seminar in Experimental Psychopathology Research",
+    "units": 3,
+    "department": "PSY",
+    "description": "Analysis of experimental and theoretical literature as it pertains to research methodology for the study of disordered behavior.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 855",
+    "title": "Seminar in Psychological Assessment I",
+    "units": 4,
+    "department": "PSY",
+    "description": "Theory and practice in assessment of intelligence and special abilities. Open only to students accepted in the doctoral program.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 856",
+    "title": "Seminar in Psychological Assessment II",
+    "units": 4,
+    "department": "PSY",
+    "description": "Theory and practice in assessment of special abilities, personality and behavior disorders. Open only to students accepted in the doctoral program.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 855",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 860",
+    "title": "Seminar in Physiological Foundations of Behavior",
+    "units": 3,
+    "department": "PSY",
+    "description": "Research and theory in physiological psychology. Advanced study of biological rhythms, sleep and waking, stress responses, the neurophysiology of learning and memory, and research methods in physiological psychology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 875",
+    "title": "Advanced Multivariate Statistics",
+    "units": 3,
+    "department": "PSY",
+    "description": "Use of multivariate techniques. Relationship between latent constructs and observable data. Analyses such as causal models, exploratory and confirmatory factor analysis, canonical correlation, path analysis, discriminant function analysis, loglinear analysis, and hierarchical linear modeling using computer-based statistical packages.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 770A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 770B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PSY 887",
+    "title": "Seminar in Cognition, Affect, and Cognitive-Affective Interactions",
+    "units": 3,
+    "department": "PSY",
+    "description": "Research and theory pertaining to interactions among affective and cognitive processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 894",
+    "title": "Clinical Internship",
+    "units": 3,
+    "department": "PSY",
+    "description": "Clinical training in an APA-approved internship setting.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 895",
+    "title": "Practicum in the Teaching of Psychology",
+    "units": 1,
+    "department": "PSY",
+    "description": "Supervision in the teaching of psychology, covering lecture writing, style of lecture presentation, in-class demonstration and exercises, test and syllabi construction, and grading systems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 896",
+    "title": "Clinical Practicum",
+    "units": 1,
+    "department": "PSY",
+    "description": "Supervision of advanced intervention strategies applied to clinical populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "PSY",
+    "description": "Independent investigation in the general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PSY 898",
+    "title": "Doctoral Special Study",
+    "units": 1,
+    "department": "PSY",
+    "description": "Individual study in the field of specialization.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  }
+]

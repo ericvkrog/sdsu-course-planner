@@ -1,0 +1,152 @@
+{
+  "code": "MUSIC_MUSIC_ENTREPRENEURSHIP_AND_BUSINESS_TRACK_B_M",
+  "name": "Music, Music Entrepreneurship and Business Track, B.M.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12141",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12141",
+  "poid": "12141",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "MUSIC 409W"
+  ],
+  "lower_division": [
+    "MUSIC 105",
+    "MUSIC 106A",
+    "MUSIC 106B",
+    "MUSIC 108",
+    "MUSIC 151",
+    "MUSIC 110A",
+    "MUSIC 110B",
+    "MUSIC 205A",
+    "MUSIC 205B",
+    "ACCTG 201",
+    "COMM 103",
+    "JMS 210",
+    "ECON 101",
+    "ECON 102"
+  ],
+  "upper_required": [
+    "MUSIC 409W",
+    "MUSIC 305A",
+    "MUSIC 305B",
+    "MUSIC 308A",
+    "MUSIC 309",
+    "B A 350",
+    "MGT 358",
+    "MGT 420",
+    "MGT 460"
+  ],
+  "elective_areas": {
+    "Ensembles": [
+      "MUSIC 170",
+      "MUSIC 174",
+      "MUSIC 175",
+      "MUSIC 176",
+      "MUSIC 177",
+      "MUSIC 180",
+      "MUSIC 183",
+      "MUSIC 184",
+      "MUSIC 185",
+      "MUSIC 186",
+      "MUSIC 189"
+    ],
+    "Applied Instruction": [
+      "MUSIC 251A",
+      "MUSIC 251B",
+      "MUSIC 251C",
+      "MUSIC 251D",
+      "MUSIC 251E",
+      "MUSIC 251F",
+      "MUSIC 251G",
+      "MUSIC 251I",
+      "MUSIC 251L"
+    ],
+    "Lower Division Music Electives": [
+      "MUSIC 160",
+      "MUSIC 166",
+      "MUSIC 206A",
+      "MUSIC 206B",
+      "MUSIC 243",
+      "MUSIC 260",
+      "MUSIC 266",
+      "MUSIC 290",
+      "DANCE 290"
+    ],
+    "Statistics": [
+      "ECON 201",
+      "STAT 119",
+      "STAT 250"
+    ],
+    "Ensembles (2)": [
+      "MUSIC 370",
+      "MUSIC 374",
+      "MUSIC 375",
+      "MUSIC 376",
+      "MUSIC 377",
+      "MUSIC 380",
+      "MUSIC 383",
+      "MUSIC 384",
+      "MUSIC 385",
+      "MUSIC 386",
+      "MUSIC 389"
+    ],
+    "Upper Division Music Electives": [
+      "MUSIC 343",
+      "MUSIC 345",
+      "MUSIC 347",
+      "MUSIC 349",
+      "MUSIC 405A",
+      "MUSIC 405B",
+      "MUSIC 408B",
+      "THEA 345",
+      "THEA 596"
+    ],
+    "Entrepreneurial Marketing and Innovation": [
+      "B A 370",
+      "MGT 353",
+      "MGT 455",
+      "MGT 470"
+    ],
+    "Event and Entertainment Management": [
+      "HTM 330",
+      "THEA 470",
+      "THEA 476"
+    ],
+    "Cultural Perspectives in Music and Theatre": [
+      "AFRAS 385",
+      "THEA 465"
+    ]
+  },
+  "default_electives": [
+    "MUSIC 170",
+    "MUSIC 174",
+    "MUSIC 175",
+    "MUSIC 251A",
+    "MUSIC 251B",
+    "MUSIC 251C",
+    "MUSIC 160",
+    "MUSIC 166",
+    "MUSIC 206A",
+    "STAT 119",
+    "MUSIC 370",
+    "MUSIC 374",
+    "MUSIC 375",
+    "MUSIC 343",
+    "MUSIC 345",
+    "THEA 345",
+    "MGT 353",
+    "HTM 330",
+    "AFRAS 385"
+  ],
+  "unresolved_codes": [
+    "MUSIC 515",
+    "MUSIC 518",
+    "MUSIC 530",
+    "MUSIC 541",
+    "MUSIC 554",
+    "MUSIC 561",
+    "MUSIC 562"
+  ]
+}

@@ -1,0 +1,796 @@
+[
+  {
+    "course_code": "CJ 200",
+    "title": "Introduction to Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Introduction to the U.S. criminal justice system and an analysis of its structure and function. Topics include the criminal justice process, criminological theory, policing, court processes and outcomes, and the corrections system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 201",
+    "title": "Criminal Law",
+    "units": 3,
+    "department": "CJ",
+    "description": "Introduces core concepts of U.S. criminal law, emphasizing California statutes, crime classification, legal defenses, and the role of intent, with attention to social and ethical implications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CJ 320",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 300",
+    "title": "Crime, Law, and Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Criminal justice-role of law in society, definition and explanations of criminal behavior, criminal justice system, methods of research, and policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "SOC 102",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "POL S 201",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 301",
+    "title": "Law in Society",
+    "units": 3,
+    "department": "CJ",
+    "description": "Theoretical study of law in society from classical social theorists. Major movements in legal studies during the last century. Comparative systems of law.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 302",
+    "title": "Crime and Behavior",
+    "units": 3,
+    "department": "CJ",
+    "description": "Major disciplinary paradigms used both to explain criminal behavior and to inform official criminal justice policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 303",
+    "title": "Criminal Justice and Social Control",
+    "units": 3,
+    "department": "CJ",
+    "description": "Interrelationship of social control, social policy and administration of criminal justice in contemporary American society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 304",
+    "title": "Race, Equity, and the Criminal Justice System",
+    "units": 3,
+    "department": "CJ",
+    "description": "Intersectional analysis of how race and equity have influenced the criminal-legal system over the past half-century. Implications for both citizens who have been criminalized and the people who work in the criminal-legal system.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 305",
+    "title": "Professions and Ethics",
+    "units": 3,
+    "department": "CJ",
+    "description": "Professional roles and responsibilities of practitioners and administrators in criminal justice agencies, including consideration of the ethical responsibilities of criminal justice practitioners.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 306",
+    "title": "Information Literacy in Criminal Justice:  Data to Information to Knowledge",
+    "units": 3,
+    "department": "CJ",
+    "description": "Locate, identify, evaluate, and manage information sources that are credible. Promotes problem solving and critical thinking skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 310",
+    "title": "Law Enforcement",
+    "units": 3,
+    "department": "CJ",
+    "description": "Administrative relationships within the criminal justice process with special reference to problems of courts and police and probation agencies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 321",
+    "title": "Juvenile Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Assessment of the structure and functions of agencies and institutions which comprise the juvenile justice system in America; evolution of policies and programs for prevention of delinquency and treatment of the juvenile offender.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 330",
+    "title": "Corrections",
+    "units": 3,
+    "department": "CJ",
+    "description": "Contemporary policies and practices of local, state, and federal correctional agencies, influence of reform movements, and the interrelationship of corrections with other criminal justice system components.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 333",
+    "title": "The Judiciary",
+    "units": 3,
+    "department": "CJ",
+    "description": "Actors, institutions, and rules that define the judicial branch of government in the United States. Role of judges and judicial decision-making, trial process, and court unification and financing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 401",
+    "title": "A Racialized History of Policing in America",
+    "units": 3,
+    "department": "CJ",
+    "description": "Expose issues of policing through the lens of race; highlight the voices and perspectives to explain low levels of trust between the police and Black communities; explore historical and contemporary social unrest that emanate from police operations, practices and policies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 420",
+    "title": "Constitutional Issues in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Constitutional legal theories and principles, especially the Fourth, Fifth, Sixth, and Eighth Amendments to the Constitution, as they affect criminal justice procedures and practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 431",
+    "title": "Field Study in Local Corrections",
+    "units": 3,
+    "department": "CJ",
+    "description": "Structure, function, and mission of local prisons and jails. Legal authority under which accused and convicted offenders are detained. Prison life, prison culture, gangs, and survival behind bars. Lives and careers of correctional staff. On-site visits.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 496",
+    "title": "Selected Topics in Criminal Justice",
+    "units": 1,
+    "department": "CJ",
+    "description": "Selected current topics in criminal justice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 497",
+    "title": "Investigation and Report",
+    "units": 3,
+    "department": "CJ",
+    "description": "Using library, Internet, and empirical research. Analysis of current criminal justice policy issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 498",
+    "title": "Internship in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Students are assigned to various government agencies and work under joint supervision of agency heads and the course instructor. Participation in staff and internship conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 499",
+    "title": "Special Study",
+    "units": 3,
+    "department": "CJ",
+    "description": "Special study in Criminal Justice.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 510",
+    "title": "Contemporary Issues in Law Enforcement",
+    "units": 3,
+    "department": "CJ",
+    "description": "Assessment of problems confronting administrators of law enforcement agencies and of recent efforts to enhance the capability of agencies to control criminal activity while guarding individual liberties.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "CJ 310",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 520",
+    "title": "Prosecutorial Function",
+    "units": 3,
+    "department": "CJ",
+    "description": "Prosecutor’s function at local, state, and federal levels and in selected foreign nations, including appraisal of proposed national standards and goals for prosecutors.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 531",
+    "title": "Probation and Parole",
+    "units": 3,
+    "department": "CJ",
+    "description": "Basic concepts, history, legislation, and practices used in work with juveniles and adults who have been placed on probation or parole; criteria of selection, methods of supervision, and elements of case reporting.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 540",
+    "title": "Applied Planning, Research, and Program Evaluation in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Application of planning, research, program development, and evaluation principles to field of criminal justice.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 543",
+    "title": "Community Resources in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Present and probable roles of public and private agencies and volunteers in criminal justice.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 570",
+    "title": "Organized Crime: Domestic and International Perspectives",
+    "units": 3,
+    "department": "CJ",
+    "description": "Interdisciplinary analysis of organized crime’s impact on criminal justice and public policy on both domestic and international levels.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 571",
+    "title": "Drugs: Domestic and International Perspectives",
+    "units": 3,
+    "department": "CJ",
+    "description": "Interdisciplinary social science analysis of illicit drug use, markets, and trafficking. Comparative assessment of the efforts of state and non-state actors to regulate, counter, and disrupt illicit drug use, markets, and trafficking.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 572",
+    "title": "Dark Networks, Crime, and Security",
+    "units": 3,
+    "department": "CJ",
+    "description": "Advanced interdisciplinary social science analysis of social networks engaged in criminal activity and intelligence and security policies, as well as the actors that comprise these networks. Social network and structural analysis methods.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 583",
+    "title": "Cultural Criminology",
+    "units": 3,
+    "department": "CJ",
+    "description": "Cultural expressions and meanings of law breaking, law enforcement, and law making.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      },
+      {
+        "prereq_code": "CJ 302",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 596",
+    "title": "Selected Topics in Criminal Justice",
+    "units": 1,
+    "department": "CJ",
+    "description": "Selected current topics in criminal justice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 601",
+    "title": "Seminar in the Administration of Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Administrative problems of criminal justice systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 602",
+    "title": "Seminar in Comparative Criminal Justice System",
+    "units": 3,
+    "department": "CJ",
+    "description": "The criminal justice system as both cause and consequence of social change; nature of institutional change with application to criminal justice system components.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 603",
+    "title": "Seminar in Community and Restorative Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Community and restorative justice movement from local, national, and international perspectives. Theories, policies, practices, and research associated with community and restorative justice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 604",
+    "title": "Seminar in Criminal Justice and Urban Administration",
+    "units": 3,
+    "department": "CJ",
+    "description": "Influences on crime control and criminal justice process of actions by urban administrators, legislators and private sector in areas such as housing, education, public health and transportation, and urban development policies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 605",
+    "title": "Seminar in Juvenile Justice and Youth Violence",
+    "units": 3,
+    "department": "CJ",
+    "description": "Juvenile justice system in U.S. and throughout the world. Responses to delinquency and youth violence. History and foundations of juvenile court, juvenile justice reforms, context, causes, and correlates of youth violence and gang involvement, including programs and policies designed to address these problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 696",
+    "title": "Selected Topics in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Analysis of contemporary issues of major import to the administration of criminal justice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CJ 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CJ 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CJ 791",
+    "title": "Seminar in Readings in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Selected readings in the literature of criminal justice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 796",
+    "title": "Internship in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Students will be assigned to various government agencies and will work under joint supervision of agency heads and the course instructor. Participation in staff and internship conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 797",
+    "title": "Research in Criminal Justice",
+    "units": 3,
+    "department": "CJ",
+    "description": "Research in one of the areas of criminal justice administration.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CJ",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "CJ",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "CJ",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CJ 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "CJ",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

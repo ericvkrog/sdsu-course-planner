@@ -1,0 +1,194 @@
+[
+  {
+    "course_code": "ISCOR 200",
+    "title": "International Security and Conflict Resolution",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Comprehensive picture of multidisciplinary international and conflict resolution (ISCOR) program.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ISCOR 300",
+    "title": "Global Systems",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Historical and contemporary examination of the global political, social, and economic order; examination of interaction of global forces with local and regional developments; studies of distinct contemporary and past global issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 301",
+    "title": "Conflict and Conflict Resolution",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Examination of global, regional, and local dynamics that engender conflict, review of distinct diplomatic approaches (formal or informal) to resolve conflicts, case studies of past and ongoing conflicts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 310",
+    "title": "Our Global Future: Environment, Climate, and the Prospects of Survival",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Examines impact of environmental changes on the global order; how environmental dynamics interact with political, economic, and social forces at the global, regional, and local levels; particular focus on the climate crisis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 320",
+    "title": "International Security in the Nuclear Age",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "International security issues from historical, ethical, economic and sociopsychological perspectives, including the security environment after the Cold War and current sources of conflict. The proliferation of weapons of mass destruction, including nuclear weapons is discussed.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ISCOR 324",
+    "title": "Politics of Global Resistance and Solidarity",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Study of global resistance movements in such areas as antimilitarism, economic justice, and social equality; includes a section on climate justice; attention to revolutionary and reformist theories of change at the global, regional, and local levels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 421",
+    "title": "Alternative Dispute Resolution: Theory and International Applications",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Theory of collaborative negotiation and mediation, practice of negotiation and mediation skills and techniques, and focus on personal styles of mediation and collaborative negotiating. Emphasis on resolving conflicts on the international level.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ISCOR 450",
+    "title": "Study Abroad in International Security and Conflict Resolution",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Selected topics in international security and conflict resolution. Course taught abroad. Potential additional prerequisites and location of course and organizational meetings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ISCOR 495",
+    "title": "Internship in International Security and Conflict Resolution",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "Supervised internship of 150 hours in government or nongovernmental agency, office or business in an area directly related to international security and conflict resolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 496",
+    "title": "Selected Topics in International Security and Conflict Resolution",
+    "units": 1,
+    "department": "ISCOR",
+    "description": "Selected topics in international security and conflict resolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ISCOR 497",
+    "title": "Thesis in International Security and Conflict Resolution",
+    "units": 3,
+    "department": "ISCOR",
+    "description": "An original and comprehensive written description and analysis of a problem or problem area in international security and conflict resolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ISCOR 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ISCOR",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,1101 @@
+[
+  {
+    "course_code": "CIV E 100",
+    "title": "Introduction to Civil Engineering",
+    "units": 1,
+    "department": "CIV",
+    "description": "Introduction to diverse field of civil and environmental engineering to include structural, geotechnical, water resources, transportation, construction engineering and management, and environmental engineering. Legal, ethical, and international dimensions of the profession.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 121",
+    "title": "Computer Graphics for the Built Environment",
+    "units": 3,
+    "department": "CIV",
+    "description": "Computer aided design for civil engineering applications (AutoCAD).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 160",
+    "title": "Statistical Methods for the Built Environment",
+    "units": 3,
+    "department": "CIV",
+    "description": "Application of statistical methods to civil and environmental engineering problems in construction, hydrology, water quality, air pollution, and other related areas.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 218",
+    "title": "Surveying for Civil Engineering and Construction",
+    "units": 3,
+    "department": "CIV",
+    "description": "Principles of plane surveying. Measurement of horizontal distance, difference in elevation, and angles. Traverse surveys and computations. Horizontal and vertical curves. Principles of stadia. Topographic surveys. Earthwork.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 220",
+    "title": "Civil and Environmental Engineering Computer Applications",
+    "units": 3,
+    "department": "CIV",
+    "description": "Graphical information systems (GIS), specialized civil engineering software, advanced problem solving.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 225",
+    "title": "Mechanics for Civil Engineers",
+    "units": 3,
+    "department": "CIV",
+    "description": "Applied forces and reactions of simple structures, beams, and large structures such as bridges, buildings, and dams. Static equilibrium.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in M E 200 [or A E 200] and M E 220 [or A E 220].",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CIV",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 301",
+    "title": "Introduction to Solid Mechanics",
+    "units": 3,
+    "department": "CIV",
+    "description": "Mechanics of solid deformable bodies involving analytical methods for determining strength, stiffness, and stability of load-carrying members.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in M E 304.",
+    "prerequisites": [
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 225",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 302",
+    "title": "Solid Mechanics Laboratory",
+    "units": 1,
+    "department": "CIV",
+    "description": "Laboratory studies in solid mechanics. Experimental stress analysis. Experimental confirmation of theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 321",
+    "title": "Structural Analysis I",
+    "units": 3,
+    "department": "CIV",
+    "description": "Analysis of beams, frames, trusses, and three-dimensional frameworks. Influence lines; deflections; introduction to statically indeterminate structures and moment distribution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 401",
+    "title": "Civil Engineering and Society",
+    "units": 1,
+    "department": "CIV",
+    "description": "Role of civil engineers in society. Historical, political, esthetic, and philosophical perspectives on civil engineering. Contemporary issues involving civil engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 421",
+    "title": "Reinforced Concrete Design",
+    "units": 3,
+    "department": "CIV",
+    "description": "Properties and characteristics of reinforced concrete; design of structural components. Introduction to plastic theory and limit design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 444",
+    "title": "Applied Hydraulics",
+    "units": 3,
+    "department": "CIV",
+    "description": "Review of fluid statics. Forces on submerged surfaces. Close conduit flow. Pumps and turbines. Open-channel flow. Dams and reservoirs. Flood control.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 445",
+    "title": "Applied Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Basic hydrologic principles, hydrologic measurements, small and midsize catchment hydrology, frequency analysis, regional analysis, reservoir, stream channel and catchment routing, hydrologic design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 462",
+    "title": "Geotechnical Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Mechanics of soils as they apply to engineering problems, soil classification, compaction, swelling, consolidation, strength and permeability. Applications to geotechnical and environmental engineering problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 463",
+    "title": "Soil Testing Fundamentals",
+    "units": 1,
+    "department": "CIV",
+    "description": "Fundamental elements of laboratory and in-situ soil testing methods for geotechnical engineering applications and site characterization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 465",
+    "title": "Foundation Engineering and Earth Retaining Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "Soil mechanics theories applied to design of shallow and deep foundations; lateral pressure of soils, design of retaining walls.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 481",
+    "title": "Transportation Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Physical design of transportation facilities, traffic analysis and control for different modes, planning and demand analysis, introduction to environmental impacts of transportation systems and intelligent transportation systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 218",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 482",
+    "title": "Highway Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Highway design, facility sizing, geometric design, drainage, earthwork, pavement design, traffic control devices, safety and environmental considerations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 481",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 495W",
+    "title": "Capstone Design Project",
+    "units": 3,
+    "department": "CIV",
+    "description": "Application of civil, construction, and environmental engineering (CCEE) principles and design techniques to the design of a project. Technical writing applied to a final project report.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CIV E 495. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 496",
+    "title": "Advanced Civil Engineering Topics",
+    "units": 1,
+    "department": "CIV",
+    "description": "Modern developments in civil engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CIV",
+    "description": "Individual study in the area of civil engineering.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 521",
+    "title": "Structural Analysis II",
+    "units": 3,
+    "department": "CIV",
+    "description": "Analysis of statically indeterminate structures by virtual work. Advanced treatment of slope deflection, moment distribution. Arch analysis, secondary stresses in trusses. Advanced treatment of influence lines. Introduction to matrix analysis of structures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 523",
+    "title": "Design of Light Framed Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "Material properties for wood and metal studs. Loads and structural forces for buildings. Design of beams, columns, bearing stud walls. Seismic forces and lateral force resisting systems. Roof, floor, and shear wall design. Composite beams.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 525",
+    "title": "Design of Steel Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "Mechanical behavior of structural steel. Design of steel beams, girders, columns and members subjected to combined stresses. Design of various types of connections of steel structures; plate girders, continuous beams and rigid frames.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 528",
+    "title": "Masonry Structures Design",
+    "units": 3,
+    "department": "CIV",
+    "description": "Analysis and design of masonry beams, retaining walls, shear walls, bearing walls, and columns. Use of allowable stress and strength design methods. Design project, including structural system analysis and lateral design of masonry buildings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 530",
+    "title": "Open Channel Hydraulics",
+    "units": 3,
+    "department": "CIV",
+    "description": "Principles of open channel flow. Analysis and problems of critical, uniform, gradually-varied, and rapidly-varied flows. Flow over weirs and spillways. Bridge, culvert and multiple openings hydraulics and modeling. Channel transitions. Design and environmental problems. Workshops on river analysis system (HEC-RAS 4.0).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 531",
+    "title": "Pipe Flow and Water Distribution Systems",
+    "units": 3,
+    "department": "CIV",
+    "description": "Principles of pressurized pipe flow. Estimation and management of water demand and water supply systems. Analysis of network distribution elements and network modeling. Design of distribution systems, their operation and maintenance, asset management, and financial appraisal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 532",
+    "title": "Introduction to Coastal Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Introductory knowledge of the coastal environment and the design of coastal engineering systems; oceanic/coastal elements constraining the design of engineering systems (e.g. offshore/nearshore waves, coastal morphology); relevant elements of coastal engineering design; fundamental engineering structures are calculated (e.g. piles, breakwaters).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The course includes 2 design units, in the context of the Civil Engineering Program (students will learn about designing coastal structural elements).",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 545",
+    "title": "Field Methods in Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Equipment, field methods, and techniques used to study hydrologic systems and water resources, to include local streams and watersheds in California. Tools provided to design and implement field studies and interpret data.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 580",
+    "title": "Traffic Engineering Design",
+    "units": 3,
+    "department": "CIV",
+    "description": "Sizing and configuration of highway facilities based on capacity analysis. Traffic signal design, impact and mitigation studies, parking, safety design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 481",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 596",
+    "title": "Advanced Civil Engineering Topics",
+    "units": 1,
+    "department": "CIV",
+    "description": "Modern developments in civil engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 605",
+    "title": "Prestressed Concrete Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "Fundamental concepts of prestressed concrete theory. Design applications to various types of structures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 421",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 607",
+    "title": "Dynamics of Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "Dynamic disturbances, structures with variable degelastic beams; continuous beams, rigid frames, floor systems. Energy methods in structural dynamics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 521",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 608",
+    "title": "Earthquake Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Elements of seismology. Methods of analysis for earthquake loads. Procedures and code provisions for the design of earthquake- resistant structures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 607",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 610",
+    "title": "Finite Element Analysis of Structures",
+    "units": 3,
+    "department": "CIV",
+    "description": "General procedure, various types of finite elements; analysis and design of isotropic and orthotropic plates and shells, deep beams, and shear walls using finite element technique; use of digital computers for solutions. Application to civil engineering structures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 620",
+    "title": "Traffic Flow and Control",
+    "units": 3,
+    "department": "CIV",
+    "description": "Advanced treatment of traffic flow and control issues. Highway capacity and traffic flow characteristics, traffic flow modeling, intersection control, freeway control systems, intelligent transportation systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 481",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 621",
+    "title": "Transportation Demand Analysis",
+    "units": 3,
+    "department": "CIV",
+    "description": "Travel demand modeling with emphasis on application to growing metropolitan areas; four-step travel demand forecasting; disaggregate, behavioral, and activity-based approaches; recent methodological developments; transportation-land use interactions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 481",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 625",
+    "title": "Intelligent Transportation Systems",
+    "units": 3,
+    "department": "CIV",
+    "description": "Intelligent transportation systems impacts on safety, mobility, and environment. Utilization of transportation technologies in advanced transportation management centers, connected and automated vehicles, crash prevention systems, and congestion pricing systems. Machine learning problem and its applications in intelligent transportation systems.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 631",
+    "title": "Spatial Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Integration of spatial data analysis and hydrologic modeling. Quantification of spatially distributed hydrologic characteristics. Decomposition of drainage network systems to support quasi-distributed hydrologic modeling. Quantification of hydrologic impacts due to model resolution, altered land use conditions, and modeling techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 632",
+    "title": "Computational Hydraulics and Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Computational methods applied to hydraulics and hydrology. Explicit and implicit schemes for solving hyperbolic problems. Method of characteristics. One- and two-dimensional nonsteady open channel flow simulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 530",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 633",
+    "title": "Environmental Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Hydrosphere function, hydroclimatology, hydrographic characteristics, desertification, hydroecology, salinity modeling and management, stream and lake restoration, and case studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 634",
+    "title": "Surface Water Hydrology",
+    "units": 3,
+    "department": "CIV",
+    "description": "Hydrologic systems. Physical hydrology. Kinematic wave theory. Diffusion and dynamic wave theories. Watershed and stream channel routing. Hydrologic simulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 638",
+    "title": "Sedimentation Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Hydraulics of sediment transport; erosion and sedimentation problems; river mechanics and morphology; mathematical modeling of river hydraulics; sediment transport and river channel changes. Design and environmental problems; erosion control and river training.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 639",
+    "title": "Stormwater Management and Green Infrastructure",
+    "units": 3,
+    "department": "CIV",
+    "description": "Stormwater management regulations, urban hydrology and hydraulics, stormwater quality and receiving-water impacts, design of drainage systems and Green Infrastructure, and state-of-the-art computer modeling of stormwater systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 640",
+    "title": "Advanced Soil Mechanics",
+    "units": 3,
+    "department": "CIV",
+    "description": "Advanced theories of soil mechanics applied to geotechnical and environmental engineering. Classification of terrestrial and marine soils, compaction, consolidation, expansion, stress distribution, strength, permeability and seepage, site improvement, and remediation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 463",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 641",
+    "title": "Advanced Foundation Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Advanced theories of soil bearing capacity, settlement, and stress distribution applied to design of shallow and deep foundations and earth retaining structures. Subsurface exploration and dewatering methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 463",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 642",
+    "title": "Groundwater Seepage and Earth Dams",
+    "units": 3,
+    "department": "CIV",
+    "description": "Groundwater seepage and contaminant transport in saturated and unsaturated soils. Flow nets for homogeneous and layered soils. Design and stability analysis of embankments and earth dams.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 463",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 644",
+    "title": "Soil Dynamics",
+    "units": 3,
+    "department": "CIV",
+    "description": "Behavior of soil and soil-structure systems under dynamic loading. Applications include dynamic earth bearing capacity and pressure, soil spring constants for machine foundation design, liquefaction analysis, site response spectra, and seismic stability of slopes. Case histories discussed.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 463",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 696",
+    "title": "Advanced Topics in Civil Engineering",
+    "units": 2,
+    "department": "CIV",
+    "description": "Intensive study in specific areas of civil engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 697",
+    "title": "Traffic Signal Systems Operations and Control",
+    "units": 3,
+    "department": "CIV",
+    "description": "State-of-the-art traffic signal system control to include advanced traffic control strategies, incorporation of surface street systems into Intelligent Transportation Systems (ITS), signal system design and operations, and traffic simulation techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 730",
+    "title": "Advanced Topics in Water Engineering",
+    "units": 3,
+    "department": "CIV",
+    "description": "Advanced treatment of several fields in water engineering to include time series analysis, hydromodification, and online hydrologic modeling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 530",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CIV E 781",
+    "title": "Seminar in Transportation Engineering",
+    "units": 2,
+    "department": "CIV",
+    "description": "An intensive study in transportation engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 797",
+    "title": "Independent Research",
+    "units": 1,
+    "department": "CIV",
+    "description": "Independent research in civil and environmental engineering.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CIV",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "CIV",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "CIV",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CIV E 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "CIV",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

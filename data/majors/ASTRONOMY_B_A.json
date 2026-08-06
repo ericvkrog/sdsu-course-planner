@@ -1,0 +1,41 @@
+{
+  "code": "ASTRONOMY_B_A",
+  "name": "Astronomy, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11915",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11915",
+  "poid": "11915",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ASTR 101",
+    "ASTR 201",
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "PHYS 197",
+    "PHYS 197L",
+    "CHEM 200"
+  ],
+  "upper_required": [
+    "ASTR 350",
+    "ASTR 440",
+    "ASTR 450",
+    "MATH 342A",
+    "PHYS 350",
+    "PHYS 354",
+    "PHYS 360",
+    "PHYS 400A",
+    "PHYS 406",
+    "PHYS 410"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

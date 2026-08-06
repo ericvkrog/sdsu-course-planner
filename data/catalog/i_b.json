@@ -1,0 +1,146 @@
+[
+  {
+    "course_code": "I B 295",
+    "title": "Internship Experience",
+    "units": 1,
+    "department": "I",
+    "description": "Internship in business or community setting. Work done under joint direction of activity sponsor and instructor. Project assignments and minimum hour requirement depending on units. Not applicable to the major.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 296",
+    "title": "Topics in International Business",
+    "units": 1,
+    "department": "I",
+    "description": "Selected topics in international business.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "I",
+    "description": "Individual study.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 410",
+    "title": "Doing Business in Latin America",
+    "units": 3,
+    "department": "I",
+    "description": "Business and managerial methods, practices, and systems in Latin American markets.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "I B 430",
+    "title": "Doing Business in Asia",
+    "units": 3,
+    "department": "I",
+    "description": "Business and managerial methods, practices, and systems in Asian markets.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "I B 495",
+    "title": "International Business Internship",
+    "units": 3,
+    "department": "I",
+    "description": "Internships with international business firms, nonprofit organizations, and government agencies in U.S. and abroad. Work done under joint direction of activity sponsor and instructor. Project report and internship orientation required.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 498",
+    "title": "Doing Business Internationally",
+    "units": 1,
+    "department": "I",
+    "description": "Required business customs and protocol course pertinent to all regions.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "I",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "I B 596",
+    "title": "Topics in International Business",
+    "units": 1,
+    "department": "I",
+    "description": "Selected topics in international business.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

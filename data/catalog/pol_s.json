@@ -1,0 +1,1433 @@
+[
+  {
+    "course_code": "POL S 101",
+    "title": "Introduction to American Politics in Global Perspective",
+    "units": 3,
+    "department": "POL",
+    "description": "Politics and basic political concepts as applied to the American political system. American political system as a constitutional democracy viewed in historical and comparative perspectives and within context of the global system. When taken with",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 102",
+    "title": "Introduction to American and California Government and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Political processes and institutions in the United States and California. Considers a variety of public policy issues such as environmental quality, health, education, relation between government and business, taxation, and foreign affairs as reflected in the dynamics of national and state politics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "When taken with",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 103",
+    "title": "Introduction to Comparative Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Analytical models and techniques for examination of problems of decision making and control in various political systems. Emphasis on patterns of political action in various cultural contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 104",
+    "title": "Introduction to Global Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Basic concepts, terms, and institutions of global politics. Explores power and inequality in the global system in a variety of issue areas, such as war and diplomacy, human rights, migration, the global economy, development, and the environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 201",
+    "title": "Statistics and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Asking and answering questions about politics with quantitative data. Analyzing and interpreting relationships between real-world political causes and effects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "POL",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "POL",
+    "description": "Individual study.",
+    "grading_method": "Grading Me",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 301A",
+    "title": "Ancient Political Thought",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 301B",
+    "title": "Early Modern Political Thought",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 302",
+    "title": "Modern Political Thought",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 305",
+    "title": "American Political Thought",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 320",
+    "title": "The U.S. Constitution",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 321",
+    "title": "State Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Meets the graduation requirement in California government. When taken with",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 331",
+    "title": "American Indian Political Experience",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 333",
+    "title": "Politics of Race and Ethnicity",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 334",
+    "title": "Politics of the Environment",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 335",
+    "title": "Policy Issues and Debates",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 336",
+    "title": "Gender and Public Policy",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 338",
+    "title": "U.S. Congress: Conflict and Compromise",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 340",
+    "title": "Drug Policy and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 345",
+    "title": "U.S. Constitutional Law: Powers and Constraints",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies graduation requirement in United States Constitution.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 346",
+    "title": "Law and the Political System",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 347",
+    "title": "U.S. Constitutional Law: Rights and Liberties",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies graduation requirement in United States Constitution.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 348",
+    "title": "The Supreme Court and Contemporary Issues",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 353",
+    "title": "Islam and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 356",
+    "title": "European Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 357",
+    "title": "British Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 359",
+    "title": "Government and Politics in Russia and Eurasia",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 361",
+    "title": "Governments and Politics of the Developing Areas",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 362",
+    "title": "Governments and Politics of East Asia",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 363",
+    "title": "Governments and Politics of the Middle East",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 364",
+    "title": "Political Change in Modern Africa",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 365",
+    "title": "Chinese Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 366",
+    "title": "Latin American Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 370",
+    "title": "Political Violence",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 372",
+    "title": "Politics and Conflict",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 375",
+    "title": "Global Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 380",
+    "title": "Human Rights in a Global Perspective",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 390W",
+    "title": "Writing About Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Writing in various political contexts and settings. Citing sources appropriately, critiquing opposing viewpoints, developing coherent political arguments, providing evidence to support conclusions, and revising.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course may not be used toward the major or minor in political science. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 406",
+    "title": "Democracy and Mass Society",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 422",
+    "title": "Urban Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Meets graduation requirement in California state and local government. Will satisfy all requirements in American Institutions when taken with",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 425",
+    "title": "Psychology of Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 426",
+    "title": "Political Communication",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 428",
+    "title": "Campaigns and Elections",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 430",
+    "title": "Immigration and Border Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 435",
+    "title": "Power and Poverty in the United States",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 436",
+    "title": "The American Presidency",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 440",
+    "title": "Food Justice",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Law and Public Policy",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 450",
+    "title": "Study Abroad in Political Science",
+    "units": 3,
+    "department": "POL",
+    "description": "Selected topics in political science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Course taught abroad through a program approved by political science department to include SDSU faculty-led courses abroad. International internships may receive political science credit. See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 479",
+    "title": "National Security Policy",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 482",
+    "title": "United States-Latin American Relations",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 485",
+    "title": "Politics of Globalization",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 490",
+    "title": "Truth, Lies, and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Making sense of “truth” and “lies” in quantitative data. Topics include experiments, polling, surveys, ethics, and misinformation. Analysis of real-world political questions and numbers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prior completion of the lower-division Area 2 (Mathematical Concepts & Quantitative Reasoning) GE requirement recommended.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 495",
+    "title": "Internship in Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Students find internships in political science, such as with government agencies, campaigns, and non-profit organizations. Internships require instructor approval to be used for the course. This course requires completing 80 hours of the internship as well as various assignments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "POL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 497A",
+    "title": "Senior Thesis Preparation",
+    "units": 3,
+    "department": "POL",
+    "description": "Preparation for written thesis to include full literature review and formal research proposal. To be taken prior to",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 497B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 497B",
+    "title": "Senior Thesis",
+    "units": 3,
+    "department": "POL",
+    "description": "Completion of written thesis. Satisfies capstone requirement for political science majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Can only be taken following successful completion of",
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 497A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 498",
+    "title": "Washington, D.C. internship",
+    "units": 6,
+    "department": "POL",
+    "description": "Students complete coursework and an internship in Washington, D.C. through a partner institution. Students must be accepted to the program",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "POL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 507",
+    "title": "Marx and Marxism",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 510",
+    "title": "Contemporary Political Thought",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Political Theory",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 301B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 305",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 530",
+    "title": "Political Parties",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 533",
+    "title": "Democracy in America",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 535",
+    "title": "Gender and Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 541",
+    "title": "Special Problems in Public Law",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: American Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 346",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 345",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 347",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 348",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 555",
+    "title": "Comparative Political Systems",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 560",
+    "title": "Comparative Citizenship in Policy and Practice",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 562",
+    "title": "Religion and Politics in Comparative Perspective",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 564",
+    "title": "Political Ecology of Latin America",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 565",
+    "title": "Nations and Nationalism",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 568",
+    "title": "Mexican Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: Comparative Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 575",
+    "title": "International Relations of the Pacific Rim",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 362",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 375",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 577",
+    "title": "Politics of International Law",
+    "units": 3,
+    "department": "POL",
+    "description": "Field of Study: International Politics",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 596",
+    "title": "Topics in Political Science",
+    "units": 1,
+    "department": "POL",
+    "description": "Selected topics in political science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 603",
+    "title": "Seminar in Foundations of Public Policy",
+    "units": 3,
+    "department": "POL",
+    "description": "Theory and practice of the policy making process. Policy design, agenda setting, policy tools, and implementation. Examination of different methods used for policy analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 605",
+    "title": "Seminar in Political Theory",
+    "units": 3,
+    "department": "POL",
+    "description": "Normative political theories and concepts from various traditions and historical contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 615",
+    "title": "Seminar in Research Design and Analysis in Political Science",
+    "units": 3,
+    "department": "POL",
+    "description": "Modeling and design of research projects. Theoretical understanding and logic of social science analysis. Hypothesis specification. Data collection, measurement, testing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 616",
+    "title": "Tools for Quantitative Analysis",
+    "units": 3,
+    "department": "POL",
+    "description": "Answer quantitative research questions. Goals of quantitative research using statistical models as evidence. Analysis of real world data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 617",
+    "title": "Seminar in Applied Qualitative Methods",
+    "units": 3,
+    "department": "POL",
+    "description": "Experiential learning of various qualitative methodologies for social science research to include discourse analysis, interpretive visual analysis, interviewing, and participant observation. Techniques and technologies for systematically analyzing qualitative materials.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 620",
+    "title": "Seminar in American National Government",
+    "units": 3,
+    "department": "POL",
+    "description": "Selected topics in American politics. May include Congress, the presidency, courts, and elections and political participation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 630",
+    "title": "Seminar in Politics",
+    "units": 3,
+    "department": "POL",
+    "description": "Special topics in Political Science taught in a seminar environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 635",
+    "title": "Seminar in Issues in Public Policy",
+    "units": 3,
+    "department": "POL",
+    "description": "How processes and outcomes of public policy relate to the quality of democracy and the distribution of power and resources. Focus on a key policy issue such as environment, immigration, policing, detention, housing, electoral rules, citizen self-governance, or others.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 655",
+    "title": "Seminar in General Comparative Political Systems",
+    "units": 3,
+    "department": "POL",
+    "description": "The field of comparative politics, including historical developments, major theoretical approaches, substantive concerns, uses and limitations of the comparative method, methodological innovations in study of foreign political systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 658",
+    "title": "Seminar in Post-Communist Political Systems",
+    "units": 3,
+    "department": "POL",
+    "description": "Nature of Communist political systems and processes of transition to post-communist forms of government. Possibilities for development of democratic institutions examined theoretically and empirically.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 661",
+    "title": "Seminar in the Political Systems of the Developing Nations",
+    "units": 3,
+    "department": "POL",
+    "description": "Theoretical analysis of political development, modernization and industrialization in the emerging nations. Search for valid generalizations about the non-Western political process. Political trends and developments in the developing nations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 667",
+    "title": "Seminar in Latin American Political Systems",
+    "units": 3,
+    "department": "POL",
+    "description": "Political developments in selected Latin American nations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 675",
+    "title": "Seminar in International Relations",
+    "units": 3,
+    "department": "POL",
+    "description": "Selected topics in international relations. May include theories of international relations, international political economy, international law, global justice, nationalism, and postcolonialism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 696",
+    "title": "Seminar in Selected Topics in Political Science",
+    "units": 3,
+    "department": "POL",
+    "description": "Selected topics in political science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 795",
+    "title": "Problem Analysis",
+    "units": 3,
+    "department": "POL",
+    "description": "Analytical treatment of selected problems in political science. Review of methods for investigation and reporting of data. Consideration of problems in preparation of project or thesis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 796",
+    "title": "Internship in Public Policy",
+    "units": 3,
+    "department": "POL",
+    "description": "A 160-hour internship approved by instructor in public or private agency. Grade based on instructor’s evaluation of supervisor’s report, student consultation with instructor reviewing experience and required readings, and extensive paper relating internship experience to theories of public policy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "POL S 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "POL S 797",
+    "title": "Research in Political Science",
+    "units": 3,
+    "department": "POL",
+    "description": "Research in political theory, political parties, comparative government, international relations, public law or American government.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "POL",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "POL",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "POL",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "POL S 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "POL",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

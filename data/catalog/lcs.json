@@ -1,0 +1,50 @@
+[
+  {
+    "course_code": "LCS 300",
+    "title": "Language, Culture, and Society",
+    "units": 3,
+    "department": "LCS",
+    "description": "The study of language, culture, and society, based on anthropology and linguistics. Bilingualism, dialect variation, language endangerment and preservation, language ideology and policy, linguistic sexism and racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LCS 483",
+    "title": "Topics in Language, Culture, and Society",
+    "units": 3,
+    "department": "LCS",
+    "description": "Topics in language, culture, and society such as language and culture in technology, cross-linguistic lexical semantics and culture, conversational analysis and cultural variation, cross-cultural variation in gendered speech, globalization and English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "LCS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

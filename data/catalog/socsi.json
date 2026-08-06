@@ -1,0 +1,28 @@
+[
+  {
+    "course_code": "SOCSI 300",
+    "title": "Social Science Approaches and Concepts",
+    "units": 3,
+    "department": "SOCSI",
+    "description": "Exploration of core concepts in social science and the controversies surrounding them. Examination of how social scientists conduct research as well as methodological debates within and across disciplines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOCSI 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SOCSI",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

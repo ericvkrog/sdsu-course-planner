@@ -1,0 +1,117 @@
+[
+  {
+    "course_code": "CON M 102",
+    "title": "Fundamentals of Construction Management",
+    "units": 1,
+    "department": "CON",
+    "description": "Construction industry and its projects. Functions of main actors and phases of construction projects. Tasks performed by construction managers and how they relate to and impact projects. Common processes and technologies in construction management field.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON M 262",
+    "title": "Soil Mechanics",
+    "units": 3,
+    "department": "CON",
+    "description": "Formation of soils. Classification of soils and their behavior. Compaction, consolidation, permeability, strength, and swelling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON M 320",
+    "title": "Construction Estimating",
+    "units": 3,
+    "department": "CON",
+    "description": "Identifying and estimating time and cost requirements for construction operations based on drawings and specifications. Review computer applications for estimating.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON M 350",
+    "title": "Construction Project Controls",
+    "units": 3,
+    "department": "CON",
+    "description": "Characteristics of the construction industry and impacts on project controls. Associated costs in business and construction projects. Lease or buy decisions, pricing of change orders, progress payments, and schedules of values.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON M 400",
+    "title": "Preconstruction Management",
+    "units": 3,
+    "department": "CON",
+    "description": "Addressing general conditions, organizing site logistics, and project start-up. Assembling teams and defining contractual scopes of work. Organizing the pursuit of projects. Phases related to building a proposal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CON M 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON M 401",
+    "title": "Construction Planning and Scheduling",
+    "units": 3,
+    "department": "CON",
+    "description": "Fundamentals of scheduling logic including critical path method, deterministic and probabilistic scheduling, and impact of constraints. Development of construction plan and representation in schedule format using common computer applications used in industry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON M 495W",
+    "title": "Construction Management Capstone Project",
+    "units": 3,
+    "department": "CON",
+    "description": "Application of construction management principles, tools, and techniques to the management of construction projects.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open only to Construction Management majors. Not open to students with credit in CON E 495.",
+    "prerequisites": [
+      {
+        "prereq_code": "CON M 400",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

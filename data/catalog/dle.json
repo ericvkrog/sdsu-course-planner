@@ -1,0 +1,541 @@
+[
+  {
+    "course_code": "DLE 416",
+    "title": "Biliteracy Foundations for Teaching and Learning in Diverse Communities",
+    "units": 3,
+    "department": "DLE",
+    "description": "Oral, written, and communicative competencies in Spanish through practical experiences and study of sociopolitical and sociocultural contexts impacting bilingual learners in culturally and linguistically diverse communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 416L",
+    "title": "Biliteracy Foundations for Teaching and Learning in Diverse Communities Field Experience",
+    "units": 1,
+    "department": "DLE",
+    "description": "Field experience in multilingual (Spanish-English) K-12 schools and communities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 416",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "DLE",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "DLE",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 515",
+    "title": "Multilingual Education: Theory and Practice for Biliteracy Teachers",
+    "units": 3,
+    "department": "DLE",
+    "description": "Pedagogical and programmatic practices for addressing linguistic and academic needs of multilingual learners. Historical and theoretical foundations of bilingual education as related to bilingual and dual language programs to include instruction, curriculum, and assessment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish and English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 523",
+    "title": "Psychological Foundations for Biliteracy Teachers in K-6 Classrooms",
+    "units": 3,
+    "department": "DLE",
+    "description": "Major theories of learning and cognition as applied to bilingual students and their relation to child development, first and second language acquisition, and approaches to teaching in bilingual classroom.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 524",
+    "title": "Psychological Foundations for Biliteracy Teachers in Grades 7-12",
+    "units": 1,
+    "department": "DLE",
+    "description": "Bilingual learning theory as it affects adolescent growth, individualized instruction, classroom management and discipline, and methods of measuring and evaluating achievement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Taught in Spanish and English. See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 532",
+    "title": "Biliteracy Teaching in Language Arts for Elementary Students",
+    "units": 3,
+    "department": "DLE",
+    "description": "Assessing language proficiency; selecting, designing, and evaluating learning experiences to develop biliteracy in K-6 classrooms in English language arts and language of emphasis (Arabic, Mandarin, or Spanish).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught bilingually in language of emphasis and English.",
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 416",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 553",
+    "title": "Language Assessment and Evaluation in Multicultural Settings",
+    "units": 3,
+    "department": "DLE",
+    "description": "Theories and methods of assessment and evaluation of diverse student populations including authentic and traditional models. Procedures for identification, placement, and monitoring of linguistically diverse students. Theories, models, and methods for program evaluation, achievement, and decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 596",
+    "title": "Special Topics in Bilingual and Multicultural Education",
+    "units": 1,
+    "department": "DLE",
+    "description": "Selected topics in bilingual, cross-cultural education and policy studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 600A",
+    "title": "Foundations of Democratic Schooling",
+    "units": 3,
+    "department": "DLE",
+    "description": "Analysis of relationships among ideology, culture, and power in educational context; key concepts in critical pedagogy applied to programs, curricula, and school restructuring.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 600B",
+    "title": "Foundations of Dual Language Programming for Critical Biliteracy Development",
+    "units": 3,
+    "department": "DLE",
+    "description": "Critical literacy and democratic schooling for dual language program models. Program models that apply to policies and practices that inform literacy curriculum and pedagogy in dual language-biliteracy settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 601",
+    "title": "Language Policies and Practices",
+    "units": 3,
+    "department": "DLE",
+    "description": "Formal and informal policies related to education of linguistically diverse students at micro/macro level and in school contexts; analysis of bilingual and cross-cultural issues in cognition and literacy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 603",
+    "title": "Community and Schools in a Diverse Society",
+    "units": 3,
+    "department": "DLE",
+    "description": "Linguistic and cultural diversity of school and community. Development of community sociocultural scan; home and school collaboration; effects of home and school collaboration on achievement; responsibility of parent caretaker, stakeholder for student success.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 604",
+    "title": "Learning and Teaching Language in a Dual Language Setting",
+    "units": 3,
+    "department": "DLE",
+    "description": "Dual language instructional methods, modeling oral and written grammatical structures. Language acquisition strategies for English and Spanish in K-12 grades. Emphasis on written structures for academic literacy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 650",
+    "title": "Curriculum Development for Urban School Communities via Action Research",
+    "units": 3,
+    "department": "DLE",
+    "description": "Curriculum development through lens of critical theory and action research. Principles of curriculum, instruction, and programs contextualized and with regard to particular educational institutions or work sites from a social justice perspective.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 651",
+    "title": "ELD Curriculum, Teaching, and Assessment",
+    "units": 3,
+    "department": "DLE",
+    "description": "Methods in teaching English language development (ELD). Delivery of comprehensive instruction and assessment for English learners. Strategies for implementing state adopted standards for ELD in language and content areas. Review of current policy and research on education for multilingual English learners.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 915A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 915B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 652",
+    "title": "Literacy and Language: Critically Examining Curriculum for Teaching and Learning",
+    "units": 3,
+    "department": "DLE",
+    "description": "Research in literacy and multicultural curriculum theories, methods, and teaching connected to community, school, and personal literacies. Literacy practices for educating diverse students; varying definitions of literacy and social-political contexts of literacy curriculum.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 653",
+    "title": "Language Development Multilingual Classrooms",
+    "units": 3,
+    "department": "DLE",
+    "description": "Dual language and multilingual classrooms, universals and differences in language structure, transfer, and use (including basic linguistics). First and additional language development; related factors (political/sociocultural aspects of bilingualism).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in English and Spanish.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 686",
+    "title": "Seminar in Multicultural Education",
+    "units": 1,
+    "department": "DLE",
+    "description": "Topics dealing with current issues in multicultural education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "DLE",
+    "description": "May involve fieldwork.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 910",
+    "title": "Teaching Mathematics to Bilingual Students",
+    "units": 1,
+    "department": "DLE",
+    "description": "Underlying learning theories for teaching mathematical concepts, computation, and problem-solving skills to bilingual students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 911",
+    "title": "Teaching Social Studies to Bilingual Students",
+    "units": 1,
+    "department": "DLE",
+    "description": "Conceptual approaches for teaching bilingual social studies curriculum, incorporating sociocultural characteristics of multicultural community, social concepts, and community social issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 912",
+    "title": "Teaching Science to Bilingual Students",
+    "units": 1,
+    "department": "DLE",
+    "description": "Strategies for development of process skills and concept acquisition. Methodology for teaching activity-oriented science class bilingually.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 915A",
+    "title": "Teaching and Learning in the Content Area: Designated and Integrated English Language Development-Multiple Subject",
+    "units": 3,
+    "department": "DLE",
+    "description": "Teaching strategies in content specific fields from second language acquisition perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 915B",
+    "title": "Teaching and Learning in the Content Area: Designated and Integrated English Language Development-Single Subject",
+    "units": 3,
+    "department": "DLE",
+    "description": "Teaching strategies in content specific fields from second language acquisition perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": "ED 451",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 925",
+    "title": "Intern Seminar: Teaching English Learners",
+    "units": 1,
+    "department": "DLE",
+    "description": "Research-based instruction to meet the needs of diverse language learners in a variety of classroom settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 931",
+    "title": "Skills in Teaching Reading to Bilingual Elementary Students",
+    "units": 1,
+    "department": "DLE",
+    "description": "Teaching reading in English, including methods, strategies, assessment, materials, and techniques of transition for implementing reading programs in the bilingual classroom.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 933",
+    "title": "Skills in Teaching Reading to Bilingual Secondary Students",
+    "units": 3,
+    "department": "DLE",
+    "description": "Methods for developing reading skills in Spanish and English across subject areas. Includes comprehension, academic vocabulary, concept development, reading strategies, and assessment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish and/or English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 954",
+    "title": "Classroom Organization for Democratic Teaching in Bilingual Classrooms",
+    "units": 1,
+    "department": "DLE",
+    "description": "Teaching practices to include democratic processes for classroom management in bilingual classrooms. Classroom teaching, classroom discipline, and curriculum management. Social-cultural and political contexts of teaching to include overview of teacher performance assessment tasks.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 524",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 963",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 960",
+    "title": "Professional Seminar for Bilingual Teacher Candidates",
+    "units": 4,
+    "department": "DLE",
+    "description": "Lesson planning and organizing instruction for equity and access for bilingual elementary and secondary classrooms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 961",
+    "title": "Practicum in Elementary Bilingual Classroom",
+    "units": 1,
+    "department": "DLE",
+    "description": "Field experience at two grade levels in a multicultural setting and a bilingual elementary classroom; student teacher assumes responsibility for planning and instruction for specified time to comply with State requirements.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DLE 962",
+    "title": "Student Teaching for Elementary Bilingual Students II",
+    "units": 1,
+    "department": "DLE",
+    "description": "Field experience in a multicultural setting or a bilingual elementary classroom. Student must provide own transportation to student teaching site.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 961",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 963",
+    "title": "Practicum in Secondary Bilingual Classroom",
+    "units": 1,
+    "department": "DLE",
+    "description": "On-site, part-time to full-time experience to implement bilingual teacher competencies introduced in DLE 515, DLE 524, and DLE 954. Students must provide own transportation to student teaching site.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 524",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 954",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DLE 964",
+    "title": "Student Teaching for Bilingual Secondary Students II",
+    "units": 8,
+    "department": "DLE",
+    "description": "On-site, full-day experience in State approved bilingual and nonbilingual classes to implement teacher competencies as developed in the total professional sequence. Students must provide own transportation to student teaching site.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 524",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 963",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

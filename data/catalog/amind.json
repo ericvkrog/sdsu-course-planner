@@ -1,0 +1,555 @@
+[
+  {
+    "course_code": "AMIND 110",
+    "title": "American Indian Heritage",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Major American Indian themes, beliefs, and practices and their impact on Western civilization through institutions, art, literature, philosophy, and religion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 120",
+    "title": "Written Communication",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Understanding of rhetoric of written argument from interdisciplinary perspectives, with reference to American Indian content. Designed to develop and enhance composition and reading skills. Focus on writing skills that contribute to academic growth and development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 140",
+    "title": "U.S. History from an American Indian Perspective to 1870",
+    "units": 3,
+    "department": "AMIND",
+    "description": "U.S. history from an indigenous perspective pre-Columbian contact to 1870. Examines Native American societies with attention to white intrusion, U.S. constitution and legislation to remove Indians, control of their land and impact upon indigenous culture and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the American Institutions requirement in American history and United States Constitution. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 141",
+    "title": "U.S. History from an American Indian Perspective Since 1870",
+    "units": 3,
+    "department": "AMIND",
+    "description": "U.S. history from an indigenous perspective from 1870 to the present. Examines Native American societies, political systems, and reservations. Attention given to historical, contemporary, political, socioeconomic issues, the U.S. and California constitutions and their impact on Native Americans.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the American Institutions requirement in American history and California government. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 200",
+    "title": "Written Kumeyaay",
+    "units": 4,
+    "department": "AMIND",
+    "description": "Introduction to the Kumeyaay writing system. Grammar explained based on beginning Kumeyaay.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 210",
+    "title": "Indigenous Women and the Arts",
+    "units": 3,
+    "department": "AMIND",
+    "description": "How indigenous women have used cultural forms to represent political issues and imagine social possibilities. Cultural forms to include contemporary and traditional material arts, fashion, film, literature, multimedia performance, and music.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 215",
+    "title": "EY American Indian Mentoring Seminar",
+    "units": 1,
+    "department": "AMIND",
+    "description": "Mentoring seminar for American Indian students or those interested in Native issues. Integration of Native knowledge with academic sources. College prep skills and student services. Guest lectures from local and national tribal leaders.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 225",
+    "title": "Expository Writing and Research",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Intermediate writing development to include rhetoric of spoken, written, and visual texts drawn from interdisciplinary sources.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in AFRAS 200, CCS 200, LING 200, or RWS 200 [or ECL 200].",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 230",
+    "title": "Intermediate Written Kumeyaay",
+    "units": 4,
+    "department": "AMIND",
+    "description": "Intermediate Kumeyaay grammar and literacy. Follows AMIND 200 Written Kumeyaay.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 235",
+    "title": "Indians in Comic Books and Graphic Arts",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Historical, literary, and cultural study of the representation of the Indigenous Peoples of North America in the medium of the American comic books and graphic arts from the 1930s through the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "AMIND",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 300",
+    "title": "American Indian Oral Tradition",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Pre-twentieth century American Indian oral and symbolic traditions including creation and origin legends, coyote stories, ceremonial songs, oratory, and memoirs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 320",
+    "title": "American Indians in Contemporary Society",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Sociological understanding of the American Indian groups in contemporary society with emphasis on the relationship to dominant society and why the focus has been on Indians as social problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 331",
+    "title": "The American Indian Political Experience",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Social and political responses to dominant group policies by American Indian as compared to other minority groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 350",
+    "title": "American Indian Environmental Management",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Indigenous astronomical, botanical, and ecological knowledge with emphasis on California Indians. Integration of traditional knowledge and western sciences in contemporary tribal governmental efforts at environmental management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 370",
+    "title": "Tribal Gaming: Cultural and Political Context",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Social and political context of American Indian tribal gaming, political relationships between federal and tribal governments, contemporary examples of tribal gaming, sociocultural and economic forces leading to gaming as strategy for economic development, and responses by non-Indian communities to tribal gaming.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 380",
+    "title": "Indigenous Museology",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Historical, geographical, political, social, and regulatory context of  cultural/environmental resource management and its impact on Native peoples. Economic and political pressures of development, government to government consultation, activism. Creative and effective approaches to tribal cultural heritage preservation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 420",
+    "title": "Indian Peoples of California",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Indian peoples of California. Their histories and cultures from oral traditions to contemporary issues. Focus on selected Indian tribes and communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 430",
+    "title": "American Indian Poetry and Fiction",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Contemporary American Indian poetry and fiction explored in works of Welch, Ortiz, Momaday, Silko, Deloria, Allen, Erdrich, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 435",
+    "title": "Indians through Film and Television",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Ethnographic film-making. Impact of movies and television on popular concepts of Indians. Films viewed in class.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 440",
+    "title": "American Indian History",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Historical analysis of Indian-White contact. Emphasis on the impact of historical events upon the various cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 445",
+    "title": "Culture, Gender, and Race in Sports",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Intersection of culture, gender, and race through sports in Europe, Latin America, and North America at amateur, community-based, and professional levels. Consideration of sports’ participation and fandom and how gender, nationality, indigeneity and race affect those processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 451",
+    "title": "American Indian Identity",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Multidisciplinary perspectives on American Indian identity today. Topics include perspectives from political, ethnic, cultural and legal standpoints, both within and outside of indigenous communities, as well as diachronic variation in perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 460",
+    "title": "American Indian Languages",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Structures of American Indian languages. Language families of North America, history, and present circumstances. Interdependence of language and culture, differences in ways of speaking. Issues of language endangerment, language death, language maintenance, and language revitalization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 470",
+    "title": "American Indian Worldviews and Cosmologies (B)",
+    "units": 3,
+    "department": "AMIND",
+    "description": "In-depth examination of American Indian cultures, ways of knowing, and worldviews. Comparative analysis of tribal philosophies and orientations with those of Western society. Special emphasis on American Indian worldviews and experiences as related to relationship to land, ceremonial practices, and ethical systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Courses for Area (B) Traditions, are identified in the course title as (B).",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 480",
+    "title": "Issues in American Indian Education",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Cross-cultural differences in learning styles, emphasis on Native American styles. Cross-cultural differences in child socialization related to readiness for school. Literacy-related practices in oral communities. Bilingual education in Native American communities. Local educational empowerment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 485",
+    "title": "Federal Indian Law",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Legal relationship between the United States and Indian people and Indian tribes as field of Indian law was developed and has changed over the years until the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 110",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 140",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 141",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AMIND 496",
+    "title": "Topics in American Indian Studies",
+    "units": 1,
+    "department": "AMIND",
+    "description": "An undergraduate seminar.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 498",
+    "title": "American Indian Community Service Experience",
+    "units": 1,
+    "department": "AMIND",
+    "description": "Service learning experience in local American Indian community, mentoring, tutoring, or interning at Indian Education Center, Indian Health Center, or similar experience. Minimum of 35 contact hours. Service experience coordinated by supervising American Indian studies faculty with target community organization.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "AMIND",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AMIND 585",
+    "title": "Methods in Ethnic Studies Teaching: Decolonial Pedagogies in K-12 Schools",
+    "units": 3,
+    "department": "AMIND",
+    "description": "Approaches, methods, and theories of instruction and assessment to include decolonial, humanizing, and liberatory pedagogies. Development of ethnic studies curricula. Ethnicity, race, and racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AMIND 480",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AFRAS 421",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 580",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DLE 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

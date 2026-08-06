@@ -1,0 +1,1786 @@
+[
+  {
+    "course_code": "GEOG 101",
+    "title": "Earth\u2019s Physical Environment",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Earth systems and the global environment to include weather and climate, water, landforms, soils, and ecosystems. Distribution of physical features on Earth\u2019s surface and interactions between humans and environment, especially those involving global change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 101L",
+    "title": "Earth\u2019s Physical Environment Laboratory",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Observations, hands-on experiments, and practical exercises involving weather, climate, soils, running water, landforms, and vegetation. Includes map fundamentals and interpretation, analysis of airborne and satellite imagery. Designed to supplement",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 102",
+    "title": "People, Places, and Environments",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Introduction to human geography. Global and local issues to include culture, development, migration, urbanization, population growth, identity, globalization, geopolitics, and environmental change. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 103",
+    "title": "Weather and Climate",
+    "units": 3,
+    "department": "GEOG",
+    "description": "The composition, structure, and circulation of the atmosphere, including elementary theory of storms and other weather disturbances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 104",
+    "title": "Geographic Information Science and Spatial Reasoning",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Fundamental concepts in geographic information systems, cartography, remote sensing, spatial statistics, and global positioning systems. Use of critical technologies in addressing human and environmental problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 106",
+    "title": "World Regional Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Regional approaches to social, political, economic, environmental, and cultural interactions. Colonialism, globalization, development, environmental issues, and geopolitics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 170",
+    "title": "Sustainable Places and Practices",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Sustainability from a geographic perspective, focusing on role of everyday practices in creating sustainable places. Case studies illustrate geographic variations in the social organization of people/nature relationships and emphasize connections across global, local, and individual scales.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 303",
+    "title": "Severe Weather",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Physical processes, human responses, and mitigation strategies related to atmospheric hazards, including blizzards, wind storms, severe thunderstorms, tornadoes, hurricanes, heat waves, floods, and drought.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 312",
+    "title": "Culture Worlds",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Geographical characteristics and development of major cultural realms of the world. Spatial components of contemporary conflict within and between these regions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 320",
+    "title": "California",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Systematic and regional analysis of physical and cultural landscapes of California. Availability and use of water resources. Human patterns of population and migration, economic activities, and urban and ethnic landscapes. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 321",
+    "title": "United States",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Systematic and regional analysis of physical, cultural, environmental, and economic landscapes of the United States. Current and relevant regional process and issues to include sustainability, physical processes, socioeconomic change and development, cultural dynamics.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 324",
+    "title": "Latin America",
+    "units": 3,
+    "department": "GEOG",
+    "description": "People, places, and environments of the region to include geographic dimensions of colonialism, territorial evolution and geopolitics, rural and urban livelihoods, and contemporary patterns of socio-spatial inequality.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 336",
+    "title": "Europe",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Systematic analysis of the geographic bases of modern European life. Regional investigation of countries of Europe.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 341",
+    "title": "Feeding the World",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Food sustainability and security. Geographic relationship between environment and food to include impacts of food production and consumption on environmental resources and climate, influence of environmental factors on food security, role of economic, political, and social factors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit in GEOG 340",
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 342",
+    "title": "Food, Place, and Culture",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Significance of food in the human experience, its role in sustaining cultures, making places, organizing societies, and supporting economies and livelihoods. Relationships between food and culture at the global, local, and body scales.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 348",
+    "title": "Environment and Development",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Geographic analysis of environmental and social issues in the global south. How colonialism, development, and globalization have shaped equity and sustainability issues and access to resources, environmental health, migration, and poverty around the world. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 106",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 170",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 353",
+    "title": "Economic Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Geographic relations of production, exchange and consumption; trade and economic development; location of economic activities; globalization and economic transformations at the national, regional, and local scales; institutional, social, political, environmental, and cultural aspects of economic activities in various places.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 354",
+    "title": "Geography of Cities",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Survey of the location, function and spread of cities; the spatial and functional arrangement of activities in cities, leading to an analysis of current urban problems: sprawl, city decline, metropolitan transportation. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 360",
+    "title": "Human Dimensions of Climate Change",
+    "units": 3,
+    "department": "GEOG",
+    "description": "To\u00a0focus on three major areas in the human dimensions of climate change: mitigation, adaptation, and loss and damage. Broadly examine and analyze impacts, challenges, opportunities, and solutions to the human dimensions of climate change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 370",
+    "title": "Conservation Science and Policy",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Scientific understanding of human-environment systems; sustainable management of natural resources under changing global conditions; role of science in addressing environmental issues and development of environmental and conversation policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 375",
+    "title": "Environmental Hydrology",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Hydrological processes to include precipitation, surface water, groundwater, water quality, and ecohydrology. Impact of human activities on water resources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 104",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 380",
+    "title": "Map Investigation",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Use of the map as an analytical tool in geography. History of developments in cartography.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 381",
+    "title": "Computerized Map Design",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Art and science of creating digital maps as media for describing and analyzing geographic phenomena. Computer laboratory instruction and practice in cartographic techniques with emphasis on thematic maps and geographic information systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 383",
+    "title": "GIS Scripting Fundamentals",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Geospatial data processing, analysis, and modeling by scripting languages using Python and R and Structured Query Language for PostgreSQL.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 385",
+    "title": "Spatial Data Analysis",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Analysis of spatially distributed data including computer applications. Spatial sampling, descriptive statistics for areal data, inferential statistics, use of maps in data analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 395",
+    "title": "Introduction to the Major",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Introduction to the dimensions of the field of geography, to the courses and faculty, and to the learning objectives by which course and student outcomes are assessed.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 401",
+    "title": "Geomorphology",
+    "units": 3,
+    "department": "GEOG",
+    "description": "How surface processes to include wind, water, ice, and gravity shape the Earth\u2019s landforms. May include field trips, ranging from investigation of local beaches and deserts to exploration of geomorphic forces shaping Yosemite National Park.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 409",
+    "title": "Global Climate Change",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Global climate system and feedbacks with biosphere. Past climates and potential future changes, including changes in greenhouse gases, ozone depletion and acid rain. Predictions and uncertainty regarding changes including natural and anthropogenic causes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 426",
+    "title": "Regional Field Studies",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Regional analysis to include physical, cultural, environmental, economic geography at the field level. Specific field techniques/topics taught in lecture and applied in the field. Required field trip of one week to 10 days.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 440",
+    "title": "Food Justice",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Food justice from perspectives of theory, institutions, markets, law, ethics, social mobilization, politics, and ecology. Political strategies, capabilities of food justice organizations; movements aimed at creating fair, healthy, sustainable food systems locally and globally.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 454",
+    "title": "Sustainable Cities",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Political and economic forces shaping the structure and organization of cities; physical and human consequences of urbanization; environmental, economic and social sustainability of cities. Housing, transportation, land use, urban services, employment, segregation, and social inequality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 484",
+    "title": "Geographic Information Systems",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Procedures for encoding, storage, management, and display of spatial data; theory of computer-assisted map analysis; examination of important geographic information systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 380",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 495",
+    "title": "Geography Capstone",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Synthesis of knowledge gained by students in upper division geography courses at SDSU, based on in-class essays and creation of a portfolio outlining learning experiences in geography. Practical information to prepare for professional employment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 395",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 496",
+    "title": "Selected Studies in Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Critical analysis of problems within a specific field of the discipline. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 498",
+    "title": "Senior Thesis",
+    "units": 3,
+    "department": "GEOG",
+    "description": "A written thesis based on an individual research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 503",
+    "title": "Climate Modeling 1: land-use and climate changes",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Modeling, nature, and principles of land-atmosphere interaction processes to include heat and water fluxes and applications for assessing the impacts of land-use and climate changes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 507",
+    "title": "Geography of Natural Vegetation",
+    "units": 3,
+    "department": "GEOG",
+    "description": "The natural vegetation formations of the world and their classifications, development, distribution, and environmental influences to include relationships to human activities. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 509",
+    "title": "Regional Climatology",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Regional distributions of Earth\u2019s climates and basic principles governing atmospheric processes that control global distributions of climate types.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 511",
+    "title": "Hydrology and Global Environmental Change",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Hydrologic processes and regimes, how these are affected by environmental change and how hydrologic process and regimes affect patterns of environmental change. Processes operating at global, regional, and local scales are examined, including land-use/land-cover change and climate change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 512",
+    "title": "World on Fire",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Wild-land fire processes, controls, and effect on soils, water resources, and vegetation in contrasting ecosystems. Fire regimes and mitigation strategies. Fire research.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 104",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 554",
+    "title": "World Cities: Comparative Approaches to Urbanization",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Worldwide trends in urbanization. Case studies of selected cities from various culture areas with focus on international variations in city structure and urban problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 570",
+    "title": "Environmental Conservation Practice",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Management of environmental and natural resources. Effective programs and the institutional frameworks in which they occur.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 572",
+    "title": "Land Use Analysis",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Theoretical and practical approaches to land use management. Current and relevant techniques and policies at local, state and federal levels, aimed toward providing healthy and environmentally sound communities that provide positive benefits to society and the economy. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 573",
+    "title": "Population and the Environment",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Population distribution, growth, and characteristics as they relate to environmental degradation, both as causes and consequences. Roles of women, sustainable development, carrying capacity, optimum population, and policy initiatives in relationships between population and environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 574",
+    "title": "Water Resources",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Occurrence and utilization of water resources and the problems of water resource development. Field trips may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 375",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 305",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 576",
+    "title": "Advanced Watershed Analysis",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Theory and techniques in watershed analysis. Use of GIS and statistical programming for analyses of geomorphology, hydrology, and water quality data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 103",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 375",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 484",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 578",
+    "title": "Practical Hydrologic Modeling",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Theory and techniques in hydrologic modeling. Computer programming for model design and building. Model application for water resources, flood forecasting and decision-making.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 375",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 511",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOL 305",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 445",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 336",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 580",
+    "title": "Data Management for Geographic Information Systems",
+    "units": 3,
+    "department": "GEOG",
+    "description": "PostgreSQL, PostGIS, and open source databases to store, manage, and query geospatial data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 484",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 383",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 581",
+    "title": "Data Visualization",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Principles, techniques, and practice of data visualization. Exposition of patterns and trends existing in diverse source data to include georeferenced, multivariate, and network data for purposes of communication, exploration, and discovery. Field trips and visits by practitioners may be arranged.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 380",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 582",
+    "title": "Introduction to GIS Programming",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Introductory programming to automate GIS tasks, including processing, analyzing, and visualizing geospatial data in vector and raster formats. Gain practical skills in scripting for efficient geospatial data manipulation and automation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 583",
+    "title": "Internet Mapping and Distributed GIServices",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Current development of Internet mapping and cartographic skills for web-based maps (multimedia, animation, and interactive design). Fundamental theories of distributed GIS to support Internet mapping with focus on distributed component technologies, Internet map servers, and web services.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 584",
+    "title": "Geographic Information Systems Applications",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Spatial analysis methods in GIS, to include terrain, raster, and network analysis. Feature distributions and patterns. GIS data processing techniques to include spatial interpolation, geocoding, and dynamic segmentation. Designing and executing analytical procedures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 484",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 585",
+    "title": "Quantitative Methods in Geographic Research",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Application of statistical techniques to geographic research to include simple regression and correlation, multiple regression, geographically weighted regression, classification, factor analysis, and computer applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 385",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 586",
+    "title": "Qualitative Methods in Geographic Research",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Application of qualitative techniques to geographic research including reflexive survey design and in-depth interviews, non-obtrusive methods, landscape interpretation, textual methods and discourse analysis, feminist criticism, and humanistic and historical materialist perspectives on measurement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 589",
+    "title": "GIS-Based Decision Support Methods",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Integration of Geographic Information Systems (GIS) with discrete and continuous multiple criteria decision making (MCDM) methods. Applications of MCDM in land use planning, site selection, and resource management spatial decision problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 484",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 590",
+    "title": "Community-Based Geographic Research",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Local social and/or environmental issues. Research design, data collection and analysis, collaboration with community-based organizations, reflection on research and social responsibility, communication of findings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 591",
+    "title": "Remote Sensing of Environment",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Acquiring and interpreting remotely sensed data of environment. Electromagnetic radiation processes, aerial and satellite imaging systems and imagery. Geographic analysis of selected human, terrestrial, and marine processes and resources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 591L",
+    "title": "Remote Sensing of Environment Laboratory",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Practical exercises, introductory processing, visual interpretation and mapping of remotely sensed imagery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV S 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SUSTN 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 592",
+    "title": "Intermediate Remote Sensing of Environment",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Digital image processing. Thermal infrared and microwave imaging systems and image interpretation principles. Geographic analysis of selected human, terrestrial, oceanographic, and atmospheric processes and resources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 385",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 592L",
+    "title": "Intermediate Remote Sensing of Environment Laboratory",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Digital image processing, visual interpretation, mapping of thermal infrared, and microwave imagery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 385",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 591L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 592",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 593",
+    "title": "GIS for Business Location Decisions",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Geographic Information Systems (GIS) and location analysis methods to include modeling and spatial analysis. Applications of GIS and location analysis in business site selection, market segmentation, retail marketing, and service area analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 484",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 584",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 589",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 594",
+    "title": "Big Data Science and Analytics Platforms",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Big data science to include analysis, data collection, filtering, GIS, machine learning, processing, text analysis, and visualization. Computational platforms, skills, and tools for conducting big data analytics with real world case studies and examples.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 595",
+    "title": "Geographic Internship",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Students will be assigned to various government agencies and industry and will work under the joint supervision of agency heads and the course instructor.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 596",
+    "title": "Advanced Topics in Geography",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Advanced special topics in geography.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 670",
+    "title": "Environmental Conservation Theory",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Theories and principles involved in natural and environmental resources management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 683",
+    "title": "Advanced Geographic Information Systems",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Advanced GIS analysis and scripting techniques for automating geoprocessing tasks and developing spatial analysis and modeling tools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 688",
+    "title": "Advanced Remote Sensing",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Sensor systems, image interpretation and geographic applications in thermal infrared and microwave remote sensing. Principles of digital image processing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 688L",
+    "title": "Advanced Remote Sensing Laboratory",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Processing and analysis of remotely sensed data. Laboratory training in sensor systems and digital image-processing methods including thermal infrared and microwave data analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 688",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 696",
+    "title": "Advanced Special Topics in Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Advanced special topics in geography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 700",
+    "title": "Seminar in Geographic Research Design",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Definition of spatial problems, hypothesis formulation and testing, selection of appropriate methodology. Development of research proposals, conduct of research, written and oral presentations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 701",
+    "title": "Seminar in Development of Geographic Thought",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Evolution of concepts concerning the nature, scope, theories, and methodologies of geography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 710",
+    "title": "Seminar in Physical Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Intensive study of an aspect of physical geography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 740",
+    "title": "Seminar in Human Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Intensive study of a spatial aspect of human geography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 760",
+    "title": "Seminar in Behavioral and Social Geography",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Intensive study of a spatial aspect of behavioral or social geography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 770",
+    "title": "Seminar in Environmental Conservation",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Natural and environmental resource conservation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 670",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEOG 797",
+    "title": "Research",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Research in one of the fields of geography.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "GEOG",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "GEOG",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 890",
+    "title": "Independent Study for Doctoral Examination",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Tutorial with student\u2019s major professor in preparation for qualifying examinations. No unit credit allowed toward advanced degree.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Independent investigation in the general field of the dissertation.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEOG 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "GEOG",
+    "description": "Preparation of a dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved. No unit credit allowed toward advanced degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

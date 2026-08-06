@@ -1,0 +1,105 @@
+[
+  {
+    "course_code": "HHS 201",
+    "title": "Introduction to Health and Human Services",
+    "units": 3,
+    "department": "HHS",
+    "description": "Survey of fields in health and human services, including nursing, athletic training, physical therapy, social work, speech-language pathology, public health, food/nutritional sciences, kinesiology, and audiology. Interprofessional education and practice including communication, teams, values, and ethics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HHS 290",
+    "title": "International Experience",
+    "units": 1,
+    "department": "HHS",
+    "description": "Practical work experience in a health-related field under direction of activity sponsor and instructor. Approved international internships, research, or volunteer programs may count toward international experience requirement for majors in the College of Health and Human Services only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HHS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HHS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HHS 301",
+    "title": "Models and Approaches to Human Health",
+    "units": 3,
+    "department": "HHS",
+    "description": "Models and approaches to health and human services, including biomedical, social science, and biopsychosocial theories. Application of models and approaches to various disciplines within health and human services.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HHS 350",
+    "title": "Applied International Health and Human Services",
+    "units": 3,
+    "department": "HHS",
+    "description": "Selected themes in health and human services to include participation in an approved international program. Course taught at SDSU.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HHS 352",
+    "title": "International and Global Health and Human Services in San Diego County",
+    "units": 3,
+    "department": "HHS",
+    "description": "Activities, field trips, guest lectures, panels from local professionals working with international populations within San Diego County. Cultural awareness, global health issues as they manifest on the border and in the county, health disparities, social determinants of health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HHS 401",
+    "title": "Collaborative Health Practices",
+    "units": 3,
+    "department": "HHS",
+    "description": "Foundations of collaborative health practice, including various team models (e.g., interdisciplinary, multidisciplinary, transdisciplinary), interpersonal communication and conflict resolution, data-informed decision-making, strength-based/adaptive leadership, models of change, and the impact of health policies.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

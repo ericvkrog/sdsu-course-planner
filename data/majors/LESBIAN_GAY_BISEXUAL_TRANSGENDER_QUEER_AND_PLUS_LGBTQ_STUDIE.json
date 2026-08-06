@@ -1,0 +1,82 @@
+{
+  "code": "LESBIAN_GAY_BISEXUAL_TRANSGENDER_QUEER_AND_PLUS_LGBTQ_STUDIE",
+  "name": "Lesbian, Gay, Bisexual, Transgender, Queer, and Plus (LGBTQ+) Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12101",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12101",
+  "poid": "12101",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "LGBT 101"
+  ],
+  "upper_required": [
+    "LGBT 598"
+  ],
+  "elective_areas": {
+    "And Three Units Selected From": [
+      "HIST 125",
+      "WGSS 101",
+      "WGSS 102"
+    ],
+    "12 Units Selected From": [
+      "LGBT 321",
+      "LGBT 322",
+      "HUM 322",
+      "LGBT 333",
+      "LGBT 350",
+      "LGBT 499",
+      "LGBT 550",
+      "LGBT 597",
+      "ECL 450",
+      "ECL 550",
+      "PHIL 544",
+      "WGSS 544",
+      "WGSS 533",
+      "WGSS 535"
+    ],
+    "9 Elective Units Selected from": [
+      "AFRAS 455",
+      "ANTH 333",
+      "LATAM 333",
+      "ANTH 536",
+      "CCS 340A",
+      "CCS 340B",
+      "CLASS 360",
+      "COMM 452",
+      "ED 484",
+      "GEN S 340",
+      "GERO 360",
+      "HIST 406",
+      "HIST 583",
+      "JMS 452",
+      "MGT 467",
+      "PSY 355",
+      "PSY 442",
+      "P H 353",
+      "SOC 320",
+      "SOC 420",
+      "SOC 421",
+      "SOC 455",
+      "THEA 465",
+      "TFM 470",
+      "WGSS 340",
+      "WGSS 355",
+      "WGSS 360",
+      "WGSS 382",
+      "WGSS 536",
+      "WGSS 590"
+    ]
+  },
+  "default_electives": [
+    "WGSS 101",
+    "LGBT 321",
+    "LGBT 322",
+    "HUM 322",
+    "LGBT 333",
+    "SOC 320"
+  ],
+  "unresolved_codes": []
+}

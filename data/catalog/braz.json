@@ -1,0 +1,162 @@
+[
+  {
+    "course_code": "BRAZ 111",
+    "title": "Capoeira",
+    "units": 1,
+    "department": "BRAZ",
+    "description": "Capoeira is an Afro-Brazilian cultural art that incorporates martial arts, dance, singing, and music. To include movement.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BRAZ 222",
+    "title": "Art, Sport, and Culture in Contemporary Brazil",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Brazilian culture and history to include capoeira, carnaval, forro, funk, ju-jitsu, samba, soccer, street art, and street theatre. Ethnic and racial diversity, nationalism, regional identity, right to urban space, rural and urban life.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BRAZ 233",
+    "title": "Latin American Documentary Practices",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Introduction to Latin American documentary film and photography. Aesthetics, film movements, and manifestos; memory and storytelling to contemporary times. Close reading and analysis of visual culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BRAZ 302",
+    "title": "Literature and Film of Black Brazil",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Afro-Brazilian prose, poetry, non-fiction writing and cinema. Race and cultural resistance in Brazil.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BRAZ 325",
+    "title": "Brazilian Democracy and Society",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Interdisciplinary examination of Brazilian democracy from the republic to today. To include topics of authoritarianism, democratic transition, LGBTQIA+ rights, environmental movement, economic policy, the reactionary turn and Black feminist resistance. Materials include ethnography, historiography, memoirs, documentary film, and digital media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BRAZ 333",
+    "title": "The Amazon is the Center of the World",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Amazonia as a transnational region. Cosmovisions and narratives from the Amazon. Film, literature, and visual art. Indigenous rights and environmental activism,  sustainable development. Amazonia in the Latin American imaginary.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BRAZ 433",
+    "title": "Creative Interventions in South American Streets: Activism, Art, and the City",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Dynamics, history, and movements of public art and street art. Flash mobs, graffiti, memorials, muralism, pixação, and other art in public space. Political and social implications of art including commodification, gentrification, and policy. Includes stencil workshop and creative final project. No artistic experience required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BRAZ 444",
+    "title": "Brazilian Studies Capstone Seminar",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Culminating learning experience of Brazilian studies major. Brazilian studies and contemporary Brazilianist scholarship. Preparation of 20-page capstone paper.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "BRAZ 455",
+    "title": "Sport in Brazilian Society",
+    "units": 3,
+    "department": "BRAZ",
+    "description": "Brazilian jiu-jitsu, capoeira, soccer, and surfing. Intersections of gender, politics, race, and sport to include film, literature, and scholarship from social sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BRAZ 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "BRAZ",
+    "description": "Selected topics in Brazilian studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  }
+]

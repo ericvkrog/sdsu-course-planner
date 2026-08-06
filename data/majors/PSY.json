@@ -1,0 +1,58 @@
+{
+  "code": "PSY",
+  "name": "Psychology, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=11&poid=11254",
+  "verified": true,
+  "source": "hand-verified",
+  "covered_ge_areas": [
+    "2",
+    "4A",
+    "5B"
+  ],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "PSY 101",
+    "PSY 201",
+    "PSY 211",
+    "PSY 230",
+    "PSY 260",
+    "PSY 280",
+    "PSY 281",
+    "BIOL 100"
+  ],
+  "upper_required": [
+    "PSY 301",
+    "PSY 340",
+    "PSY 319",
+    "PSY 331",
+    "PSY 360"
+  ],
+  "elective_areas": {
+    "Major Electives (14-15u from 300-500 level PSY)": [
+      "PSY 350",
+      "PSY 355",
+      "PSY 370",
+      "PSY 375",
+      "PSY 380",
+      "PSY 385",
+      "PSY 395",
+      "PSY 410",
+      "PSY 420",
+      "PSY 425",
+      "PSY 430",
+      "PSY 440",
+      "PSY 450",
+      "PSY 460",
+      "PSY 470"
+    ]
+  },
+  "default_electives": [
+    "PSY 350",
+    "PSY 370",
+    "PSY 380",
+    "PSY 420",
+    "PSY 410"
+  ]
+}

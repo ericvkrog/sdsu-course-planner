@@ -1,0 +1,112 @@
+[
+  {
+    "course_code": "PERS 101",
+    "title": "Elementary Modern Persian I",
+    "units": 4,
+    "department": "PERS",
+    "description": "Introduction to modern Persian and Persian writing system. Development of speaking, listening, and reading skills using multimedia materials. Vocabulary for everyday topics and develop culturally appropriate discourse strategies for everyday situations.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 102",
+    "title": "Elementary Modern Persian II",
+    "units": 4,
+    "department": "PERS",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "PERS 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PERS 201",
+    "title": "Intermediate Persian I",
+    "units": 4,
+    "department": "PERS",
+    "description": "Further development of speaking, reading, listening, and writing skills, with emphasis on language of everyday conversation. Integrated approach to learning Persian to include awareness and appreciation of Persian culture.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 202",
+    "title": "Intermediate Persian II",
+    "units": 4,
+    "department": "PERS",
+    "description": "Intermediate level students achieve further proficiency in speaking, listening, reading, and writing; produce language needed for daily routines and work related discourse.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PERS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 301",
+    "title": "Advanced Persian I",
+    "units": 4,
+    "department": "PERS",
+    "description": "Oral expression and writing for practical purposes; exposure to various dialects through newspaper and media; elements of literary and classical language.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Persian. No credit will be given for PERS 301 and",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 302",
+    "title": "Advanced Persian II",
+    "units": 4,
+    "department": "PERS",
+    "description": "Writing complex literary and expository texts. Reading modern and classical texts to include complicated media. Producing, understanding debates and speeches.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Persian. No credit will be given for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PERS 496",
+    "title": "Topics in Persian Studies",
+    "units": 1,
+    "department": "PERS",
+    "description": "Topics in Persian language, literature, culture, and linguistics. May be taught in English.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

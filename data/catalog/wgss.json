@@ -1,0 +1,899 @@
+[
+  {
+    "course_code": "WGSS 100",
+    "title": "Women and Gender Equity",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Supports incoming first-year students in their academic goals, while also offering leadership and professional development opportunities through a feminist lens. Includes biweekly peer-to-peer mentorship, community building, and a year-long seminar tailored to student experiences and interests.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Students are pre-enrolled into this course",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 101",
+    "title": "Introduction to WGSS: Social Structures and Movements",
+    "units": 3,
+    "department": "WGSS",
+    "description": "An introduction to the field of women’s, gender, and sexuality studies, focusing on feminist social movements and their relationship to other historical and contemporary social movements. Includes social and economic perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 102",
+    "title": "Introduction to WGSS: Key Concepts",
+    "units": 3,
+    "department": "WGSS",
+    "description": "An introduction to the field of women’s, gender, and sexuality studies, with particular focus on key concepts and debates that define the field. Includes media, literature, and representation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 103",
+    "title": "Women and Global Justice",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Gendered injustices and resistance from a global perspective. Colonization, environmental justice, gendered violence, migration, militarization, poverty, and travel and tourism. Structural inequalities in consumption, food production, and labor through a feminist lens. Activism and formation of social movements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 310",
+    "title": "Global Cultures and Women’s Lives",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Comparative study of social, economic, political, and ideological aspects of women’s position in local and global contexts. Women’s status as impacted by modern, indigenous, transitional, and/or border cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 325",
+    "title": "Psychology of Women",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Theories of the psychological development of women; investigation of biological and cultural factors influencing personality and behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 336",
+    "title": "Women of Color in the United States",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Experiences of U.S. women of color through study of personal essay/autobiography, oral history, plays/novels, poetry, performance/ visual art, theory, and other genres. Themes may include identity, voice, representation, empowerment, oppression, and social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 340",
+    "title": "History of Women and Sexuality in Modern Europe",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Experiences, participation, and influence of European-descended women and women of color in Europe and in European colonies from the sixteenth to the twentieth century. Intersections of gender, race, class, sexuality, and power during the modern period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 341A",
+    "title": "Gender and US History",
+    "units": 3,
+    "department": "WGSS",
+    "description": "History of the United States from a gendered perspective, colonization to abolition. Analyzes the US Constitution and California state institutions through the experiences of women and gender diverse people. Satisfies the graduation requirement in American Institutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 341B",
+    "title": "Gender and US History",
+    "units": 3,
+    "department": "WGSS",
+    "description": "History of the United States from a gendered perspective. Analyzes the history of the Age of Imperialism, the Cold War, and beyond through the experiences of women, trans/non-binary, and gender diverse people. Satisfies the graduation Ameriacan Institutions requirement.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 352",
+    "title": "Women in Literature",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Literature by and about women; appraisals of women’s place in various literary genres; historical and contemporary themes; evolution of forms and techniques; relation to other art forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 355",
+    "title": "Feminist Approaches to Popular Culture",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Gender and sexuality to include advertising, film, magazines, music, romance novels, social media, and television. How relations of power are transmitted through cultural forms. Ways popular culture shapes and is shaped by social and political contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 360",
+    "title": "Women’s Sexuality and the Body",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Social, cultural, and political aspects of women’s sexualities and bodies; relationships among beliefs and practices, and among sexual behaviors and identities in historical context; role of popular culture, scientific, medical, and religious ideas.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 370",
+    "title": "Women, Law, and Policy",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Legal factors affecting women in employment, education, health and welfare, property ownership and criminal justice, including investigation of public policy issues which affect women’s lives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 375",
+    "title": "Sex, Power, and Politics",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Social, economic and political factors which explain women’s political status and participation. Topics include institutional structures, leadership and ideology, power and authority, and the women’s movement as a political movement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 382",
+    "title": "Gender, Science, and Technology",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Feminist science studies to include women in science, scientific research on sex and gender differences, gender in relation to technology. Social and political impacts of science and technology and global contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 385",
+    "title": "Precarious Work: Gender, Labor, and Inequality",
+    "units": 3,
+    "department": "WGSS",
+    "description": "An exploration of how gender shapes paid and unpaid work in capitalist economies. Topics include unpaid work in the home, domestic work, the care economy, sex work, welfare, and organizing to transform working conditions and promote economic justice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "WGSS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Individual study",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 510",
+    "title": "Black Feminist Thought",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Provides a study of Black feminist thought as a distinct field of intellectual inquiry, and centers on analyzing how Black feminist scholars have articulated the intersections of race, gender, class, sexuality, disability and other vectors of oppression.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 512",
+    "title": "Latinas in the Americas",
+    "units": 3,
+    "department": "WGSS",
+    "description": "How social and other factors impact the lives of Latin American women. Theoretical frameworks illuminate their situation. Sociocultural perspectives are offered on Latin American women’s life narratives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 515",
+    "title": "Women: Myth, Ritual, and the Sacred",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Meanings and functions of myths and rituals in their sacred and secular aspects, emphasizing their impact on women’s lives and relationships in differing cultural contexts, past and present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 520",
+    "title": "Reproductive Rights and Justice",
+    "units": 3,
+    "department": "WGSS",
+    "description": "History, cultural attitudes, and politics of reproduction and sexual health to include abortion, contraception, sterilization, sexually transmitted diseases (STDs), HIV/AIDS, sex education, reproductive, and genetic technology.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 522",
+    "title": "Women: Madness and Sanity",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Mental health and mental illness in literature, film, and psychological research. Clinical and feminist approaches to mental health issues in women’s lives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 530",
+    "title": "Women’s Movements and Activism",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Comparative study of women’s movements worldwide, including organizations, issues and initiatives. Women’s diverse social/political strategies within local, national, and global contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 533",
+    "title": "Trans Feminisms",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Emergence of trans as a subjectivity and object for study. Trans and feminist engagements and confrontations to include incarceration, possibility of transracialism, and sex-segregated spaces.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 535",
+    "title": "Lesbian Lives and Cultures",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Historical, cultural, and social exploration of lesbianism. Topics include myths and stereotypes, history and literature, social and political movements, theoretical explanations, and current conditions.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 536",
+    "title": "Gender, Race, and Class",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Intersecting theories of gender, race and class in both local and global contexts. Major themes in history, culture, and contemporary lives of women analyzed through feminist and critical race theories.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 542",
+    "title": "Feminist Disability Studies",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Feminist and gender approaches to the knowledge and experience of disability, chronic illness, mental health, and neurodivergence. How disability intersects with gender, race, sexuality, class, and colonialism. To include: critical disability studies, crip theory, southern disability studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 544",
+    "title": "Queer Theory",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Philosophical aspects of queer theory. Sexualized identity intersections with ability, nationality, race, and other categories. Desire, gender, sex, sexuality; affect, embodiment, identity, and temporality.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 552",
+    "title": "Feminist Approaches to Film",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Intersectional film analysis based on issues such as decolonization, gender, race, and sexual orientation in films from the U.S. and beyond.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 555",
+    "title": "Climate Justice and Feminisms",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Feminist approaches to understanding and addressing the current climate crisis. How the feminist, environmental justice, and climate justice movements engage with gender, race, sexuality, colonialism, and disability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 560",
+    "title": "SWANA, Islam, and Gender Justice",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Socio-political status of women in Muslim societies in Middle East, North Africa, and Asia; women in the Quran; Muslim women’s movements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 565",
+    "title": "Women: Health, Healing, and Medicine",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Relationship of women to “modern” and “traditional” health care/healing systems in historical and cultural perspective. Representations and practices regarding the politics of women’s health and illness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 570",
+    "title": "Gender, War, and Peace",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Interdisciplinary exploration of women’s relation to war, peace, and militarism; women’s peace activism and beliefs about motherhood; women’s roles in armed conflicts; effects of war on women; military policy and beliefs about masculinity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 572",
+    "title": "Women and Violence",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Forms of violence against and by women. Processes which shape women’s resistance to, and collusion in, social, economic, political, and sexual violence.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 575",
+    "title": "Digital and Networked Feminisms",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Digital media and technology in social context. Social realities of how gender, race, and sexuality shaped digital media and technology from construction to consumption. Cyberfeminism, surveillance studies, and technofeminism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 580",
+    "title": "Gender and the Global Economy",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Examines the relationship between gender and global economic processes with a focus on colonialism, development frameworks, debt, environmental justice, health, militarism, and decolonial, indigenous, and feminist movements to reorient economies toward collective well-being.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 581",
+    "title": "Women’s Experiences of Migration",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Gender analysis of impact of international migration on women’s lives. Identity formation, trauma, language, gender roles, and sexuality in life narratives of immigrant and refugee women. Economic and legal issues affecting immigrant and refugee women.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 582",
+    "title": "Feminist Science and Technology Studies",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Key themes and debates within feminist science & technology studies, including questions about how understandings of environment/nature, gender, race, disability and sexuality are co-created within and through western science & technology/AI.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 585",
+    "title": "Local Feminist Activism and Organizations",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Links scholarly knowledge about feminist activism and nonprofit organizations serving women to specific information about San Diego area. Entering workforce preparation and activism to include economic justice, LGBTQ issues, reproductive rights and justice, sexual violence.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 590",
+    "title": "Feminist Thought",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Readings of feminist theory in historical perspective, with attention to contemporary debates in feminist scholarship.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 596",
+    "title": "Topics in Women’s Studies",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Advanced topics in women’s studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate advisor.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 597",
+    "title": "Research Project",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Individual research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 598",
+    "title": "Women’s Studies Internship",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Application of women’s studies theories and scholarship to community service and activism. Internship includes 120 hours of work in local public and private agencies serving women and girls.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 601",
+    "title": "Foundations of Feminist Scholarship",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Theories, issues, and major paradigms underlying feminist scholarship. Development of women’s studies as a discipline. Emphasis on multicultural approaches and perspectives.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 602",
+    "title": "Seminar: Methods of Inquiry in Women’s Studies",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Examination and critique of traditional research methods; methods of critical feminist investigation; designs of research proposals.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 603",
+    "title": "Seminar: Topics in Advanced Feminist Theory",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Variable topics in the analysis of categories of contemporary feminist theory including concepts of identity and difference; theories of subjectivity; feminist discourses, strategies, and practices.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 604",
+    "title": "Seminar: Gender, Culture, and Representation",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Representations of women, gender, and femininity in literature, art, music, and other cultural productions. Interconnection between representations of gender, race, ethnicity, class, and sexualities.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 605",
+    "title": "Seminar: Women and Social Policy",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Laws and social policies impacting women and their families in historical and political context. Theoretical and practical implications to include workplace issues, economic justice, health, reproductive justice, violence, and regulation of sexuality and relationships.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 606",
+    "title": "Seminar: Narrating Women’s Lives",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Exploration of women’s biographies and autobiographies. Theories of narration, identity construction, and oral and written life histories. Interconnection between self-presentation and social, historical, and multicultural institutions and discourses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 608",
+    "title": "Seminar: Body Politics",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Historical exploration illuminates contemporary and past constructions of female, male, and transgendered sexualities. Facilitates ability to critique “innate” vs. culturally constructed behaviors and identities. Key institutions that control and define the body explored: labor, race, economics, law, and medicine.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 609",
+    "title": "Seminar: Topics in Transnational Issues and Gender",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Variable topics in global trends in culture, economy, and politics with focus on women’s lives. Case studies of effect of transnational processes on women and role of gender in shaping these processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 610",
+    "title": "Seminar in Sexuality",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Sexuality and gender identity in diverse individual, social, political, and cultural contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 611",
+    "title": "Seminar: Gender and Diaspora",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Historical and interdisciplinary perspectives on gendered impact of forcible migration (African, Asian, Jewish). Scholarly debates concerning influence of men’s and women’s experiences of diaspora on modern political identities, social movements, and cultural production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 612",
+    "title": "Seminar: Feminist Pedagogies",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Feminist and interrelated critical pedagogies and their application in the classroom. Teaching from social justice, intersectional, and transnational approaches. Role of identity, difference, power, and embodiment in teaching and learning. Practical teaching skills and wholistic classroom strategies.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 696",
+    "title": "Selected Topics in Women’s Studies",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Intensive study in specific areas of women’s studies, with emphasis on theoretical and methodological issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate advisor.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Independent research in a specialized subject in women’s studies.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "WGSS",
+    "description": "Independent Study",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "WGSS",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "WGSS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "WGSS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "WGSS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Registration in 799C limited to two semesters.",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "course_code": "CAL 100",
+    "title": "Explore CAL",
+    "units": 1,
+    "department": "CAL",
+    "description": "College of Arts and Letters advising, departments, fields of study, and high-impact practices. Connect with administrators, advisers, faculty, students, and other members of the college community.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 115",
+    "title": "CAL and Career Exploration",
+    "units": 1,
+    "department": "CAL",
+    "description": "Exploration of course work and career pathways for humanities, social science, and physical science majors in the College of Arts and Letters. Course materials designed for lower-division students to acquire a breadth of knowledge of college resources and career options.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 201X",
+    "title": "Mathematics and Quantitative Reasoning CAL Support",
+    "units": 1,
+    "department": "CAL",
+    "description": "Required support course for General Education Mathematics/Quantitative Reasoning classes offered in the College of Arts and Letters (CAL).",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Credit in this course satisfies the SDSU Mathematics/Quantitative Reasoning Assessment requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 270",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHIL 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CAL 295",
+    "title": "Internship for CAL Majors",
+    "units": 1,
+    "department": "CAL",
+    "description": "Supervised internship with businesses, nonprofits, and government agencies. Introduces professional skills, reflection, and workplace learning. Students connect academic knowledge to applied contexts and develop foundational career readiness competencies.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CAL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 400",
+    "title": "CAL Experience",
+    "units": 3,
+    "department": "CAL",
+    "description": "A multidisciplinary view of one topic within the larger College of Arts and Letters, as a way for students to understand the social sciences and humanities from multiple perspectives while studying the human condition. Topics will vary.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 415",
+    "title": "Career Readiness for CAL Majors",
+    "units": 3,
+    "department": "CAL",
+    "description": "Development of career readiness skills for humanities and social science majors in the College of Arts and Letters. Course materials designed for upper-division students to acquire full-time positions upon graduation and full-time professional internships.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 450",
+    "title": "Study Abroad",
+    "units": 1,
+    "department": "CAL",
+    "description": "Study abroad in Arts and Letters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 495",
+    "title": "Advanced Professional Internship for CAL Majors",
+    "units": 1,
+    "department": "CAL",
+    "description": "Advanced internship integrating academic study with professional practice. Students create a learning agreement, engage in reflection, and complete an integrative project demonstrating workplace analysis, career competencies, and professional skills growth.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CAL 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CAL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

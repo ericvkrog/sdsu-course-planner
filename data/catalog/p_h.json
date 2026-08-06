@@ -1,0 +1,1724 @@
+[
+  {
+    "course_code": "P H 101",
+    "title": "Introduction to Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Epidemics, environment, and community health challenges, including educational, political, environmental, regulatory, and organizational factors that support health of population groups and communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 233",
+    "title": "Health Equity: Exploring Root Causes of Disparities",
+    "units": 3,
+    "department": "P",
+    "description": "Causative factors that contribute to health disparities and inequities. Advocacy and policy. Health, race/ethnicity, and social justice. Social determinants of health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 250",
+    "title": "Infections and Epidemics",
+    "units": 3,
+    "department": "P",
+    "description": "Concepts and impacts of infectious diseases on human populations. Quantitative reasoning to solve epidemiologic mysteries. Case studies and outbreak investigations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 292",
+    "title": "History of Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Historical and contemporary issues surrounding population health. Public health responses, outcomes of those responses, and concerns over time.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "P",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 300",
+    "title": "Professionalism and Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Professional best practices for public health and allied health jobs/roles. Job searches, résumés, statements of purpose, written communications. Organizational behaviors, culture, and structure.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 302",
+    "title": "Epidemiology of Communicable and Chronic Disease",
+    "units": 3,
+    "department": "P",
+    "description": "Impact of infectious and chronic diseases on population health. Epidemiologic methods, behavioral and biologic determinants, modes of transmission, and risk factors.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 304",
+    "title": "Environment and Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Environmental hazards. Chemical, biological, and physical agents in food, air, water, and soil.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 305",
+    "title": "Medical Care Organization and Delivery",
+    "units": 3,
+    "department": "P",
+    "description": "Organizational, economic, financial, political, and cultural factors affecting finance and delivery of health and medical services in the U.S. Topics include insurance, managed care, reimbursement, private and public programs, and regulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 306",
+    "title": "Public Health Research",
+    "units": 3,
+    "department": "P",
+    "description": "Methodological, ethical, topical issues in current public health research. Basic principles and different approaches to research designs and methods applicable to writing proposals and other documents in academic and professional settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 307",
+    "title": "Applied Biostatistics in Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Data analysis and statistical inference in public health sciences to include data description and exploratory analysis, and statistical methods for evaluating association of factors with health outcomes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 330",
+    "title": "Plagues Through the Ages",
+    "units": 3,
+    "department": "P",
+    "description": "Political, economic, religious, and cultural effects of disease. Significant role epidemics and disease have played in development of civilizations from beginning of recorded history to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "P H 331",
+    "title": "Emergency Preparedness and Disaster Response",
+    "units": 3,
+    "department": "P",
+    "description": "Roles and responsibilities of public health in disaster preparation, mitigation, planning, and response to epidemics, pandemics, natural disasters and bioterrorism, includes disaster assessment, surveillance, risk management, and principles of disaster planning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 332",
+    "title": "Public Health Nutrition",
+    "units": 3,
+    "department": "P",
+    "description": "Importance of nutrition to the health of populations throughout the life-course.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 353",
+    "title": "Human Sexuality and Disease",
+    "units": 3,
+    "department": "P",
+    "description": "Development of sexual values, attitudes, and behaviors across ages, including evolution and occurrence of sexually transmitted infections worldwide. Focus on biological, medical, psychological, sociocultural, and political factors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "P H 362",
+    "title": "Global Health",
+    "units": 3,
+    "department": "P",
+    "description": "Population dynamics, vital statistics, global disease patterns, and analysis of variations among nations and cultures with respect to health problems and health care services.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "P H 395",
+    "title": "Emerging Topics in Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Emergent topics that may include global warming, gun violence, health disparities, LGBTQ+ health, and the penal system.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 401",
+    "title": "Biological Basis of Disease",
+    "units": 3,
+    "department": "P",
+    "description": "Prevalent health issues, problems, and social consequences surrounding conditions such as substance use, cancer, heart disease, and stroke. Disease protective factors, risks, and screening processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 292",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 402",
+    "title": "Public Health Communications",
+    "units": 3,
+    "department": "P",
+    "description": "Effective communication techniques used in public health campaigns, social marketing, and risk communication. Use of technology to design and conduct public health campaigns which focus on recognizing and overcoming communication barriers, including cross-cultural communication.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 490B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 450",
+    "title": "Public Health Policy",
+    "units": 3,
+    "department": "P",
+    "description": "Political, economic, cultural, institutional, and social factors influencing development and implementation of policy. U.S. and international private and public health organizations and their roles in shaping health policy. Public health advocacy by organizations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 305",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 451",
+    "title": "Public Health and Food Safety",
+    "units": 3,
+    "department": "P",
+    "description": "Risk factors for foodborne illness, to include case studies of domestic and international outbreaks. Food safety, foodborne illness, food safety measures and prevention, management and regulation, sustainability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 452",
+    "title": "Health Impacts of Climate Change",
+    "units": 3,
+    "department": "P",
+    "description": "Biological, chemical, physical, and social factors contributing to climate change and human health. Greenhouse effect, health impacts and adaptation, climate change projections, and climate mitigation.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 480",
+    "title": "Peer Health Education",
+    "units": 2,
+    "department": "P",
+    "description": "Communicating health information to peers. Health issues relevant to university population. Health promotion strategies and tactics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 485",
+    "title": "Applied Public Health Research",
+    "units": 3,
+    "department": "P",
+    "description": "Hands-on experience in applied public health research to address local public health challenges and respond to community health needs. Completion of this course will fulfill either the Area A or Area B graduation requirement for Public Health majors.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 490",
+    "title": "Health Data Analysis",
+    "units": 3,
+    "department": "P",
+    "description": "Identifying, retrieving, and using health data, with emphasis on statistical applications and interpretation of results for changing policy and health programs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 490B",
+    "title": "Planning Public Health Programs",
+    "units": 3,
+    "department": "P",
+    "description": "Public health programming models, including community needs assessment, goals, objectives, and strategies for effective public health interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open to Majors, Minors, and IS3D students only.",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 306",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 490C",
+    "title": "Public Health Program Evaluation",
+    "units": 3,
+    "department": "P",
+    "description": "Program evaluation approaches and methods in public health, including process and outcome evaluations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open only to Majors, Minors, and IS3D students.",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 490B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 491",
+    "title": "Program Planning and Evaluation",
+    "units": 3,
+    "department": "P",
+    "description": "Introduces principles and practice of public health program planning and program evaluation, including needs assessment, program design, and grant writing. Students gain hands-on experience developing a public health project, grant proposal, and evaluation plan.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "P",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 497",
+    "title": "Supervised Specialization in Public Health",
+    "units": 1,
+    "department": "P",
+    "description": "Internship placement in a public health environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Only 3 units can be used to fulfill Area B Culminating experience requirement",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 306",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "P",
+    "description": "Participation in a public health-related research project or series of research projects under the guidance of a faculty member.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 538A",
+    "title": "Principles of Toxicology",
+    "units": 3,
+    "department": "P",
+    "description": "Dose-response and other principles for evaluating the effects of toxic chemicals on organ systems and physiological processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 550",
+    "title": "Applied International Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Global cultural, economic, health, political, and social challenges of different countries. Application of public health concepts in a particular country.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 601",
+    "title": "Epidemiology",
+    "units": 3,
+    "department": "P",
+    "description": "Distribution and determinants of diseases; role of epidemiology in public health. Descriptive, analytic, and experimental epidemiology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 602",
+    "title": "Biostatistics",
+    "units": 3,
+    "department": "P",
+    "description": "Statistical reasoning applied to public health; probability, hypothesis testing, regression and correlation, analysis of variance, measurement theory and modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 603",
+    "title": "Behavioral and Social Science in Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Role of psychological, social and environmental variables in health and illness. Multifactorial psychosocial model of disease susceptibility.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 604",
+    "title": "Environmental Determinants of Human Health",
+    "units": 3,
+    "department": "P",
+    "description": "Environmental determinants and their influence on human health. Biological, physical, and chemical factors which affect the health of a community.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 605",
+    "title": "Health Services Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Overview of health services administration and delivery in U.S. Characteristics of utilization of health care, financing and system structure, types of providers, nonfinancial resources, and assessment and regulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 606",
+    "title": "Applied Research Methods in Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Emphasizes applied skills in literature searching and interpretation, identification of gaps, scientific writing, interpretation of statistical software, and effective communication. Gain preparation skills for completion of concentration-specific Integrated Learning Experience.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 607",
+    "title": "Research Methods",
+    "units": 3,
+    "department": "P",
+    "description": "Direct observation measurement, group and intensive experimental designs. Laboratory exercises and proposal writing applicable to public health.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 610",
+    "title": "Principles of Programming and Data Structures for Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Principles of python computer language data structures, focusing on health-related data analytics, health (including genomic) information storage, retrieval, and analysis; create storage, retrieval, and analysis pipelines for automation in big data processing and analytics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Undergraduate students need instructor’s approval to enroll.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 620",
+    "title": "SAS for Biostatistics I",
+    "units": 3,
+    "department": "P",
+    "description": "Programming in SAS. Analysis, processing, and reading of biomedical data.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 621",
+    "title": "Epidemiology of Infectious Diseases",
+    "units": 3,
+    "department": "P",
+    "description": "Utilizing selected infectious diseases and environmental settings, provides scientific background on which epidemiological investigations and control measures are based.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 622",
+    "title": "Epidemiology of Chronic Diseases",
+    "units": 3,
+    "department": "P",
+    "description": "Epidemiology of selected chronic diseases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 623",
+    "title": "Epidemiological Methods",
+    "units": 3,
+    "department": "P",
+    "description": "Topics include: analysis of descriptive data, design of studies, evaluation of data, development of biological models. Examples of both acute and chronic diseases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 621",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 622",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 624A",
+    "title": "Emergency Preparedness and Response I",
+    "units": 3,
+    "department": "P",
+    "description": "Dynamics of natural and man-made disaster management to include planning, organization, management of relief services, and emergency service organizations. Prevention, mitigation, and response to emergency situations, both nationally and internationally.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 625",
+    "title": "Control of Infectious Diseases",
+    "units": 3,
+    "department": "P",
+    "description": "Theoretical and practical experience in techniques available for control of infectious diseases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 621",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 626",
+    "title": "Intnl Health Epidemiology",
+    "units": 3,
+    "department": "P",
+    "description": "Integrated public health experience with US and Mexican graduate student and faculty teams, culminating with four days in Mexico. International public health projects in underserved indigenous populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 627",
+    "title": "Advanced Statistical Methods in Public Health",
+    "units": 3,
+    "department": "P",
+    "description": "Applications of advanced statistical methods for analysis of public health and biomedical data. Topics include multiple linear regression, analysis of variance, logistic regression, and introduction to survival analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 630",
+    "title": "Environmental Health Risk Assessment",
+    "units": 3,
+    "department": "P",
+    "description": "Four major steps of risk assessment to include hazard identification, dose-response assessment, exposure assessment, and risk characterization. Will also include risk communication and risk management in environmental arena.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 632",
+    "title": "Air Quality",
+    "units": 3,
+    "department": "P",
+    "description": "Properties of airborne gases, vapors, and particulate matter. Effects of air pollution on community. Mobile and stationary sources of air pollution. Meteorology and dispersion of air pollutants. Ambient air quality standards.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 634",
+    "title": "Environmental Protection",
+    "units": 3,
+    "department": "P",
+    "description": "Rationale and mechanisms for control of environmental hazards in areas of food protection and vector control, solid waste, and community issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 635",
+    "title": "Environmental and Disaster Medicine",
+    "units": 3,
+    "department": "P",
+    "description": "Etiology, diagnosis of disease, and stress in the modern global environment. Detection and control of intentional biological, chemical disasters, and nuclear threats.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 636",
+    "title": "Hazardous Waste Management",
+    "units": 3,
+    "department": "P",
+    "description": "Rationale, methods, and regulations governing the proper management of hazardous and toxic wastes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 639",
+    "title": "Water Quality Investigation",
+    "units": 3,
+    "department": "P",
+    "description": "Human health problems associated with water usage and with various aquatic environments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 641",
+    "title": "Introduction to Health Services",
+    "units": 3,
+    "department": "P",
+    "description": "Health care systems in the U.S. Underlying needs, insurance and uninsurance, public programs, reimbursement, managed care, resources, providers, regulation outcome measurement and evaluation, and health policy issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 642",
+    "title": "Health Insurance and Financing Systems",
+    "units": 3,
+    "department": "P",
+    "description": "U.S. healthcare financial systems at macro-level. Principles of public programs and private health insurance, types of reimbursement for healthcare organizations and providers, issues of cost containment, effects of uninsurance and underinsurance, and financial practices of other advanced nations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 644A",
+    "title": "Health Services Organization Management",
+    "units": 3,
+    "department": "P",
+    "description": "Structure and functioning of organizations that provide and finance health services using a systems theory approach to visions/ goals, strategies, structure, and processes. Functions of managers in health care organizations, focusing on interpersonal, informational, decision, ethical, and conflict resolution roles.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 644B",
+    "title": "Managing High Performing Health Care Organization",
+    "units": 3,
+    "department": "P",
+    "description": "Applications of management theory to health care organizations. Organizational change for performance, behavior, quality management, law and ethics, human resource management, and information technology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 644A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 645",
+    "title": "Health Economics",
+    "units": 3,
+    "department": "P",
+    "description": "Economics of health care, including supply and demand factors, efficiency, incentives facing physicians, hospitals, and health plans, economic evaluation of provider performance, health workforce issues, and cost-effectiveness analysis.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 646",
+    "title": "Health Services Research Methods",
+    "units": 2,
+    "department": "P",
+    "description": "Effectiveness of interventions. Changes in delivery, financing, and organization of health care. Analysis of large data sets related to health care industry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 647",
+    "title": "Quantitative Methods and Health Data Analysis",
+    "units": 3,
+    "department": "P",
+    "description": "Quantitative methods and data analyses in health services administration. Topics include decision analysis, forecasting and regression, project management techniques, data analysis, and data and information management applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 648",
+    "title": "Health Policy",
+    "units": 3,
+    "department": "P",
+    "description": "History and future of health policy. Research on major health policy issues including economic, social, ethical, and political forces that influence priorities and decisions. Role of government and private sector in health care.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 649",
+    "title": "Border and Global Public Health Surveillance",
+    "units": 3,
+    "department": "P",
+    "description": "Data sources for border and global surveillance, including hospital system syndromic data. Methods of data quality control, data analysis, and alerting and communication of information.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 650A",
+    "title": "Field Practice: Epidemiology",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health settings. Application of public health principles and skills to practical problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 650F",
+    "title": "Field Practice: Health Promotion and Behavioral Science",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health settings. Application of public health principles and skills to practical problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 650R",
+    "title": "Field Practice: Required Community Practice",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health settings. Application of public health principles and skills to practical problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 661",
+    "title": "Theoretical Foundations of Health Promotion",
+    "units": 3,
+    "department": "P",
+    "description": "Psychological, sociological, economic, and political theories relevant to the mission and processes of health promotion.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 662",
+    "title": "Program Planning and Intervention Development",
+    "units": 3,
+    "department": "P",
+    "description": "Planning and application of health promotion interventions designed to improve individual and community health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 663",
+    "title": "Health Promotion Communications Theory and Design",
+    "units": 3,
+    "department": "P",
+    "description": "Theory, design and implementation of health education communications in community contexts. Extensive use of student design, analysis, and projects.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 402",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 664",
+    "title": "Health, Society and Human Behavior",
+    "units": 3,
+    "department": "P",
+    "description": "Historical and contemporary examination of health problems of individuals and communities. Health needs, resources; impact of society on health and health on society.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 666",
+    "title": "Health Promotion Program Planning and Assessment",
+    "units": 3,
+    "department": "P",
+    "description": "Program planning and assessment, theories, systems and procedures relevant to health promotion and education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 661",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 668",
+    "title": "Seminar in Health Promotion Research",
+    "units": 3,
+    "department": "P",
+    "description": "Philosophical, ethical and methodological issues in current health promotion research and services.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 670",
+    "title": "Public Health Genomics and Epigenetics",
+    "units": 3,
+    "department": "P",
+    "description": "Introductory concepts in genomic and epigenetic data storage, manipulation, and analysis framework, with publicly available tools for analysis; hands-on experience in automation include sequence alignment and variant calling, genome assembly and polishing, DNA methylation, heterogeneity, phylogenomics, and metagenomics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Undergraduate students require instructor’s approval for enrolling.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 671",
+    "title": "Molecular Diagnostics, Epidemiology, and Bioinformatics",
+    "units": 3,
+    "department": "P",
+    "description": "Molecular diagnostics/epidemiology performed through bioinformatics analysis. The molecular epidemiology of the most prevalent human infections is discussed. Using Mycobacterium tuberculosis and SARS-CoV-2, students will identify variants of the disease and provide clinical diagnosis using Whole Genome Sequencing data.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Undergraduate students require instructor’s permission to enroll.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 672",
+    "title": "Public Health Program Evaluation",
+    "units": 3,
+    "department": "P",
+    "description": "Evaluation of health promotion programs in public health. Activities, processes, and skills to include communicating results, contextual issues, design, methods, steps, and ensuring summative findings are used.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 666",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 682",
+    "title": "Geographic Information Systems and Public Health Spatial Analysis",
+    "units": 3,
+    "department": "P",
+    "description": "Theoretical concepts of geographic information systems (GIS) and applications of GIS in public health. ArcGIS 9 software to illustrate the capabilities and uses of GIS in both academic research and regulatory decision making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 696",
+    "title": "Contemporary Topics in Public Health",
+    "units": 1,
+    "department": "P",
+    "description": "Intensive study in specific areas of public health and health services administration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 700",
+    "title": "Seminar in Public Health",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current issues in public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 700A",
+    "title": "Seminar in Public Health: Epidemiology",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current problems in one of the fields of public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 700D",
+    "title": "Seminar in Public Health: Environmental Health",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current problems in one of the fields of public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 700E",
+    "title": "Seminar in Public Health: Health Management and Policy",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current problems in one of the fields of public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 700F",
+    "title": "Seminar in Public Health: Health Promotion and Behavioral Science",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current problems in one of the fields of public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 700G",
+    "title": "Seminar in Public Health: Preventive Medicine",
+    "units": 1,
+    "department": "P",
+    "description": "Investigation of current problems in one of the fields of public health.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 602",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 710",
+    "title": "Machine Learning and Pattern Recognition for Big Health Data",
+    "units": 3,
+    "department": "P",
+    "description": "Introduction to Artificial Intelligence (AI), Machine Learning (ML), Pattern Recognition and Discovery (PRD), and Clinical Decision Support (CDS) in health data; foundation for analysis automation of health science big data, healthcare delivery, and public health.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Undergraduate students require permission from instructor to enroll.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 720A",
+    "title": "Capstone I",
+    "units": 3,
+    "department": "P",
+    "description": "Develop hypotheses and research questions, use publicly accessible dataset, write epidemiologic report based on analysis. Institutional Review Board review process, literature review, table and figure creation, technical writing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 623",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 720B",
+    "title": "Capstone II",
+    "units": 3,
+    "department": "P",
+    "description": "Complete discussion, hypotheses, research questions, results, tables and figures for a final report. Create oral presentation to describe results.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 720A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 725",
+    "title": "Scientific Writing for Epidemiology",
+    "units": 3,
+    "department": "P",
+    "description": "Prepares students to generate a feasible hypothesis, perform, organize and write a literature review, and summarize proposed methodology. Topics include research development and organization, finding data sources, principles of scientific writing and revising, plagiarism, and citation management.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 728",
+    "title": "Applied Data Analysis",
+    "units": 3,
+    "department": "P",
+    "description": "Public health data and presentation of results. Linear regression, logistic regression for binary, missing data analysis, nominal and ordinal data, and survival analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 742A",
+    "title": "Health Services Financial Management",
+    "units": 3,
+    "department": "P",
+    "description": "Financial reporting statement including balance sheet and income statement. Financial management indicators including discounted cash flow analysis, long-term debt financing, equity valuation, risk and return, capital budgeting, financial forecasting, and short-term financing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 743",
+    "title": "Hospital and Ambulatory Systems Management",
+    "units": 3,
+    "department": "P",
+    "description": "Organization and management of hospitals, integrated healthcare systems, medical group practices, and other ambulatory or outpatient facilities. Emphasis on service provision, programs, and plans. San Diego regional healthcare organizations highlighted.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 641",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P H 644A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 747",
+    "title": "Quality Improvement and Program Evaluation",
+    "units": 3,
+    "department": "P",
+    "description": "Health services quality measurement and improvement to include quality systems policy and management; outcomes and performance measurement; process quality improvement methods; program evaluation methods; development of evidenced-based practices and electronic medical records; and administrative databases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 647",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 748",
+    "title": "Health Services Competitive Strategy and Marketing",
+    "units": 3,
+    "department": "P",
+    "description": "Ways in which healthcare organizations can gain and sustain competitive advantage. Both organization and service level competition and strategies/tactics examined.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P H 644B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P H 750",
+    "title": "Advanced Field Practice",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health setting. Application of public health principles and skills to public health problems.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 750A",
+    "title": "Advanced Field Practice: Epidemiology",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health setting. Application of public health principles and skills to public health problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 750D",
+    "title": "Advanced Field Practice: Environmental Health",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health setting. Application of public health principles and skills to public health problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 750E",
+    "title": "Advanced Field Practice: Health Management and Policy",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health setting. Application of public health principles and skills to public health problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 750F",
+    "title": "Advanced Field Practice: Health Promotion and Behavioral Science",
+    "units": 3,
+    "department": "P",
+    "description": "Field instruction in public health setting. Application of public health principles and skills to public health problems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 797",
+    "title": "Research",
+    "units": 1,
+    "department": "P",
+    "description": "Research in one of the fields of public health.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P H 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "P",
+    "description": "Special Study under supervision of faculty member.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

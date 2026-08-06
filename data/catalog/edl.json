@@ -1,0 +1,440 @@
+[
+  {
+    "course_code": "EDL 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "EDL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "EDL",
+    "description": "Individual study.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 596",
+    "title": "Topics in Educational Leadership",
+    "units": 1,
+    "department": "EDL",
+    "description": "Selected problems in educational leadership.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 600",
+    "title": "Organizational and Systems Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Educational administration and leadership as a profession. Related organizational concepts and management theories. Principles and competencies for leadership and administrative practice as each relates to the aspiring school administrator.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 610",
+    "title": "Visionary Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Concepts and techniques of leadership, analysis of factors and practice in procedures of individual and group leadership as applied to preK-12 educational environments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 615",
+    "title": "Leading Equity in Schools",
+    "units": 6,
+    "department": "EDL",
+    "description": "Supporting equity for students in preK-12 schools through leadership roles. Common biases and inequities that affect students based on ability, gender, national origin, race, religion, and sexual orientation. Systems design for reducing inequities for all learners.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 616",
+    "title": "Leading Teams to Use Evidence-Based Practices",
+    "units": 6,
+    "department": "EDL",
+    "description": "Evaluation of sources of evidence, identification of best practices, and needs assessment. Accessing research to improve uses of evidence-based practices and implementation science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 617",
+    "title": "Mentoring, Coaching, and Collaboration",
+    "units": 6,
+    "department": "EDL",
+    "description": "Leadership and institutional improvement. Adult learning theory models and methods to improve collaboration between communities, families, and schools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 618",
+    "title": "Organizational Engagement",
+    "units": 6,
+    "department": "EDL",
+    "description": "Invitational education and implementation science. Designing professional learning opportunities and leading communities for improvement and increased engagement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 630",
+    "title": "School Improvement Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Analyzing data to identify opportunities for school improvement. Appropriate and effective school improvement theories and strategies. Communication skills and leading others in improvement and monitoring of these efforts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 640",
+    "title": "Community Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Increasing family and community involvement in schools. Improving student achievement through using educational leadership strategies and resources.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EDL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "EDL 610",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EDL 650",
+    "title": "Professional Learning and Growth Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Model professional growth development. Principles of adult learning; identify and facilitate appropriate professional growth opportunities for staff. Collaboration with others to achieve mission of improving teaching and learning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 652",
+    "title": "Seminar in Instructional Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Improvement of instruction through application of principles and practices in assessment of teaching competency; development of teaching profiles; leadership skills in working with teachers to improve performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 655",
+    "title": "Communication, Problem Solving, and Decision Making in PK12",
+    "units": 3,
+    "department": "EDL",
+    "description": "Educational leadership principles and practices for communication, problem solving, and decision making in preK-12 schools and educational organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 660",
+    "title": "Field Experience in Educational Leadership",
+    "units": 1,
+    "department": "EDL",
+    "description": "Supervised field experience in schools or other educational settings. Monthly sessions with university faculty. Application to take this course must be made during preceding semester.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 10,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 680",
+    "title": "Seminar in PreK-12 Educational Administration",
+    "units": 2,
+    "department": "EDL",
+    "description": "Educational administration in preK-12 schools and school districts. Field experience when appropriate.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 690",
+    "title": "PK-12 Needs Assessment & Program Evaluation I",
+    "units": 2,
+    "department": "EDL",
+    "description": "Needs assessment and program evaluation to inform practice and amplify student impact. Students establish project focus and frame inquiry work for the EDL 690-691-692 sequence. Review extant data, understand opportunity and develop inquiry plan to guide data collection effort.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 691",
+    "title": "PK-12 Needs Assessment & Program Evaluation II",
+    "units": 2,
+    "department": "EDL",
+    "description": "Implementation of PK-12 needs assessment or program evaluation inquiry plans developed in",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EDL 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EDL 692",
+    "title": "Data for PK-12 Program Design, Appreciation, and Improvement",
+    "units": 2,
+    "department": "EDL",
+    "description": "Analysis and reporting of needs assessment and program evaluation findings. Examine qualitative and quantitative data as framed by inquiry plan. Author and present findings, including strengths, recommendations for improvement, and implications for leaders.\u00a0Reflect on inquiry process for future application.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EDL 691",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EDL 696",
+    "title": "Advanced Topics in Educational Leadership",
+    "units": 1,
+    "department": "EDL",
+    "description": "Intensive study in specific areas of educational leadership.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 707",
+    "title": "Educational Law and Finance",
+    "units": 3,
+    "department": "EDL",
+    "description": "Legal and financial aspects of educational administration including implications for policy formulation in the areas of personnel, instruction, and resource management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 720",
+    "title": "Human Resource Development in PreK-12 Educational Organizations",
+    "units": 3,
+    "department": "EDL",
+    "description": "Human resource management in preK-12 educational administration including selection and evaluation of staff, contract management, and staff development. Personnel managerial styles, staff leadership, and motivation techniques as to morale and productivity. Analysis of educational personnel systems and employee assistance programs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 755",
+    "title": "Governance and Policy Development in PreK-12 Learning Organizations",
+    "units": 3,
+    "department": "EDL",
+    "description": "Development of preK-12 educational policy and impact of politics in governance and administration; control functions of federal, state, and local agencies; influence of lay citizens and special interest groups; roles of judiciary, employee organizations and students.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 760",
+    "title": "Practicum in PreK-12 Educational Organizations",
+    "units": 2,
+    "department": "EDL",
+    "description": "Internship for preK-12 educational administrators. Application to take this course must be made in the preceding semester by preregistration with the credential program coordinator. Released time may be required.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "EDL",
+    "description": "May involve fieldwork.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 830",
+    "title": "Leadership for Learning",
+    "units": 3,
+    "department": "EDL",
+    "description": "Models of curriculum, instruction, and school organization. The leader\u2019s role and responsibility in developing evidence-based decision making cultures that promote student achievement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 880",
+    "title": "Seminar in Topics in Educational Leadership",
+    "units": 3,
+    "department": "EDL",
+    "description": "Topical issues in field of educational leadership that have broad implications for research and practice in educational leadership.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 890",
+    "title": "Foundations of PK-12 Research and Evaluation I",
+    "units": 3,
+    "department": "EDL",
+    "description": "Foundational knowledge in research and program evaluation. Introduction to qualitative and quantitative methods, including their application to empirical research and program evaluation. Application of skills professionally and to an original research or program evaluation to fulfill doctoral program requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EDL 891",
+    "title": "Foundations of PK-12 Research and Evaluation II",
+    "units": 3,
+    "department": "EDL",
+    "description": "Advanced exploration of research and program evaluation. Qualitative, quantitative, and program evaluation including mixed methods design. Methodology planning, instrument design, data analysis planning.\u00a0Application of skills professionally and to an original research or program evaluation to fulfill doctoral program requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EDL 890",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EDL 892",
+    "title": "Application of PK-12 Research and Evaluation",
+    "units": 3,
+    "department": "EDL",
+    "description": "Continued exploration of research and program evaluation design.\u00a0Qualitative, quantitative, and program evaluation including mixed methods design. Formulation of an initial research or program evaluation methodology to address a researchable problem or program evaluation.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EDL 891",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EDL 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "EDL",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved. No unit credit allowed toward advanced degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

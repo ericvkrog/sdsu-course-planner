@@ -1,0 +1,706 @@
+[
+  {
+    "course_code": "MGT 160",
+    "title": "Entrepreneurial Approaches to  Problem Identification in Soci",
+    "units": 3,
+    "department": "MGT",
+    "description": "Applications of entrepreneurial processes to problem identification. Includes differences between fixed and growth mindsets, components of entrepreneurial ecosystems, use of qualitative and quantitative data for drawing inferences, design thinking methodologies for clarifying problems worth solving and alternative pathways to entrepreneurship.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MGT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 352",
+    "title": "Human Resource Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Acquisition, development, retention, and motivation of human resources in support of both employee and organizational goals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 353",
+    "title": "Creativity and Innovation",
+    "units": 3,
+    "department": "MGT",
+    "description": "Managing creativity, including selling creative ideas to others, scanning for new opportunities, taking creativity to the marketplace, and creating an organizational culture for innovation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 357",
+    "title": "Multinational Business and Comparative Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Context of international business, environment, institutions, and business practices. Cultural awareness, sensitivity, interpersonal, and leadership skills needed in an international context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 358",
+    "title": "Fundamentals of Entrepreneurship",
+    "units": 3,
+    "department": "MGT",
+    "description": "Process of initiating, expanding, purchasing, and consolidating businesses. Concepts, theories, and techniques of managerial innovation and implementation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 401",
+    "title": "Management Internship",
+    "units": 3,
+    "department": "MGT",
+    "description": "Internship with business firms, government agencies, or nonprofit organizations. Under joint supervision of intern organization and course instructor. Activities for advancing career readiness, applying principles of managing organizations, enhancing leadership skills, and supporting professional development.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 403",
+    "title": "Global Business & Diplomacy",
+    "units": 3,
+    "department": "MGT",
+    "description": "The impact of international affairs and public policy on business strategy and operations. Political and economic diplomacy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 405",
+    "title": "Strategic Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Provides a top management perspective on strategy analysis and development. Develops strategic thinking for creating and sustaining competitive advantage in today’s challenging global business environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 420",
+    "title": "Entrepreneurial Opportunity Recognition and Evaluation",
+    "units": 3,
+    "department": "MGT",
+    "description": "Core concepts and key elements of recognizing and evaluating new business opportunity to include customer discovery process, design thinking, industry and market analysis, lean startup methodology, market trends, problem-solution validation, and value proposition design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 422",
+    "title": "International Entrepreneurship",
+    "units": 3,
+    "department": "MGT",
+    "description": "Launching and managing an international entrepreneurial venture. Search and identification of opportunities in foreign markets, logistics of international business expansion, cross-cultural business communication, and international networking.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 434",
+    "title": "Business Negotiation",
+    "units": 3,
+    "department": "MGT",
+    "description": "Origins and strategies of abstract and theoretical approaches to bargaining and negotiation in business situations faced by managers and leaders.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 444",
+    "title": "Business Ethics and Corporate Governance",
+    "units": 3,
+    "department": "MGT",
+    "description": "Corporate social responsibility, stakeholder theory, morality of capitalism, and corporate governance. Ethical theory and its application to ongoing issues and current events within the business context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 452",
+    "title": "Family Business Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Managing a family owned business. Succession planning, governance, strategy and family dynamics of mixing family and business roles, non-family employees, and culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 358",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 455",
+    "title": "Social Entrepreneurship",
+    "units": 3,
+    "department": "MGT",
+    "description": "Entrepreneurial skills to craft innovative responses to social needs. Social mission, launching and building a social venture and developing social returns to an enterprise.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 358",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 459",
+    "title": "Franchise Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Franchising presented as a viable alternative path to entrepreneurship. Nature and role of franchisor and franchisee including challenges of becoming a franchisee of an existing system and of becoming a franchisor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 358",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 460",
+    "title": "Business Model Design and Development",
+    "units": 3,
+    "department": "MGT",
+    "description": "Core concepts and key elements of producing a business plan for a new entrepreneurial opportunity to include designing experiments to validate critical business model assumptions and assess product-market fit.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 358",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MGT 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 461",
+    "title": "Human Resource Selection",
+    "units": 3,
+    "department": "MGT",
+    "description": "Employee selection and placement issues in organizations including strategic, legal, and measurement issues. Roles of recruitment, job analysis, and human resource planning in human resource selection process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 462",
+    "title": "Compensation",
+    "units": 3,
+    "department": "MGT",
+    "description": "Wage and salary administration in organizations. Determinants of general wage and salary levels and structures. Total compensation systems, interrelationship among employee performance, intrinsic and extrinsic rewards, pay equity, and employee pay satisfaction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 463",
+    "title": "Performance Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Definition, measurement, and evaluation of employee performance, development of employee skills, and implementation of a performance management system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 464",
+    "title": "Legal Issues in Managing Employees",
+    "units": 3,
+    "department": "MGT",
+    "description": "Statutes, case law, and legal issues relevant to managers, including recruitment, hiring, wages and hours, discrimination, sexual harassment, occupational safety and health, firing and post-termination. Focus on California and federal laws that managers need to know.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 466",
+    "title": "International Human Resource Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Human resource issue facing multinational corporations including staffing, training and development, performance management, expatriation and repatriation, and compensation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 467",
+    "title": "Diversity Issues",
+    "units": 3,
+    "department": "MGT",
+    "description": "Managing employees in a diverse workforce. Policy development for managing diversity. Legal issues in diversity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 468",
+    "title": "Human Resource Analytics",
+    "units": 3,
+    "department": "MGT",
+    "description": "Human Resource (HR) metrics and analytics. Introduction to the principles of applied research for evidence-based decision-making in organizations including data collection, research design, and statistical testing using actual data sets and analytics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 470",
+    "title": "Venture Launch",
+    "units": 3,
+    "department": "MGT",
+    "description": "Engage in real world entrepreneurial activities. Start a venture or examine the business potential of technology developed by faculty and/or students at SDSU.",
+    "grading_method": "Letter (No",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "MGT 470 is not a subsititute for",
+    "prerequisites": [
+      {
+        "prereq_code": "MGT 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 475",
+    "title": "Leadership in Organizations",
+    "units": 3,
+    "department": "MGT",
+    "description": "Leadership, communicating vision, initiating changes and innovation, and developing leadership competencies through self-assessment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 483",
+    "title": "Lean Startup Applications to National Security Challenges",
+    "units": 3,
+    "department": "MGT",
+    "description": "Applications of the Lean-Startup methodology to assessing problems posed by national security agencies such as the U.S. Department of Defense. To include problem / solution fit, market analysis, and business model development using the Mission Model Canvas framework.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prior military experience is a plus but not a requirement for participation in this course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 496",
+    "title": "Selected Topics in Management",
+    "units": 1,
+    "department": "MGT",
+    "description": "Selected areas of concern in management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree. See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "MGT",
+    "description": "A comprehensive and original study of a problem connected with management under the direction of one or more members of the management staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MGT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 596",
+    "title": "Advanced Topics in Management",
+    "units": 3,
+    "department": "MGT",
+    "description": "Advanced special topics in management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "MGT",
+    "description": "Intensive study in specific areas of management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 710",
+    "title": "Seminar in World Business Environment",
+    "units": 3,
+    "department": "MGT",
+    "description": "Nature, dimensions and motives of international business. Impact of environmental factors. Nature of multinational corporation, importance of national and multilateral controls and policies for international business management.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 721",
+    "title": "Seminar in Group Processes and Leadership",
+    "units": 3,
+    "department": "MGT",
+    "description": "Perceptions and processes in work groups. Experience in interpersonal networks, influence and rewards, stereotypes; managing differences and conflicts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 673",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 722",
+    "title": "Seminar in Business Ethics and Social Institutions",
+    "units": 3,
+    "department": "MGT",
+    "description": "Ethical and social aspects of current issues in business and society. Changing role of stakeholders including consumers, shareholders, and employees. Assessment of operation, functioning and regulation of the market system.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 673",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 724",
+    "title": "Entrepreneurship",
+    "units": 3,
+    "department": "MGT",
+    "description": "Examination of the entrepreneurial approach; concepts, theory and techniques of managerial innovation and implementation; analysis of entrepreneurial skills.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 729",
+    "title": "Seminar in Organizational Issues",
+    "units": 3,
+    "department": "MGT",
+    "description": "Issues in organizations in modern society: organization design, environmental interface, and political processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "B A 673",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MGT 744",
+    "title": "Seminar in Managing the Growing Firm",
+    "units": 3,
+    "department": "MGT",
+    "description": "Problems and issues confronting entrepreneurs beyond start-up of a new venture. Focus on issues from both entrepreneur and investor perspectives.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 746",
+    "title": "Seminar in Corporate Governance",
+    "units": 3,
+    "department": "MGT",
+    "description": "Roles and interrelationships among members of corporate governance triad: managers, directors, and shareholders. History and theories of corporate governance, ethical obligations underlying the three roles, and case studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 748",
+    "title": "Seminar in International Entrepreneurship and Business Development",
+    "units": 3,
+    "department": "MGT",
+    "description": "Challenges and issues confronting entrepreneurs seeking to develop international business opportunities. Concepts, theory, and techniques of international entrepreneurship. Drivers of entrepreneurship and assessment of entrepreneurial conditions around the world.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 797",
+    "title": "Research",
+    "units": 3,
+    "department": "MGT",
+    "description": "Research in the area of management.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MGT 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MGT",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

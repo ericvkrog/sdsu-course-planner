@@ -1,0 +1,33 @@
+{
+  "code": "CLASSICS_EMPHASIS_IN_CLASSICAL_LANGUAGES_WITH_HONORS_B_A",
+  "name": "Classics, Emphasis in Classical Languages with Honors, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11956",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11956",
+  "poid": "11956",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "HUM 390W"
+  ],
+  "lower_division": [
+    "CLASS 101G",
+    "CLASS 202G",
+    "CLASS 101L",
+    "CLASS 202L"
+  ],
+  "upper_required": [
+    "HUM 390W",
+    "CLASS 320",
+    "HUM 400",
+    "HIST 502",
+    "HIST 503",
+    "PHIL 401A"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": [
+    "ART 568"
+  ]
+}

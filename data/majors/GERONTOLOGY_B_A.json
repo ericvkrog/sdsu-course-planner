@@ -1,0 +1,50 @@
+{
+  "code": "GERONTOLOGY_B_A",
+  "name": "Gerontology, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12040",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12040",
+  "poid": "12040",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "GERO 101",
+    "GERO 250",
+    "BIOL 100",
+    "CFD 135",
+    "PSY 101",
+    "P H 101",
+    "SWORK 110"
+  ],
+  "upper_required": [
+    "GERO 310",
+    "GERO 360",
+    "GERO 370",
+    "GERO 400A",
+    "GERO 402",
+    "GERO 520",
+    "SWORK 381",
+    "SWORK 391"
+  ],
+  "elective_areas": {
+    "12 Units Selected with Approval of the Adviser from": [
+      "GERO 400B",
+      "GERO 496",
+      "GERO 499",
+      "GERO 596",
+      "COMM 321",
+      "ENS 433",
+      "GEN S 420",
+      "PSY 380",
+      "P H 362",
+      "SWORK 382",
+      "SWORK 483A"
+    ]
+  },
+  "default_electives": [
+    "COMM 321"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,1636 @@
+[
+  {
+    "course_code": "JMS 200",
+    "title": "Introduction to Contemporary Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Mass media and emerging forms of niche media in the global community. Theories, structures, functions, practices, problems, interrelationships, economics, critical analyses, history, and ethics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 210",
+    "title": "Digital Literacy",
+    "units": 3,
+    "department": "JMS",
+    "description": "This course equips students with essential knowledge and skills to navigate the digital landscape. Students will learn to access, analyze, evaluate, create, and act with digital technologies and media. Course content includes a critical examination of digital media industries, technologies, and content, exploring their profound impact on culture, power dynamics, and individual experiences.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 220",
+    "title": "Writing for the Mass Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Introduction to writing techniques for mass media. Laboratory practice in informational and persuasive writing, evaluation, and judgment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "In some semesters, specially designated sections require bilingual fluency in English and Spanish, to be determined by a stamp of Spanish/English biliteracy on high school transcript, or a score of 5 on AP Spanish test, or passing the SDSU Spanish Language Proficiency Test. See footnotes in Class Schedule.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 240",
+    "title": "AI & The Media: Uses and Implications",
+    "units": 3,
+    "department": "JMS",
+    "description": "Explore AI’s impact on media industries through ethical analysis, real-world case studies, and hands-on use of generative tools to create informed, responsible content.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 250",
+    "title": "Introduction to Intersectional Representation in the Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Intersectional social constructs of class, disability, ethnicity, gender, race, and sexuality with media institutions and texts to include examples from advertising, film, news, print and online media, and television.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "JMS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 300",
+    "title": "Principles of Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Theory and practice of journalism, survey of history, ethics, law, international news systems, and social responsibility of the press. Operations of newspapers, news magazines, radio and television news departments, and other news agencies. Impact of new media and technology on journalism, economics, and management of news organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 309",
+    "title": "Workshop",
+    "units": 1,
+    "department": "JMS",
+    "description": "Practical experience in an area of study within the School of Journalism and Media Studies.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 310W",
+    "title": "Media Writing and Reporting",
+    "units": 3,
+    "department": "JMS",
+    "description": "Writing for advertising, journalism, and public relations products in various media platforms. Gathering information, interviewing, conducting observations, and using online database. Laboratory and field work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 312W",
+    "title": "Media Writing for Scientists",
+    "units": 3,
+    "department": "JMS",
+    "description": "Writing science research for general audiences. Finding news angles, gathering information, and interviewing scientists. Writing with accessibility, accuracy, and creativity across digital, mass, niche, and social media platforms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 315",
+    "title": "Digital Media Principles and Design",
+    "units": 3,
+    "department": "JMS",
+    "description": "Preparing and editing content for multimedia, web, and mobile platforms in journalism and other media professions. Digital media layout and design; usability, accessibility, segmentation, and scanability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 333",
+    "title": "Applied Student Media - Daily Aztec",
+    "units": 3,
+    "department": "JMS",
+    "description": "Students enrolled in this course serve as the staff of The Daily Aztec. This course introduces students to news reporting, writing, editing and production through hands-on experience in a college newsroom under the guidance of the student media manager. Students will complete reporting assignments and collaborate and learn from one another as a team.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 408",
+    "title": "Principles of Media Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "Media theories, models, and research exploring media effects, and audience uses of media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 415",
+    "title": "Audio Technology and Storytelling for Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Programming and promotional strategies for contemporary radio. Technological evolution of radio over the past century to include digital media and podcasting. Business models and regulations for online, satellite, and terrestrial radio. Basic audio production and techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 416",
+    "title": "Media and Sports",
+    "units": 3,
+    "department": "JMS",
+    "description": "Relationships among media industries, professional sports and social issues to include gender, national identity, race, and sexuality. Impact of digital and social media on fans, management, and players. Influence of media coverage upon evolution of sports.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 418",
+    "title": "Social Media Influencing and Community Leadership",
+    "units": 3,
+    "department": "JMS",
+    "description": "Leadership styles in the 21st Century work environment. Developing effective strategies to manage and engage with brand-created communities using social media platforms. Writing and developing content to encourage participation and interaction. Working with influencers to promote brand awareness.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 420",
+    "title": "Public Affairs News Reporting",
+    "units": 3,
+    "department": "JMS",
+    "description": "Field and laboratory practice in news gathering and writing, covering news beats including courts, local governments, and other news sources. Emphasis on accuracy, clarity, comprehensiveness and interpretation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 426",
+    "title": "Sports Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Practical and applied training to develop the skills necessary to work as a sports journalist. Special considerations related to professional practices and ethical principles of sports journalism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 428",
+    "title": "Digital and Social Media Analytics",
+    "units": 3,
+    "department": "JMS",
+    "description": "Measurement standards, principles, and outcomes of digital and social media. Digital data collection methods, data analysis metrics, data reporting, presentation tools. Using analytics to enhance organizational effectiveness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 220",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 430",
+    "title": "Digital Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Using digital and mobile platforms to publish news content and how to use such platforms for news reporting and gathering purposes. Data-driven journalism, online writing styles, web programming, social media strategies, and digital design principles.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 434",
+    "title": "Writing for Spanish-Language and Latinx Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Writing techniques for Spanish-language and Latino media in the United States and globally. Cultures, languages, and traditions of Spanish-language and Latino media used for advertising, journalism, public relations, and other professional media fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Writing techniques for Spanish-language and Latinx media in the United States and globally. Cultures, languages, and traditions of Spanish-language and Latinx media used for advertising, journalism, public relations, and other professional media fields. General Text: This course provides students an introduction to writing techniques for Spanish-language and Latinx media in the U.S. and globally. The course will explore specific cases of how the media have changed in these communities and regions, as well as how they have adapted to the current digital and social media landscape. The cultures, languages, and traditions of Spanish-language and Latinx media will be examined. Students will benefit from course collaborations with Spanish-language media outlets, guided writing assignments, and guest speaker visits. This class will be conducted in a bilingual format, in which some readings and class lectures/labs will be conducted in Spanish and/or English. Students are expected to be bilingual, i.e., able to speak, read and write in English/Spanish for class assignments and activities.",
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 220",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 435",
+    "title": "Photojournalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Creating, curating, and editing photographs for use in news stories. Professional practices and ethical principles of photojournalism. Use of visual elements to report the news.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 220",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 440",
+    "title": "Management of Media Organizations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Revenue generation, marketing, distribution, production, personnel, social responsibilities, and current developments in media organizations. Planning, organizing, implementing organizational plans.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 441",
+    "title": "Magazine and Feature Writing",
+    "units": 3,
+    "department": "JMS",
+    "description": "Planning, gathering material, writing and marketing articles for specialized and general publications. Production of expository articles and marketing of at least one article.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 445",
+    "title": "Television News Reporting and Producing",
+    "units": 3,
+    "department": "JMS",
+    "description": "Electronic news, focusing on reporting and producing newscasts. Shooting, writing, editing, and presenting news. Roles and responsibilities in electronic newsrooms to include role of producer.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 450",
+    "title": "Media and Culture",
+    "units": 3,
+    "department": "JMS",
+    "description": "Cultural phenomena through media products to include films, television programs, print media and social media. Appreciation of various cultures and practices through analysis of media products.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 452",
+    "title": "Media and Identity",
+    "units": 3,
+    "department": "JMS",
+    "description": "Disability, ethnicity, gender, race, sexual orientation, and other identity markers in various facets of mass and social media to include audience reception, employment, niche marketing, ownership/control, and production. Historical and contemporary issues of representation and identity formation and maintenance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 453",
+    "title": "Selena and Latinx Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Mediated representations of intersectional Latinx identities by analyzing the Tejano singer Selena. Influence on Latinx media, audiences, and niche marketing. Historical and contemporary issues of Latinx representation and identity formation/maintenance with an emphasis on digital media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 460",
+    "title": "Principles of Advertising",
+    "units": 3,
+    "department": "JMS",
+    "description": "Advertising practices. Historical perspectives, changing role of advertising, shift from impression to engagement and from traditional to emerging media, evolving agency structure, audience targeting, creative strategy, regulation, social responsibility and ethics, globalization, and current trends and developments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 462",
+    "title": "Advertising Strategy and Social Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Developments and emerging trends in use of social media for company and brand promotion. Case studies. Strategic planning options for current and emerging social media environments. Segmentation and approaches for community engagement. Metrics and evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 472",
+    "title": "Media Technology and Society",
+    "units": 3,
+    "department": "JMS",
+    "description": "Relationship between technology and society, and factors that influence the innovation, development, commercialization, and diffusion of media technologies. Exploration of specific qualities of various media forms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 408",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 480",
+    "title": "Principles of Public Relations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Concepts, history, theory, social responsibility, ethics, and management of public relations. Public relations strategic planning process. Survey of problems and practices in corporations, government and politics, health care, education, associations, and not-for-profit organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 481",
+    "title": "Public Relations Writing",
+    "units": 3,
+    "department": "JMS",
+    "description": "Practical applications of public relations techniques with emphasis on writing, messaging, and selecting media channels. Production of materials for all forms of media. Special events, crisis management, and strategic planning. Field and laboratory practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 485",
+    "title": "Research Methods for Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "The Research Methods for Journalism course equips students with essential skills in understanding and evaluating qualitative and quantitative research design and results. Students will learn to critically evaluate sources, analyze media content, and apply ethical research practices to produce credible and impactful journalism. This foundational course prepares students for advanced studies and professional roles that require strong analytical and investigative abilities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 489",
+    "title": "Research Methods in Media Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "This media studies course uses research methodologies to decode and evaluate media, investigate the media industry, and understand audiences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 490",
+    "title": "Internship",
+    "units": 1,
+    "department": "JMS",
+    "description": "Supervised work at organizations engaged in media-related professional activities under combined direction of practitioners and professors.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students who have previously received three units of credit in Journalism and Media Studies 490A, 490B, 490C.",
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 492",
+    "title": "Creative Uses of Emerging Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "This course equips students with essential skills to navigate and utilize emerging technologies, including generative AI, in journalism and media. By exploring both historical contexts and current innovations, students will learn to identify business opportunities and address ethical challenges in the digital landscape.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 494",
+    "title": "Media Law and Ethics",
+    "units": 3,
+    "department": "JMS",
+    "description": "Importance of freedom of expression. Legal issues and responsibilities of print, broadcast, and online media, and applications to advertising, journalism, and public relations. Ethical dilemmas encountered by media professionals and communication specialists, including challenges posed by global technologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 495",
+    "title": "Advanced Topics in Media Writing and Skills",
+    "units": 3,
+    "department": "JMS",
+    "description": "Specialized topics in media writing and skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "JMS",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "JMS",
+    "description": "Individual study or project, normally in a research area selected by the student.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 506",
+    "title": "Advertising and Society",
+    "units": 3,
+    "department": "JMS",
+    "description": "Theoretical and philosophical analysis of advertising in modern society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 508",
+    "title": "Media Studies Capstone",
+    "units": 3,
+    "department": "JMS",
+    "description": "This seminar advances media studies theories, is reflective of practices of media structural inequalities and includes digital media projects, all presented as part of a digital portfolio. For their capstone project, students plan, design, construct and deliver a digital portfolio.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to graduate students. Students pursuing a Media Studies major must earn at least a “C” in this class to graduate.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 515",
+    "title": "Media Entrepreneurship and Intrapreneurship",
+    "units": 3,
+    "department": "JMS",
+    "description": "Models of media creation, innovation, ownership, and sustainability in the digital age. Critical thinking and problem solving skills required for designing, producing, and implementing an entrepreneurial or intrapreneurial project in a media industry.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 408",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 525",
+    "title": "News and Social Media",
+    "units": 3,
+    "department": "JMS",
+    "description": "Culture of connectivity and ecosystem of digital journalism. Best practices with news reporting using digital media tools. Journalistic practices and mass communication theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 527",
+    "title": "Advanced Topics in Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Reading, investigation, and research in a specialized topic in journalism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 529",
+    "title": "Data-Driven Investigative Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "History and role of investigative journalism in the U.S. Use of the Internet, public records, spreadsheets, and databases to develop stories in the public interest. Finding patterns and leads in electronic data. Field and laboratory experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 530",
+    "title": "Solutions Journalism",
+    "units": 3,
+    "department": "JMS",
+    "description": "Use of traditional and emerging tools to cover social issues affecting local marginalized populations. Collaborating with community to identify possible solutions. Project-based learning involving individual and team projects using digital media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 540",
+    "title": "Media and Masculinities",
+    "units": 3,
+    "department": "JMS",
+    "description": "Social construction and performance of masculinities across history, in conjunction with race, ethnicity, sexuality, disABILITIES, culture, and class. Examination of masculinity within specific historic and cultural domains, including marginalized groups’ ability to access power in a white patriarchal system.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 545",
+    "title": "Media and Youth",
+    "units": 3,
+    "department": "JMS",
+    "description": "A developmental approach to media theories, models, and research exploring media effects and audience uses of media. Cognitive, affective, and social development of children and adolescents to understand how media attract, affect, and are interpreted by youth.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 547",
+    "title": "Advanced Topics in Media Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "Reading, investigation, and research in a specialized topic in media studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 408",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 550",
+    "title": "Multimedia News Laboratory",
+    "units": 3,
+    "department": "JMS",
+    "description": "Capstone course using skills and knowledge acquired in critical thinking, writing, reporting, editing, production, and design courses. Preparation of multimedia news content. Field and laboratory experience. Completion of course with a grade of C (2.0) or better is required for majors.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 430",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 494",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 552",
+    "title": "Media in Country/Region X",
+    "units": 3,
+    "department": "JMS",
+    "description": "Media’s impact on arts, business, government, law, and sports in country/region X. Similarities and differences of traditional and social media in country/region X compared to the United States. Guest speakers, lectures, and visits to media organizations in country/region X.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 555",
+    "title": "Border Reporting",
+    "units": 3,
+    "department": "JMS",
+    "description": "U.S.-Mexico border research and reporting techniques. Cultural, ethical, legal issues associated with border news coverage to include regulations from both Mexican and U.S. governments.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 220",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 560",
+    "title": "Advertising Research",
+    "units": 3,
+    "department": "JMS",
+    "description": "Planning, evaluation, analysis of qualitative and quantitative research across traditional, digital, and social platforms. Ethics, sampling, experimentation, data analysis, segmentation, brand mapping, advertising testing and optimization, social media metrics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 462",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 562",
+    "title": "Advertising Creative",
+    "units": 3,
+    "department": "JMS",
+    "description": "Advertising, applying consumer insights, developing creative strategies, drafting creative briefs. Writing and design of advertising for traditional, digital, social, emerging media platforms. Multimedia laboratory experience.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 462",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 563",
+    "title": "Creative Portfolio",
+    "units": 3,
+    "department": "JMS",
+    "description": "Advance creative thinking and creative execution of advertising campaigns. Students prepare creative advertising campaigns to be submitted to industry creative awards competitions in the student category.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 565",
+    "title": "Advertising Campaigns",
+    "units": 3,
+    "department": "JMS",
+    "description": "Branding campaigns using traditional, digital, and social media. Strategy for owned, earned, and paid media. Consumer analysis, community definition. Creative development. Media strategy and tactics. Campaign measurement. Completion of course with a grade of C (2.0) or better is required for majors.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 494",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 562",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 566",
+    "title": "Advertising Strategy and Digital Analytics Platforms",
+    "units": 3,
+    "department": "JMS",
+    "description": "Strategy creation, implementation, and evaluation using digital analytics platforms. Digital analytics administration, monitoring, analysis, and reporting. Application of digital analytics to consumer advertising optimization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 567",
+    "title": "Advanced Topics in Advertising",
+    "units": 3,
+    "department": "JMS",
+    "description": "Reading, investigation, and research in a specialized topic in advertising.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 568",
+    "title": "Artificial Intelligence and Strategic Decision Making",
+    "units": 3,
+    "department": "JMS",
+    "description": "Developing and future uses of AI, focusing on its use in the fields of advertising, marketing, and media. Exploration of AI adoption, acceptance, ethics, social integration, and regulations. Course does not require a background in coding or computer science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 574",
+    "title": "International Advertising",
+    "units": 3,
+    "department": "JMS",
+    "description": "Comparative cultural, economic, legal, political, and social conditions relevant to international advertising.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 581",
+    "title": "Applied Research in Public Relations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Qualitative and quantitative methods used in research to plan, track, evaluate public relations and communication practices. Computerized statistical analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 310W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 489",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 582",
+    "title": "Seminar in Media and Politics",
+    "units": 3,
+    "department": "JMS",
+    "description": "Mass media on domestic, global politics, elections. Theories, concepts, history of media and politics. Impact of digital and social media on political process.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 585",
+    "title": "Professional Practices in Public Relations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Students create a strategic public relations campaign including research, planning, implementation, and evaluation. Integrates skills such as budget management, graphic design, client relations, and collaboration in teams. Completion of course with a grade of C (2.0) or better is required for majors.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 481",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 494",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 581",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 588",
+    "title": "Public Relations Case Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "Cases in public relations management. Using the case study method to understand various public relations functions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 590",
+    "title": "Crisis Communication in PR Management",
+    "units": 3,
+    "department": "JMS",
+    "description": "Theory, research, practice of crisis communication in public relations; development of crisis management plans; critical examination of classic/contemporary crisis management cases, both domestic and international.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 595",
+    "title": "Public Relations Theory",
+    "units": 3,
+    "department": "JMS",
+    "description": "Diverse theoretical approaches to public relations, including management, rhetorical, critical, relational and marketing approaches. Preparation for independent scholarly research project or master’s thesis.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 596",
+    "title": "Selected Topics",
+    "units": 1,
+    "department": "JMS",
+    "description": "Specialized study in selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 600A",
+    "title": "Seminar: Introduction to Graduate Studies in Mass Communication and Media Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "Contemporary and emergent mass communication theory. Extensive writing from exercises in bibliographical techniques, database searches, reference works, scholarly journals, and research proposal.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Required for first semester of graduate work; prerequisite for advancement to candidacy. May not be repeated more than once.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 600B",
+    "title": "Seminar: Research Methods in Mass Communication and Media Studies",
+    "units": 3,
+    "department": "JMS",
+    "description": "Methods and tools of inquiry in mass communication research. Survey, experimental, content analysis, legal, and historical research methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Required for first semester of graduate work; prerequisite for advancement to candidacy. May not be repeated more than once.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 602",
+    "title": "Seminar: Military Public Affairs",
+    "units": 3,
+    "department": "JMS",
+    "description": "Public relations theory, history, ethics, social responsibility, management, law and technology. Current problems and issues in military public affairs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 603",
+    "title": "Seminar: Professional Development in Military Public Affairs",
+    "units": 3,
+    "department": "JMS",
+    "description": "Preparing research findings for external review, using methods that include statistical data analysis. Prepare for professional examination in public relations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 619",
+    "title": "Seminar: Qualitative Methods in Mass Media Research",
+    "units": 3,
+    "department": "JMS",
+    "description": "Analysis and critique of qualitative research methods in media contexts. Design and apply qualitative methods to original research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 620",
+    "title": "Seminar: Quantitative Methods in Media Research",
+    "units": 3,
+    "department": "JMS",
+    "description": "Research, design, computer statistical analysis, and reporting of survey, content analysis, and experimental studies in media contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 695",
+    "title": "Public Relations Theory",
+    "units": 3,
+    "department": "JMS",
+    "description": "Diverse theoretical approaches to public relations, including management, rhetorical, critical, relational and marketing approaches. Preparation for independent scholarly research project or master’s thesis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 696",
+    "title": "Special Topics",
+    "units": 1,
+    "department": "JMS",
+    "description": "Intensive study in specific areas of journalism and media studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 701",
+    "title": "Seminar: Mass Communication Problems",
+    "units": 3,
+    "department": "JMS",
+    "description": "Reading, investigation, and research concerning current topics in problems of mass media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 702",
+    "title": "Seminar in Artificial Intelligence in Advertising",
+    "units": 3,
+    "department": "JMS",
+    "description": "Artificial intelligence (AI) is reshaping contemporary practices in advertising, PR, media, and journalism. While AI technologies have significantly enhanced organizational efficiency, they have also raised important ethical concerns. This course will explore the challenges associated with AI adoption.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 703",
+    "title": "Global Public Relations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Advanced study of public relations principles, theories, and practices in international and intercultural contexts.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 780",
+    "title": "Seminar: Advanced Theory in Public Relations",
+    "units": 3,
+    "department": "JMS",
+    "description": "Analysis and critique of contemporary public relations theory. Development of scholarly works that explicate concepts or otherwise advance public relations theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 790",
+    "title": "Internship",
+    "units": 3,
+    "department": "JMS",
+    "description": "This course provides graduate students with hands-on industry experience, allowing them to apply their learning in professional settings such as media organizations, public relations and advertising campaigns, journalism outlets, and other relevant contexts.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "JMS",
+    "description": "Contract required. Arranged with graduate coordinator in area of study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "JMS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "JMS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "JMS 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "JMS",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "JMS",
+    "description": "Registration in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JMS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "JMS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

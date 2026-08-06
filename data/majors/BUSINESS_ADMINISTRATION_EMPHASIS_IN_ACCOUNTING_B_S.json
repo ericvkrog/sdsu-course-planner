@@ -1,0 +1,60 @@
+{
+  "code": "BUSINESS_ADMINISTRATION_EMPHASIS_IN_ACCOUNTING_B_S",
+  "name": "Business Administration, Emphasis in Accounting, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11880",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11880",
+  "poid": "11880",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "ACCTG 390W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "ACCTG 390W"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ACCTG 201",
+      "ACCTG 202",
+      "ECON 101",
+      "ECON 102",
+      "FIN 240",
+      "MIS 180",
+      "MATH 120",
+      "STAT 119",
+      "ECON 201"
+    ],
+    "Major": [
+      "ACCTG 331",
+      "ACCTG 332",
+      "ACCTG 333",
+      "ACCTG 334",
+      "ACCTG 390W",
+      "ACCTG 431",
+      "ACCTG 530",
+      "ACCTG 532",
+      "B A 305",
+      "B A 310",
+      "B A 323",
+      "B A 350",
+      "B A 360",
+      "B A 370",
+      "MIS 301"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MATH 120",
+    "MIS 180",
+    "ACCTG 201",
+    "ECON 201",
+    "ACCTG 202",
+    "MIS 301"
+  ],
+  "unresolved_codes": []
+}

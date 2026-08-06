@@ -1,0 +1,2428 @@
+[
+  {
+    "course_code": "BIOL 100",
+    "title": "General Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "A beginning course in Biology stressing processes common to living organisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to Biological Sciences majors; see",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 100L",
+    "title": "General Biology Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "A laboratory course in Biology stressing processes common to living organisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not applicable to Biological Sciences majors; see",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 101",
+    "title": "World of Animals",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Animal adaptation and diversity and their relationship to the development of evolutionary theory. Not applicable to Biological Sciences majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 101L",
+    "title": "World of Animals Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Laboratory course on evolution and diversity of animals involving field trips and laboratory investigations. Not applicable to Biological Sciences majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 203",
+    "title": "Principles of Cell and Molecular Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Principles of biology applying to all organisms, including basic biochemistry, cell structure, membrane transport, energy metabolism, cell division, classical and molecular genetics, gene expression, development, and recombinant DNA.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 203L",
+    "title": "Principles of Cell and Molecular Biology Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Laboratory experiences designed to demonstrate and reinforce concepts presented in lecture through active scientific investigation and experiences in observing, identifying, describing, and explaining evolution of cellular processes, and in applying laboratory methods and procedures relevant to molecular biology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 204",
+    "title": "Principles of Organismal Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Principles of biology applying to all organisms, including systematics and diversity of bacteria, protista, fungi, plants and animals, and concepts of physiology, reproduction, development and differentiation, ecology and the causes of endangerment of a species.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 204L",
+    "title": "Principles of Organismal Biology Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Laboratory experiences demonstrate and reinforce concepts and descriptive information presented in lecture through active scientific investigation and experience in observing, identifying, and classifying life, in analyzing the structural features of life, and in evaluating their adaptive significance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 211",
+    "title": "Fundamentals of Microbiology",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Microorganisms of the environment, including disease-producing organisms, their actions and reactions. For nursing, nutrition, and kinesiology (prephysical therapy) majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Not applicable to biological sciences majors; see",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 130",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 211L",
+    "title": "Fundamentals of Microbiology Laboratory",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Fundamentals of microbiology, including study of bacteria, fungi, protozoa, and algae of environment, including disease-producing organisms, their actions and reactions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 212",
+    "title": "Human Anatomy",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Gross and microscopic anatomy of organ system of human body.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 215",
+    "title": "Biostatistics",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Methods and experience in defining and solving quantitative problems in biology, including design of experiments, and parametric and nonparametric statistical techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 141",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 246",
+    "title": "Colloquium in Biomedical Sciences",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Current biomedical research projects ranging from cell biology to behavioral research. Research paper required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 247",
+    "title": "Advanced Degree Programs in the Sciences: Application Strategies",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Instruction in preparing competitive applications to sciences\u2019 M.S. and Ph.D. degree programs to include development of the required personal statement. Introduction to sources of financial support, such as national fellowship programs, and development of interview skills and materials.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 248",
+    "title": "Careers in Biological Sciences",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Career opportunities in biological sciences. Specialists in major biological areas will present information about their fields and how best to prepare for careers.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 250A",
+    "title": "Preprofessional Topics: Topics in Medicine",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Designed to expose the preprofessional student to the profession of his/her choice through speakers and selected readings. Emphasis on alternatives and meeting stresses as a preprofessional student.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 250B",
+    "title": "Preprofessional Topics: Topics in Dentistry",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Designed to expose the preprofessional student to the profession of his/her choice through speakers and selected readings. Emphasis on alternatives and meeting stresses as a preprofessional student.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 250C",
+    "title": "Preprofessional Topics: Topics in Veterinary Medicine",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Designed to expose the preprofessional student to the profession of his/her choice through speakers and selected readings. Emphasis on alternatives and meeting stresses as a preprofessional student.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 251",
+    "title": "Human Anatomy Internship",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Interns will master the material from human anatomy, develop and teach study skills, and apply skill set for administering a laboratory course in human anatomy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 261",
+    "title": "Human Physiology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Human function viewed from cellular through organ system levels of organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Intended primarily for prenursing students. Not applicable to biological sciences majors. Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 130",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 291C",
+    "title": "Biostatistics Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Special laboratory course designed for biology majors with credit in a statistics course other than",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Individual research experience and interaction with researchers at an introductory level. Projects involve approximately 45 hours of laboratory or fieldwork per unit and a research report. Hours are flexible and arranged between the student and the researcher.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 307",
+    "title": "Biology of Sex",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Reproductive adaptations in humans, and comparatively in other species. Topics include sex differences, mate choice and mating behavior, fertility regulation, fertilization and embryonic development, sex ratios, parental investment, effects of aging, and life history strategies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to biological sciences majors.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 315",
+    "title": "Ecology and Human Impacts on the Environment",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Ecological characteristics of natural ecosystems and basic effects of human society upon those systems, emphasizing resource management, food production, global environmental problems, and future directions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to biological sciences majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 317",
+    "title": "World of Dinosaurs",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Current theories and controversies surrounding the evolution and extinction of dinosaurs for non-science majors. Not applicable to biological sciences majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 324",
+    "title": "Life in the Sea",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Overview of complexity of marine life. Diverse interactions of organisms in the intertidal zone, over the continental shelves and in the open oceans. Current controversies concerning the marine biosphere.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to biological sciences majors.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 327",
+    "title": "Conservation of Wildlife",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Global ecosystems and their dynamics, with emphasis on sustainable human use and preservation of biodiversity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to biological sciences majors. Not open to students with credit in Biology 540.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 335",
+    "title": "The Human Body",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Survey of human body with emphasis on intricacy of design and integration of various organ systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to nursing or exercise and nutritional sciences majors, or to students with credit in any college-level human physiology or anatomy course. Not applicable to biological sciences majors.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 336",
+    "title": "Principles of Human Physiology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Systems of the human body, their interrelationships and control systems which regulate them.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a college course in human physiology. Not applicable to biological sciences majors.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 340A",
+    "title": "Preventive Dentistry Program",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Participation in clinic, dental observation, marketing activities and two field trips.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not applicable to biological sciences majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 340B",
+    "title": "Preventive Dentistry Leaders",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Supervision of one component of Preventive Dentistry Program.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Not applicable to biological sciences majors.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 340A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 350",
+    "title": "General Microbiology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Actions and reactions of microorganisms in response to their environment, both natural and as changed by other organisms, including man. Also includes an introduction to pathogens.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 351",
+    "title": "Genetics",
+    "units": 4,
+    "department": "BIOL",
+    "description": "\u201cFaulty\u201d genes, genetic variation, human disorders. Big data, molecular, and transmission genetics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 352",
+    "title": "Evolution",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Principles of population genetics and evolutionary biology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 354",
+    "title": "Ecology and the Environment",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Fundamental concepts in population, community, and ecosystem ecology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "POL S 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 291C",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 358",
+    "title": "Experimental Ecology",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Methods of research in ecology; approaches to analysis of populations, communities, and ecosystems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 366",
+    "title": "Cell Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Fundamental processes of cell biology with an emphasis on cellular and molecular mechanisms common to eukaryotic organisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open only to Biology and Microbiology majors, Biology minors, and Chemistry majors with Emphasis in Biochemistry.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 366L",
+    "title": "Cell Biology Laboratory",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Basic laboratory approaches in cell biology to include operation of lab instrumentation, microscopy, and cell manipulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 436",
+    "title": "Human Physiology Laboratory",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Human physiology and rationale of current week\u2019s laboratory and experimental outcomes of previous week\u2019s laboratory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 336",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 590",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 452",
+    "title": "Science Concept Development and Integration",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Development and integration of biological science content knowledge, introduction to learning theory, and transformation of knowledge. Designed for students preparing for the single subject teaching credential in life sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 459",
+    "title": "Plant Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Cell biology and structure, photosynthesis, respiration, secondary metabolism, physiology of water relations and transport, growth and development, evolution of major groups, plant ecology of Southern California and topics related to agriculture. Same course as lecture portion of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 462",
+    "title": "Zoology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Biology and ecology of animals to include diversity and evolution, morphological and behavioral adaptations to environments, physiological mechanisms, and relationships to world ecosystems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 464",
+    "title": "Functional Genomics Laboratory",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Practical research experience in cell and molecular biology using an applicable model system(s). Analysis of gene expression, gene inhibition approaches, image data analysis, microscopy techniques, and/or molecular genetic techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 470",
+    "title": "Learning Assistant Professional Development for the Biological Sciences",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Preparation of undergraduate learning assistants to support biology student learning in the Ecological and Evolutionary Sciences. Covers core topics in teaching and learning including learning cognition, effective feedback, group work, classroom equity and diversity, and core biology content areas.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Students must contact the department for approval to enroll.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 480",
+    "title": "Clinical Hematology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Theoretical and practical background for study of normal and pathological blood cells to include laboratory techniques. Course meets State of California requirements as a hematology course for students entering training programs in clinical laboratory sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 563",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 485",
+    "title": "Principles of Immunology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Basic areas of immunology to include inflammation, generation of immune response, antibody production, lymphocyte development and function, hypersensitivities and AIDS, major histocompatibility complex and cytokines. Designed to give a basic background in the immune system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 495",
+    "title": "Special Study",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Individual study, internship, other supervised laboratory or field project or experience. Credit involves 50 hour activity per unit per semester. Written or oral presentation of results required.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Students must contact the instructort for approval to enroll in this course. Limit of six units of any combination of 495 and 497 applicable to a bachelor\u2019s degree. Not open to students with six units of credit in BIOL 499.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 299",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 497",
+    "title": "Undergraduate Research",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Independent research project supervised by faculty. Data analysis and written or oral presentation of results.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Students must contact the instructor for approval to enroll in this course. Limit of six units of any combination of 495 and 497 applicable to a bachelor\u2019s degree.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 299",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 500",
+    "title": "Classics of Biology",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Review and discussion of classic literature in the biological and environmental sciences that has shaped modern biological thought.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 351",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 509",
+    "title": "Advanced Evolution",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Evolutionary biology including genetics of populations, speciation, systematic biology, adaptation, role of development in evolution, evolution of behavior, and comparative biology. Evolutionary biology as the central organizing principle of biology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor\u2019s degree. Credit for 596 and 696 applicable to a master\u2019s degree with approval of the graduate adviser.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 510",
+    "title": "Molecular Evolution",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Molecular evolution including concepts of homology and convergence, the nearly neutral theory of evolution, evolution of new protein function, detecting selection, multi-gene family evolution and evolutionary genomics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 512",
+    "title": "Evolution and Ecology of Marine Mammals",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Biology of marine mammals including pinniped, cetacean and sirenian evolution, diet and foraging strategies, social organization, reproductive strategies, echolocation, diving physiology, and conservation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 514",
+    "title": "Biology of the Algae",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Evolution, life histories, morphology, physiology, and ecology of micro and macro algae, with attention to both marine and freshwater taxa, and of sea-grasses.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 515",
+    "title": "Marine Invertebrate Biology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Structure and function, ecology, behavior, physiology and phyletic relationships of marine invertebrate animals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 516A",
+    "title": "Marine Larval Ecology Research Part 1",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Biology of marine invertebrate larvae. Biodiversity, evolution of complex life cycles, larval culture techniques, physiological and ecological consequences of environmental variability during larval development. Designing and peer reviewing original research proposals related to larval ecology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 516B",
+    "title": "Marine Larval Ecology Research Part 2",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Research experience investigating marine invertebrate larval ecology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 516A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 517",
+    "title": "Marine Ecology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Ecological concepts as applied to pelagic and benthic marine organisms and their environment. Field and laboratory experience in oceanographic techniques, particularly the coastal environment. Field and laboratory experience in oceanographic techniques, particularly the coastal environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 518",
+    "title": "Biology of Fishes",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Ecology, anatomy, physiology, evolution, taxonomy, environmental constraints, habitats, feeding, behavior, growth, reproduction, biotic interactions, population dynamics, and assemblage structure. Fisheries biology concepts to include stock-recruitment models, density dependence and population regulation, management of fisheries, and conservation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in Biology 520 and 541.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 523",
+    "title": "Herpetology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Evolution, systematics, distribution, and ecology of amphibians and reptiles of the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 524",
+    "title": "Ornithology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Study and identification of birds, especially those of the Pacific Coast and the San Diego region.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 525",
+    "title": "Mammalogy",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Evolution, systematics, distribution and ecology of mammals of the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 526",
+    "title": "Terrestrial Arthropod Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Behavior, ecology, evolution, function, relationships, and structure of major groups of terrestrial arthropods, including arachnids, insects, and myriapods. Identification and natural history of southern California diversity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 527",
+    "title": "Animal Behavior",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Biological bases of animal behavior with emphasis on ethological approach, including evolution and adaptive significance of behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 211",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 528",
+    "title": "Microbial Ecology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Roles of microorganisms in soil, aquatic and marine ecosystems, microbial adaptations to the environment, and interactions within microbial communities and between microbes and multicellular organisms. Laboratory techniques to isolate and study microbes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 530",
+    "title": "Plant Systematics",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Plant description, identification, classification, and nomenclature with emphasis on evolutionary patterns, interdisciplinary data acquisition, and phylogenetic analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 531",
+    "title": "Taxonomy of California Plants",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Fundamentals of plant taxonomy with emphasis on identification of plants native and naturalized to California. Plant collecting techniques. Field trips are required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 535",
+    "title": "Plant Ecology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Plant adaptation and response to living and non-living environment including aspects of plant evolution, demography, ecophysiology community and ecosystem dynamics and soil-plant relationships. Terrestrial systems emphasized.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 540",
+    "title": "Conservation Ecology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Human impacts on ecosystems, the resultant endangerment and extinction of plant and animal species, and strategies for the protection and recovery of threatened forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 542",
+    "title": "Ecological Signaling in the Environment",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Ecological consequences of species interactions mediated by signals in terrestrial and aquatic ecosystems. Evaluating primary literature and conveying science to a broad audience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 544",
+    "title": "Terrestrial Ecosystems and Climate Change",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Controls on fluxes and stocks of nutrients within terrestrial ecosystems, ecosystem responses, feedbacks to climate change. Climate systems, water transport, production and decomposition, nutrient cycling, stable isotopes, spatial and temporal integration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 549",
+    "title": "Microbial Genetics and Physiology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Physiology of microbial growth, bacterial structure and function, genetics of bacteriophages and bacteria.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 554",
+    "title": "Molecular Virology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Molecular aspects of structure, genetics, and replication of viruses, virus-host interactions, pathogenesis of virus infections, diagnostic virology, and antiviral vaccines and drugs; emphasis on human pathogens.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 556",
+    "title": "Scanning Electron Microscopy Laboratory",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Biological specimen preparation and operation of scanning electron microscope.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 557",
+    "title": "Transmission Electron Microscopy Laboratory",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Biological sample preparation and operation of transmission electron microscope.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 560",
+    "title": "Animal Physiology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Physiology of vertebrate and invertebrate animals with emphasis on diversity of solutions to physiological problems and on functional integration of organ systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 204L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 562",
+    "title": "Ecological Metagenomics",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Next generation DNA sequencing technology with emphasis on ecological applications in microbial communities. Metagenomic analysis of taxonomic identification, physiological function, and the ecological role of the microbial community in the broader ecosystem.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 564",
+    "title": "Principles of Cancer Biology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Fundamental concepts of cancer biology, including modern experimental techniques in cancer research. Exploration of primary research articles and cutting-edge discoveries in the field of cancer biology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "It is recommended that students take CHEM 365 before this course, but it is not required.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 565",
+    "title": "Genome Editing",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Fundamental concepts in DNA manipulation and gene expression, including training in CRISPR gene editing technology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 567",
+    "title": "Advanced Biochemistry, Cellular, and Molecular Biology",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Advanced concepts of cellular biology, molecular biology, and biochemistry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 567L",
+    "title": "Biochemistry, Cellular, and Molecular Biology Laboratory II",
+    "units": 2,
+    "department": "BIOL",
+    "description": "Intermediate laboratory approaches to biochemistry, cellular biology, and molecular biology at a level appropriate for both advanced undergraduate and graduate students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 568",
+    "title": "Bioinformatics",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Bioinformatics analysis methods and programming skills. Practical bioinformatic software for sequence analysis, bioinformatic algorithms and programming fundamentals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 570",
+    "title": "Neurobiology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Structure and function of the nervous system to include cellular and molecular mechanisms underlying neuronal excitability and synaptic function, nervous system development, cellular and systems analysis of sensory, motor and higher brain functions. Emphasis on experimental approaches.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 590",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 575",
+    "title": "Molecular Basis of Heart Disease",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Current literature on the molecular basis of disordered physiology leading to heart disease.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 590",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 576",
+    "title": "Developmental Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Fundamental processes of development from fertilized egg to organism. Emphasis on cellular and molecular mechanisms common to development of metazoan organisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 567",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 578",
+    "title": "Environmental Systems Modeling: Principles and Application",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Development and application of numerical models for the analysis of environmental and ecological systems and problems, with a focus on terrestrial ecosystems in the context of global environmental change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 580",
+    "title": "Research Methods in Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "An intensive semester-long lecture, field, and laboratory course illustrating research methods from molecular-to-ecosystem levels of biological organization. Students learn and practice these research methods using plant/animal/microbial/viral model systems. Includes experimental design, data analyses, and results dissemination (oral and written).",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 584",
+    "title": "Medical Microbiology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Major bacterial and viral pathogens; molecular mechanisms of pathogenesis, microbial toxins and antimicrobial agents; immune response to microbial infections; biochemical and molecular diagnostics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 585",
+    "title": "Cellular and Molecular Immunology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Cellular and molecular aspects of the immune response. Genetics of immunoglobulins, major histocompatibility complex, lymphocyte development and their manifestations on immune responsiveness, lymphokines immunopathologies including AIDS, and contemporary immunological techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 567",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 567L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 589",
+    "title": "Stem Cell and Regenerative Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Stem cell basics, cloning, tissue engineering, research on animal models of regeneration, political and ethical issues surrounding stem cell debate.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Writing Requirement for Undergraduates: Completion of the Graduation Writing Assessment Requirement or the eligibility to enroll in an upper division writing course is a prerequisite for all upper division biology courses numbered 450 and above.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 590",
+    "title": "Physiology of Human Systems",
+    "units": 4,
+    "department": "BIOL",
+    "description": "Human physiology presented at both cellular and organ system levels; neurophysiology, muscle physiology, cardiovascular physiology and respiration, kidney function, hormone function and reproduction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "For students majoring in a natural science or pre-professional studies.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 596",
+    "title": "Special Topics in Biology",
+    "units": 1,
+    "department": "BIOL",
+    "description": "Advanced selected topics in modern biology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 597",
+    "title": "Undergraduate Thesis",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Experience in designing and carrying out independent research in a laboratory or field setting plus a written record of experimental design and results in the form of a research thesis to be defended before a committee.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Students must contact the instructor for approval to enroll in this course. BIOL 597 is not applicable to a graduate degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "BIOL",
+    "description": "An intensive study in advanced biology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 602",
+    "title": "Seminar in Biology",
+    "units": 1,
+    "department": "BIOL",
+    "description": "An intensive study in advanced biological concepts involving discussion of topical scientific literature.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 605",
+    "title": "Univariate Statistical Methods in Biology",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Application of univariate statistical techniques in biological sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 352",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 606",
+    "title": "Biological Data",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Concepts and applications of advanced statistical techniques in the biological sciences to include multivariate statistics, analysis of discrete data, spatial statistics, time series analysis, and Monte Carlo methods (e.g. bootstrapping and randomization tests).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 605",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOL 624",
+    "title": "Population Genetics",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Theoretical and applied population genetics to include genetic diversity in natural populations, random drift, mutation, gene flow, natural selection, nucleotide variation, and quantitative genetics. Emphasis on data analysis and interpretation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOL 645",
+    "title": "Theory and Principles of Ecology I",
+    "units": 3,
+    "department": "BIOL",
+    "description": "Major theoretical concepts in ecology, topics of current interest, and historical context of central ideas in ecology, with emphasis on use of primary literature.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  }
+]

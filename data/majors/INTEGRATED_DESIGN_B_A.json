@@ -1,0 +1,75 @@
+{
+  "code": "INTEGRATED_DESIGN_B_A",
+  "name": "Integrated Design, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=13954",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=13954",
+  "poid": "13954",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ART 100",
+    "ART 101",
+    "ART 103",
+    "ART 104",
+    "ART 240",
+    "ART 258",
+    "ART 259"
+  ],
+  "upper_required": [
+    "ART 341",
+    "ART 342A",
+    "ART 345",
+    "ART 371",
+    "ART 409"
+  ],
+  "elective_areas": {
+    "Three Units Selected From": [
+      "ART 216",
+      "ART 220",
+      "ART 223",
+      "ART 231"
+    ],
+    "Print and Screen Design Electives": [
+      "ART 313",
+      "ART 342B",
+      "ART 344",
+      "ART 441",
+      "ART 442",
+      "ART 450"
+    ],
+    "Integrated Design Electives": [
+      "ART 445B",
+      "ART 445C",
+      "ART 454",
+      "ART 541"
+    ]
+  },
+  "default_electives": [
+    "ART 216",
+    "ART 313",
+    "ART 342B",
+    "ART 445B",
+    "ART 445C"
+  ],
+  "unresolved_codes": [
+    "ART 542",
+    "ART 545",
+    "ART 555",
+    "ART 557",
+    "ART 558",
+    "ART 559",
+    "ART 564",
+    "ART 565",
+    "ART 568",
+    "ART 571B",
+    "ART 573A",
+    "ART 573B",
+    "ART 575",
+    "ART 577",
+    "ART 578",
+    "ART 593"
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "course_code": "BIOMI 568",
+    "title": "Bioinformatics",
+    "units": 3,
+    "department": "BIOMI",
+    "description": "Bioinformatics analysis methods and programming skills. Practical bioinformatic software for sequence analysis, bioinformatic algorithms and programming fundamentals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 366",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOMI 596",
+    "title": "Special Topics in Bioinformatics and Medical Informatics",
+    "units": 1,
+    "department": "BIOMI",
+    "description": "Advanced selected topics in bioinformatics and medical informatics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 609",
+    "title": "Computational Genomics and Bioinformatics",
+    "units": 3,
+    "department": "BIOMI",
+    "description": "Biological and genomic data. Application of computational algorithms to biological questions. Post-genomic techniques in annotation and comparison of microbial and eukaryotic genome sequences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 503",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 514",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BIOMI 624",
+    "title": "Population Genetics",
+    "units": 3,
+    "department": "BIOMI",
+    "description": "Theoretical and applied population genetics to include genetic diversity in natural populations, random drift, mutation, gene flow, natural selection, nucleotide variation, and quantitative genetics. Emphasis on data analysis and interpretation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 696",
+    "title": "Advanced Topics in Bioinformatics and Medical Informatics",
+    "units": 1,
+    "department": "BIOMI",
+    "description": "Recent technological developments and scientific breakthroughs that have a changing effect on the field of biomedical informatics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 740",
+    "title": "Phylogenetic Systematics",
+    "units": 3,
+    "department": "BIOMI",
+    "description": "Theory and methodology of phylogenetic systematics. Includes use of computer algorithms, survey of literature and preparation of a project in phylogenetic systematics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 796",
+    "title": "Selected Topics in Bioinformatics and Medical Informatics",
+    "units": 1,
+    "department": "BIOMI",
+    "description": "Intensive study in specific areas of biological or medical informatics. In-depth investigation of specific challenges in the field as well as introduction to current and emerging technologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 797",
+    "title": "Research",
+    "units": 1,
+    "department": "BIOMI",
+    "description": "Research in one of the fields of bioinformatics and medical informatics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "BIOMI",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "BIOMI",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BIOMI 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "BIOMI",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

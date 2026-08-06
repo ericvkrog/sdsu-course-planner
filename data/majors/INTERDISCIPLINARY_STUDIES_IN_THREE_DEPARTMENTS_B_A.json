@@ -1,0 +1,22 @@
+{
+  "code": "INTERDISCIPLINARY_STUDIES_IN_THREE_DEPARTMENTS_B_A",
+  "name": "Interdisciplinary Studies in Three Departments, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12054",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12054",
+  "poid": "12054",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "GEN S 300",
+    "GEN S 400",
+    "GEN S 480",
+    "GEN S 491"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

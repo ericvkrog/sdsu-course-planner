@@ -1,0 +1,251 @@
+[
+  {
+    "course_code": "EUROP 101",
+    "title": "Introduction to European Studies",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Europe: The land, the people, their artistic, intellectual and cultural movements, including art, architecture, languages and literatures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 160",
+    "title": "European Reflections on Science and Technology",
+    "units": 3,
+    "department": "EUROP",
+    "description": "European authors at the intersection of arts, science, and technology. Major innovations and debates across time and place.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "EUROP",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 301",
+    "title": "Contemporary Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Contemporary Europe, emphasizing artistic, intellectual, and cultural trends, as well as contemporary issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 320",
+    "title": "Food Culture in Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Regional distinctions and traditions. Food consumption, distribution, preparation, sourcing, and sustainability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 424",
+    "title": "European Cinema",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Issues and themes in European culture as seen through its films.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 430",
+    "title": "Muslim Experience in Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Cross-cultural connections between the Muslim and Judeo-Christian worlds in Europe. Socio-cultural, ethnicity, race, and gender issues from the Middle Ages to the present day, using historical accounts, art works, literature, and film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 435",
+    "title": "Culture and Identity in Post-Communist Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Social, economic, and cultural transformations in Europe after the collapse of communism. Daily life under communism and the impact of the collapse of this political system on language, individual identity, space, and community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 440",
+    "title": "Human Trafficking in Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Human trafficking in context of migration, human rights, society, culture, and gender discourses in Europe. Historical accounts of trafficking, scholarly articles, literature, film, and primary documents from advocacy organizations and governmental institutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 465",
+    "title": "Race and Identity in Europe",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Explores issues of race and identity formation, contestation, and transformation in Europe. Students will examine evolving understandings of what it means to be “European” in a diverse Europe. Topics include: Colonialism, Roma Rights, Islamophobia, Racism, Anti-racist activism and Hip Hop Culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 495",
+    "title": "European Studies Internship",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Practical work experience in a field related to European studies. Work done under joint direction of activity sponsor and instructor. Approved international internships may count towards international experience requirement for major.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "EUROP",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "EUROP",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "EUROP 501",
+    "title": "European Life and Culture",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Specialized study of topics such as European union, European women, or European art.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "EUROP 596",
+    "title": "Topics in European Studies",
+    "units": 3,
+    "department": "EUROP",
+    "description": "Specialized topics in contemporary European culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "EUROP 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

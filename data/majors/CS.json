@@ -1,0 +1,94 @@
+{
+  "code": "CS",
+  "name": "Computer Science, B.S.",
+  "degree": "B.S.",
+  "total_units": 123,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=11&poid=11969",
+  "verified": true,
+  "source": "hand-verified",
+  "covered_ge_areas": [
+    "2",
+    "5A",
+    "5C"
+  ],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "CS 150",
+    "CS 150L",
+    "CS 160",
+    "CS 160L",
+    "CS 210",
+    "CS 240",
+    "CS 250",
+    "MATH 150",
+    "MATH 151",
+    "MATH 245",
+    "MATH 254",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "STAT 250"
+  ],
+  "upper_required": [
+    "CS 370",
+    "CS 420",
+    "CS 450",
+    "CS 460",
+    "CS 480",
+    "STAT 550"
+  ],
+  "elective_areas": {
+    "A — Systems and Networking": [
+      "CS 470",
+      "CS 521",
+      "CS 530",
+      "CS 532",
+      "CS 545",
+      "CS 562",
+      "CS 572",
+      "CS 574",
+      "CS 576",
+      "CS 578",
+      "CY 302",
+      "CY 531",
+      "CY 533",
+      "CY 534",
+      "CY 542",
+      "CY 569",
+      "CY 575"
+    ],
+    "B — Intelligent Systems and Multimedia": [
+      "CS 549",
+      "CS 553",
+      "CS 556",
+      "CS 559",
+      "CS 561",
+      "CS 583",
+      "CY 541"
+    ],
+    "C — Information Management": [
+      "CS 503",
+      "CS 514",
+      "CS 558",
+      "CS 577",
+      "CS 581",
+      "CS 582"
+    ],
+    "D — Research / Independent Study (max 6u)": [
+      "CS 496",
+      "CS 497",
+      "CS 498",
+      "CS 499",
+      "CS 596"
+    ]
+  },
+  "default_electives": [
+    "CS 530",
+    "CS 532",
+    "CS 549",
+    "CS 556",
+    "CS 514",
+    "CS 577"
+  ]
+}

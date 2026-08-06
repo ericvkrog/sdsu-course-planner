@@ -1,0 +1,95 @@
+{
+  "code": "MUSIC_GLOBAL_COMPOSITION_SPECIALIZATION_B_M",
+  "name": "Music, Global Composition Specialization, B.M.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12139",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12139",
+  "poid": "12139",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "MUSIC 409W"
+  ],
+  "lower_division": [
+    "MUSIC 105",
+    "MUSIC 106A",
+    "MUSIC 106B",
+    "MUSIC 108",
+    "MUSIC 151",
+    "MUSIC 110A",
+    "MUSIC 110B",
+    "MUSIC 160",
+    "MUSIC 166",
+    "MUSIC 205A",
+    "MUSIC 205B",
+    "MUSIC 206A",
+    "MUSIC 206B",
+    "MUSIC 207",
+    "MUSIC 210A",
+    "MUSIC 210B",
+    "MUSIC 260",
+    "MUSIC 266",
+    "MUSIC 251L",
+    "MUSIC 204",
+    "MUSIC 100"
+  ],
+  "upper_required": [
+    "MUSIC 300",
+    "MUSIC 409W",
+    "MUSIC 305A",
+    "MUSIC 305B",
+    "MUSIC 308A",
+    "MUSIC 309",
+    "MUSIC 345",
+    "MUSIC 347",
+    "MUSIC 360",
+    "MUSIC 405A",
+    "MUSIC 405B"
+  ],
+  "elective_areas": {
+    "Ensembles": [
+      "MUSIC 170",
+      "MUSIC 174",
+      "MUSIC 175",
+      "MUSIC 176",
+      "MUSIC 177",
+      "MUSIC 180",
+      "MUSIC 183",
+      "MUSIC 184",
+      "MUSIC 185",
+      "MUSIC 186",
+      "MUSIC 189"
+    ],
+    "Ensembles (2)": [
+      "MUSIC 370",
+      "MUSIC 374",
+      "MUSIC 375",
+      "MUSIC 376",
+      "MUSIC 377",
+      "MUSIC 380",
+      "MUSIC 383",
+      "MUSIC 384",
+      "MUSIC 385",
+      "MUSIC 386",
+      "MUSIC 389"
+    ]
+  },
+  "default_electives": [
+    "MUSIC 170",
+    "MUSIC 174",
+    "MUSIC 175",
+    "MUSIC 370",
+    "MUSIC 374",
+    "MUSIC 375"
+  ],
+  "unresolved_codes": [
+    "MUSIC 451L",
+    "MUSIC 460",
+    "MUSIC 507",
+    "MUSIC 560",
+    "MUSIC 561",
+    "MUSIC 565",
+    "MUSIC 595"
+  ]
+}

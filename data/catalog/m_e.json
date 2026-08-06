@@ -1,0 +1,1464 @@
+[
+  {
+    "course_code": "M E 190",
+    "title": "Computer-Aided Design",
+    "units": 2,
+    "department": "M",
+    "description": "Introduction to 3-D computer-aided mechanical design. Creation of basic to intermediate solid parts, assemblies, and drawings to include orthographic, pictorial, section, and detail views. Dimensioning, dimensional tolerancing, and thread notation per ASME Y14.5M-2009. SolidWorks software.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 200",
+    "title": "Statics",
+    "units": 3,
+    "department": "M",
+    "description": "Force systems, equilibrium, structures, distributed forces, friction, virtual work, moments of inertia, vector algebra.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 202",
+    "title": "Computer Programming and Applications",
+    "units": 3,
+    "department": "M",
+    "description": "Principles of programming using Matlab. Syntax topics to include arrays, control flow, data types, functions, and loops. Numerical methods to include curve fitting, Gauss reduction, interpolation, matrix operations, Newton-Raphson, numerical differentiation, and numerical integration. Matlab implementations. Application areas in mechanical engineering to include dynamic systems, finite element analysis, graphical user interfaces, and image analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 220",
+    "title": "Dynamics",
+    "units": 3,
+    "department": "M",
+    "description": "Kinetics of a particle; central force motion; systems of particles; work and energy; impulse and momentum; moments and products of inertia; Euler\u2019s equations of motion; vibration and time response; engineering applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 230",
+    "title": "Basics of Mechatronics",
+    "units": 3,
+    "department": "M",
+    "description": "Introductory mechatronics. Basic DC and AC circuits, breadboarding, capacitors, inductors, circuit components, integrated circuit amplifiers, filters, with applications to mechanical engineering. Ohm\u2019s Law. Laboratory topics include measurement techniques using function generator, multimeter, oscilloscope, and computer simulation using circuit analysis software.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 240",
+    "title": "Introduction to Engineering Materials",
+    "units": 3,
+    "department": "M",
+    "description": "Atomic and molecular structure of materials utilized in engineering. Analysis of the relationships between structure of materials and their mechanical, thermal, electrical, corrosion, and radiation properties. Examples of material structure relevant to civil, electrical, aerospace, and mechanical engineering applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 241",
+    "title": "Materials Laboratory",
+    "units": 1,
+    "department": "M",
+    "description": "Experimental methods used to characterize engineering materials and their mechanical behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "M",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 304",
+    "title": "Mechanics of Materials",
+    "units": 3,
+    "department": "M",
+    "description": "Concepts of stress and strain. Generalized Hooke\u2019s law. Formulations for axial, shear, bending, torsion, and combined stresses applied to tension members, pinned joints, beams, and shafts. Euler buckling criteria for columns. Energy methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 314",
+    "title": "Engineering Design: Mechanical Components",
+    "units": 3,
+    "department": "M",
+    "description": "Application of mechanics, physical properties of materials, and solid mechanics to the design of machine elements. Student design projects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 190",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 241",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 330",
+    "title": "Mechatronics Laboratory",
+    "units": 3,
+    "department": "M",
+    "description": "Actuating devices, data acquisition systems, hardware controllers, machine and process control applications, sensors and transducers, transducer signal processing and conditioning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 230",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 340",
+    "title": "Introduction to Manufacturing Engineering",
+    "units": 3,
+    "department": "M",
+    "description": "Introduces manufacturing methods through lectures on fabrication, solidification, metal forming, sheet metalworking, and material removing processes, surface processing, and laboratory hands-on exercises on machine tools, and exercises in applied metrology and design for manufacturing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in M E 420.",
+    "prerequisites": [
+      {
+        "prereq_code": "M E 190",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 350",
+    "title": "Thermodynamics",
+    "units": 3,
+    "department": "M",
+    "description": "Basic concepts and principles of thermodynamics with emphasis on simple compressible substances. First and second law analysis, entropy, exergy analysis and state relations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 360",
+    "title": "Fluids Engineering",
+    "units": 3,
+    "department": "M",
+    "description": "Fluid mechanics with applications to mechanical engineering systems. Statics and dynamics of fluids. Conservation laws of mass, momentum and energy analysis in control volume and differential form. Real life applications of these fundamental concepts and systems to include turbomachinery.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in A E 340.",
+    "prerequisites": [
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 225",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 420",
+    "title": "Fundamentals of Manufacturing",
+    "units": 3,
+    "department": "M",
+    "description": "Applications of mechanics of materials and systems in product design and fabrication. Design challenges and constraints of various fabrication technologies. Fabrication technologies and processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in M E 340.",
+    "prerequisites": [
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 430",
+    "title": "Automatic Control Systems",
+    "units": 3,
+    "department": "M",
+    "description": "System-level lumped parameter modeling of dynamic systems using first principles. Predict performance of engineered systems based on its dynamic response. Feedback control to achieve closed loop stability and specified system performances.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 450",
+    "title": "Applications of Thermodynamics",
+    "units": 3,
+    "department": "M",
+    "description": "Air-conditioning, combustion, exergy analysis, gas power systems, heat pumps, power plant cycles, psychrometrics, refrigeration; thermoeconomics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 452",
+    "title": "Principles of Heat Transfer",
+    "units": 3,
+    "department": "M",
+    "description": "Analytical and numerical solutions of steady and transient one- and two-dimensional conduction problems, forced and natural convection in external and internal flows, and thermal radiation. Applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 490W",
+    "title": "Engineering Design: Senior Project",
+    "units": 3,
+    "department": "M",
+    "description": "Applications of engineering principles and design techniques to design, build, and test\u00a0an engineering system taking into consideration societal impact\u00a0and ethical issues. Developing skills to effectively communicate orally and in writing\u00a0with audiences within and outside the discipline.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in M E 490A. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "M E 491",
+    "title": "Engineering Design: Senior Project",
+    "units": 3,
+    "department": "M",
+    "description": "Applications of\u00a0principles and design techniques of an engineering system. Part two of a single project is completed two-course sequence and is completed upon presentation of oral and written report. Issues related to ethics and engineering practice are discussed.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 490W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 495",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 495",
+    "title": "Mechanical and Thermal Systems Laboratory",
+    "units": 2,
+    "department": "M",
+    "description": "Data acquisition theory, instrumentation, sensors, data reduction, statistical and uncertainty analysis, and design of experiments. Experience in designing, performing, and reporting experiments on mechanical and thermal systems, mechanisms, vibrations, structures, thermodynamics, heat transfer.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 496",
+    "title": "Advanced Mechanical Engineering Topics",
+    "units": 1,
+    "department": "M",
+    "description": "Modern developments in mechanical engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "M",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 520",
+    "title": "Introduction to Mechanical Vibrations",
+    "units": 3,
+    "department": "M",
+    "description": "Analysis of mechanical vibration; single- and multi-degree of freedom systems; free and forced vibrations; vibration isolation; vibration absorbers. Theory of vibration measuring instruments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 530",
+    "title": "Linear Control",
+    "units": 3,
+    "department": "M",
+    "description": "This course introduces the important concepts in the modeling, analysis, control, and numerical simulation for linear time-invariant systems. The course includes topics on modeling and control design via root locus and frequency response techniques.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 532",
+    "title": "Robot Modeling and Control",
+    "units": 3,
+    "department": "M",
+    "description": "Analysis, computer programming, modeling, motion planning, and design of control systems for robots.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 535",
+    "title": "Mechanics of Composite Structures",
+    "units": 3,
+    "department": "M",
+    "description": "Micro- and macro-mechanics of composite materials, classical lamination theory, initial failure prediction and progressive failure analysis of laminates, analysis of beam and plate structures, stiffness and strength based design of composites.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 540",
+    "title": "Mechanics of Polymers",
+    "units": 3,
+    "department": "M",
+    "description": "Polymeric materials, mechanics, and properties. Mechanical mechanics and properties essential for design. Stress-Strain behavior theories and models to include hyperelasticity and viscoelasticity. Design and analysis methodologies and techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 542",
+    "title": "Materials Structures",
+    "units": 3,
+    "department": "M",
+    "description": "Fundamentals and techniques for determining and describing atomistic and crystal structures of engineering materials; to include symmetry, crystallography, and diffraction-based structural characterization of metals and ceramics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 543",
+    "title": "Powder-Based Manufacturing",
+    "units": 3,
+    "department": "M",
+    "description": "Manufacturing of micro and nano-structured engineering components and composites starting with metal and/or ceramic powders. Powder production methods, characterization, powder shaping and compaction, sintering, hot consolidation, design considerations, and finishing operations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 544",
+    "title": "Scalable Manufacturing of Emerging Technology",
+    "units": 3,
+    "department": "M",
+    "description": "Transitioning emerging technologies from laboratory scale and prototypes to mass production. Working principles of emerging technology including solid state physics, electrochemistry, chemical vapor deposition and photolithography with applications to scalable manufacturing of solar cells, batteries, bioengineered products and other advanced materials/devices.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 552",
+    "title": "Heating, Ventilating, and Air-Conditioning",
+    "units": 3,
+    "department": "M",
+    "description": "Fundamentals of air conditioning processes, psychrometrics, and building cooling load calculations. Design and analysis of HVAC systems. Equipment selection. Design codes and standards. Computerized cooling load calculations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 554",
+    "title": "Automotive Power",
+    "units": 3,
+    "department": "M",
+    "description": "Conventional and emerging energy conversion devices for automotive applications to include fuel-cell, hybrid, and internal combustion engines. Alternative fuels to include biofuels, cleaner fossil fuels, hydrogen, and natural gas. Well-to-wheel energy and cost analysis of prime mover designs/fuels.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 555",
+    "title": "Thermal Systems Analysis and Design",
+    "units": 3,
+    "department": "M",
+    "description": "Analysis, design, and optimization of thermal systems using microcomputers. Modeling of thermal systems and components. Thermal system component characteristics and their effect on overall system performance. Relationship among thermal sciences in design process. Introduction to thermoeconomic optimization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 556",
+    "title": "Solar Energy Conversion",
+    "units": 3,
+    "department": "M",
+    "description": "Application of thermodynamics, fluid mechanics and heat transfer to the thermal design of solar energy conversion systems. Computer simulations utilized.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 570",
+    "title": "Engineering Sensor Technology",
+    "units": 3,
+    "department": "M",
+    "description": "Introduces sensors and their use in measurement systems. The lecture and laboratory classes cover the most recent engineering sensor technologies and advancements in practice, as well as provide hands-on experience with a variety of sensors and instruments.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 230",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 580",
+    "title": "Biomechanics",
+    "units": 3,
+    "department": "M",
+    "description": "Application of engineering methodologies for quantitative understanding of biological/physiological phenomena. Continuum mechanics principles. Cardiovascular system and its components viewed from a mechanistic standpoint.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 582",
+    "title": "Introduction to Nanobiotechnology",
+    "units": 3,
+    "department": "M",
+    "description": "Introduction to the application of nanotechnology in biology and medicine. How the ability to manipulate, observe, and synthesize materials at the nanoscale has advanced our understanding of the biological world and is driving the development of new medical technologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 585",
+    "title": "Fundamentals of Micro-Electro-Mechanical Systems (MEMS)",
+    "units": 3,
+    "department": "M",
+    "description": "Microfabrication techniques, microsensors and microactuators, and scaling laws. A design project of a micro-device including schematic creation, test of performance, layout generation, and layout versus schematic comparison.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 596",
+    "title": "Advanced Mechanical Engineering Topics",
+    "units": 1,
+    "department": "M",
+    "description": "Modern developments in mechanical engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 610",
+    "title": "Finite Element Methods in Mechanical Engineering",
+    "units": 3,
+    "department": "M",
+    "description": "Development of finite elements and an introduction to solution methods. Problems from various fields of study in mechanical engineering such as stress analysis, vibrations and heat transfer. Introduction to finite element programs such as NASTRAN.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 635",
+    "title": "Autonomous Vehicles: Perception, Control, and Planning",
+    "units": 3,
+    "department": "M",
+    "description": "Describes the fundamental AI techniques required to develop autonomous vehicles and self-driving cars technologies. Helps students have the tools necessary to be successful in pursuing a career in the emerging areas of AI and autonomous vehicles and to understand current autonomous vehicles research.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Requires undergraduate background in controls and programming.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 640",
+    "title": "Nanomaterials",
+    "units": 3,
+    "department": "M",
+    "description": "Nanomaterials compared with conventional materials. Nanomaterials synthesis, characterization, properties, and applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 543",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 642",
+    "title": "Materials Modeling",
+    "units": 3,
+    "department": "M",
+    "description": "Atomistic simulation (AI-assisted) methods for predicting and understanding material structures and properties; to include classical potentials, first-principles calculations, molecular dynamics, and coarse-graining approaches applied to metals, ceramics, and polymers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 643",
+    "title": "Smart Manufacturing",
+    "units": 3,
+    "department": "M",
+    "description": "Introduction to core principles of smart manufacturing with emphasis on enabling technologies-such as sensors, machine vision, and data analytics, including machine learning-that are transforming modern manufacturing engineering. Reinforced through hands-on machine learning exercises and practical applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 645",
+    "title": "Mechanical Behavior of Engineering Materials",
+    "units": 3,
+    "department": "M",
+    "description": "Elastic and plastic deformation of monolithic engineering materials and composites. Dislocation theory and plasticity of crystalline solids. Linear elastic and elastic-plastic fracture mechanics. Failure analysis of engineering components. Design optimization based on materials and service environment variables.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 646",
+    "title": "Mechanics of Sintering",
+    "units": 3,
+    "department": "M",
+    "description": "Practical aspects and conceptual models and mechanisms associated with sintering of ceramic and metal powders.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 651",
+    "title": "Advanced Thermodynamics",
+    "units": 3,
+    "department": "M",
+    "description": "Advanced concepts of macroscopic thermodynamics are developed including entropy generation, irreversibility, effectiveness, exergy, and chemical exergy of fuels. Concepts applied to power and refrigeration cycles using computer software.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 653",
+    "title": "Combustion",
+    "units": 3,
+    "department": "M",
+    "description": "Thermodynamics of combustion, chemical equilibrium, chemical kinetics, combustion of gaseous, liquid and solid fuels, and their application.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 656",
+    "title": "Conduction Heat and Transfer",
+    "units": 3,
+    "department": "M",
+    "description": "Conduction heat transfer analysis of multi-dimensional and transient processes using both classical analysis and numerical methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 657",
+    "title": "Convection Heat Transfer",
+    "units": 3,
+    "department": "M",
+    "description": "Convection heat transfer processes under laminar and turbulent conditions. Mass transfer. Scaling arguments, analytical and numerical modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 658",
+    "title": "Radiation Heat Transfer",
+    "units": 3,
+    "department": "M",
+    "description": "Radiation heat transfer processes. Radiative properties of surfaces and gases. Absorption, emission, and scattering phenomena. Numerical modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 661",
+    "title": "Gas Dynamics",
+    "units": 3,
+    "department": "M",
+    "description": "Thermodynamics of high velocity compressible fluid flow. Adiabatic and diabatic flow; shock phenomena; imperfect gases; multidimensional flow. Applications to the propulsive duct and turbomachinery.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 681",
+    "title": "Biomaterials",
+    "units": 3,
+    "department": "M",
+    "description": "Structure and properties of metallic, ceramic, and polymer biomaterials. Chemical interaction with physiological environment. Thrombosis and hemostasis on synthetic surfaces. Sterilization and packaging. Ethics and regulatory approval process. Applications discussed in cardiovascular, pulmonary, renal, orthopedic and dental medicine.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 580",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 683",
+    "title": "Design of Medical Devices",
+    "units": 3,
+    "department": "M",
+    "description": "Device design, including biomaterials, human factors engineering, reliability, and manufacturing. Topics relevant to industry reviewed include regulatory, documentation, quality, and legal.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 580",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 685",
+    "title": "Micro-Electro-Mechanical Systems (MEMS) Design and Applications",
+    "units": 3,
+    "department": "M",
+    "description": "Design and manufacturing technology for micro- and nano-scale devices. Topics include solid state transducers, microscale physics, biomedical microelectronics, microfluidics, biosensors, and hybrid integration of microfabrication technology. Emphasis on biomedical applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "M E 585",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "M E 688",
+    "title": "Tissue Engineering",
+    "units": 3,
+    "department": "M",
+    "description": "Introduction to the interdisciplinary field of tissue engineering. Application of knowledge of systems engineering, mechanics and materials towards controlling, enhancing, and understanding the performance of biological tissues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 696",
+    "title": "Advanced Topics in Mechanical Engineering",
+    "units": 2,
+    "department": "M",
+    "description": "Intensive study in specific areas of mechanical engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 797",
+    "title": "Research",
+    "units": 1,
+    "department": "M",
+    "description": "Research in engineering.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "M",
+    "description": "Individual study or internship.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "M",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "M",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "M E 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "M",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

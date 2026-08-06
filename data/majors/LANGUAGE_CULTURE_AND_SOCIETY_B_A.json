@@ -1,0 +1,57 @@
+{
+  "code": "LANGUAGE_CULTURE_AND_SOCIETY_B_A",
+  "name": "Language, Culture, and Society, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12520",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12520",
+  "poid": "12520",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "LING 101",
+    "ANTH 102"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Major": [
+      "LCS 300",
+      "ANTH 303",
+      "ANTH 410",
+      "LING 420",
+      "LING 501",
+      "ANTH 304",
+      "LCS 483",
+      "LING 502",
+      "LING 526",
+      "LING 551",
+      "LING 553",
+      "LING 363",
+      "AFRAS 363",
+      "LING 460",
+      "AMIND 460",
+      "ANTH 460",
+      "LING 350",
+      "LING 351",
+      "LING 352",
+      "LING 354",
+      "SOC 410",
+      "SOC 412"
+    ]
+  },
+  "default_electives": [
+    "LCS 300",
+    "ANTH 303",
+    "ANTH 304",
+    "LING 350",
+    "LING 351",
+    "LING 352",
+    "LING 354",
+    "LING 363",
+    "AFRAS 363",
+    "ANTH 410",
+    "SOC 410"
+  ],
+  "unresolved_codes": []
+}

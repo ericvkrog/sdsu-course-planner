@@ -1,0 +1,70 @@
+{
+  "code": "ASIAN_STUDIES_B_A",
+  "name": "Asian Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11910",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11910",
+  "poid": "11910",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RWS 305W",
+    "RWS 500W"
+  ],
+  "lower_division": [
+    "ASIAN 100",
+    "ASIAN 101"
+  ],
+  "upper_required": [
+    "RWS 305W",
+    "RWS 500W",
+    "ASIAN 395",
+    "ASIAN 458",
+    "ASIAN 465"
+  ],
+  "elective_areas": {
+    "Upper Division Major Electives": [
+      "CHIN 496",
+      "CHIN 499",
+      "HIST 420",
+      "HIST 421",
+      "ASIAN 421",
+      "HIST 566",
+      "HIST 567",
+      "HIST 570",
+      "HIST 574",
+      "JAPAN 421",
+      "JAPAN 496",
+      "JAPAN 499",
+      "KOR 321",
+      "ASIAN 321",
+      "KOR 430",
+      "ASIAN 430",
+      "PHIL 351",
+      "ASIAN 351",
+      "PHIL 353",
+      "PHIL 516",
+      "PHIL 565",
+      "PHIL 575",
+      "POL S 362",
+      "POL S 365",
+      "POL S 575",
+      "REL S 338",
+      "REL S 339",
+      "REL S 345",
+      "REL S 581",
+      "REL S 583",
+      "REL S 596"
+    ]
+  },
+  "default_electives": [
+    "KOR 321",
+    "ASIAN 321",
+    "REL S 338",
+    "REL S 339",
+    "REL S 345",
+    "PHIL 351"
+  ],
+  "unresolved_codes": []
+}

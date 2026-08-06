@@ -1,0 +1,410 @@
+[
+  {
+    "course_code": "COMP 521",
+    "title": "Introduction to Scientific Computing and Data Science",
+    "units": 3,
+    "department": "COMP",
+    "description": "Introduction to computational methods and data science using Python. Numerical algorithms, optimization, Monte Carlo methods, data wrangling with pandas, exploratory data analysis, regression and classification. Emphasizes software engineering practices including object-oriented programming, modular design, version control, testing, and documentation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 526",
+    "title": "Computational Methods for Scientists",
+    "units": 3,
+    "department": "COMP",
+    "description": "Translating mathematical problem descriptions to computer programs. Introduction to Unix system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMP 536",
+    "title": "Scientific Modeling and Machine Learning",
+    "units": 3,
+    "department": "COMP",
+    "description": "Advanced computational methods and machine learning using Python, implemented from mathematical foundations. Monte Carlo methods, dynamical simulations, Bayesian inference, MCMC, Gaussian processes, neural networks with backpropagation. Students build research-grade implementations, transition to modern frameworks. Develops AI literacy and responsible use. Emphasizes professional software practices and performance optimization.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 581",
+    "title": "Introduction to Quantum Computing",
+    "units": 3,
+    "department": "COMP",
+    "description": "Overview of quantum computing and quantum information. Quantum mechanics of spin systems and qubits; entanglement, superposition, and measurement. Basic quantum circuits and their applications and physical implementation. Quantum cryptography. History, potential applications, and near-future prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in PHYS 581 or PHYS 681 or COMP 681.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMP 596",
+    "title": "Advanced Topics in Computational Science",
+    "units": 1,
+    "department": "COMP",
+    "description": "Selected topics in computational science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "COMP",
+    "description": "An intensive study in advanced computational science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Topic to be announced in the Class Schedule.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 601",
+    "title": "Professional Development for Computational Scientists Seminar I",
+    "units": 1,
+    "department": "COMP",
+    "description": "Lectures, discussion and activities to develop necessary skills to prepare for successful research-intensive careers in academia, industry, government, and other sectors.   This is a two semester course sequence.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 602",
+    "title": "Professional Development for Computational Scientists Seminar II",
+    "units": 1,
+    "department": "COMP",
+    "description": "Lectures, discussion and activities to develop necessary skills to prepare for successful research-intensive careers in academia, industry, government, and other sectors.   This is a two semester course sequence.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 603",
+    "title": "Student Industry Immersion Seminar",
+    "units": 1,
+    "department": "COMP",
+    "description": "Students and partners will interact and explore novel ideas, develop a dialogue that may seed new projects, pairings, sponsorships, or internships, and enable actionable opportunities by matching interested students with project concepts from CSRC partners.  Course is updated annually.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 605",
+    "title": "Scientific Computing",
+    "units": 3,
+    "department": "COMP",
+    "description": "Parallel programming using message passing to include high performance computing and MPI language extensions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMP 526",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMP 607",
+    "title": "Computational Database Fundamentals",
+    "units": 3,
+    "department": "COMP",
+    "description": "Data-processing techniques, software, database design, implementation, and manipulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 626",
+    "title": "Applied Mathematics for Computational Scientists",
+    "units": 3,
+    "department": "COMP",
+    "description": "Linear algebra, differential equations and stability theory, and analytical methods for partial differential equations within the context of computational science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMP 670",
+    "title": "Seminar: Problems in Computational Science",
+    "units": 3,
+    "department": "COMP",
+    "description": "Applications of computational science in solving problems using a variety of methods. Problems selected from biology, chemistry, physics, and other fields.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 671",
+    "title": "Problem Solving Techniques",
+    "units": 3,
+    "department": "COMP",
+    "description": "Data abstraction and problem solving skills.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 681",
+    "title": "Quantum Computing",
+    "units": 3,
+    "department": "COMP",
+    "description": "Overview of quantum computing and quantum information. Quantum mechanics of spin systems and qubits; entanglement, superposition, and measurement. Basic and intermediate quantum circuits and their applications and physical implementation. Quantum cryptography. Simulation of quantum circuits. History, potential applications, and near-future prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Requires use of Python programming. Not open to students with credit or concurrent enrollment in COMP 581 or PHYS 581 or PHYS 681.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 696",
+    "title": "Selected Topics in Computational Science",
+    "units": 3,
+    "department": "COMP",
+    "description": "Intensive study in specific areas of computational science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 797",
+    "title": "Research",
+    "units": 1,
+    "department": "COMP",
+    "description": "Research in computational science.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "COMP",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "COMP",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "COMP",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "COMP",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 800",
+    "title": "Seminar",
+    "units": 3,
+    "department": "COMP",
+    "description": "Topics in different areas of computational science.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 810",
+    "title": "Colloquium in Computational Science",
+    "units": 1,
+    "department": "COMP",
+    "description": "Discussions on advances in computational science research. Course to be taken every semester.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 894",
+    "title": "Supervised Research, Qualifying Examination, and Dissertation Proposal",
+    "units": 3,
+    "department": "COMP",
+    "description": "Research and preparation for qualifying examination.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 896",
+    "title": "Practicum",
+    "units": 1,
+    "department": "COMP",
+    "description": "Independent investigation in general area of field of dissertation. Conducted in industry or national laboratory under faculty supervision.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 36,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "COMP",
+    "description": "Independent investigation in general field of dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 36,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 898",
+    "title": "Doctoral Special Study",
+    "units": 1,
+    "department": "COMP",
+    "description": "Individual study leading to study and research required for doctoral dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMP 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "COMP",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the student plans to graduate.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

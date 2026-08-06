@@ -1,0 +1,79 @@
+[
+  {
+    "course_code": "FILIP 101",
+    "title": "Elementary Filipino I",
+    "units": 4,
+    "department": "FILIP",
+    "description": "Introduction to Filipino (Tagalog), with emphasis on everyday conversation. Focus on essentials of grammar and sufficient vocabulary for speaking and reading Filipino.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Filipino (Tagalog). Native speakers of Filipino will not receive credit for taking lower division courses in Filipino except with advance approval from the department. No credit will be given for Filipino 101,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FILIP 102",
+    "title": "Elementary Filipino II",
+    "units": 4,
+    "department": "FILIP",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "FILIP 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FILIP 201",
+    "title": "Intermediate Filipino",
+    "units": 4,
+    "department": "FILIP",
+    "description": "Extensive review of all structures learned in Filipino 101 and 102. Integrated approach to learning Filipino by offering opportunities to acquire communicative skills while developing awareness and appreciation of the Filipino culture.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Filipino (Tagalog).",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FILIP 450",
+    "title": "Filipino Food, Rituals, and Traditions",
+    "units": 3,
+    "department": "FILIP",
+    "description": "A comprehensive introduction to Filipino food, rituals, and traditions, set within the historical, cultural, and socio-economic contexts of the Philippines. Illustrates how these various cultural elements integrate into Philippine life.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The language of instruction is English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FILIP 460",
+    "title": "Contemporary Issues in Filipino-American Communities",
+    "units": 3,
+    "department": "FILIP",
+    "description": "History of Philippines and Filipino immigration to US. Current issues in Filipino American communities to include labor, health, gender and sexuality, race relations, family culture and parenting, youth and the elderly, ethnic identity and empowerment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  }
+]

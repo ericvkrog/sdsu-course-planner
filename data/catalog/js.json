@@ -1,0 +1,54 @@
+[
+  {
+    "course_code": "JS 130",
+    "title": "The Jewish Heritage",
+    "units": 3,
+    "department": "JS",
+    "description": "Hebraic and Jewish influences on the arts, literature, philosophy, and religion of Western civilization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JS 296",
+    "title": "Topics in Jewish Studies",
+    "units": 1,
+    "department": "JS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "JS 495",
+    "title": "Jewish Studies Internship",
+    "units": 3,
+    "department": "JS",
+    "description": "Internship with local Jewish service agencies and non-profit organizations. Work to be done under direction of activity supervisor and SDSU instructor. Written project report and internship conferences required every other week with SDSU faculty adviser.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "JS 496",
+    "title": "Topics in Jewish Studies",
+    "units": 1,
+    "department": "JS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

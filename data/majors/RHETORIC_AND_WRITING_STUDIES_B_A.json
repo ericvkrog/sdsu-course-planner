@@ -1,0 +1,41 @@
+{
+  "code": "RHETORIC_AND_WRITING_STUDIES_B_A",
+  "name": "Rhetoric and Writing Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12186",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12186",
+  "poid": "12186",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RWS 305W",
+    "RWS 500W",
+    "RWS 503W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "RWS 305W",
+    "RWS 500W",
+    "RWS 503W",
+    "RWS 410",
+    "RWS 411",
+    "RWS 414",
+    "RWS 415",
+    "RWS 504",
+    "RWS 498",
+    "RWS 506"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "RWS 200",
+      "RWS 250",
+      "RWS 290"
+    ]
+  },
+  "default_electives": [
+    "RWS 200",
+    "RWS 250"
+  ],
+  "unresolved_codes": []
+}

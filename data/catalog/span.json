@@ -1,0 +1,1482 @@
+[
+  {
+    "course_code": "SPAN 101",
+    "title": "Introduction to Spanish I",
+    "units": 4,
+    "department": "SPAN",
+    "description": "Pronunciation, oral practice, readings on Hispanic culture and civilization, essentials of grammar.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 102",
+    "title": "Introduction to Spanish II",
+    "units": 4,
+    "department": "SPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 181",
+    "title": "Introduction to Spanish for Heritage Language Learners I",
+    "units": 3,
+    "department": "SPAN",
+    "description": "First in the sequence of Spanish for Heritage Language Learners track (181, 281, 282, 381). Emphasis on developing listening and speaking skills in the heritage language, understanding and practicing basic grammar, and cultivating positive attitudes towards the heritage language and the heritage culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Requires exposure to Spanish in the home and neighborhood in the U.S. Not open to native speakers (with high school diploma from a Spanish-speaking country) or students with credit in SPAN 201, SPAN 202, SPAN 211, SPAN 282, SPAN 301, or higher numbered Spanish course. Replaces SPAN 101 and SPAN 102 for Preparation for the Major. Taught in Spanish. Native speakers of Spanish will not receive credit for taking lower division courses in Spanish except with advanced approval from the department. No credit will be given for lower division Spanish language courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 201",
+    "title": "Intermediate Spanish I",
+    "units": 4,
+    "department": "SPAN",
+    "description": "First course in Spanish at intermediate level. Grammatical structures presented in beginning Spanish. Culture-centered oral and written language emphasized.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 202",
+    "title": "Intermediate Spanish II",
+    "units": 4,
+    "department": "SPAN",
+    "description": "Second course in Spanish at intermediate level. Selected grammatical structures supported by study of cultural materials. Written and spoken Spanish emphasized.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 211",
+    "title": "Intermediate Conversation and Reading",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Emphasis on oral communication and reading comprehension through intermediate level cultural materials. Some writing will be adjunct to reading.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "May be taken concurrently with",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 212",
+    "title": "Intermediate Conversation and Writing",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Emphasis on oral communication and intermediate level writing in Spanish. May be taken concurrently with",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students after taking",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 250",
+    "title": "Women’s Literature in the Hispanic World",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Hispanic women authors and the cultural, literary, historical, and sociopolitical questions raised by their texts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English. Taught in Spanish. Native speakers of Spanish will not receive credit for taking lower division courses in Spanish except with advance approval from the department. No credit will be given for lower division Spanish language courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 281",
+    "title": "Intermediate Spanish for Heritage Language Learners I",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Introduction to written Spanish and basic principles of writing. Enhances awareness of cultural text produced in Spanish-speaking world.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to native speakers (with high school diploma from a Spanish-speaking country) or students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 282",
+    "title": "Intermediate Spanish for Heritage Language Learners II",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to native speakers (with high school diploma from a Spanish speaking country) or students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 281",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SPAN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SPAN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Spanish. Native speakers of Spanish will not receive credit for taking lower division courses in Spanish except with advance approval from the department. No credit will be given for lower division Spanish language courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 301",
+    "title": "Advanced Conversation and Reading",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Continued development of oral communication and reading comprehension. Review of selected grammatical structures through use of literary and cultural materials. Some writing will be adjunct to reading. May be taken concurrently with",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 302",
+    "title": "Advanced Conversation and Writing",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Advanced practice at oral communication through conversations and public speaking. Practice of written Spanish through advanced composition. May be taken concurrently with",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 307",
+    "title": "Introduction to Business Spanish",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Business vocabulary, basic business and cultural concepts, situational practice to conduct business in Spanish by preparing documents. Grammar review and development of cross-cultural awareness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 340",
+    "title": "Spanish Civilization",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish culture of the past and present, with emphasis on literature, philosophy, and the arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 341",
+    "title": "Spanish American Civilization",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish American cultures, with emphasis on literature, philosophy, and the arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 342",
+    "title": "Mexican Civilization",
+    "units": 3,
+    "department": "SPAN",
+    "description": "The major currents and characteristics of Mexican culture, as expressed through the centuries in literature, philosophy, and the arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 350",
+    "title": "Advanced Grammar",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Significant systematic features of modern Spanish grammar. Required for credential applicants.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 381",
+    "title": "Advanced Spanish for Heritage Language Learners",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Develops oral abilities in diverse registers at advanced level of proficiency. Writing production in critical thinking. Enhances awareness of cultural texts from Spanish-speaking world. Replaces",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in either",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 282",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 382",
+    "title": "Academic Reading and Writing for Native Speakers of Spanish",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Reading and writing as preparation for advanced academic writing. Readings from a variety of genres to include fiction. Production of expository essays that demonstrate critical competence. Development of linguistic ability and syntactic organization. Transformation of simple, basic structures into complex writing. Replaces",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in either",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 391",
+    "title": "Spanish Enhancement for Translation and Interpretations",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Bridges gap between Spanish for communication and Spanish for work. Acquisition of translation and interpretation skills (active listening, text analysis, anticipation, memory, public speaking).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 395",
+    "title": "Introduction to Literary Analysis",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Literary analysis of narrative, poetry, and theatre of Spanish-speaking world through study of rhetorical devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 401",
+    "title": "Spanish Literature and Cultural Studies",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish writers and works in a variety of literary genres.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 395",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 402",
+    "title": "Spanish American Literature and Cultural Studies",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish American writers and works in a variety of literary genres.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 395",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 407",
+    "title": "Advanced Business Spanish",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Vocabulary and discourse related to business topics and functional areas, goods and services, marketing, finance, foreign market entry, import-export. Geographic literacy and cultural understanding of Spanish-speaking world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 307",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 408",
+    "title": "Spanish for Educators",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Project-based collaborative analysis of linguistic and cultural competencies in Spanish to interact with K-12 schools and Spanish-speaking communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 409",
+    "title": "Spanish for Health Professions",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Project-based collaborative analysis of cultural and linguistic competencies needed for future health care professionals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 410",
+    "title": "Spanish for Legal and Criminal Justice Professionals",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish oral and written communication in criminal justice and legal fields within United States and Spanish-speaking countries. Rule of order terms and court protocols.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 448",
+    "title": "Spanish Linguistics",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Structural, historical, and applied Spanish linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 461",
+    "title": "Spanish in the United States",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Language-related phenomena in Spanish-speaking groups and communities across the U.S. to include dialects, language maintenance, and language use in various sociocultural domains.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 301",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 302",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 381",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 382",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 462",
+    "title": "Language Variation in the Spanish-Speaking World",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Sociolinguistic and pragmatic variation across the Spanish-speaking world. Interactions between identity, language, and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 470",
+    "title": "Methods in Teaching Spanish as a Second Language",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Teaching of Spanish as a second language: contemporary theory and methods. Emphasizes training in teaching techniques to develop students’ presentational, interpersonal, and interpretative skills.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in English and Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish courses.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 491",
+    "title": "Introduction to Translation Studies",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Theoretical grounding and practical problems of literary and nonliterary translation; linguistic and cultural obstacles; literary, legal, commercial, medical, social services lexicons in context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 492",
+    "title": "Translation Theory",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Historical overview of translation theory. Translation types and conventions. Theoretical considerations of lexical, morphological, verbal, phonic, syntactic, and hermeneutic elements. Cross-language equivalence, fidelity, loss and gain in translation. Criteria for excellence and evaluation. Culture and commerce of translation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 491",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 493",
+    "title": "Advanced Spanish-English/English-Spanish Translation",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Practicum involving methods and techniques in translation of legal or government papers, banking documents, and business contracts from Spanish into English and from English into Spanish. Practice in translation of old Spanish into English (deeds, surveys, baptismal records, manuscripts of books).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 491",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 496",
+    "title": "Selected Studies in Spanish",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Topics in Spanish or Spanish American language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SPAN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "This course is intended only for students who are currently enrolled in or who already have credit for all upper division courses in Spanish available in any given semester. Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 501",
+    "title": "Genre Studies in Spanish Literature",
+    "units": 3,
+    "department": "SPAN",
+    "description": "A specific literary genre: overview of the genre’s development in Spanish literature (Spanish novel, short story, theatre) or focus on a narrower period (contemporary narrative, modern poetry).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 502",
+    "title": "Genre Studies in Spanish American Literature",
+    "units": 3,
+    "department": "SPAN",
+    "description": "A specific literary genre: overview of the genre’s development in Spanish American literature (the Spanish American novel, short story, theatre) or focus on a narrower period (vanguardista poetry, the “Boom”).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 504",
+    "title": "Don Quixote",
+    "units": 3,
+    "department": "SPAN",
+    "description": "A close reading of Cervantes’ novel Don Quixote, Parts I and II.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 515",
+    "title": "Mexican Literature",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Mexican literature from the Romantic period to the present. Special emphasis placed on contemporary era.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 594A",
+    "title": "Consecutive English/Spanish Interpretation",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Consecutive interpretation techniques focusing on current events to include notetaking technique for interpreters, preparation for meetings, language register, active listening, structure of a speech, abstracting meaning, sight translation in the booth.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 391",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 594B",
+    "title": "Simultaneous English/Spanish Interpretation",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Simultaneous interpretation techniques focusing on current events. Simultaneous, whispered, and relay interpretation, preparation for meetings, language register, listening, structure of a speech, abstracting, sight translation in the booth.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Spanish. No credit will be given for lower division courses taken after successfully completing any upper division Spanish course.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 594A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 596",
+    "title": "Selected Studies in Spanish",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Topics in Spanish or Spanish American language, literature, culture and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 402",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 601",
+    "title": "Seminar in Hispanic Literary Theory",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Critical issues in Hispanic literary theory. Emphasis on contemporary theory: structuralism, post-structuralism, feminism, cultural studies, and gay and lesbian studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 602",
+    "title": "Foundations and Research Methods of Hispanic Linguistics",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Morphology, phonology, syntax of Spanish in historic and regional varieties. Qualitative and quantitative research related to sociolinguistics and pragmatics of Spanish, language acquisition, bilingualism, contact varieties. Spanish in teaching and translation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 603",
+    "title": "Early Modern Hispanic Literature",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Philosophic, political, and aesthetic ideas in early modern Hispanic literature. Spanish and Spanish American texts spanning from fifteenth to eighteenth centuries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 604",
+    "title": "Spanish Literature: Eighteenth to Twentieth Century",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Philosophical, political, and aesthetic ideas in literature of neoclassicism, romanticism, realism, and modernism from eighteenth through twentieth centuries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 606",
+    "title": "Spanish American Literature: Independence to Present",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Spanish American literature in its artistic and ideological tendencies from age of independence to present. Literary movements include romanticism, Modernismo, criollismo, and indigenismo.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 611",
+    "title": "Advanced Topics in Spanish Linguistics",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Specific aspect of Spanish descriptive, historical, or theoretical linguistics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 612",
+    "title": "Seminar in Spanish Discourse Analysis",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Analysis of oral discourse in Spanish. Basic readings in field and strategies to collect and analyze data.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 631",
+    "title": "Spanish Women Writers",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Feminist and cultural studies approach to works of Spanish women writers. Analysis of issues on gender, class, race.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 661",
+    "title": "Issues in the Study of Spanish Bilingualism",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Theories and research on bilingualism with special emphasis on Spanish/English. Definitions of bilingualism. Bilingual typologies. Acquisition of bilingual abilities. Bilingualism and testing. Intersection of bilingualism and translation/interpreting studies. Individual and societal bilingualism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 696",
+    "title": "Selected Topics",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Intensive study in specific areas of Spanish.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 750",
+    "title": "Seminar in Spanish American Literature",
+    "units": 3,
+    "department": "SPAN",
+    "description": "A genre or movement of Spanish American literature.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 751",
+    "title": "Seminar in Realism",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Theoretical and historical underpinnings of literary realism. Examines key realist texts from variable periods in Spain or Latin America. Topics include the picaresque novel, naturalism, regional novel, thesis novel, and magical realism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 755",
+    "title": "Seminar in Spanish American Culture, Film, and Society",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Works of representative authors and cultural production of Spanish America.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 760",
+    "title": "Seminar in Reading in the Transatlantic Imaginary",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Exploration and critical analysis of texts produced by authors who lived and wrote between Spain and Spanish-America. Relationship between a cultural text and its place of origin.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 770",
+    "title": "Applied Spanish Linguistics for Teachers",
+    "units": 3,
+    "department": "SPAN",
+    "description": "The application of linguistic theory to the teaching of Spanish at the secondary and college levels.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 777",
+    "title": "Latin American Essay and Critical Thought",
+    "units": 3,
+    "department": "SPAN",
+    "description": "The study of aesthetics and conceptual tools to analyze the Hispanic Latin American essay canon and their historical context. Learn and apply discursive techniques and rhetoric figures professionally to master its critical, analytical, and writing capacities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Spanish for graduate students.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 781",
+    "title": "Spanish Language Testing",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Theories and research on language testing with emphasis on Spanish. Types and purposes of language measurement instruments. Characteristics of tests: practicality, instructional value, validity, reliability, test difficulty. Overview of test formats/methods and their consequences.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 792",
+    "title": "Spanish Language and Society",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Basic notions of relationship between language and society in Spanish-speaking world. Methodologies applied to data from monolingual and bilingual speech communities. Variationism, ethnography of communication, and sociology of language in Spanish-speaking world.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPAN 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SPAN",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "SPAN",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "SPAN",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPAN 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "SPAN",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

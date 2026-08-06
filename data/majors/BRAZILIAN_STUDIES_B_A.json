@@ -1,0 +1,108 @@
+{
+  "code": "BRAZILIAN_STUDIES_B_A",
+  "name": "Brazilian Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12572",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12572",
+  "poid": "12572",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "BRAZ 222",
+    "ECON 201",
+    "PHIL 120",
+    "POL S 201",
+    "PSY 280",
+    "SOC 201",
+    "STAT 119",
+    "STAT 250"
+  ],
+  "upper_required": [
+    "BRAZ 444",
+    "BRAZ 325",
+    "BRAZ 333",
+    "BRAZ 433",
+    "BRAZ 455",
+    "BRAZ 496"
+  ],
+  "elective_areas": {
+    "Six Units of Electives Selected From": [
+      "ANTH 102",
+      "BRAZ 233",
+      "ECON 101",
+      "GEOG 102",
+      "GEOG 106",
+      "GEOG 170",
+      "LATAM 101",
+      "POL S 104",
+      "PORT 250",
+      "SOC 101",
+      "TFM 160",
+      "WGSS 103"
+    ],
+    "Requirements": [
+      "BRAZ 302",
+      "AFRAS 302",
+      "BRAZ 333",
+      "BRAZ 433",
+      "LATAM 306",
+      "LATAM 420",
+      "PORT 306",
+      "PORT 307",
+      "PORT 443",
+      "PORT 496",
+      "PORT 535",
+      "PORT 540"
+    ],
+    "Requirements (2)": [
+      "AFRAS 300",
+      "AFRAS 351",
+      "AFRAS 472",
+      "ANTH 422",
+      "ANTH 442",
+      "ANTH 443",
+      "BRAZ 325",
+      "BRAZ 333",
+      "BRAZ 433",
+      "BRAZ 455",
+      "GEOG 324",
+      "LATAM 425",
+      "LATAM 545",
+      "MUSIC 345",
+      "REL S 406",
+      "SOC 350",
+      "SOC 411"
+    ],
+    "Requirements (3)": [
+      "AFRAS 320",
+      "BRAZ 325",
+      "ECON 464",
+      "HIST 415",
+      "HIST 416",
+      "HIST 553",
+      "HIST 556",
+      "HIST 557",
+      "HIST 558",
+      "I B 410",
+      "LATAM 325",
+      "LATAM 350",
+      "LATAM 366",
+      "LATAM 415",
+      "LATAM 553",
+      "LATAM 556",
+      "POL S 366",
+      "POL S 564"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "BRAZ 302",
+    "AFRAS 300",
+    "AFRAS 320"
+  ],
+  "unresolved_codes": [
+    "MUSIC 561"
+  ]
+}

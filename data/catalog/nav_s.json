@@ -1,0 +1,161 @@
+[
+  {
+    "course_code": "NAV S 101",
+    "title": "Introduction to Naval Science",
+    "units": 3,
+    "department": "NAV",
+    "description": "Structure, principles, and practices; lines of command and control; logistical organizations; functions and services of major components of the Navy and Marine Corps; shipboard organization; ethics and basic leadership skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NAV S 102",
+    "title": "Naval Engineering",
+    "units": 3,
+    "department": "NAV",
+    "description": "Ship characteristics and types including hull, electrical, auxiliary systems, stability and damage control. Operation advantages and disadvantages of steam, gas turbine, and diesel propulsion engines receive in-depth study. Leadership topics in an engineering setting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NAV S 201A",
+    "title": "Naval Leadership and Management I",
+    "units": 3,
+    "department": "NAV",
+    "description": "Ethics and integrity, progressing through management theory and practical functions of management, culminating with module on leadership. Exposure to complex ethical, managerial, and leadership issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NAV S 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NAV S 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NAV S 202",
+    "title": "Sea Power and Maritime Affairs",
+    "units": 3,
+    "department": "NAV",
+    "description": "Sea power and maritime affairs; general concept of sea power including Merchant Marine; role of naval warfare components used to support the Navy’s mission; sea power as an instrument of national policy; comparative study of US and Soviet strategies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NAV S 301",
+    "title": "Navigation",
+    "units": 3,
+    "department": "NAV",
+    "description": "Piloting, navigation, maneuvering, rules of nautical road. Use of charts, visual and electronic aids, operation of magnetic and gyro compasses, relative motion vector analysis, formation tactics, and ship employment. Tides, currents, wind, weather, navigation instruments, and characteristics of electronic navigation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NAV S 302",
+    "title": "Naval Operations",
+    "units": 3,
+    "department": "NAV",
+    "description": "Naval operations and operations analysis, ship handling, and afloat communications. Case analyses stress practical application of skills. Leadership traits in themes of communication counseling and conflict resolution applicable to naval operations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NAV S 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NAV S 310",
+    "title": "Evolution of Strategic Operations",
+    "units": 3,
+    "department": "NAV",
+    "description": "Forms of warfare through history to formulate sense of historical continuity in evolution of warfare, to develop a basic sense of strategy and alternative military actions, and to explore impact of historical precedent on military thought and actions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NAV S 401A",
+    "title": "Naval Weapons",
+    "units": 3,
+    "department": "NAV",
+    "description": "Develop working foundation and understanding of diversity and complexity of Navy and Marine Corps weapons systems including target detection and tracking, radar, sonar, electronic warfare systems, weapons warheads, fuzing, propulsion, guidance, launching, and fire control systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NAV S 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NAV S 402",
+    "title": "Naval Leadership and Ethics",
+    "units": 3,
+    "department": "NAV",
+    "description": "Naval leadership and management with emphasis on military justice administration, naval personnel management, material management, and administration of discipline.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NAV S 201A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NAV S 412",
+    "title": "Fundamentals of Maneuver Warfare",
+    "units": 3,
+    "department": "NAV",
+    "description": "Current military developments, modern tactical principles, and warfare. Historical influences on operational, strategic, and tactical levels of maneuver warfare practices in current and future operating environments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "course_code": "HEBRW 101",
+    "title": "Elementary Hebrew I",
+    "units": 4,
+    "department": "HEBRW",
+    "description": "Beginning reading, writing, and conversational skills. Essentials of grammar. First course in Hebrew, intended for those without prior knowledge of Hebrew. Students who speak some Hebrew should consult with the faculty for correct placement before classes begin.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Hebrew. No credit will be given for Hebrew 101,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HEBRW 102",
+    "title": "Elementary Hebrew II",
+    "units": 4,
+    "department": "HEBRW",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Hebrew. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "HEBRW 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HEBRW 201",
+    "title": "Intermediate Hebrew",
+    "units": 4,
+    "department": "HEBRW",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Hebrew. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "HEBRW 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HEBRW 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HEBRW",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HEBRW 496",
+    "title": "Topics in Hebraic Studies",
+    "units": 1,
+    "department": "HEBRW",
+    "description": "Topics in Hebraic language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HEBRW 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HEBRW",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "May be taught in English.",
+    "prerequisites": []
+  }
+]

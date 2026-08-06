@@ -1,0 +1,635 @@
+[
+  {
+    "course_code": "SPED 450",
+    "title": "Classroom Adaptations for Special Populations",
+    "units": 3,
+    "department": "SPED",
+    "description": "Historical, legal, and philosophical aspects of special education. Instructional and assessment support for access to general education curriculum. Meets requirements for preliminary multiple, single subject, and education specialist teaching credentials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 496",
+    "title": "Selected Topics in Special Education",
+    "units": 1,
+    "department": "SPED",
+    "description": "Instructional sequences focusing on a single topic or competency dealing with special education. Topics differ each semester to adjust to current literature in the field, training needs, and resource availability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SPED",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 501",
+    "title": "Typical and Atypical Learning Processes",
+    "units": 3,
+    "department": "SPED",
+    "description": "Theory, research, and processes in learning in relation to individuals with disabilities. Foundations of learning, development, and intervention.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPED 502",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 502",
+    "title": "Field Experiences in General and Special Education",
+    "units": 1,
+    "department": "SPED",
+    "description": "Observation and participation in general and special education classrooms and related school activities for students with disabilities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 505",
+    "title": "Educational Services for Students with Serious Emotional Disturbance",
+    "units": 1,
+    "department": "SPED",
+    "description": "Educational needs and services for students with serious emotional disturbance. Classroom interventions and procedures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 524",
+    "title": "Characteristics of Students with Mild/Moderate Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Historical and philosophical perspectives of programs related to students with mild/moderate disabilities. Research on educational programs, curricular approaches, and characteristics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 525",
+    "title": "Characteristics of Students with Moderate/Severe Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Historical and philosophical perspectives of programs related to students with moderate/severe disabilities. Research on educational programs, curricular approaches, and characteristics with emphasis on services in context of school reform.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 526",
+    "title": "Characteristics and Education of Students with Physical, Health, and Sensory Impairments",
+    "units": 3,
+    "department": "SPED",
+    "description": "Characteristics, needs, and supports for individuals with physical, health, and sensory impairments in educational, home, and community settings. Implications of health concerns for programming.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 527",
+    "title": "Special Education in a Pluralistic Society",
+    "units": 3,
+    "department": "SPED",
+    "description": "Historical and philosophical perspectives of cultural pluralism in special education and programs related to diverse students with disabilities. Research on curricular approaches and instructional needs. Sociocultural aspects related to disability, race, ethnicity, gender, and language.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 528",
+    "title": "Young Children with Disabilities and Their Families",
+    "units": 3,
+    "department": "SPED",
+    "description": "Characteristics, needs, and educational programs and services for infants, toddlers, and preschoolers with disabilities and their families. Legislative requirements, models of service delivery, recommended practices, and family diversity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 530",
+    "title": "Issues in Autism",
+    "units": 3,
+    "department": "SPED",
+    "description": "Definition, etiology, assessment, and instructional practices used to address autism. Historical and current issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 534",
+    "title": "Classroom Assessment of Students with Mild/Moderate Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Classroom assessment in general and special education for students with mild/moderate disabilities. Curriculum-based data collection strategies. Influences of cultural and linguistic diversity, and implications for curricular and instructional adaptations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 535",
+    "title": "Assessment for Students with Extensive Support Needs",
+    "units": 3,
+    "department": "SPED",
+    "description": "Models of assessment emphasizing observation and interviewing, performance-based approaches, transdisciplinary teaming, family-professional collaboration, and adaptations for specific disabilities, cultural, and linguistic diversity for students with extensive support needs. Communicating and using assessment data for individualized program planning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 543",
+    "title": "Educational Programs and Services for Young Children with Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Developing, implementing, and evaluating educational programs and services for young children with disabilities. Selecting and adapting curriculum and instructional approaches, collaborating with families from diverse cultural/linguistic backgrounds, and monitoring program effectiveness.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 545",
+    "title": "Issues in Curriculum and Instruction for Students with Extensive Support Need",
+    "units": 2,
+    "department": "SPED",
+    "description": "Practical strategies for working with children and adolescents with extensive support needs in a variety of learning environments. Collaboration with other professionals in the field and involve families as partners in the educational process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 547",
+    "title": "Special Education Adaptations of Basic Skills Instruction",
+    "units": 3,
+    "department": "SPED",
+    "description": "Language arts and development, mathematics, and reading for students with disabilities. Ability, cultural, and linguistic differences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 548",
+    "title": "Advanced Special Education Adaptations",
+    "units": 2,
+    "department": "SPED",
+    "description": "Advanced adaptations in curriculum and instruction in content areas, study skills, organizational strategies, and social and transition skills. English-as-a-second language approaches for students with disabilities. Research and practices related to linguistic, cultural, and ability differences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 547",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 553",
+    "title": "Behavioral Strategies and Supports for Students with Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Positive behavioral supports for students with disabilities in general and special education settings. Current theories and programs in functional assessment and behavioral change. Applications in educational and community environments with diverse students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 557",
+    "title": "Facilitating Transition Across Environments in Special Education",
+    "units": 2,
+    "department": "SPED",
+    "description": "School to adult life transitions for individuals with disabilities. Whole student approaches to include community experiences, employment preferences, friends and extended family, home and school life, and postsecondary goals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 560",
+    "title": "Applications of Technology for Individuals with Disabilities",
+    "units": 3,
+    "department": "SPED",
+    "description": "Educational applications of current technologies for learners with disabilities. Selection, modification, and classroom use of technologies to improve or bypass physical, sensory, communicative, learning, and social limitations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 562",
+    "title": "Collaboration, Legislation, and Educational Planning in Special Education",
+    "units": 2,
+    "department": "SPED",
+    "description": "Collaboration, legislation, and individualized special education program planning skills for working with community resources, parents, and school personnel. Goals, interpersonal processes, legal and ethical issues, listening and questioning techniques, objectives, outcomes, and team functions focused on developing and implementing an individualized education plan.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 596",
+    "title": "Selected Topics in Special Education",
+    "units": 1,
+    "department": "SPED",
+    "description": "Specialized study of selected topics in special education. May be offered as either a workshop or lecture/discussion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 605",
+    "title": "Advanced Behavioral and Health Supports",
+    "units": 1,
+    "department": "SPED",
+    "description": "Advanced approaches to dealing with behavioral crises and health issues in classroom, to include working with mental health specialists and school nurses.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 650A",
+    "title": "Special Topics in Special Education: Consultant Skills/Multidisciplinary Teams",
+    "units": 1,
+    "department": "SPED",
+    "description": "Instructional sequences (mini-courses) focusing on a single topic or competency dealing with special education. Topics differ each semester to adjust to current literature in the field, training needs, and resource availability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPED 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 651",
+    "title": "Legislation, Leadership, and Management",
+    "units": 3,
+    "department": "SPED",
+    "description": "Design and implementation of individualized learning plans for professional development activities. Leadership approaches for managing school-related services within a multidisciplinary context.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 653",
+    "title": "Advanced Instruction, Collaboration, and Consultation in Special Education",
+    "units": 3,
+    "department": "SPED",
+    "description": "Advanced instruction, collaboration, consultation skills, and strategies for working with students, teachers, paraprofessionals, school personnel, other service providers, parents, and representatives from the community.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 655",
+    "title": "Leadership, Supervision, and Management",
+    "units": 3,
+    "department": "SPED",
+    "description": "Leadership through a behavioral lens. Data-informed decision-making, organization behavior management, and performance feedback.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 676",
+    "title": "Advanced Applied Behavior Analysis",
+    "units": 3,
+    "department": "SPED",
+    "description": "Ethical application of research-based strategies based on behavior analysis. Emphasis on arranging learning opportunities to increase student skills and data collection.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 553",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 681A",
+    "title": "Advanced Studies in Special Education: Mild/Moderate Support Needs",
+    "units": 3,
+    "department": "SPED",
+    "description": "Educational legislation, theories, philosophies, research findings, issues and trends in area of exceptionality. Application of research to solution of educational problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 681B",
+    "title": "Advanced Studies in Special Education: Autism, Early Childhood Special Education, and Extensive Support Needs",
+    "units": 3,
+    "department": "SPED",
+    "description": "Educational legislation, theories, philosophies, research findings, issues and trends in the area of exceptionality. Application of research to solution of educational problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 685",
+    "title": "Single Case Research Design",
+    "units": 3,
+    "department": "SPED",
+    "description": "Single-case research designs focused on interventions with individuals with disabilities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 553",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 696",
+    "title": "Advanced Topics in Special Education",
+    "units": 3,
+    "department": "SPED",
+    "description": "Intensive study in specific areas of special education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 771",
+    "title": "Directed Internship: Special Education",
+    "units": 1,
+    "department": "SPED",
+    "description": "Application to be made during previous semester. Extensive daily participation or teaching in public schools and preparation for teaching of exceptional individuals.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 771A",
+    "title": "Directed Internship: Applied Behavior Analysis",
+    "units": 3,
+    "department": "SPED",
+    "description": "Integration and application of behavior analysis principles. Participation and coaching in selected programs for students with disabilities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SPED",
+    "description": "May involve fieldwork.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 970A",
+    "title": "Practicum: Students with Disabilities in General and Special Education: Mild/Moderate Disabilities",
+    "units": 2,
+    "department": "SPED",
+    "description": "Participation in general and special education programs for students with disabilities; supervised by a special educator. Integration and application of skills and knowledge gained in credential coursework.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "May be taken only once for credit.",
+    "prerequisites": [
+      {
+        "prereq_code": "SPED 502",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SPED 970B",
+    "title": "Professional Seminar in Special Education",
+    "units": 2,
+    "department": "SPED",
+    "description": "Discussion and application of student teaching experience and support for special education teacher candidates to submit the Education Specialist California Teacher Performance Assessment (EdSp CalTPA).",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 980A",
+    "title": "Advanced Practicum in Special Education: Mild/Moderate Disabilities",
+    "units": 1,
+    "department": "SPED",
+    "description": "Culminating practicum for Education Specialist Credential. Participation supervised by a special educator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 980B",
+    "title": "Advanced Practicum in Special Education: Extensive Support Needs",
+    "units": 1,
+    "department": "SPED",
+    "description": "Culminating practicum for Education Specialist Credential. Participation supervised by a special educator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SPED 980D",
+    "title": "Advanced Practicum in Special Education: Early Childhood Special Education",
+    "units": 1,
+    "department": "SPED",
+    "description": "Culminating practicum for Education Specialist Credential. Participation supervised by a special educator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  }
+]

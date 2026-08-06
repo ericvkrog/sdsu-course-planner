@@ -1,0 +1,67 @@
+{
+  "code": "HOSPITALITY_AND_TOURISM_MANAGEMENT_EMPHASIS_IN_RESTAURANT_OP",
+  "name": "Hospitality and Tourism Management, Emphasis in Restaurant Operations and Management, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12048",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12048",
+  "poid": "12048",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RTM 396W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "RTM 396W",
+    "HTM 301",
+    "HTM 327",
+    "HTM 340",
+    "HTM 351",
+    "HTM 375",
+    "HTM 398",
+    "HTM 455",
+    "HTM 480",
+    "HTM 490",
+    "HTM 491",
+    "HTM 498",
+    "RTM 404",
+    "RTM 470"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "HTM 201",
+      "HTM 219",
+      "MATH 120",
+      "HTM 223",
+      "HTM 250",
+      "ECON 101",
+      "ECON 102",
+      "RTM 290",
+      "MIS 180",
+      "RWS 290",
+      "STAT 119"
+    ],
+    "Upper Division Major Electives": [
+      "HTM 325",
+      "HTM 329",
+      "HTM 342",
+      "HTM 450",
+      "HTM 495",
+      "HTM 496"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MATH 120",
+    "MIS 180",
+    "HTM 201",
+    "HTM 219",
+    "HTM 223",
+    "HTM 325",
+    "HTM 329"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,475 @@
+[
+  {
+    "course_code": "ASIAN 100",
+    "title": "State and Society in the Asia Pacific",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Social, political, and economic foundations of Asia Pacific societies. Emphasis on diversity of Asian cultures, their relationship with each other and within the global community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 101",
+    "title": "Asian Thought and Cultures",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Intellectual and cultural underpinnings of East, Southeast, South, and Central Asia, from ancient to present, by means of a comparative overview of philosophies, religions, literatures, architectural design, visual and performing arts, highlighting continuing influence of tradition in contemporary Asian societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 110",
+    "title": "Elementary Conversational Chinese",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Introductory conversational course for students with little or no previous background in Chinese. Focuses on daily tasks that one may encounter when first going to a Chinese-speaking community. Develops elementary listening and speaking skills needed for accomplishing these tasks. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 111",
+    "title": "The Mindful Brain",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Asian perspectives on contemporary and traditional forms of mindfulness practice. Physiological, psychological, and socio-cultural benefits assessed in terms of neuroscience and philosophy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ASIAN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 300",
+    "title": "Asia’s Global Future",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Survey of contemporary Asia Pacific region and future prospects, politically, socially, and economically, as historically grounded in cultural and philosophical roots.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 315",
+    "title": "Yoga: Theory and Practice",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Cultural, historical, and philosophical aspects of yogic tradition since its earliest history to modern days. Texts, traditions, and prominent figures in yogic tradition providing a conceptual basis for yogic practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 320",
+    "title": "Asian Environmental Issues",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Major Asian environmental issues such as acid rain in China, dams on Mekong Delta, deforestation, and biodiversity conservation in Southeast Asia, population density in Bangladesh, overpopulation in China and India, and impending failure of Green Revolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 321",
+    "title": "Korean Civilization",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Development of art, religion, philosophy, political, social institutions through different periods in Korean history. Humanistic dimensions of the Korean mind, traditions, heritage.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 328",
+    "title": "Islam",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Islamic religion and culture in Asia, Africa, and Near East. History, doctrines, practices, literatures, social and intellectual movements, role of Mohammed, and gender relations within Islam as understood in global context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 351",
+    "title": "Chinese Philosophy",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Philosophical traditions which have shaped the intellectual life and culture of China. Emphasis on foundational texts surviving from pre-Han China.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 353",
+    "title": "Language and Social Interaction in China",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Stereotypes and empirical findings of the relationship between language use and social behavior in China. Confucianism and Cultural Revolution; personal relationships and hierarchical structure; characteristics of Chinese language and interaction; politeness in everyday social encounters in China; cultural miscommunication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 395",
+    "title": "Research Methods in the Study of Asia",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Survey of diverse approaches to study Asian cultures and societies. Various research techniques and processes as well as critical issues related to studying Asia.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 421",
+    "title": "Asian History since 1600",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "China, Japan, and India, with case studies on Philippines and Vietnam. Comparative Asian responses to Western imperialism, nationalism, revolution, and war. Diverse Cold War paths; contemporary problems and prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 429",
+    "title": "Gender and Sexuality in Korea",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Issues related to gender and sexuality in Korean history; gender relations in family, workplace, popular culture, politics; non-normative genders and sexualities; how gender and sexuality intersect with race, nationality, ethnicity, and class; social and political movements regarding gender and sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 430",
+    "title": "Contemporary Korean Culture Through Media",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Contemporary Korean culture and society as reflected in various modes of media (news, drama, film, instructional technology). Korean culture in neighboring countries and beyond. Historical perspective to modern Korean culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 450",
+    "title": "Filipino Food, Rituals, and Traditions",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "A comprehensive introduction to Filipino food, rituals, and traditions, set within the historical, cultural, and socio-economic contexts of the Philippines. Illustrates how these various cultural elements integrate into Philippine life.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The language of instruction is English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 454",
+    "title": "Manga and Japanese History",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Japanese history through the lens of comics studies; manga as a reflection of shifting social, political, economic, and national paradigms; manga and race, ethnicity, gender, and sexuality; manga in times of war and rehabilitation; manga and Japanese youth cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 458",
+    "title": "Asian Traditions",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Social, cultural, economic, and political traditions of South, Southeast, and East Asia; how they functioned in theory and practice prior to twentieth century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 465",
+    "title": "Seminar on Contemporary Asia Pacific",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Major political, economic, social, and cultural challenges shaping the Asia Pacific region in the 21st century. Topics such as regional security, human rights, environmental sustainability, migration, media and popular culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 480",
+    "title": "Asian Leadership Models",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Asian philosophies of leadership to include conflict resolution, decision-making, definitions of a leader, education, and thinking styles. Applications of theoretical structures in business and economics, government and diplomacy, negotiating war and peace, and pedagogy. Primary ancient and contemporary texts from Asian cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 485",
+    "title": "Asian Studies Internship",
+    "units": 1,
+    "department": "ASIAN",
+    "description": "Practical work experience in a field related to Asian studies. Work done under joint direction of activity sponsor and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 490",
+    "title": "Study Abroad in Asian Studies",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Selected topics in Asian studies. Courses taught abroad in Asian countries through a program approved by Center for Asian and Pacific Studies to include SDSU faculty-led courses in these countries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASIAN 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ASIAN",
+    "description": "Selected topics in Asian studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ASIAN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 596",
+    "title": "Selected Studies in Asian Cultures",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Topics on various aspects of Asian studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 797",
+    "title": "Research",
+    "units": 1,
+    "department": "ASIAN",
+    "description": "Research in one of the aspects of Asia Pacific studies.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "ASIAN",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASIAN 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "ASIAN",
+    "description": "Registration required in any semester or term following assignment of RP in 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

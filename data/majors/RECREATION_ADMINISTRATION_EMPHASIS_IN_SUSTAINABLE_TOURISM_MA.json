@@ -1,0 +1,91 @@
+{
+  "code": "RECREATION_ADMINISTRATION_EMPHASIS_IN_SUSTAINABLE_TOURISM_MA",
+  "name": "Recreation Administration, Emphasis in Sustainable Tourism Management, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12180",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12180",
+  "poid": "12180",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RTM 396W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "RTM 396W",
+    "RTM 305",
+    "RTM 475",
+    "RTM 477",
+    "RTM 485",
+    "RTM 489",
+    "HTM 495"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "RTM 284",
+      "RTM 290",
+      "MIS 180",
+      "ECON 101",
+      "GEOG 102",
+      "HTM 201",
+      "HTM 219",
+      "HTM 223",
+      "PSY 101"
+    ],
+    "Major": [
+      "RTM 301",
+      "RTM 304",
+      "RTM 360",
+      "RTM 396W",
+      "RTM 404",
+      "RTM 470",
+      "RTM 487",
+      "RTM 498"
+    ],
+    "Requirements": [
+      "RTM 340",
+      "RTM 351",
+      "RTM 484",
+      "RTM 496",
+      "ANTH 353",
+      "SUSTN 353",
+      "BIOL 315",
+      "BIOL 327",
+      "ECON 455",
+      "ECON 456",
+      "GEOG 370",
+      "GEOG 409",
+      "GEOG 570",
+      "HTM 330",
+      "HTM 370",
+      "HTM 435",
+      "HTM 495",
+      "OCEAN 320",
+      "PHIL 332",
+      "SUSTN 332",
+      "POL S 334",
+      "SUSTN 334",
+      "REL S 376"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "PSY 101",
+    "GEOG 102",
+    "MIS 180",
+    "HTM 201",
+    "HTM 219",
+    "HTM 223",
+    "RTM 284",
+    "RTM 301",
+    "RTM 304",
+    "RTM 360",
+    "RTM 404",
+    "RTM 470",
+    "RTM 487",
+    "RTM 498",
+    "BIOL 315"
+  ],
+  "unresolved_codes": []
+}

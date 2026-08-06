@@ -1,0 +1,142 @@
+[
+  {
+    "course_code": "MTHED 603",
+    "title": "Seminar on Learning Theories in STEM Education",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Application of several major learning theories (e.g. behaviorism, structuralism, radical constructivism, information processing, and sociocultural perspectives) to research on the learning and teaching of mathematics and science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MTHED 604",
+    "title": "Seminar on Teaching Issues in STEM",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Research pertaining to the teaching of mathematics and science. Readings chosen to bridge theory and practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MTHED 608",
+    "title": "Equity in STEM Education",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Inclusion, social justice, and systemic inequities in STEM education. Application of theory to classroom practice and policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MTHED 212",
+    "title": "Children’s Mathematical Thinking",
+    "units": 1,
+    "department": "MTHED",
+    "description": "Children’s mathematical thinking and in-depth analyses of children’s understanding of operations (addition, subtraction, multiplication, and division) and place value. Students will observe individual children solving mathematics problems. Real, compact disc, and/or web-based experience included.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MTHED 600",
+    "title": "Teaching and Learning Mathematics in the Early Grades (Pre-K to 4)",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Research in teaching and learning mathematics in preschool through grade four. Innovative early childhood mathematics curricula, promising instructional practices. Assessment techniques to guide instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MTHED 603",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MTHED 604",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MTHED 601",
+    "title": "Teaching and Learning Mathematics in the Middle Grades",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Research on teaching and learning mathematics in grades five through eight. Innovative middle grades mathematics curricula, promising instructional practices. Assessment techniques to guide instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MTHED 604",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MTHED 605",
+    "title": "Algebra in the 7-14 Curriculum",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Curricular change in algebra, with attention to experimental curricula, to research on learning of algebra, and to influences of technology. Implications for instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MTHED 606",
+    "title": "Selected Topics in 7-14 Mathematics Curriculum",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Curricular change in school mathematics, to include geometry, probability, and statistics, with attention to contemporary curricula, to research on learning and teaching in those areas, and to the influences of technology. Implications for instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MTHED 607",
+    "title": "Seminar on Research in Undergraduate Mathematics Education",
+    "units": 3,
+    "department": "MTHED",
+    "description": "Research in undergraduate mathematics education and its implications for teaching. Topics include research on student thinking on concepts from calculus through abstract algebra and the teaching and learning of proof.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "code": "BUSINESS_ADMINISTRATION_EMPHASIS_IN_GENERAL_BUSINESS_B_S",
+  "name": "Business Administration, Emphasis in General Business, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11935",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11935",
+  "poid": "11935",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "B A 300",
+    "B A 305",
+    "B A 310",
+    "B A 323",
+    "B A 350",
+    "B A 360",
+    "B A 370"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ACCTG 201",
+      "ACCTG 202",
+      "ECON 101",
+      "ECON 102",
+      "FIN 240",
+      "MIS 180",
+      "MATH 120",
+      "RWS 290",
+      "STAT 119",
+      "ECON 201"
+    ],
+    "Business Administration": [
+      "B A 404",
+      "MGT 405"
+    ],
+    "Accounting": [
+      "ACCTG 325",
+      "ACCTG 326"
+    ],
+    "Finance": [
+      "FIN 321",
+      "FIN 326",
+      "FIN 327",
+      "FIN 328",
+      "FIN 329",
+      "FIN 331"
+    ],
+    "Management": [
+      "MGT 352",
+      "MGT 357",
+      "MGT 358"
+    ],
+    "Information Systems": [
+      "MIS 301",
+      "MIS 306",
+      "MIS 315",
+      "MIS 380"
+    ],
+    "Marketing": [
+      "MKTG 371",
+      "MKTG 372",
+      "MKTG 373",
+      "MKTG 376",
+      "MKTG 377"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MATH 120",
+    "MIS 180",
+    "ACCTG 201",
+    "ECON 201",
+    "ACCTG 202",
+    "FIN 240",
+    "B A 404",
+    "ACCTG 325",
+    "FIN 321",
+    "MGT 352",
+    "MIS 301",
+    "MKTG 371"
+  ],
+  "unresolved_codes": []
+}

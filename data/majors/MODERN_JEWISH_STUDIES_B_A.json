@@ -1,0 +1,64 @@
+{
+  "code": "MODERN_JEWISH_STUDIES_B_A",
+  "name": "Modern Jewish Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12088",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12088",
+  "poid": "12088",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "HEBRW 101",
+    "HEBRW 102",
+    "HEBRW 201"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "JS 130",
+      "HUM 130",
+      "REL S 100",
+      "REL S 101",
+      "REL S 103"
+    ],
+    "History Area": [
+      "HIST 436",
+      "HIST 440",
+      "HIST 474",
+      "HIST 488",
+      "HIST 574"
+    ],
+    "Religion, Culture, and Thought Area": [
+      "ECL 526",
+      "REL S 301",
+      "REL S 320",
+      "REL S 330",
+      "REL S 373",
+      "REL S 405",
+      "REL S 581",
+      "RUSSN 435"
+    ],
+    "Electives": [
+      "JS 495",
+      "JS 496",
+      "HEBRW 496",
+      "HEBRW 499"
+    ]
+  },
+  "default_electives": [
+    "REL S 100",
+    "REL S 101",
+    "HIST 436",
+    "HIST 440",
+    "HIST 474",
+    "HIST 488",
+    "REL S 301",
+    "REL S 320",
+    "REL S 330",
+    "REL S 373",
+    "JS 495"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,1422 @@
+[
+  {
+    "course_code": "COMM 103",
+    "title": "Oral Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Training in fundamental processes of oral expression; method of obtaining and organizing material; outlining; principles of attention and delivery; practice in construction and delivery of various forms of speeches.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 160",
+    "title": "Argumentation",
+    "units": 3,
+    "department": "COMM",
+    "description": "Argument as a form of discourse; organizing, supporting, presenting and refuting arguments in a variety of formats; evaluating argument, including common fallacies in reasoning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 201",
+    "title": "Communication and Community",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication as an academic and professional discipline, its associations and journals, history and traditions, relationships to other disciplines, research methodologies, and careers for graduates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 204",
+    "title": "Advanced Public Speaking",
+    "units": 3,
+    "department": "COMM",
+    "description": "Practice in extemporaneous speaking on subjects of current interest, both national and local, with stress on organization and delivery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 245",
+    "title": "Interpersonal Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Theory and practice of interpersonal communication. Role of communication in developing, initiating, maintaining, and transitioning through everyday social relationships. Challenges of managing interpersonal communication; contexts, and verbal and nonverbal messages.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "COMM",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 300",
+    "title": "Conceptualizing Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication theory, concepts, principles, and practices. Communication as art and process on micro and macro levels, integrates understanding of sources, messages, transmission, and feedback in creating meaning and culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 301",
+    "title": "Intercollegiate Speech and Debate Competition",
+    "units": 1,
+    "department": "COMM",
+    "description": "Competitive intercollegiate debate and/or individual speaking events. Apply communication theory to comprehensively analyze relevant contemporary issues. Weekend travel to competitive tournaments required. Travel expectation commensurate with units.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 307",
+    "title": "Communication in Professional Settings",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication principles in professional contexts including interviewing and technical and nontechnical oral presentations. Skill in meeting management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 321",
+    "title": "Introduction to Health Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Health communication topics to include patient-provider communication, health communication campaigns, supportive relationships, and public policy. Research methodologies, theories, and best practices in health communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Required of all health communication majors prior to 400-level coursework.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 350",
+    "title": "Investigating Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Study of human communication, from methodological and epistemological perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 371",
+    "title": "Intercultural Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Study of communication with emphasis on influence of cultural background, perception, social organization, language and nonverbal messages in the intercultural communication experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 111A",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "AFRAS 140",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "COMM 103",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 406",
+    "title": "Organizational Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "The organization as a communication system; role of the organization in persuasive campaigns; communication strategies and problems within the organizational structure.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 407",
+    "title": "Communicative Perspectives on Interviewing",
+    "units": 3,
+    "department": "COMM",
+    "description": "Application of communicative theory to interviewing situations. Emphasis on perception, source, message, and receiver variables, defensive communication, feedback. Phrasing of questions, ways to enhance respondent participation, and formulation of behavioral objectives. Classroom simulation, supplemented by out-of-class interviews.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 415",
+    "title": "Nonverbal Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Theory and research on nonverbal aspects of communication, with emphasis on codes and functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 420",
+    "title": "Quantitative Methods in Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Quantitative research in communication. Construction and analysis of surveys and experiments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 421",
+    "title": "Health Communication and Community Based Service Learning",
+    "units": 3,
+    "department": "COMM",
+    "description": "How people understand, share ideas about, and adjust to health and illness. Personal, interactional, cultural, and political complexities of health beliefs, practices, and policies in the context of community-based service learning project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 422",
+    "title": "Politics of Health Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "How communicating about health is culturally and politically charged. Contemporary concerns in health communication to include how ethnicity, gender, disability, social class, and sexual orientation inform our understandings of health, fitness, and illness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 423",
+    "title": "Patient-Provider Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Primary communication activities organizing medical interviews in clinical settings to include techniques for raising and responding to concerns about life, illness, and disease; implications for quality of care, healing outcomes, and medical education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 424",
+    "title": "Health Communication and Relationships",
+    "units": 3,
+    "department": "COMM",
+    "description": "Influences of institutional, social, and personal relationships on health. Influences of health on development of human relationships, interaction between relationships, health practices, and outcomes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 425",
+    "title": "Theory and Research in Health Communication Campaigns",
+    "units": 3,
+    "department": "COMM",
+    "description": "Theory and research on effective health communication campaigns in various settings to promote healthy lifestyles, nutrition, exercise, health screening, disease and injury prevention behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 426",
+    "title": "Communication in Health Risk and Crises",
+    "units": 3,
+    "department": "COMM",
+    "description": "Role of communication in preventing, responding to, and coping with community health crises; principles of competent communication in health related risks and crises.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 427",
+    "title": "Health Communication and Cultural Communities",
+    "units": 3,
+    "department": "COMM",
+    "description": "Diversity of cultural perspectives on communicating health, illness, and prevention. Understanding cultural knowledge patients, families, providers, and communities bring to communicating health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 428",
+    "title": "Communicating Health and Well-Being at Work",
+    "units": 3,
+    "department": "COMM",
+    "description": "Research and theory regarding communication topics that restrict well-being at work to include stress, bullying, sexual harassment, and injustice. Concepts and trends that alleviate or eliminate stress to include social support, spirituality, and wellness programs at work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 441",
+    "title": "Foundations of Critical and Cultural Study",
+    "units": 3,
+    "department": "COMM",
+    "description": "Central concepts, examples, theories, and experiences of critical studies of communication in culture through cultural, rhetorical, and media literature and cases.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 444",
+    "title": "Sexual Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "The study and application of sexual communication, including communication of and about sexual behaviors, attitudes, and knowledge. Topics include sexual norms, safer-sex conversations, sexual intimacy, gender roles, sexual health campaigns, parent-child communication, and sexual health inequities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 445",
+    "title": "Relational Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Theory and application of effective relational communication principles in both intimate and nonintimate contexts. Theoretical and empirical evidence on communication strategies and behaviors in relationship initiation, development, and termination. Relationship of communication behaviors to relational goals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 446",
+    "title": "Communication and Rhetorical Movements",
+    "units": 3,
+    "department": "COMM",
+    "description": "Historical perspectives of role of communication in social change in rhetorical movements and social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 450",
+    "title": "Rhetorical Theory",
+    "units": 3,
+    "department": "COMM",
+    "description": "Development of rhetorical theory as a mechanism for generating and understanding public discourse. Theories from ancient Greece to the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 452",
+    "title": "Interaction and Gender",
+    "units": 3,
+    "department": "COMM",
+    "description": "Contemporary research and theory on communication and gender. Examination of gender as ongoing interactional achievement. Gender displays and myths across diverse relationships, institutions, media, and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 462",
+    "title": "Ethnography and Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Naturally occurring interactions drawn from a variety of communication settings. Primary methods of gathering data include: participant observation, interviewing, document and artifact analysis, and other forms of communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 465",
+    "title": "Conversational Interaction",
+    "units": 3,
+    "department": "COMM",
+    "description": "Sequential organization of naturally occurring conversational practices. Reliance on recordings and transcriptions for detailed examinations of interactants’ methods for achieving social actions and organizing interactional occasions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 470",
+    "title": "Argumentation Theory",
+    "units": 3,
+    "department": "COMM",
+    "description": "Approaches to argument and the patterns and problems in argument. Consideration of implications for society. Written and oral reports.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 482",
+    "title": "Communication and Politics",
+    "units": 3,
+    "department": "COMM",
+    "description": "Contemporary political communication events and processes, with a focus on speeches, debates, and campaigns.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 485",
+    "title": "Communicating Leadership",
+    "units": 3,
+    "department": "COMM",
+    "description": "Current theory and research in leadership and communication. Understanding yourself, role of leadership, and selection of appropriate communication strategies for leadership.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 490",
+    "title": "Internship",
+    "units": 1,
+    "department": "COMM",
+    "description": "Students work at approved organizations off-campus under the combined supervision of organization personnel and instructors. Internship hours to be arranged.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 492",
+    "title": "Persuasion",
+    "units": 3,
+    "department": "COMM",
+    "description": "Key variables and theories in the persuasion process; persuasive sources, messages, receiver variables, propaganda, brainwashing, cognitive, behavioral, and social theories of persuasion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 495",
+    "title": "Communication Capstone: Conceptualizing and Investigating Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Capstone survey, analysis, and comparison of theories, methods, and discipline of communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "COMM",
+    "description": "Experimental topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "COMM",
+    "description": "Approved individual study, project or research under supervision of faculty member.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 508",
+    "title": "Media Literacy",
+    "units": 3,
+    "department": "COMM",
+    "description": "Role played by video texts in shaping culture including information distribution, entertainment, and socio-cultural influence exercised by television. Emphasis on audience/medium relationship and to developing critical skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Communication courses numbered 500 to 599 are not acceptable for the Master of Arts degree in Communication.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 540",
+    "title": "Communicating Science in the Public Interest",
+    "units": 3,
+    "department": "COMM",
+    "description": "Case studies of scientific distortion and success. Importance, misuses, and uses of scientific communication. Competent scientific communication, from manuscript preparation to public presentation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Communication courses numbered 500 to 599 are not acceptable for the Master of Arts degree in Communication.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 555",
+    "title": "Conflict Management Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Approaches to conflict communication in international, societal, group, institutional, and interpersonal contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Communication courses numbered 500 to 599 are not acceptable for the Master of Arts degree in Communication.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 596",
+    "title": "Selected Topics",
+    "units": 1,
+    "department": "COMM",
+    "description": "Specialized study in selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Communication courses numbered 500 to 599 are not acceptable for the Master of Arts degree in Communication.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 601",
+    "title": "Seminar: Theory and Research Methods in Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication phenomena, theoretical background, and research techniques to navigate variation among approaches; intellectual history of communication theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 602",
+    "title": "Qualitative and Quantitative Communication Research Design",
+    "units": 3,
+    "department": "COMM",
+    "description": "Teaches students the basics of conducting qualitative and quantitative research. Includes reviewing literature, understanding the use of theory, anticipating ethical issues, designing research methods, and proposing research studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 610",
+    "title": "Seminar: Advanced Communication Theory",
+    "units": 3,
+    "department": "COMM",
+    "description": "Advanced methods of theory construction, explication, and evaluation in communication, including alternatives to traditional communication science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 620",
+    "title": "Seminar: Quantitative Methods in Communication Research",
+    "units": 3,
+    "department": "COMM",
+    "description": "Advanced applications of survey methodology; evaluation of experimental and quasi-experimental procedures; methods of statistical inference and research design; application of computer statistical package.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 640",
+    "title": "Seminar: Critical and Rhetorical Methods in Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Methodologies for textual, rhetorical, semiotic, narrative, and reception research. Use of case studies, focus groups, and interpretive methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 660",
+    "title": "Seminar: Ethnographic Methods in Communication Research",
+    "units": 3,
+    "department": "COMM",
+    "description": "Historical and contemporary assumptions of ethnographic inquiry, including research design, data collection, and analysis of field materials.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 665",
+    "title": "Seminar: Conversation Analysis in Communication Research",
+    "units": 3,
+    "department": "COMM",
+    "description": "Assumptions and practices of conversation analysis. Repeated examinations of diverse recordings and transcriptions as resources for analyzing distinctive, methodological, and ordered nature of communication contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 671",
+    "title": "Communication and Identity",
+    "units": 3,
+    "department": "COMM",
+    "description": "Students will take an identity-centered approach to explore and examine  communication and related scholarship, particularly research that centers minority or  minoritized cultural identities, voices, and experiences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 696",
+    "title": "Special Topics",
+    "units": 3,
+    "department": "COMM",
+    "description": "Intensive study in specific areas of communication.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 706",
+    "title": "Seminar: Organizational Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Functions, forms, and consequences of communicating in organizations in a changing work world. Topics such as culture groups, networks, leadership, conflict, and decision making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 707",
+    "title": "Seminar: Instructional Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication relationships in instructional setting, teacher verbal and nonverbal immediacy, student communication apprehension, as a function of instructional modalities, and cultural diversity issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 715",
+    "title": "Seminar: Nonverbal Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Nonverbal human behavior, including body movements, gesture, gaze, touch, and integration of vocal and nonvocal activities in human interaction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 721",
+    "title": "Seminar: Health Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Personal, interactional, cultural, and political dimensions of communication about health and illness. Assumptions, practices, and structures of discourse across boundaries of family, social, and institutional contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 724",
+    "title": "Health Communication and Relationships",
+    "units": 3,
+    "department": "COMM",
+    "description": "Focuses on health communication and social relationships by examining how aspects of diverse personal relationships (including romantic, familial, professional, and therapeutic) affect health-related outcomes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 725",
+    "title": "Health Communication Campaigns",
+    "units": 3,
+    "department": "COMM",
+    "description": "Teaches students the methodological approach of communication campaigns, including design and evaluation. In addition, students will discuss and critique existing health campaigns.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 735",
+    "title": "Seminar: Relational Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Contemporary theory and research addressing interpersonal verbal and nonverbal communication in intimate and non-intimate relationships.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 740",
+    "title": "Seminar: Rhetorical Theory",
+    "units": 3,
+    "department": "COMM",
+    "description": "Different perspectives on rhetoric and human communication explored to better understand historical and contemporary theories of rhetoric.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 750",
+    "title": "Seminar: Selected Topics: Communication Contexts",
+    "units": 3,
+    "department": "COMM",
+    "description": "Intensive study in specific contextual forms of communication.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 751",
+    "title": "Seminar: Gender, Sexuality, and Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Socially constructed gender through communication. Contexts include sexuality, interpersonal relationships, public discourse, and organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 752",
+    "title": "Seminar: Dark Side of Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Communication considered destructive or unethical yet functional, productive or productive and ethical yet dysfunctional, destructive or evil, or ideologically ignored by current inquiry; including jealousy, infidelity, coercion, deception, aggression, and manipulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 771",
+    "title": "Seminar: Intercultural Communication",
+    "units": 3,
+    "department": "COMM",
+    "description": "Analysis of cultural influences on human communication acts. Emphasis on cultural values, perception, social organizations, language, and nonverbal codes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 786",
+    "title": "Seminar: Communication and Leadership",
+    "units": 3,
+    "department": "COMM",
+    "description": "Theory and research on role and function of communication behavior in exercise of leadership in contemporary organizations and public life.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 792",
+    "title": "Seminar: Persuasion",
+    "units": 3,
+    "department": "COMM",
+    "description": "Contemporary theories and models of persuasion, methods of assessing persuasive effect, and analysis of research literature.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMM 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "COMM",
+    "description": "Contract required. Arranged with graduate coordinator in area of study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "COMM",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMM 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "COMM",
+    "description": "Registration in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

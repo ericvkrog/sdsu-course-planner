@@ -1,0 +1,1329 @@
+[
+  {
+    "course_code": "E E 101",
+    "title": "Introduction to Electrical and Computer Engineering",
+    "units": 1,
+    "department": "E",
+    "description": "Basic principles of electrical and computer engineering. Introduction to the diverse fields of electrical and computer engineering to include power, control, electromagnetics, signal processing, microelectronics, communication, and embedded systems. Professional aspects including career opportunities and engineering ethics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 200",
+    "title": "Analytical Methods for Electrical Engineers",
+    "units": 3,
+    "department": "E",
+    "description": "Complex analysis, Laplace transform with electrical engineering applications, linear algebra, multivariable calculus, ordinary differential equations, and power series.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 204",
+    "title": "Principles of Electrical Engineering",
+    "units": 3,
+    "department": "E",
+    "description": "Circuit analysis, phasor diagrams, single-phase and three-phase power, semiconductor devices and applications, and energy conversion devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted. Not acceptable for electrical or computer engineering majors.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 210",
+    "title": "Circuit Analysis I",
+    "units": 3,
+    "department": "E",
+    "description": "Circuit analysis by reduction methods, Thevinin and Norton’s equivalence, mesh current and nodal voltage analysis. Transient analysis of first-order circuits and use of phasors for steady-state sinusoidal analysis. Operational amplifier models, impedance, power. Computer software tools for circuit analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "E",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 300",
+    "title": "Computational and Statistical Methods for Electrical Engineers",
+    "units": 3,
+    "department": "E",
+    "description": "Random signals and events in electrical engineering. Introduction to basic probability, discrete and continuous random variables, joint random variables. Application of probabilistic models and concepts to engineering; data analysis and point estimation using computer-aided engineering tools.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 310",
+    "title": "Circuit Analysis II",
+    "units": 3,
+    "department": "E",
+    "description": "Transient and frequency response of RLC circuits. Mutual inductance, network analysis using Laplace transformations, network functions, stability, convolution integrals, Bode diagrams, two-port networks, computer analysis of circuits.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 330",
+    "title": "Fundamentals of Engineering Electronics",
+    "units": 3,
+    "department": "E",
+    "description": "Application of diodes JFETs, MOSFETs, and BJTs in typical electronic circuits. Analysis and design of rectifiers, filters, and simple amplifiers using transistors and operational amplifiers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 330L",
+    "title": "Engineering Electronics Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Experimental study of laboratory instruments, diodes, rectifier circuits, filters, transistors, and operational amplifiers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 340",
+    "title": "Electric and Magnetic Fields",
+    "units": 3,
+    "department": "E",
+    "description": "Electrostatic and magnetostatic field theory using vector notation; Coulomb’s Law, Gauss’ Law and potential theory. Solutions to Poisson’s and Laplace’s equations; capacitance and inductance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 380",
+    "title": "Electrical Energy Conversion",
+    "units": 3,
+    "department": "E",
+    "description": "Magnetic circuits, transformers and polyphase AC networks. Fundamentals of electro-mechanical energy conversion; induction motors, synchronous machines and DC machines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 380L",
+    "title": "Electrical Energy Conversion Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Experimental study of DC, single and polyphase AC circuits, transformers, and machines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 380",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 397",
+    "title": "Discussion: Electrical Engineering",
+    "units": 1,
+    "department": "E",
+    "description": "Discussion and examples of problem-solving techniques in subject area. Weekly writing assignments summarizing material covered in lecture and identifying troublesome topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted. Not applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 410",
+    "title": "Signals and Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Linear time-invariant systems, Fourier analysis, continuous and discrete signals and systems, sampling and Laplace transform techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 420",
+    "title": "Feedback Control Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Control systems including servomechanisms by Laplace transform method. System performance and stability; Nyquist, Bode, and root-locus diagrams; elementary synthesis techniques. Practical components and examples of typical designs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 420L",
+    "title": "Control Systems Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Analog (op-amp based) and digital (microcontroller) implementation. Design of control systems to include lag, lead, optimal PID and LQR controller design, system identification. Use of sensors and actuators.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 430",
+    "title": "Analysis and Design of Electronic Circuits",
+    "units": 3,
+    "department": "E",
+    "description": "Single and multiple transistor amplifiers, power stages. Frequency response, feedback, stability, and operational amplifier circuits.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 430L",
+    "title": "Electronic Circuits Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Design and evaluation of active filters and tuned amplifiers, current mirrors, feedback circuits, single-stage and multistage amplifiers, voltage regulators. Advanced uses of laboratory test equipment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 330L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 439",
+    "title": "Instrumentation Circuits",
+    "units": 3,
+    "department": "E",
+    "description": "Design and analysis of mixed signal, analog/digital, electronic systems. Emphasis on operational amplifier based circuit design with design procedures needed to accommodate amplifier limitations in real world applications. Introduction to digitally controlled, analog signal processing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 440",
+    "title": "Electromagnetic Waves",
+    "units": 3,
+    "department": "E",
+    "description": "Time-domain form of Maxwell equations, electromagnetic wave propagation in unbound media, Poynting vector, reflection of plane waves, transmission line theory, Smith chart, different microwave transmission lines, wave propagation in bounded media, waveguides, and introduction to antennas.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 450",
+    "title": "Digital Signal Processing",
+    "units": 3,
+    "department": "E",
+    "description": "Discrete-time signals and systems, Sampling, Z-transform, Discrete-time Fourier transform and frequency responses, DFT, FFT, and introduction to IIR and FIR digital filter design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 455",
+    "title": "Antenna Theory and Design",
+    "units": 3,
+    "department": "E",
+    "description": "Wireless communication system. Fundamental antenna parameters, theory and design of different types of antennas (wire, aperture, broadband, array), and techniques for antenna analysis, fabrication and measurement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 458",
+    "title": "Analog and Pulse Communication Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Analog and digital communication systems. Amplitude and frequency modulation, pulse modulation, and PCM. Introduction to information theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 458L",
+    "title": "Communications and Digital Signal Processing Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Experiments in modulation techniques, effects of noise on system performance, digital filters, and signal processing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 458",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 480",
+    "title": "Power System Analysis",
+    "units": 3,
+    "department": "E",
+    "description": "Modern power system elements; calculation of load flow, fault currents, and system stability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 380",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 483",
+    "title": "Power Distribution Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Design and operation of electric power distribution systems. Design of primary and secondary systems, application of one phase and three phase transformer banks, and metering principles and practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 380",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 491W",
+    "title": "Senior Design A",
+    "units": 3,
+    "department": "E",
+    "description": "Develop project plans, work on a team, acquire project management skills, develop and evaluate the forms of communication engineers encounter in their profession. Develop critical reading and writing skills for engineering documents. The importance of professional ethics and ethical practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in E E 491 or E E 492. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "E E 492",
+    "title": "Senior Design Project B",
+    "units": 3,
+    "department": "E",
+    "description": "Supervised team-based capstone engineering project to provide integrative design experience for seniors to demonstrate a working project. Students will engage in collaborative, project-based learning that develops teamwork, communication, leadership, engineering practice, and problem-solving skills through team-designed deliverables and reflective assessments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in E E 492W",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 491W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 493",
+    "title": "Senior Design Project B",
+    "units": 3,
+    "department": "E",
+    "description": "Supervised team-based capstone engineering project to provide integrative design experience for seniors to demonstrate a working project. Students will engage in collaborative, project-based learning that develops teamwork, communication, leadership, engineering practice, and problem-solving skills through team-designed deliverables and reflective assessments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in E E 492",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 495",
+    "title": "Internship",
+    "units": 1,
+    "department": "E",
+    "description": "Internship or practicum experience. Not applicable to a major in the department of Electrical and Computer Engineering.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 496",
+    "title": "Advanced Electrical Engineering Topics",
+    "units": 1,
+    "department": "E",
+    "description": "Modern developments in electrical engineering.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted. See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "E",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 502",
+    "title": "Electronic Devices for Rehabilitation",
+    "units": 3,
+    "department": "E",
+    "description": "Recent developments in electronic assistive devices and microcomputers for persons with various disabilities; assessment of disabled persons for suitable technological assistive devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 503",
+    "title": "Biomedical Instrumentation",
+    "units": 3,
+    "department": "E",
+    "description": "Instrumentation systems to monitor, image, control, and record physiological functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 522",
+    "title": "Digital Control Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Digital controls systems; design algorithms including analoginvariance methods, direct digital techniques, and non-parametric approaches such as fuzzy control, neural networks, and evolutionary systems; implementation considerations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 530",
+    "title": "Analog Integrated Circuit Design",
+    "units": 3,
+    "department": "E",
+    "description": "Advanced treatment of transistor pairs, device mismatches, differential amplifiers, current mirrors, active loads, level shifting, and output stages. Parasitic and distributed device parameters. Economics of IC fabrication and impact on design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 533",
+    "title": "Neuromorphic Computing",
+    "units": 3,
+    "department": "E",
+    "description": "Ultra-low power computing electronics concepts mimicking computing by biological neurons. Commercial neuromorphic systems and processors for machine learning applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 540",
+    "title": "Microwave Devices and Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Applications of Maxwell’s equations to wave propagation. Microwave network parameters; guided wave transmission and reflection. Design of filters, couplers, power dividers and amplifiers. Applications in radar and telecommunications systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 558",
+    "title": "Digital Communications",
+    "units": 3,
+    "department": "E",
+    "description": "Design of baseband digital communication systems; noise characterization, sampling, quantization, matched filter receivers, bit-error performance, inter-symbol interference, link budget analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 458",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 581",
+    "title": "Power System Dynamics",
+    "units": 3,
+    "department": "E",
+    "description": "Three-phase faults, symmetrical components, unsymmetrical faults, protective relay operating principles, economic dispatch of thermal power generation units, power system controls, voltage and power stability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 584",
+    "title": "Power Electronics",
+    "units": 3,
+    "department": "E",
+    "description": "Design and analysis of power electronic devices. Permanent-magnet and pulse-width modulation ac-to-ac converters, dc-to-ac inverters, power electronics applications, power semiconductor switches, and switch-mode power supplies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 380",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 584L",
+    "title": "Power Electronics Laboratory",
+    "units": 1,
+    "department": "E",
+    "description": "Experimental design of dc-dc converters (boost, buck, buck-boost), flyback and forward converters, voltage and current mode control design and implementation. Basic photovoltaics and maximum-power-point-tracking (MPPT) design and battery charge control using switched-mode dc-dc converters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 584",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 586",
+    "title": "Distributed Energy Resources and Smart Grid Technologies",
+    "units": 3,
+    "department": "E",
+    "description": "Modeling and control of distributed energy resources (DERs) such as energy storage, fuel cells, photovoltaics, wind turbines, and associated power electronics interfaces. Integration of renewable energy systems into microgrids and the smart grid.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 596",
+    "title": "Advanced Electrical Engineering Topics",
+    "units": 1,
+    "department": "E",
+    "description": "Modern developments in electrical engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate electrical engineering courses numbered 100 through 596.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "E",
+    "description": "An intensive study in advance electrical engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 601",
+    "title": "Linear System Theory and Design",
+    "units": 3,
+    "department": "E",
+    "description": "State models and solutions of the state equations, stability, controllability and observability, realizability and minimal realizations, linear state and output feedback control, introduction to linear optimal control.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 602",
+    "title": "Stochastic Signals and Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Random signals, correlation functions, power spectral densities, the Gaussian process, narrow band processes. Applications to communication systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 603",
+    "title": "Engineering Optimization",
+    "units": 3,
+    "department": "E",
+    "description": "Unconstrained and constrained optimization problems. Convex sets, functions, analysis, and optimization problems. Least-squares, linear, and quadratic programs. Optimality conditions, duality theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 634",
+    "title": "RF Circuit Design",
+    "units": 3,
+    "department": "E",
+    "description": "RF component and circuit design in frequency domain and scattering parameter terms. Linear amplifiers, stability considerations, unilateralization, matching techniques, low-noise amplifiers, wideband designs, power amplifiers, linearity considerations, oscillators, and mixers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 641",
+    "title": "RF Wireless Systems",
+    "units": 3,
+    "department": "E",
+    "description": "Characteristics and performance measures of RF subsystem in wireless communication systems: wireless channel, antenna, modulators and demodulators, low-noise and power amplifiers, oscillators, ADC and DAC; receiver architectures, system-level design of RF front-end.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 558",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 645",
+    "title": "Antennas and Propagation",
+    "units": 3,
+    "department": "E",
+    "description": "Antenna radiation mechanism, antenna types, fundamental antenna parameters, microstrip patch antennas, theory and design of various array and wire antennas, antenna measurement techniques and radio wave propagation in different propagation environments to include mobile communications, multiple input multiple output (MIMO) communications, and satellite communications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 650",
+    "title": "Modern Communication Theory",
+    "units": 3,
+    "department": "E",
+    "description": "Wireless digital communication; bandpass modulation and demodulation, multiple access techniques, broadband signaling techniques, spread spectrum techniques; applications include CDMA and OFDM.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 558",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 652",
+    "title": "Principles and Applications of Information Theory",
+    "units": 3,
+    "department": "E",
+    "description": "Information measure of data sources; Shannon’s theorem and capacity of communication links; rate-distortion theory and performance of source codes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 558",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 653",
+    "title": "Coding Theory",
+    "units": 3,
+    "department": "E",
+    "description": "Error control for digital information; arithmetic of Galois fields; block, cyclic, convolutional and turbo encoding and decoding; applications in digital communication and computer systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 558",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 654",
+    "title": "Adaptive Filter Design",
+    "units": 3,
+    "department": "E",
+    "description": "Constrained and unconstrained Wiener filters. Performance surfaces and gradient-based search methods. LMS and RLS algorithms. Lattice filters. Applications of adaptive filters in beamforming, channel equalization, echo cancellation, and system modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 655",
+    "title": "Modem Design",
+    "units": 3,
+    "department": "E",
+    "description": "System level and DSP design of modems for wireless and wireline communications. Study modems for QAM, OFDM, CDMA, and T-1 modulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 558",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 658",
+    "title": "Advanced Digital Signal Processing",
+    "units": 3,
+    "department": "E",
+    "description": "Advanced topics in FIR and IIR filter design. Quantization effects in digital filters. Sigma-delta modulation. Signal modeling. Parametric and non-parametric spectral estimation. Frequency estimation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 670",
+    "title": "Digital ASIC Design",
+    "units": 3,
+    "department": "E",
+    "description": "High-performance and low-power digital application-specific integrated circuit (ASIC) chips.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 572",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 674",
+    "title": "Signal and Power Integrity",
+    "units": 3,
+    "department": "E",
+    "description": "Interconnect and power distribution network design in very-large- scale integration systems packaging. High-speed transmission lines and crosstalk, macromodeling of interconnects. Switching noise, decoupling, numerical methodologies in power integrity design.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 572",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 684",
+    "title": "Advanced Power Electronics",
+    "units": 3,
+    "department": "E",
+    "description": "Advanced modeling strategies for bidirectional converters, DC/ DC converters, design and integration of power electronics interfaces into smart girds, multi-level inverters, Pulse-Width-Modulation (PWM) switching techniques, resonant/quasi-resonant converters, SiC and GaN switches, single/three phase inverters, and soft switching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "E E 584",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "E E 696",
+    "title": "Advanced Topics in Electrical Engineering",
+    "units": 1,
+    "department": "E",
+    "description": "Intensive study in specific areas of electrical engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 740",
+    "title": "Advanced Topics in Physical Electronics",
+    "units": 1,
+    "department": "E",
+    "description": "Selected topics in electromagnetic fields and waves, optoelectronics, and semiconductor devices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 795",
+    "title": "Internship/Practicum",
+    "units": 1,
+    "department": "E",
+    "description": "Supervised internship or practicum experience with approval of graduate adviser.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not applicable to an advanced degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 797",
+    "title": "Research",
+    "units": 1,
+    "department": "E",
+    "description": "Research in engineering.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "E",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "E",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "E",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "E E 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "E",
+    "description": "Registration required for all students taking the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

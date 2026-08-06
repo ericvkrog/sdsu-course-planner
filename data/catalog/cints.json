@@ -1,0 +1,125 @@
+[
+  {
+    "course_code": "CINTS 101",
+    "title": "Introduction to Comparative International Studies",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Introduces students to key concepts in discipline. Explores global citizenship and its relationship to local, national, and ethnic identities. Includes themes: cosmopolitanism, humanitarianism, migration, and human rights. Emphasizes interdisciplinary perspectives, methods and approaches to examining how globalization impacts cultural identities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 296",
+    "title": "Experimental topics",
+    "units": 1,
+    "department": "CINTS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 301",
+    "title": "Comparative Border Studies",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Ways imperial legacies, migration, trade, ethnic conflicts, and geopolitical rivalries shape borderlands. Interdisciplinary understanding of borderlands as sites of negotiation, conflict, and identity formation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 330",
+    "title": "Transnational Youth Cultures",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Comparative, interdisciplinary and intersectional study of local and global youth cultures, examining their formation, creative use of and influence on style, taste, fashion, music, comics, sport, media, and their impact on the cultural, sociopolitical, and economic transformation of societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 400",
+    "title": "Comparative International Studies Capstone",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Capstone course for comparative international studies major. Completion of research project based on coursework and study abroad experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 435",
+    "title": "Global Activism and Social Change",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Global activism and social movements from a comparative perspective. Diverse forms of collective action across cultures, exploring environmental, gender, labor, and human rights movements. Interdisciplinary approaches and practical application through case studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 440",
+    "title": "Global Cultures Through Objects & Stories",
+    "units": 3,
+    "department": "CINTS",
+    "description": "Comparative study of cultural representations of empires and global commodities through objects, stories, documents, and visual & decorative arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CINTS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CINTS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CINTS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CINTS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "code": "KINESIOLOGY_EMPHASIS_IN_PREPHYSICAL_THERAPY_B_S",
+  "name": "Kinesiology, Emphasis in Prephysical Therapy, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12006",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12006",
+  "poid": "12006",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ENS 200",
+    "ENS 265",
+    "BIOL 203",
+    "BIOL 203L",
+    "BIOL 211",
+    "BIOL 211L",
+    "BIOL 212",
+    "CHEM 200",
+    "CHEM 201",
+    "COMM 103",
+    "FN 201",
+    "PHYS 180A",
+    "PHYS 180B",
+    "PHYS 182A",
+    "PHYS 182B",
+    "PSY 101",
+    "SOC 101"
+  ],
+  "upper_required": [
+    "ENS 303",
+    "ENS 304",
+    "ENS 304L",
+    "ENS 305",
+    "ENS 306",
+    "ENS 307",
+    "ENS 332",
+    "ENS 333",
+    "ENS 434",
+    "ENS 437A",
+    "ENS 437B",
+    "ENS 438",
+    "BIOL 336",
+    "BIOL 436",
+    "PSY 350"
+  ],
+  "elective_areas": {
+    "One of the Following": [
+      "BIOL 215",
+      "ECON 201",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119"
+    ]
+  },
+  "default_electives": [
+    "STAT 119"
+  ],
+  "unresolved_codes": []
+}

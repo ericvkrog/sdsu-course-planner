@@ -1,0 +1,218 @@
+[
+  {
+    "course_code": "BDA 572",
+    "title": "Python Scripting for Social Science",
+    "units": 3,
+    "department": "BDA",
+    "description": "Python scripting for social science data. Statements and expressions. Strings, lists, dictionaries, files. Python with unformatted data (regular expressions). Graphs and social networks. Spatial data and simple GIS scripts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 594",
+    "title": "Big Data Science and Analytics Platforms",
+    "units": 3,
+    "department": "BDA",
+    "description": "Big data science to include analysis, data collection, filtering, GIS, machine learning, processing, text analysis, and visualization. Computational platforms, skills, and tools for conducting big data analytics with real world case studies and examples.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BDA 600",
+    "title": "Big Data Analytics Capstone Seminar",
+    "units": 3,
+    "department": "BDA",
+    "description": "Capstone course to integrate data analytics knowledge. Big data problems and research challenges. Student teams conduct group projects and present findings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BDA 572",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 572",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BDA 594",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 594",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 642",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 686",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BDA 602",
+    "title": "Machine Learning Engineering",
+    "units": 3,
+    "department": "BDA",
+    "description": "Prepare data, extract features, build machine learning models and deploy them to production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEOG 104",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GEOG 385",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "BDA 603",
+    "title": "Smart Cities and Sustainability",
+    "units": 3,
+    "department": "BDA",
+    "description": "Undertakes a problem-based approach by analyzing, comparing, and contrasting a problem relative to the UN-Sustainable-Development-Goals through the use of big data analytics in smart cities and developing practical big data application tools that can be used by city-professionals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 696",
+    "title": "Advanced Special Topics in Big Data Analytics",
+    "units": 3,
+    "department": "BDA",
+    "description": "Advanced special topics in big data analytics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 797",
+    "title": "Research",
+    "units": 1,
+    "department": "BDA",
+    "description": "Research in one of the fields of big data analytics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "BDA",
+    "description": "Individual study.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "BDA",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "BDA",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also, student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BDA 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "BDA",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

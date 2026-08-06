@@ -1,0 +1,281 @@
+[
+  {
+    "course_code": "GERO 101",
+    "title": "Introduction to Human Aging",
+    "units": 3,
+    "department": "GERO",
+    "description": "Overview of field of gerontology, including demographic trends, basic theories, concepts and philosophic ideas, social policies, planning issues, and services available to meet needs and problems of older adults.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 250",
+    "title": "Intergenerational Issues and the Elderly",
+    "units": 3,
+    "department": "GERO",
+    "description": "Controversial issues surrounding interpersonal relations between older adults and other age groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GERO",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 310",
+    "title": "Biology of Aging",
+    "units": 3,
+    "department": "GERO",
+    "description": "Biological aging processes and impact on development of disease in later life. Age-associated diseases, approaches to prevent or reverse adverse effects of biological aging to promote healthy span, biological aging in various body systems, lifespans, mortality rates and senescence, and theories of aging.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GERO 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERO 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERO 360",
+    "title": "Diversity and Aging",
+    "units": 3,
+    "department": "GERO",
+    "description": "Attitudes and cultural values related to aging members of ethnic and minority groups. Influences of class, gender, sexual orientation, economic resources and health on aging process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GERO 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GERO 370",
+    "title": "Images of Aging in Contemporary Society",
+    "units": 3,
+    "department": "GERO",
+    "description": "Impact of current cultural attitudes and values on images of older persons. Influence of media and advertising in creating views and perceptions of aging. Major myths and stereotypes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GERO 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GERO 400A",
+    "title": "Practicum in Gerontology",
+    "units": 3,
+    "department": "GERO",
+    "description": "Integration of theoretical background and practical experience in providing services to elderly. Fieldwork and observation in settings providing services to the elderly. Direct experience in aging projects relevant to their field of interest.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GERO 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERO 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERO 400B",
+    "title": "Practicum in Gerontology",
+    "units": 3,
+    "department": "GERO",
+    "description": "Integration of theoretical background and practical experience in providing services to elderly. Fieldwork and observation in settings providing services to the elderly. Direct experience in aging projects relevant to their field of interest.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GERO 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERO 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GERO 402",
+    "title": "Aging Network",
+    "units": 3,
+    "department": "GERO",
+    "description": "Networks, programs, and services available to older adults in communities. Effectiveness of programs that assist older adults to age successfully.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "GERO",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GERO",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 520",
+    "title": "Analysis of Programs for the Aging",
+    "units": 3,
+    "department": "GERO",
+    "description": "Major programs in aging that support daily functioning of elderly. Effectiveness of programs in serving today’s elderly with attention to ethnic and cross-cultural variations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 596",
+    "title": "Advanced Special Topics in Gerontology",
+    "units": 1,
+    "department": "GERO",
+    "description": "Advanced selected topics in gerontology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 696",
+    "title": "Contemporary Topics in Gerontology and Geriatrics Seminar",
+    "units": 3,
+    "department": "GERO",
+    "description": "Areas of gerontology and geriatrics that make an immediate impact on the quality of life and lifestyles of the elderly. To include diverse life situations of older people.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 700B",
+    "title": "Practicum",
+    "units": 3,
+    "department": "GERO",
+    "description": "Supervised field placement in public or private setting. Application of gerontological theory, policy, objectives, principles, and skills in service to individuals, families, groups, organizations, and communities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 797",
+    "title": "Research",
+    "units": 1,
+    "department": "GERO",
+    "description": "Research in an area of gerontology.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GERO",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GERO 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "GERO",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

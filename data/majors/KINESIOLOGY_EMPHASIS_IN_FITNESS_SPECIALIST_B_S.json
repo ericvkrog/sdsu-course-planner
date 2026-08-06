@@ -1,0 +1,61 @@
+{
+  "code": "KINESIOLOGY_EMPHASIS_IN_FITNESS_SPECIALIST_B_S",
+  "name": "Kinesiology, Emphasis in Fitness Specialist, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12005",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12005",
+  "poid": "12005",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ENS 200",
+    "ENS 265",
+    "ENS 265L",
+    "BIOL 100",
+    "BIOL 100L",
+    "BIOL 212",
+    "CHEM 100",
+    "COMM 103",
+    "GERO 101",
+    "FN 201",
+    "PHYS 180A",
+    "PSY 101",
+    "SOC 101"
+  ],
+  "upper_required": [
+    "ENS 303",
+    "ENS 304",
+    "ENS 304L",
+    "ENS 305",
+    "ENS 306",
+    "ENS 307",
+    "ENS 322",
+    "ENS 332",
+    "ENS 333",
+    "ENS 340",
+    "ENS 410",
+    "ENS 433",
+    "ENS 434",
+    "ENS 437A",
+    "ENS 437B",
+    "ENS 438",
+    "ENS 439",
+    "ENS 440",
+    "BIOL 336"
+  ],
+  "elective_areas": {
+    "One of the Following": [
+      "BIOL 215",
+      "ECON 201",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119"
+    ]
+  },
+  "default_electives": [
+    "STAT 119"
+  ],
+  "unresolved_codes": []
+}

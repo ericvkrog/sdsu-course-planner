@@ -1,0 +1,74 @@
+{
+  "code": "BIOLOGY_EMPHASIS_IN_ECOLOGY_B_S",
+  "name": "Biology, Emphasis in Ecology, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11921",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11921",
+  "poid": "11921",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "BIOL 203",
+    "BIOL 203L",
+    "BIOL 204",
+    "BIOL 204L",
+    "BIOL 215",
+    "CHEM 200",
+    "CHEM 201",
+    "CHEM 232",
+    "CHEM 232L",
+    "MATH 124",
+    "PHYS 180A",
+    "PHYS 180B",
+    "PHYS 182A",
+    "PHYS 182B"
+  ],
+  "upper_required": [
+    "BIOL 351",
+    "BIOL 352",
+    "BIOL 354",
+    "BIOL 358",
+    "BIOL 366",
+    "BIOL 366L",
+    "CHEM 365",
+    "BIOL 350",
+    "BIOL 459",
+    "BIOL 462"
+  ],
+  "elective_areas": {
+    "Upper Division Major Electives": [
+      "BIOL 509",
+      "BIOL 512",
+      "BIOL 514",
+      "BIOL 516A",
+      "BIOL 516B",
+      "BIOL 517",
+      "BIOL 518",
+      "BIOL 526",
+      "BIOL 527",
+      "BIOL 528",
+      "BIOL 535",
+      "BIOL 540",
+      "BIOL 542",
+      "BIOL 544",
+      "ENV S 544",
+      "BIOL 560",
+      "BIOL 562",
+      "BIOL 578",
+      "BIOL 496",
+      "BIOL 596"
+    ],
+    "Approval of the Emphasis": [
+      "BIOL 496",
+      "BIOL 596"
+    ]
+  },
+  "default_electives": [
+    "BIOL 496",
+    "BIOL 509",
+    "BIOL 596"
+  ],
+  "unresolved_codes": []
+}

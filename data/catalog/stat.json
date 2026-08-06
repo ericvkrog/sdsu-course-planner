@@ -1,0 +1,848 @@
+[
+  {
+    "course_code": "STAT 119",
+    "title": "Elementary Statistics for Business",
+    "units": 3,
+    "department": "STAT",
+    "description": "Measures of central tendency and variability, frequency distributions; probability, Bayes theorem, probability distributions (including binomial, hypergeometric, and normal), sampling distributions, confidence intervals, significance testing, regression and correlation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 119A",
+    "title": "Recitation for Elementary Business Statistics",
+    "units": 1,
+    "department": "STAT",
+    "description": "Additional problem solving, data analyses, statistical concept discussions, and applications.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 119X",
+    "title": "Elementary Statistics Support",
+    "units": 1,
+    "department": "STAT",
+    "description": "Required support course for",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 200",
+    "title": "Introduction to Data Science with R",
+    "units": 3,
+    "department": "STAT",
+    "description": "Basic data analysis with R. Summarizing and visualizing data. Sampling and distribution. Analysis tools to include clustering, confidence intervals, regression, and sampling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 250",
+    "title": "Statistical Principles and Practices",
+    "units": 3,
+    "department": "STAT",
+    "description": "Descriptive statistics, data displays, measures of central tendency and variability, random variables, sampling distribution. Estimation and hypothesis tests for means and proportions, linear regression and correlation. Not open to students with credit in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "STAT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "STAT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 325",
+    "title": "SAS Programming and Data Management",
+    "units": 3,
+    "department": "STAT",
+    "description": "Entry, management, and summary of statistical data using SAS programming language. Data structures and manipulation, screen editing, visual displays, macros, related topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 350A",
+    "title": "Statistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "One- and two-sample hypothesis tests, paired difference tests, tests for variances, analysis of variance. Linear regression and correlation. Chi-square tests. Simple nonparametric tests. Power of hypothesis tests.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 350B",
+    "title": "Statistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Multiple regression, factorial models and nonparametric methods, all with emphasis on applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 350A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 410",
+    "title": "Statistical Programming in Data Science",
+    "units": 3,
+    "department": "STAT",
+    "description": "Numerical and simulation methods, statistical graphics, and statistical procedures for analyzing data. Logistic regression, multiple linear regression, and one- and two-way ANOVA models. Matrix formulations of regression models.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 350B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 420",
+    "title": "Data curation and management",
+    "units": 3,
+    "department": "STAT",
+    "description": "Data visualization, database management, data analytic skill trainings, data manipulation",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "STAT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "STAT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 520",
+    "title": "Applied Multivariate Analysis",
+    "units": 3,
+    "department": "STAT",
+    "description": "Multivariate normal distribution, multivariate analysis of variance, principal components, factor analysis, discriminant function analysis, classification, and clustering. Statistical software packages will be used for data analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 350B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 550",
+    "title": "Applied Probability",
+    "units": 3,
+    "department": "STAT",
+    "description": "Computation of probabilities via enumeration and simulation, discrete and continuous distributions, moments of random variables. Markov chains, counting and queuing processes, and selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 551A",
+    "title": "Probability and Mathematical Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Discrete and continuous random variables, probability mass functions and density functions, conditional probability and Bayes\u2019 theorem, moments, properties of expectation and variance, joint and marginal distributions, functions of random variables, moment generating functions. Special distributions and sampling distributions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 551B",
+    "title": "Probability and Mathematical Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Point and interval estimation and hypothesis testing in statistical models with applications to problems in various fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 560",
+    "title": "Sample Surveys",
+    "units": 3,
+    "department": "STAT",
+    "description": "Methods for design and analysis of sample surveys with applications to social and biological sciences. Simple random sampling, stratification and clustering, ratio and regression estimators, subsampling, selected topics in survey methodology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 550",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 575",
+    "title": "Actuarial Modeling",
+    "units": 3,
+    "department": "STAT",
+    "description": "Actuarial models and applications of probability and statistics to insurance and other financial risks. Utility theory; risk models, compound processes; survival distributions and life tables; life insurance, annuities and benefits.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 550",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 580",
+    "title": "Statistical Computing",
+    "units": 3,
+    "department": "STAT",
+    "description": "Machine computation in development, application, and evaluation of advanced statistical techniques. Floating arithmetic and algorithm stability; numerical methods for parameter estimation (including maximum likelihood) and multivariate probability integration; simulation and other computer-intensive statistical techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 585",
+    "title": "Statistical Machine Learning",
+    "units": 3,
+    "department": "STAT",
+    "description": "Supervised learning regression and classification models, model shrinkage and\u00a0regularization methods, unsupervised\u00a0learning models, text mining, data and model\u00a0visualization with R or Python. Topics of current interest.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 596",
+    "title": "Advanced Topics in Statistics",
+    "units": 1,
+    "department": "STAT",
+    "description": "Selected topics in statistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 610",
+    "title": "Linear Regression Models",
+    "units": 3,
+    "department": "STAT",
+    "description": "Methods for diagnostic tools, matrix forms for multiple regression, model fitting and validation, simple and multiple regression models, and variable selection. Applications of methods with R, SAS, and SPSS software.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 670A",
+    "title": "Advanced Mathematical Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Distribution of random variables, characteristic functions, limiting distributions, sampling distributions, hypothesis testing and estimation, optimality considerations, applications of the linear hypothesis, invariance and unbiasedness to analysis of variance and regression problems, sequential techniques, decision theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 670B",
+    "title": "Advanced Mathematical Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Distribution of random variables, characteristic functions, limiting distributions, sampling distributions, hypothesis testing and estimation, optimality considerations, applications of the linear hypothesis, invariance and unbiasedness to analysis of variance and regression problems, sequential techniques, decision theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 672",
+    "title": "Nonparametric Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Theory and application of commonly used distribution-free test statistics, including sign and Wilcoxon tests, and corresponding nonparametric point and interval estimators. Kruskal-Wallis and Friedman tests for analysis of variance, nonparametric regression methods, and other selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 673",
+    "title": "Time Series Analysis",
+    "units": 3,
+    "department": "STAT",
+    "description": "Box-Jenkins (ARIMA) methodology for analysis of time series data with statistical software applications. Autocorrection functions, stationary and nonstationary time series, autoregressive and moving average processes, seasonality. Methods for model-based estimation, diagnostics, and forecasting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 676",
+    "title": "Bayesian Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Bayes\u2019 theorem; conjugate priors; likelihood principle; posterior probability intervals; Bayes factors; prior elicitation; reference priors; computational techniques; hierarchical models; empirical and approximate Bayesian inference; posterior sensitivity analysis; decision theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 677",
+    "title": "Design of Experiments",
+    "units": 3,
+    "department": "STAT",
+    "description": "Methods for design and analysis of experiments with applications to industry, agriculture, and medicine. Concepts of randomization, blocking, and replication. Incomplete block designs, fractional factorial experiments, response surface methods, selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 550",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 678",
+    "title": "Survival Analysis",
+    "units": 3,
+    "department": "STAT",
+    "description": "Survival distributions; inference in parametric survival models; life tables; proportional hazards model; time-dependent covariates; accelerated time model and inference based on ranks; multivariate time data and competing risks.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 680A",
+    "title": "Advanced Biostatistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Design, conduct, and analysis of experimental and observational studies including cohort, survival, case-control studies. Multifactor screening. Biological assays.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 680B",
+    "title": "Advanced Biostatistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Design, conduct, and analysis of experimental and observational studies including cohort, survival, case-control studies. Multifactor screening. Biological assays.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 551B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 680A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 696",
+    "title": "Selected Topics in Statistics",
+    "units": 3,
+    "department": "STAT",
+    "description": "Intensive study in specific areas of statistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 700",
+    "title": "Data Analysis Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Computationally intensive data analysis techniques including random and mixed effects models, repeated measures and longitudinal data analysis, generalized linear models, nonlinear models, and multilevel models.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 701",
+    "title": "Monte Carlo Statistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Monte Carlo and simulation intensive methods for development and application of statistical methods such as Monte Carlo and Markov chain Monte Carlo algorithms and inferential procedures; stochastic optimization, EM algorithm, and variants for parameter estimation, importance sampling, variance reduction techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 702",
+    "title": "Data Mining Statistical Methods",
+    "units": 3,
+    "department": "STAT",
+    "description": "Concepts and algorithms of data mining techniques such as decision trees and rules for classification and regression, clustering, and association analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 703",
+    "title": "Deep Neural Networks for Statisticians",
+    "units": 3,
+    "department": "STAT",
+    "description": "Fully-connected networks for regression and classification, convolutional neural networks, recurrent neural networks for data with spatial or sequence structure, neural networks for dimension reduction and latent space exploration, and gradient descent optimization. Training and evaluation of deep neural networks using Python and Tensorflow-Keras.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Experience with Python is not required, but familiarity with one other coding language is highly recommended (e.g., R, Matlab, C++, Java, etc.).",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 720",
+    "title": "Seminar",
+    "units": 1,
+    "department": "STAT",
+    "description": "An intensive study in advanced statistics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 794",
+    "title": "Statistical Communication in Data Science",
+    "units": 3,
+    "department": "STAT",
+    "description": "Communicate statistical results to a scientific audience through written reports and oral presentations. Identify appropriate analysis tools for data science problem solving. Best practices in scientific writing and statistical graphics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 795",
+    "title": "Practicum in Statistical Consulting",
+    "units": 3,
+    "department": "STAT",
+    "description": "Statistical communication and problem solving. Short-term consulting to campus clients in design and analysis of experiments, surveys, and observational studies. Heuristics for effective problem identification, client interactions, oral and written presentations.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "STAT 797",
+    "title": "Research",
+    "units": 1,
+    "department": "STAT",
+    "description": "Research in one of the fields of statistics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "STAT",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "STAT",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "STAT",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "STAT 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "STAT",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

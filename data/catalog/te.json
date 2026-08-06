@@ -1,0 +1,1264 @@
+[
+  {
+    "course_code": "TE 170",
+    "title": "Child and Adolescent Development from a Cultural Perspective",
+    "units": 3,
+    "department": "TE",
+    "description": "Theories of child and adolescent development using a cultural and contextual approach with emphasis on self-reflection and lifelong learning. Liberal studies premajors and majors and students seeking teaching credentials will complete Teacher Education 170; all others will complete",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 211A",
+    "title": "Field Experience in Mathematics",
+    "units": 1,
+    "department": "TE",
+    "description": "Guided classroom observations for prospective middle and high school mathematics teachers. Mathematics education and strategies that promote professional development. Teaching in culturally and linguistically diverse school settings.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 211B",
+    "title": "Field Experience in Science",
+    "units": 1,
+    "department": "TE",
+    "description": "Guided classroom observations for prospective middle and high school science teachers. Science education and strategies that promote professional development. Teaching in culturally and linguistically diverse school settings.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 211C",
+    "title": "Field Experience in Social Science",
+    "units": 1,
+    "department": "TE",
+    "description": "Guided classroom observations for prospective middle and high school social science teachers. Social science education and strategies that promote professional development. Teaching in culturally and linguistically diverse school settings.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended for students interested in pursuing a career in social science teaching. To include 15 hours of\u00a0classroom\u00a0lecture/discussion and 15 hours of activity in the field.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 280",
+    "title": "Health Education for Teachers",
+    "units": 1,
+    "department": "TE",
+    "description": "Topics designated in health framework for California; infusing health topics in the K-12 general curriculum. For multiple or single subject candidates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "TE",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 303",
+    "title": "The Teaching Profession: First Clinical Experience",
+    "units": 3,
+    "department": "TE",
+    "description": "Concepts and theories for the teaching profession; guided student observation and participation in public school classrooms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 350",
+    "title": "Universal Design For Learning",
+    "units": 3,
+    "department": "TE",
+    "description": "Introduction to methods and theories of digital teaching and learning through demonstration, simulation, facilitation and performances that integrate the tools of technological knowledge with content and pedagogical knowledge. Hyflex mode of delivery. Support for service-learning tutoring.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The service-learning credit requires 2 hours per week in partnerships with local school sites. Placement in service-learning sites requires a minimum of 2.5 GPA. For more information, direction on placement, TB test and livescan, please contact the SDSU Pathways office at Pathways@sdsu.edu. Enrollment in this section entails participation in experiential learning and/or internshnip. These experiences may occur on-campus or off-campus. Additional requirements may apply. Course contains a service-learning opportunity; contact instructor for details.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 362",
+    "title": "Fieldwork in Community Settings",
+    "units": 1,
+    "department": "TE",
+    "description": "Tutoring process and teaching strategies for the content being tutored.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 402",
+    "title": "Foundations of Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Combines disciplines of anthropology, economics, history, philosophy, political science, psychology, and sociology to introduce student to concepts and generalizations informing the teaching and learning process in modern classrooms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 405W",
+    "title": "Writing in Educational Settings",
+    "units": 3,
+    "department": "TE",
+    "description": "Composition of texts for K-12 educational situations and audiences. Critical reading and writing skills to support K-12 students learning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "TE 462",
+    "title": "Science Fieldwork in Community Settings",
+    "units": 3,
+    "department": "TE",
+    "description": "Science teaching and learning to include supervised fieldwork in local science classrooms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 472",
+    "title": "Ethnic Identity Development in Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Ethnic and racial identity exploration and development through curriculum for improving academic achievement of students in K-12 schools. Ethnic and racial socialization of children and identity exploration of American ethnic groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "TE 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "TE",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "TE",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 511",
+    "title": "Assessment in Mathematics Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Techniques to assess and develop students\u2019 mathematical understanding. For use by elementary and secondary classroom teachers and mathematics education specialists.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 530",
+    "title": "Children\u2019s/Adolescents\u2019 Literature",
+    "units": 3,
+    "department": "TE",
+    "description": "Survey of children\u2019s/adolescents\u2019 literature and its incorporation into the classroom curriculum.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 579",
+    "title": "Comics for K-12 Educators",
+    "units": 3,
+    "department": "TE",
+    "description": "Examination and analysis of comic texts for K-12 classroom purposes; to include history of censorship and socio-political significance of comic texts; emphasizes development of K-12 students\u2019 literacy and critical thinking skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 596",
+    "title": "Topics in Teacher Education",
+    "units": 1,
+    "department": "TE",
+    "description": "Designed to meet the needs of individuals or groups of teachers who wish to develop or continue the study of some problem.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 600",
+    "title": "Curriculum Development in Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Advanced study of the research in curriculum development, construction and evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 605",
+    "title": "Innovations in Instruction",
+    "units": 1,
+    "department": "TE",
+    "description": "Exploration of innovative instructional practice in the public and private schools, with emphasis on innovative teaching strategies. An evaluation of the motivational effect and structural validity of promising instructional practices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content; only six units may be applied toward a master\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 610C",
+    "title": "Seminar in Science in Elementary Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Advanced study of the problems of teaching science in the elementary school with emphasis on the literature of science education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 615",
+    "title": "Teaching Critical Thinking Using Technology",
+    "units": 3,
+    "department": "TE",
+    "description": "Critical thinking and educational technology. Educating diverse learners.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 620",
+    "title": "Teaching Online: K-12 Curriculum and Instruction",
+    "units": 3,
+    "department": "TE",
+    "description": "Skills and knowledge for the development and implementation of K-12 curriculum using evidence and research supported pedagogy toward producing high-quality online instruction. To include related research, history, philosophy, controversy, and innovative technologies.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 625",
+    "title": "Technology Equity in K-12 Learning Communities",
+    "units": 3,
+    "department": "TE",
+    "description": "An examination of pedagogies and practices of equity and access in 21st Century K-12 learning communities.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 630",
+    "title": "Seminar in Literacy and Language Arts",
+    "units": 3,
+    "department": "TE",
+    "description": "Trends in reading instruction to include developmental sequences in reading skills and abilities, reading in the content fields, individual differences and interests.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 631",
+    "title": "Seminar in Language Arts",
+    "units": 3,
+    "department": "TE",
+    "description": "Advanced study of problems in teaching language arts. The study of the scientific research and application in the field.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 633",
+    "title": "Leadership in Literacy Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Planning, presenting, and evaluating professional development activities in literacy education for teachers at the K-12 level.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 637",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 635",
+    "title": "Assessment of Reading and Language Arts",
+    "units": 3,
+    "department": "TE",
+    "description": "Theoretical knowledge and practical skill in assessing reading and language arts using both formal and informal measures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 637",
+    "title": "Instructional Strategies for Reading and Language Arts",
+    "units": 4,
+    "department": "TE",
+    "description": "Supervised teaching experience utilizing instructional activities in individual and small group settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 638",
+    "title": "Topics in Reading Education",
+    "units": 1,
+    "department": "TE",
+    "description": "A variety of instructional sequences (mini-courses), each focusing on a single topic or competency dealing with reading instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 639",
+    "title": "Literacy and Language",
+    "units": 3,
+    "department": "TE",
+    "description": "Theories of literacy and methods for developing literacy in language, reading and writing. Instructional methods and assessment techniques for children and adults.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 930A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 933",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 640",
+    "title": "Planning for Teaching and Assessment in Writing",
+    "units": 3,
+    "department": "TE",
+    "description": "Comprehensive writing instruction in context of the interactive language arts. Development of plans for curriculum and instruction in diverse classrooms. Examination of multiple assessments and how they inform instruction in K-12 classrooms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 651",
+    "title": "History of Social Studies Reform",
+    "units": 3,
+    "department": "TE",
+    "description": "History and current status of social studies curricula in American schools, K-12. Emphasis on issues, controversies, competing philosophies, historical trends, and applications.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 655",
+    "title": "Sociocultural Foundations of American Education",
+    "units": 2,
+    "department": "TE",
+    "description": "Historical and philosophical nature of American schools as it relates to equity, pedagogy, and curriculum. Issues of equity, race, culture, gender, ethnicity, sexual preference, and social issues as they impact the classroom.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 677",
+    "title": "Research-Based Pedagogy for Diverse Learners",
+    "units": 3,
+    "department": "TE",
+    "description": "Research-based pedagogy for diverse learners. Instructional strategies applicable across disciplines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 680",
+    "title": "Advanced Secondary Science Teaching Methods",
+    "units": 3,
+    "department": "TE",
+    "description": "Advanced instructional methods for teaching secondary science to foster scientific thinking and practices with a focus on research-based principles of effective and inclusive instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 681",
+    "title": "Advanced Secondary Mathematics Teaching Methods",
+    "units": 3,
+    "department": "TE",
+    "description": "Advanced instructional methods for teaching secondary mathematics to foster conceptual understanding and problem-solving with a focus on research-based principles of effective and inclusive instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 693",
+    "title": "Measuring and Assessing Student Achievement in Schools",
+    "units": 3,
+    "department": "TE",
+    "description": "Development of assessments and tests common in instructional and research contexts. Uses and interpretation of assessment data in given differential social/political contexts. Implications for research and instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 696",
+    "title": "Selected Topics in Teacher Education",
+    "units": 1,
+    "department": "TE",
+    "description": "Intensive study in specific areas of teacher education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 709",
+    "title": "Inclusive Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Research, theory, and practice of inclusive education to include examination of the politics of disability in the public schools and American society.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 779",
+    "title": "Action Research in Learning Environments",
+    "units": 3,
+    "department": "TE",
+    "description": "Capstone course for Master of Arts in Teaching degree. Action research conducted in students\u2019 own teaching environments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 693",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 790",
+    "title": "Seminar in Teacher Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Intensive consideration of selected topics of current importance in teacher education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. 6 units applicable to a master\u2019s degree. For collaborative induction programs with school districts: up to 12 units applicable to a master\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "TE",
+    "description": "May involve fieldwork.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 901",
+    "title": "Classroom Environment",
+    "units": 2,
+    "department": "TE",
+    "description": "Develop a classroom plan encompassing different aspects of teaching and learning that work together in promoting and maintaining a positive climate for learning and for the social-emotional development of all students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Reserved for students admitted to the Single Subject Teaching Credential program and SS - Integrated Teacher Education Program.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 902",
+    "title": "Learning Environment",
+    "units": 1,
+    "department": "TE",
+    "description": "Skills in interpreting the legal aspects of education, identifying various kinds of school and classroom organization, and using instructional media and verbal stimuli to facilitate learning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 903",
+    "title": "Secondary School Student Teaching Seminar",
+    "units": 1,
+    "department": "TE",
+    "description": "To plan and organize instruction in relation to all competencies acquired and to be implemented in an on-site, full-time student teaching assignment.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TE 922",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 933",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 954",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 963",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 964",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 910A",
+    "title": "Teaching Mathematics in Preschool through Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Instructional methods for development of children\u2019s conceptual understanding, computational, and problem-solving skills in mathematics, including use and development of materials and programs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 910B",
+    "title": "Teaching Social Studies in the Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Developing curriculum, principles and materials of instruction, including instructional media and participation in elementary social studies education.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 910C",
+    "title": "Teaching Science in Preschool through Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Developing research-based science curriculum, principles and materials of instruction, including instructional media and participation in preschool through elementary science education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914A",
+    "title": "Instructional Methods for Mathematics",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in mathematics. To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914B",
+    "title": "Instructional Methods for History and Social Sciences",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in history and social sciences. To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914C",
+    "title": "Instructional Methods for Science",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in sciences. To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914D",
+    "title": "Instructional Methods for English Language Arts",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in English Language Arts (ELA). To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914E",
+    "title": "Instructional Methods for Physical Education",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in physical education. To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914F",
+    "title": "Instructional Methods for Music",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching strategies and assessment in music. To be taken concurrently with student teaching.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914G",
+    "title": "Instructional Methods for Teaching Theatre",
+    "units": 3,
+    "department": "TE",
+    "description": "Explores drama and theatre in educational settings to facilitate engaging experiences for theatre learners. Teacher candidates participate in lesson design for theatre and drama and reflect on instruction, pedagogy, and theories of drama in theatre arts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914H",
+    "title": "Interdisciplinary Single-Subject Methods",
+    "units": 3,
+    "department": "TE",
+    "description": "Teaching concerns, instructional planning and materials, classroom management, measurement and evaluation, effective discipline, curriculum, computer literacy, special problems encountered in teaching, career planning, and school-community communication processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 914I",
+    "title": "Instructional Methods for Visual Arts",
+    "units": 2,
+    "department": "TE",
+    "description": "Explores visual arts in educational settings to facilitate engaging experiences for art learners. Teacher Candidates participate in lesson design for art and reflect on instruction, pedagogy, and theories in visual and media arts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 922",
+    "title": "Behavioral and Psychological Aspects of Teaching",
+    "units": 1,
+    "department": "TE",
+    "description": "Teacher competencies as they relate to learning theories, adolescent growth, self-assessment, measurement and evaluation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TE 954",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 963",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 923",
+    "title": "Psychological Foundations of Education",
+    "units": 1,
+    "department": "TE",
+    "description": "Implementing learning process through interactive skills, using instructional principles to facilitate learning and changes in behavior and techniques used in assessing instruction and pupil growth.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924A",
+    "title": "Advanced Methods in Teaching Mathematics",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary mathematics instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 914A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924B",
+    "title": "Advanced Methods in Teaching History/Social Science",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary history/social science instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 914B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924C",
+    "title": "Advanced Methods in Teaching Science",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary science instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 914C",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924D",
+    "title": "Advanced Methods in Teaching English Language Arts",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary English language arts instruction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 914D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924E",
+    "title": "Advanced Methods in Teaching Physical Education",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary physical education instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 924F",
+    "title": "Advanced Methods in Teaching Music",
+    "units": 2,
+    "department": "TE",
+    "description": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary music instruction.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 914F",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 924G",
+    "title": "Advanced Methods in Teaching Theatre",
+    "units": 2,
+    "department": "TE",
+    "description": "Instructional Methods for Theatre explores drama and theatre in educational settings to facilitate engaging experiences for theatre learners. Teacher Candidates participate in lesson design for theatre and drama and reflect on instruction, pedagogy, and theories of drama in theatre arts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Best practices, evaluation of student work, learning assessments, and pedagogy in secondary theatre instruction.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 924I",
+    "title": "Advanced Instructional Methods for Visual Arts",
+    "units": 2,
+    "department": "TE",
+    "description": "Explores advanced topics in the teaching and learning of visual and media arts in K-12 educational settings. Teacher Candidates participate in lesson and unit design for art and reflect on instruction, pedagogy, and theories in art.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 924J",
+    "title": "Advanced Instructional Methods in Dance",
+    "units": 2,
+    "department": "TE",
+    "description": "Explores dance in educational settings to facilitate engaging experiences for dance learners. Teacher Candidates participate in lesson design for dance and reflect on instruction, pedagogy, and theories in dance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 930A",
+    "title": "Teaching Reading and Language Arts in Preschool through Early Elementary",
+    "units": 1,
+    "department": "TE",
+    "description": "Selecting, designing, and evaluating appropriate learning experiences to assure children\u2019s growth in reading and language arts. Includes nature of reading and language arts as a human behavior, various approaches, materials, and techniques used in teaching reading and language arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Cannot be taken for credit if 6 units of TE 930 have been earned.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 930B",
+    "title": "Teaching Reading and Language Arts in Upper Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Selecting, designing, and evaluating appropriate learning experiences to assure children\u2019s growth in reading and language arts in upper elementary grades. Includes various approaches, materials, and techniques used in teaching reading and language arts.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Cannot be taken for credit if 6 units of TE 930 has been earned",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 933",
+    "title": "Teaching of Literacies in the Secondary School",
+    "units": 3,
+    "department": "TE",
+    "description": "Teacher competencies and skills to include reading/writing and diagnosing literacy needs in content areas. For students completing a credential at SDSU, this course must be taken concurrently with enrollment in first or second semester single subject credential program.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 954",
+    "title": "Humanistic and Social Aspects of Teaching",
+    "units": 2,
+    "department": "TE",
+    "description": "Teacher competencies as they relate to values, awareness, self-concept, rights and responsibilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TE 922",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 963",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 960",
+    "title": "Basic Student Teaching Seminar",
+    "units": 1,
+    "department": "TE",
+    "description": "Discussion of immediate problems in student teaching with emphasis on children\u2019s growth and development.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 965",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 961",
+    "title": "Advanced Student Teaching Seminar",
+    "units": 1,
+    "department": "TE",
+    "description": "Discussion of immediate problems in student teaching with emphasis on the influence of philosophical, social and cultural factors on learning.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 960",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 965",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 966",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 963",
+    "title": "Secondary School Student Teaching I",
+    "units": 1,
+    "department": "TE",
+    "description": "On-site, part-time experience to implement teacher competencies developed in",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 922",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 954",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 933",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 170",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 170",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 964",
+    "title": "Secondary School Student Teaching (Advanced)",
+    "units": 1,
+    "department": "TE",
+    "description": "On-site, full-day experience to implement teacher competencies as developed from the total professional sequence. Student must provide own transportation to student teaching site.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": "*Imperial Valley Campus credential candidates should enroll in the 15 unit course section.  Other candidates consult your advisor or follow directions provided by your program.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 965",
+    "title": "Basic Student Teaching in Preschool through Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Day-to-day teaching experiences including selected instructional activities for which a teacher in a classroom is normally responsible.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 960",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 966",
+    "title": "Advanced Student Teaching in Preschool through Elementary School",
+    "units": 1,
+    "department": "TE",
+    "description": "Teaching experiences including all the instructional activities for which a teacher in a classroom is normally responsible.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": "*Imperial Valley Campus credential candidates should enroll in the 15 unit course section.  Other candidates consult your advisor or follow directions provided by your program.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TE 967",
+    "title": "Elementary School Student Teaching",
+    "units": 15,
+    "department": "TE",
+    "description": "On-site, full-day teaching experiences. Two consecutive eight week assignments at two different broad levels of schooling. Each eight week assignment will provide typical responsibilities of teachers through a graduated series of experiences, such as class preparation, instruction of students, maintaining accurate student records, attending faculty meetings and parent conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 960",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 961",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TE 968",
+    "title": "Secondary School Student Teaching",
+    "units": 15,
+    "department": "TE",
+    "description": "On-site, full-day teaching experiences. Two consecutive eight week assignments in single subject content area; one in junior high school and one in senior high school. Each eight week assignment will provide typical responsibilities of teachers through a graduated series of experiences, such as class preparation, instruction of students, maintaining accurate student records, attending faculty meetings and parent conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TE 903",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1657 @@
+[
+  {
+    "course_code": "CSP 150",
+    "title": "Adversity, Resilience, and the Science of Well-Being",
+    "units": 3,
+    "department": "CSP",
+    "description": "Adversity, resilience, and well-being from physiological, psychological, and sociological perspectives. Personal reflection and skill acquisition to support development in different contexts and across life stages.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 240",
+    "title": "Career Development and Life Design",
+    "units": 3,
+    "department": "CSP",
+    "description": "This course introduces social and behavioral science approaches to career decision-making and life design. Students apply theories and methods to explore identity, social class, and changing work contexts, enhancing understanding of human behavior, contemporary issues, and personal well-being.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 300",
+    "title": "Stress Management and Life Planning",
+    "units": 3,
+    "department": "CSP",
+    "description": "Effects of stress on physical and psychological states and life choices. Stress management practices that contribute to optimal health and productive life planning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 320",
+    "title": "Counseling Skills and Practice",
+    "units": 3,
+    "department": "CSP",
+    "description": "Basic counseling skills with focus on how they affect and may be applied within cultural interactions and for social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 400",
+    "title": "Counseling and the Helping Professions",
+    "units": 3,
+    "department": "CSP",
+    "description": "Serves as an introduction to the field of counseling and introduces the student to those professions considered to be helping professions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 401",
+    "title": "Quest for Identity",
+    "units": 3,
+    "department": "CSP",
+    "description": "Impact of interpersonal, social, and cultural variables on understandings of self, relationships, and the world. Social construction of multiple identities. Meaning and salience of fluid identity development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 420",
+    "title": "The Influence of Media on Counseling and Wellbeing",
+    "units": 3,
+    "department": "CSP",
+    "description": "Impact of media on personal wellbeing. Meaning and salience of media and popular culture, social construction of media in society,\u00a0and the convergence of media and counseling.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 460",
+    "title": "Counseling and Social Change",
+    "units": 3,
+    "department": "CSP",
+    "description": "Role counselors and helping professionals play in addressing social justice issues pertaining to race and ethnicity, disability, gender and sexual orientation, socioeconomic disadvantage and research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CSP",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CSP",
+    "description": "Individual study.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 585",
+    "title": "The Black Experience: Counseling and Contemporary Social Movements",
+    "units": 3,
+    "department": "CSP",
+    "description": "Major African-centered theories that guide evidence-based practices in mental health and how historical events and systems of structural inequalities impact global contemporary social movements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 596",
+    "title": "Selected Studies",
+    "units": 1,
+    "department": "CSP",
+    "description": "A series of lecture and discussion sessions centering on current problems in counseling and guidance. Designed to serve the needs of any person desiring to keep informed of developments in this area.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 600",
+    "title": "Cross-Cultural Counseling Communication Skills",
+    "units": 2,
+    "department": "CSP",
+    "description": "Concepts underlying effective cross-cultural counseling practice and interpersonal communication. Development of skills basic to practice of counseling, consultation, and marriage-family therapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 600L",
+    "title": "Cross-Cultural Counseling Prepracticum",
+    "units": 1,
+    "department": "CSP",
+    "description": "Development of self-understanding. Cross-cultural communication skills needed for becoming an effective counselor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 601",
+    "title": "Theoretical Foundations of Counseling and Marriage and Family Therapy",
+    "units": 3,
+    "department": "CSP",
+    "description": "Counseling and marriage and family therapy theories and their impact on the practices of counselors, school counselors, school psychologists, marriage-family therapists and their clients. Approaches and applications for counseling and therapy. Research on counseling and marriage and family therapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 602",
+    "title": "Knowledge Justicia: Mental Health Care and The Decolonial Option",
+    "units": 3,
+    "department": "CSP",
+    "description": "Key concepts of the modernity/coloniality/decoloniality project from Abya Yala (Latin America) in relation to the hidden colonial foundations of the Western mental health care system, its evidence, regulations, institutions and actors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Taught in Spanish and Spanglish.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 603",
+    "title": "Language Justicia, Spanglish and Mental Health",
+    "units": 3,
+    "department": "CSP",
+    "description": "Spanglish as a linguistic borderland for decolonial healing praxis. Raciolinguistics examination of the colonial formation of Western therapeutic frameworks and interventions in standard English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Spanish and Spanglish.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 604",
+    "title": "The Coloniality of Gender, The Colonial Difference and Mental Illnesses",
+    "units": 3,
+    "department": "CSP",
+    "description": "Decolonial analysis of mental illness and its treatment from the perspective of the colonial matrix of power. Gender, race, culture and mental illness as systems of oppression of the colonial difference.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Spanish and Spanglish.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 605",
+    "title": "Decolonizing the Temporality, Grammar and Aesthetics of Healing",
+    "units": 3,
+    "department": "CSP",
+    "description": "Epistemic decolonization of healing by delinking from the Eurocentric individual body, emotions, cognition, meaning making and behaviors. Decolonial aesthetics and grammar. Ancestral, human and non-human, and communal sentipensares to articulate and re-write healing responses to the colonial wound.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Spanish and Spanglish.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 606A",
+    "title": "Professional Issues in Mental Health Practice: California Law and Ethics for Marriage and Family Therapy",
+    "units": 3,
+    "department": "CSP",
+    "description": "Legal, ethical, and professional issues in counseling and marriage and family therapy practice, research, and training. Cultural underpinnings and clinical implications of legal and ethical codes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 606B",
+    "title": "Professional Issues in Mental Health Practice: Community-Based Block",
+    "units": 3,
+    "department": "CSP",
+    "description": "Legal, ethical, and professional issues in counseling and marriage and family therapy practice, research, and training. Cultural underpinnings and clinical implications of legal and ethical codes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 609",
+    "title": "Family Life Cycle Development",
+    "units": 3,
+    "department": "CSP",
+    "description": "Family development examined within sociocultural and temporal contexts. Addresses predictable and crisis transitions and implications for family therapy treatment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 610C",
+    "title": "Determinants of Human Behavior: Development",
+    "units": 1,
+    "department": "CSP",
+    "description": "Implications of theory and research in behavioral sciences for the understanding of human behavior.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 612",
+    "title": "Restorative Practices and Conflict Transformation",
+    "units": 3,
+    "department": "CSP",
+    "description": "Compare and contrast retributive and restorative practices. Concepts, history, principles, and theory of restorative practices. Restorative tools in building strong relationships. Utilization of trauma informed care.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 615",
+    "title": "Seminar in Multicultural Dimensions in Counseling",
+    "units": 3,
+    "department": "CSP",
+    "description": "Issues, insights, and techniques for improving effectiveness in working with culturally diverse populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 618",
+    "title": "Mental Health Recovery and the DSM: A Social Justice Perspective",
+    "units": 3,
+    "department": "CSP",
+    "description": "Descriptions of mental health disorders within biological, individual, familial, and larger social contexts. Focus on Diagnosis and Statistical Manual of Mental Disorders classification system and relationship to family functioning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 619",
+    "title": "Foundations in Ecosystemic Thinking and School Psychology",
+    "units": 3,
+    "department": "CSP",
+    "description": "Education and professional development of multiculturally competent, ecosystemic school psychologists involved in the lives of students, families, and schools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 620",
+    "title": "Foundations of the Professional School Counselor Leader",
+    "units": 3,
+    "department": "CSP",
+    "description": "Comprehensive school counseling to include historical perspective of school counseling policies, practices, future leadership directions, role and function of professional school counselor leader. Current trends in school counseling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 621",
+    "title": "Social Justice Democratic Theory, Processes, and Skills",
+    "units": 2,
+    "department": "CSP",
+    "description": "Multicultural community counseling and social justice practice, to include democratic processes, community-building, and professional communication skills. Social change through working with people in communities, increasing self- and other-awareness, and relationship building. Fulfills licensure requirements for LPCC.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 621L",
+    "title": "Social Justice Democratic Theory, Processes, and Skills Laboratory",
+    "units": 1,
+    "department": "CSP",
+    "description": "Supervised practice in multicultural community counseling and social justice practice, to include democratic processes, community- building, and professional communication skills. Social change through working with people in communities, increasing selfand other-awareness, and relationship building. Fulfills licensure requirements for LPCC.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 621",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 623",
+    "title": "Ecobehavioral Assessment - Intervention",
+    "units": 3,
+    "department": "CSP",
+    "description": "Theory and concepts underlying ecobehavioral assessment - intervention in multicultural schools. Functional assessment of individual student behavior in contexts of classroom and culture. Development of behavior support plans in collaboration with teachers. Implementing and evaluating ecobehavioral consultation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 730",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 740",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 624",
+    "title": "Learning, Achievement, and Instruction for School Counselors",
+    "units": 3,
+    "department": "CSP",
+    "description": "Classroom management strategies and techniques. Curriculum design, lesson plan development, assessment tools, and instructional strategies for delivering school counseling core curriculum (academic, college/career, personal/social) in diverse schools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 625",
+    "title": "Marriage and Family Therapy Theories and Best Practices I",
+    "units": 3,
+    "department": "CSP",
+    "description": "Historical and empirical foundations of marriage and family therapy. Classic systemic theoretical models of practice from vantage point of assessment. Related change strategies and techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 626",
+    "title": "Marriage and Family Therapy Theories and Best Practices II",
+    "units": 3,
+    "department": "CSP",
+    "description": "Contemporary marriage and family therapy theories including: post-modern ideas, such as narrative therapy and collaborative language systems, integrative and evidence-based approaches; alternative approaches to family therapy, such as coaching and mediation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 630",
+    "title": "Social Justice and Holistic School Systems for School Counselors",
+    "units": 3,
+    "department": "CSP",
+    "description": "Historical and current holistic school systems and role of professional school counselor. Ecosystemic and social justice theory and models; practical implications for providing school counseling services for individual students in multicultural schools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 635",
+    "title": "Sexuality and Intimacy in Couple and Family Therapy and Counseling",
+    "units": 1,
+    "department": "CSP",
+    "description": "Approaches to understanding sexual functioning and intimacy through multicultural, historical, and relational clinical theory frameworks. Specific sexual issues presented in therapy, treatment planning, and intervention. Fulfills marriage and family therapy and LPCC licensure requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 621",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 621L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 636",
+    "title": "Mental Health Recovery",
+    "units": 3,
+    "department": "CSP",
+    "description": "Constructions of pathology and mental health, mental health recovery movement, and multicultural considerations in counseling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 637",
+    "title": "Counseling and Marriage and Family Therapy Theories I",
+    "units": 3,
+    "department": "CSP",
+    "description": "Foundational counseling theories and practical application to multicultural communities. Historical development of marriage and family therapy theories from a social constructionist and postmodern framework.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 638",
+    "title": "Counseling and Marriage and Family Therapy Theories II",
+    "units": 3,
+    "department": "CSP",
+    "description": "Continuing examination of counseling and marriage and family therapy theories and applications from social constructionist and postmodern frameworks.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 639",
+    "title": "Law and Ethics in the Counseling Profession",
+    "units": 3,
+    "department": "CSP",
+    "description": "Legal and ethical standards in the counseling profession through a multicultural lens. Personal values in ethical decision making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 640",
+    "title": "Testing and Assessment for Marriage and Family Therapists",
+    "units": 2,
+    "department": "CSP",
+    "description": "Theory and application of individual and relationship assessment instruments in marriage and family therapy practice. Test development processes. Cultural factors in testing and interpretation. Current uses of tests in mental health, educational, and legal institutions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 642",
+    "title": "Multicultural Assessment in Individual and Community Counseling",
+    "units": 2,
+    "department": "CSP",
+    "description": "Theory and practice of individual assessment measures from a multicultural and social justice perspective in community counseling. Test development processes. Social justice and cultural factors in testing and interpretation. Current uses of tests in community settings. Fulfills licensure requirements for LPCC.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 642L",
+    "title": "Multicultural Assessment in Individual and Community Counseling Laboratory",
+    "units": 1,
+    "department": "CSP",
+    "description": "Supervised practice and application of individual assessment measures from a multicultural and social justice perspective in community counseling. Test development processes. Social justice and cultural factors in testing and interpretation. Current uses of tests in community settings. Fulfills licensure requirements for LPCC.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 645",
+    "title": "College Planning and Career Development P-16",
+    "units": 3,
+    "department": "CSP",
+    "description": "College planning, career readiness, and career technical education P-16. Technology promoting equity, access, and opportunity for culturally diverse populations to post secondary options.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 650",
+    "title": "Trauma and Crisis Counseling in Multicultural Community Context",
+    "units": 1,
+    "department": "CSP",
+    "description": "Multicultural and social justice; crisis and trauma counseling and therapy to include historical and philosophical origins of current theories and practices and implications for multidisciplinary treatment. Trauma and diversity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 621",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 621L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 652",
+    "title": "Trauma-Informed Care in Multicultural Contexts",
+    "units": 3,
+    "department": "CSP",
+    "description": "Current trends in explaining traumatic experience. Discourses surrounding trauma and how they have developed. Recovery and restorative practices. Trauma-informed care practices and principles in diverse contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 662A",
+    "title": "Counseling Interventions with Children and Adolescents: Marriage and Family Therapy",
+    "units": 3,
+    "department": "CSP",
+    "description": "Counseling theories, processes and approaches appropriate to children and adolescents in multicultural school and community settings. Application of theories and research for individual, group, family and larger systems interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 610C",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 662B",
+    "title": "Counseling Interventions with Children and Adolescents: School Counseling and School Psychology",
+    "units": 3,
+    "department": "CSP",
+    "description": "Counseling theories, processes and approaches appropriate to children and adolescents in multicultural school and community settings. Application of theories and research for individual, group, family and larger systems interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 610C",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 663",
+    "title": "Response to Intervention: Assessment-Intervention for Learning I",
+    "units": 3,
+    "department": "CSP",
+    "description": "Foundational assessment skills in authentic and curriculum- based approaches for intervention for school-age students. Standardized assessment as a bridge to part II.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 664",
+    "title": "Response to Intervention: Assessment-Intervention for Learning II",
+    "units": 3,
+    "department": "CSP",
+    "description": "Implement Response to Intervention (RTI) in psychoeducational assessment and intervention. Academic and cognitive assessment-intervention of theories, assessment practices, and intervention.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 663",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 670",
+    "title": "Theory and Process of Group Counseling",
+    "units": 2,
+    "department": "CSP",
+    "description": "Group process, theories of group interaction, and group leadership techniques with children, adolescents, adults, couples, and families. Fulfills requirements for licensed professional clinical counselor and marriage and family therapy licensure.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 670L",
+    "title": "Group and Community Counseling Laboratory",
+    "units": 1,
+    "department": "CSP",
+    "description": "Supervised practice in group counseling, community counseling, group leadership.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 670",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 672",
+    "title": "Multidisciplinary Facilitation",
+    "units": 2,
+    "department": "CSP",
+    "description": "Inter-professional collaboration practices across a variety of organizational settings. Social constructionist approaches to multidisciplinary group facilitation. Team-based collaborative leadership and knowledge production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 673",
+    "title": "Public and Private Policy and Counseling",
+    "units": 1,
+    "department": "CSP",
+    "description": "Public and private policy in delivery of counseling services. Role of counselors as advocates in policy issues impacting services.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 680",
+    "title": "Theory and Process of Consultation",
+    "units": 3,
+    "department": "CSP",
+    "description": "Consultation theory, process, and research for counselors and school psychologists. Emphasis on mental health and problem- solving consultation in multicultural education and mental health settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 687",
+    "title": "Family and Systemic Treatment of Substance Abuse",
+    "units": 1,
+    "department": "CSP",
+    "description": "Systemic models of intervention for families, couples presenting problems related to substance abuse. Includes treatment issues of interdependence, power, intimacy, generational patterns, addition and relapse. Fulfills marriage and family therapy and LPCC requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 621",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 621L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 688",
+    "title": "Family Systems Assessment of Child Abuse",
+    "units": 1,
+    "department": "CSP",
+    "description": "Examines child abuse assessment within individual, family sociocultural, developmental and systemic frameworks. Treatment goals, issues and strategies derived from family systems therapies. Fulfills marriage and family therapy licensure requirement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 689",
+    "title": "Family Counseling in the Schools",
+    "units": 1,
+    "department": "CSP",
+    "description": "Roles and approaches of family counselor in working with schools for children\u2019s school-based problems. Family systems theory and practice applied to family-school interface, cultural interaction, specific symptomology, and professional and ethical issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 691",
+    "title": "Violence in Couples\u2019 Relationships",
+    "units": 1,
+    "department": "CSP",
+    "description": "Sociocultural, developmental, family and individual contexts of violence in couples\u2019 relationships. Assessment with a focus on systemic ideas and practices. Legal, ethical, and person-of-the-therapist influences on assessment. Fulfills marriage and family therapy and LPCC licensure requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 621",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 621L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 692",
+    "title": "Seminar: Couples Therapy and Evidence-Based Relational Practices",
+    "units": 3,
+    "department": "CSP",
+    "description": "Explores and applies theory and practice of therapy with couples in premarital, marital, non-marital, divorce, recoupling, and remarriage situations. Intra and intercultural issues and gender factors in coupling. Discussion of specific problems such as infidelity or depression.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 609",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 694",
+    "title": "Psychopharmacology for Marriage and Family Therapists and Counseling",
+    "units": 2,
+    "department": "CSP",
+    "description": "Medical, cultural, systemic perspectives on use of psychopharmacology in marriage and family therapy practice. Overview of most commonly used drugs in psychotherapeutic treatment. Fulfills marriage and family therapy and LPCC licensure requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 618",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 696",
+    "title": "Selected Topics in Counseling and School Psychology",
+    "units": 1,
+    "department": "CSP",
+    "description": "Intensive study in specific areas of counseling and school psychology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 710A",
+    "title": "Professional Seminar",
+    "units": 3,
+    "department": "CSP",
+    "description": "Study of selected areas in counseling, marriage and family therapy, school counseling, or school psychology culminating in a written project with emphasis on counseling as a profession.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 640",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 670",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 710B",
+    "title": "Professional Seminar",
+    "units": 3,
+    "department": "CSP",
+    "description": "Study of selected areas in counseling, marriage and family therapy, school counseling, or school psychology culminating in a written project with emphasis on counseling as a profession.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 640",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 670",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 711",
+    "title": "Intensive Study in School Psychology",
+    "units": 1,
+    "department": "CSP",
+    "description": "Selected areas in school psychology theory and practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 723",
+    "title": "School-Based Mental Health Interventions",
+    "units": 3,
+    "department": "CSP",
+    "description": "Mental health disorders in school-aged children. Factors that promote psychological healthy and safe schools. Psychological interventions to improve emotional, behavioral, and social functioning of children and adolescents in school settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 623",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 726",
+    "title": "School Psychology Models and Practices for Family-School Collaboration",
+    "units": 3,
+    "department": "CSP",
+    "description": "Models, theory, research, and practice in school psychology roles in family-school collaboration in diverse schools. School-wide, group, and individual approaches for improving school climate, parent engagement, communication, and interventions involving families, school staff, school psychologists, and others.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 600L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 619",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 623",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 730",
+    "title": "Fieldwork in Counseling",
+    "units": 2,
+    "department": "CSP",
+    "description": "Application of concepts and procedures of counseling, school counseling, or school psychology services in appropriate school or agency setting. Daily observation and practice. Weekly seminar sessions with university staff. Application to take the course must be made early during the preceding semester.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 670",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 733",
+    "title": "Ethics and Law for Educators",
+    "units": 3,
+    "department": "CSP",
+    "description": "Professional issues in school psychology, special education, applied behavioral analysis, and mental health. Professional ethics, dilemmas, legislation, and case law relevant to delivery of ethically and legally sound services.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 740",
+    "title": "Practicum",
+    "units": 1,
+    "department": "CSP",
+    "description": "Supervised experience in counseling, school counseling, or school psychology.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 742",
+    "title": "Policy, Politics, Law, and Ethics for School Counselors",
+    "units": 1,
+    "department": "CSP",
+    "description": "Policies and politics influencing education, school counselors, and students. Legal mandates, ethical standards, practices of the school counseling profession, and how to apply to educational and counseling situations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 750",
+    "title": "Response to Intervention: Assessment and Instructional Support for Culturally and Linguistically Diverse Learners",
+    "units": 3,
+    "department": "CSP",
+    "description": "Effective assessment and instructional support strategies for culturally and linguistically diverse students within Response to Intervention (RTI) framework. Language and culture, disproportionality in special education, non-biased assessment practices and interventions, and report writing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 663",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 751",
+    "title": "Response to Intervention: Advanced Assessment-Intervention: Special Populations",
+    "units": 3,
+    "department": "CSP",
+    "description": "Response to Intervention (RTI) and instructional support strategies for special populations to include autism, preschool, and low incidence disabilities. Developmental and play-based assessment, individual differences, and diversity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 664",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 750",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 752",
+    "title": "Seminar and Practicum: School Psychology",
+    "units": 3,
+    "department": "CSP",
+    "description": "School psychology in multicultural school settings; implications for standard and innovative school psychology practices.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 730",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 753",
+    "title": "Advanced Topics in Bilingual School Psychology",
+    "units": 3,
+    "department": "CSP",
+    "description": "In-depth discussion of topics about the bilingual practice of school psychology. Evidence-based bilingual assessment, consultation, and intervention with children and families. Enhancing cultural and language competence in psychological services in K-12.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The course will be taught in Spanish and English",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 755",
+    "title": "Practicum I: Marriage and Family Therapy",
+    "units": 3,
+    "department": "CSP",
+    "description": "Supervised experience in relationship and family therapy under live supervision. Application of assessment methods and basic techniques. Clinical hours may be counted toward 500 clinical hours and marriage and family licensure eligibility requirement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 760",
+    "title": "Advanced Seminar in School Psychology",
+    "units": 3,
+    "department": "CSP",
+    "description": "Study of selected areas in school psychology which culminates in a written project with emphases on research, problems and/or issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 710A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CSP 752",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 761",
+    "title": "Dynamic Cognitive Assessment and Mediated Learning",
+    "units": 3,
+    "department": "CSP",
+    "description": "Theory and practice of cognitive modifiability, knowledge construction; role of culture and second language acquisition in cognitive development; and mediated learning strategies. Identify and assess modifiable cognitive functions; administer and interpret multiple assessment tools; learn mediated learning interventions, report to parent and teacher.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 762",
+    "title": "Prevention, Crisis Intervention, and Conflict Resolution in Schools",
+    "units": 3,
+    "department": "CSP",
+    "description": "Examination, design, implementation, and evaluation of wellness, prevention, intervention, and other mental health programs at individual, group, and system levels in schools. Focus on roles for school support personnel in promoting wellness and resiliency and intervening in school settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 764",
+    "title": "Educational Psychology: Developmental and Biological Bases of Behavior",
+    "units": 3,
+    "department": "CSP",
+    "description": "Human neuropsychology relevant to assessment and intervention practices within school settings; associated biological and cultural influences on human behavior. Brain-behavior relationships within context of cognitive and developmental psychology, learning, and education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 619",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 765",
+    "title": "Practicum II: Marriage and Family Therapy",
+    "units": 3,
+    "department": "CSP",
+    "description": "Advanced supervised experience in relationship and family therapy under live supervision. Advanced techniques and treatment planning. Clinical hours may be counted toward 500 clinical hours and marriage and family licensure eligibility requirement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 755",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 769",
+    "title": "The Achievement Gap: Leadership, Advocacy, and Systemic Change",
+    "units": 3,
+    "department": "CSP",
+    "description": "Leadership, advocacy, systemic change theory, practice to disaggregate data, identify equity, and access issues. Create student and systems interventions to target opportunity, attainment, and achievement gaps in schools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 771",
+    "title": "Advanced Learning and Multi-Tiered Mediated Interventions",
+    "units": 3,
+    "department": "CSP",
+    "description": "Design and delivery of cognitively mediated interventions tiers 1, 2, and 3 of Response to Intervention (RTI). Incorporation of critical thinking, prior knowledge and cultural grounding, standards, depth of content, and progress monitoring.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 761",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 775",
+    "title": "ASCA Model I: Developing and Implementing a School Counseling Program",
+    "units": 3,
+    "department": "CSP",
+    "description": "Part I of a two-part sequence. Professional knowledge, skills, competencies, and abilities to create, implement, and evaluate school counseling program in K-12 schools. Program foundation, design, and implementation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 776",
+    "title": "ASCA Model II: Evaluating and Improving School Counseling Programs",
+    "units": 3,
+    "department": "CSP",
+    "description": "Part II of a two-part sequence. Professional knowledge, skills, competencies, and abilities to create, implement, and evaluate school counseling program in K-12 schools. Program assessment, accountability, and evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 780",
+    "title": "Internship",
+    "units": 1,
+    "department": "CSP",
+    "description": "Supervised internship experience in counseling or school psychology activities. Application to take the course must be made early during the preceding semester.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 24,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 730",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 784",
+    "title": "Advanced Consultation and Systems Change for Social Justice in Schools",
+    "units": 3,
+    "department": "CSP",
+    "description": "Organizational consultation and systems change research and theories to promote social justice via systems change, advocacy, and leadership in schools. Clinical skills in advanced consultation strategies to include interrupting inequitable practices and policies in schools and other interlocking systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 785",
+    "title": "Marriage and Family Therapy Traineeship",
+    "units": 1,
+    "department": "CSP",
+    "description": "Community-based clinical marriage and family therapy experience, with AAMFT approved supervisor or equivalent. Individual and group supervision at site and on campus. Clinical hours may be counted toward 500 clinical hours and marriage and family therapy licensure eligibility requirement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 10,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CSP 755",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CSP 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "CSP",
+    "description": "Preparation of a thesis for the Master of Science degree in counseling.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "CSP",
+    "description": "Registration required in any semester or term following assignment of RP in 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CSP 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "CSP",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s or Ed.S. degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "code": "INTERNATIONAL_BUSINESS_ASIAN_LANGUAGES_SINGAPORE_EMPHASIS_B_",
+  "name": "International Business, Asian Languages - Singapore Emphasis, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12540",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12540",
+  "poid": "12540",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RWS 390W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "B A 300",
+    "B A 310",
+    "B A 323",
+    "B A 350",
+    "B A 360",
+    "B A 370",
+    "FIN 329",
+    "MGT 405",
+    "MKTG 376",
+    "COMM 371",
+    "RWS 390W",
+    "JMS 460",
+    "JMS 462",
+    "LING 352",
+    "MKTG 373",
+    "I B 495",
+    "I B 498"
+  ],
+  "elective_areas": {
+    "I. Business": [
+      "ACCTG 201",
+      "ACCTG 202",
+      "ECON 101",
+      "ECON 102",
+      "ECON 201",
+      "STAT 119",
+      "FIN 240",
+      "MIS 180"
+    ],
+    "Requirements": [
+      "RWS 290",
+      "CHIN 101",
+      "CHIN 102",
+      "CHIN 201",
+      "JAPAN 111",
+      "JAPAN 112",
+      "JAPAN 211",
+      "KOR 101",
+      "KOR 102",
+      "KOR 201"
+    ],
+    "III. Regional/Cultural Studies Emphasis": [
+      "ASIAN 100"
+    ],
+    "Requirements (2)": [
+      "MGT 358",
+      "FIN 328",
+      "MGT 353",
+      "MGT 422",
+      "MGT 452",
+      "MGT 455",
+      "MGT 459",
+      "MGT 460"
+    ],
+    "III. Regional/Cultural Studies Emphasis (2)": [
+      "ASIAN 300",
+      "ASIAN 320",
+      "ASIAN 421",
+      "HIST 421",
+      "ASIAN 458",
+      "REL S 458",
+      "ECON 330",
+      "ECON 360",
+      "HIST 420",
+      "POL S 362",
+      "POL S 575",
+      "REL S 345"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MIS 180",
+    "ACCTG 201",
+    "ECON 201",
+    "ACCTG 202",
+    "CHIN 101",
+    "KOR 101",
+    "CHIN 102",
+    "KOR 102",
+    "ASIAN 100",
+    "FIN 328",
+    "ASIAN 300"
+  ],
+  "unresolved_codes": []
+}

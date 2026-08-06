@@ -1,0 +1,59 @@
+{
+  "code": "CHILD_DEVELOPMENT_EMPHASIS_IN_EARLY_CHILDHOOD_SPECIAL_EDUCAT",
+  "name": "Child Development, Emphasis in Early Childhood Special Education Integrated Teacher Education (ITEP), B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12547",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12547",
+  "poid": "12547",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "CFD 335",
+    "CFD 370",
+    "CFD 375A",
+    "CFD 375B",
+    "CFD 378A",
+    "CFD 378B",
+    "CFD 380",
+    "CFD 537",
+    "CFD 560",
+    "CFD 580",
+    "CFD 585",
+    "GEN S 420",
+    "SPED 450",
+    "SPED 526",
+    "SPED 527",
+    "SPED 530",
+    "DLE 915A",
+    "SPED 543",
+    "SPED 553",
+    "SPED 560",
+    "SPED 562",
+    "SPED 970B",
+    "SPED 980D"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "CFD 135",
+      "CFD 270",
+      "CFD 270L",
+      "CFD 272",
+      "CFD 275",
+      "CFD 278",
+      "BIOL 100",
+      "PSY 101",
+      "SOC 101",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119",
+      "STAT 250"
+    ]
+  },
+  "default_electives": [
+    "BIOL 100"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,106 @@
+{
+  "code": "MUSIC_MUSIC_RECORDING_TECHNOLOGY_AND_AUDIO_DESIGN_TRACK_B_M",
+  "name": "Music, Music Recording Technology and Audio Design Track, B.M.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12143",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12143",
+  "poid": "12143",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "MUSIC 409W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "MUSIC 409W",
+    "MUSIC 305A",
+    "MUSIC 305B",
+    "MUSIC 308A",
+    "MUSIC 309",
+    "MUSIC 360",
+    "MUSIC 345",
+    "MUSIC 405A",
+    "MUSIC 405B"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "MUSIC 105",
+      "MUSIC 106A",
+      "MUSIC 106B",
+      "MUSIC 108",
+      "MUSIC 151",
+      "MUSIC 110A",
+      "MUSIC 110B",
+      "MUSIC 160",
+      "MUSIC 162",
+      "MUSIC 205A",
+      "MUSIC 205B",
+      "MUSIC 260",
+      "MUSIC 262",
+      "MUSIC 290",
+      "DANCE 290",
+      "MUSIC 291",
+      "CS 100",
+      "CS 150",
+      "CS 150L",
+      "THEA 120",
+      "THEA 240"
+    ],
+    "Ensembles": [
+      "MUSIC 170",
+      "MUSIC 171",
+      "MUSIC 175",
+      "MUSIC 176",
+      "MUSIC 177",
+      "MUSIC 180",
+      "MUSIC 183",
+      "MUSIC 184",
+      "MUSIC 185",
+      "MUSIC 186",
+      "MUSIC 189"
+    ],
+    "Ensembles (2)": [
+      "MUSIC 370",
+      "MUSIC 371",
+      "MUSIC 375",
+      "MUSIC 376",
+      "MUSIC 377",
+      "MUSIC 380",
+      "MUSIC 383",
+      "MUSIC 384",
+      "MUSIC 385",
+      "MUSIC 386",
+      "MUSIC 389"
+    ],
+    "Sound Design and Visual Media": [
+      "TFM 321",
+      "TFM 521",
+      "THEA 548"
+    ]
+  },
+  "default_electives": [
+    "CS 100",
+    "MUSIC 170",
+    "MUSIC 171",
+    "MUSIC 175",
+    "MUSIC 370",
+    "MUSIC 371",
+    "MUSIC 375",
+    "TFM 321",
+    "TFM 521"
+  ],
+  "unresolved_codes": [
+    "MUSIC 460",
+    "MUSIC 462",
+    "MUSIC 496",
+    "MUSIC 507",
+    "MUSIC 515",
+    "MUSIC 518",
+    "MUSIC 530",
+    "MUSIC 554",
+    "MUSIC 560",
+    "MUSIC 561",
+    "MUSIC 562"
+  ]
+}

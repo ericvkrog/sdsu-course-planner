@@ -1,0 +1,133 @@
+{
+  "code": "ART_EMPHASIS_IN_STUDIO_ARTS_B_A",
+  "name": "Art, Emphasis in Studio Arts, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11899",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11899",
+  "poid": "11899",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "ART 391W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "ART 391W",
+    "ART 452"
+  ],
+  "elective_areas": {
+    "Foundations": [
+      "ART 100",
+      "ART 101",
+      "ART 102",
+      "ART 104",
+      "ART 103",
+      "ART 258",
+      "ART 259"
+    ],
+    "Digital Literacy": [
+      "ART 240",
+      "ART 248"
+    ],
+    "Material Exploration 2D": [
+      "ART 203",
+      "ART 204",
+      "ART 210"
+    ],
+    "Material Exploration 3D": [
+      "ART 216",
+      "ART 220",
+      "ART 223",
+      "ART 226",
+      "ART 231"
+    ],
+    "Art and Digital Technologies": [
+      "ART 340",
+      "ART 383",
+      "ART 521",
+      "ART 524"
+    ],
+    "Specialized Concepts in Art History": [
+      "ART 345",
+      "ART 371",
+      "ART 409"
+    ],
+    "Material Depth": [
+      "ART 325",
+      "ART 326",
+      "ART 425",
+      "ART 426",
+      "ART 525",
+      "ART 526",
+      "ART 323",
+      "ART 423",
+      "ART 523A",
+      "ART 523B",
+      "ART 331",
+      "ART 431",
+      "ART 432",
+      "ART 531",
+      "ART 532",
+      "ART 343",
+      "ART 346",
+      "ART 403",
+      "ART 404",
+      "ART 406",
+      "ART 410",
+      "ART 443",
+      "ART 446",
+      "ART 500",
+      "ART 503",
+      "ART 504",
+      "ART 340",
+      "ART 407",
+      "ART 440",
+      "ART 507",
+      "ART 416",
+      "ART 516",
+      "ART 517"
+    ]
+  },
+  "default_electives": [
+    "ART 100",
+    "ART 101",
+    "ART 102",
+    "ART 103",
+    "ART 104",
+    "ART 258",
+    "ART 240",
+    "ART 203",
+    "ART 216",
+    "ART 340",
+    "ART 345",
+    "ART 371",
+    "ART 323",
+    "ART 325",
+    "ART 326"
+  ],
+  "unresolved_codes": [
+    "ART 543",
+    "ART 546",
+    "ART 547",
+    "ART 557",
+    "ART 558",
+    "ART 559",
+    "ART 560A",
+    "ART 564",
+    "ART 565",
+    "ART 568",
+    "ART 569",
+    "ART 570",
+    "ART 571A",
+    "ART 571B",
+    "ART 572",
+    "ART 573A",
+    "ART 573B",
+    "ART 575",
+    "ART 576",
+    "ART 577",
+    "ART 578",
+    "ART 593"
+  ]
+}

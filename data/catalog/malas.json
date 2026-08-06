@@ -1,0 +1,156 @@
+[
+  {
+    "course_code": "MALAS 585",
+    "title": "Seminar in the Histories and Cultures of Skateboarding",
+    "units": 3,
+    "department": "MALAS",
+    "description": "Culture and practice of skateboarding around the world. How skateboarding intersects with art, athleticism, class, commerce, gender, music, race, and space.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CCS 275",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 114",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MALAS 600A",
+    "title": "Interdisciplinary Study in Liberal Arts and Sciences: Cultural Studies",
+    "units": 3,
+    "department": "MALAS",
+    "description": "MALAS seminars are divided into four general areas with content that varies semester to semester.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 600B",
+    "title": "Interdisciplinary Study in Liberal Arts and Sciences: Science and Society, Environmental Studies",
+    "units": 3,
+    "department": "MALAS",
+    "description": "MALAS seminars are divided into four general areas with content that varies semester to semester.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 600C",
+    "title": "Interdisciplinary Study in Liberal Arts and Sciences: Globalization, Technology, Future Studies",
+    "units": 3,
+    "department": "MALAS",
+    "description": "MALAS seminars are divided into four general areas with content that varies semester to semester.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 600D",
+    "title": "Interdisciplinary Study in Liberal Arts and Sciences: Media Studies, Fine Arts, Transformative Arts",
+    "units": 3,
+    "department": "MALAS",
+    "description": "MALAS seminars are divided into four general areas with content that varies semester to semester.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 601",
+    "title": "Seminar in Interdisciplinary Thinking",
+    "units": 3,
+    "department": "MALAS",
+    "description": "Nature of interdisciplinary thinking. Ways of knowing and schools of thought in multiple disciplines. Interdisciplinary methods to analyze social issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 795",
+    "title": "Studies in Liberal Arts and Sciences",
+    "units": 3,
+    "department": "MALAS",
+    "description": "Individual preparation for comprehensive examination for students taking the Master of Liberal Arts and Sciences under Plan B.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 798",
+    "title": "Special Study",
+    "units": 3,
+    "department": "MALAS",
+    "description": "Individual study on a given topic through interdisciplinary perspectives.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "MALAS",
+    "description": "Preparation of a project or thesis for Master of Arts degree in Liberal Arts and Sciences.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "MALAS",
+    "description": "Registration required in any semester or term following assignment of RP in 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MALAS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "MALAS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

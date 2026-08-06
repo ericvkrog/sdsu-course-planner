@@ -1,0 +1,35 @@
+{
+  "code": "SPANISH_B_A",
+  "name": "Spanish, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12200",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12200",
+  "poid": "12200",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "SPAN 101",
+    "SPAN 102",
+    "SPAN 201",
+    "SPAN 202",
+    "SPAN 211",
+    "SPAN 212"
+  ],
+  "upper_required": [
+    "SPAN 301",
+    "SPAN 302",
+    "SPAN 350",
+    "SPAN 395",
+    "SPAN 401",
+    "SPAN 402",
+    "SPAN 448",
+    "SPAN 340",
+    "SPAN 341",
+    "SPAN 342"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

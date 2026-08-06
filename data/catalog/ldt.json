@@ -1,0 +1,397 @@
+[
+  {
+    "course_code": "LDT 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LDT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LDT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LDT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 515",
+    "title": "Games, Play, and Learning",
+    "units": 3,
+    "department": "LDT",
+    "description": "Analysis of games and play from cognitive, historical, motivational, and social perspectives. Design of simple learning games. Survey of the game industry and use of games in education and training.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 520",
+    "title": "Consciousness Hacking",
+    "units": 3,
+    "department": "LDT",
+    "description": "Personal investigation into conscious awareness, identity, and mind. Exploration of mindfulness, self-inquiry, and similar contemporary approaches to personal awakening. Opportunities for direct experience with meditation, yoga, and related methods for expanding awareness, quieting mind, and cultivating communication, creativity, and intelligence.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 525",
+    "title": "Virtual Reality, Imaginary Worlds, and Future of Learning",
+    "units": 3,
+    "department": "LDT",
+    "description": "Learning experiences using virtual reality and worlds. Cognitive load in novel environments, sensory perception, theories and models of social interaction. Implications of virtual interaction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 540",
+    "title": "Educational Technology",
+    "units": 3,
+    "department": "LDT",
+    "description": "Rationale, foundations, theories, careers, trends, and issues in educational technology. Implications of educational technology for instruction and information in schools, government, and corporations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 544",
+    "title": "Instructional Design",
+    "units": 3,
+    "department": "LDT",
+    "description": "Systematic design of products for education and training. Use of analyses and content mapping to set instructional goals. Instructional methods derived from learning theories for use in schools, universities, corporations, and other settings. Rapid prototyping of instructional products.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 561",
+    "title": "Advanced Multimedia Design for Learning",
+    "units": 3,
+    "department": "LDT",
+    "description": "Educational visualization with digital video, animation, sound, 2D and 3D graphics for mobile and web-based learning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 572",
+    "title": "Active Learning Strategies with Technology",
+    "units": 3,
+    "department": "LDT",
+    "description": "Use of technology to support designing and managing instructor-led courses. Topics include building interactive activities, creating flipped videos and screencasts, developing online instruction that supports learners using Universal Design for Learning strategies, and harnessing the power of a learning management system.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 596",
+    "title": "Topics in Learning Design and Technology",
+    "units": 1,
+    "department": "LDT",
+    "description": "Selected problems in educational technology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 630",
+    "title": "Mobile Applications for Learning",
+    "units": 3,
+    "department": "LDT",
+    "description": "Mobile learning models and examples. Design principles and development processes. Adapting mobile learning for different environments, settings, and cultures. Future trends.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 640",
+    "title": "Psychology of Technology-Based Learning",
+    "units": 3,
+    "department": "LDT",
+    "description": "Principles of human learning and cognition applied to design and use of technology-based learning systems. Development of research-based guidelines for designing educational products and services.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 544",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 670",
+    "title": "Learning Through Games and Simulations",
+    "units": 3,
+    "department": "LDT",
+    "description": "Design, evaluation, and use of simulations and games for education and training. Instructional applications of role plays, board games, and multiplayer virtual worlds. Theories of motivation and interest.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 671",
+    "title": "Learning Environment Design",
+    "units": 3,
+    "department": "LDT",
+    "description": "Design and development of individualized instruction delivered through e-learning; learning management systems; informal learning for corporate and museum education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 544",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LDT 561",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 684",
+    "title": "Managing the Learning Design Process",
+    "units": 3,
+    "department": "LDT",
+    "description": "Management of instructional design and performance interventions. Development of timelines, staffing plans, communication strategies, and budgets.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LDT 544",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 685",
+    "title": "Performance Technology for Organizations",
+    "units": 3,
+    "department": "LDT",
+    "description": "Organizational and informational systems that support instructional products and services. Individual, team, and organizational analyses. Incentives, feedback, coaching, job-aids, selection, knowledge management, and other performance improvement strategies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 690",
+    "title": "Research Methods for Learning Design",
+    "units": 3,
+    "department": "LDT",
+    "description": "Planning and executing research in learning design. Analyzing, interpreting, and reporting results to stakeholders.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 696",
+    "title": "Advanced Topics in Learning Design and Technology",
+    "units": 1,
+    "department": "LDT",
+    "description": "Intensive study in specific areas of learning design and technology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 700",
+    "title": "Seminar in Learning Design and Technology",
+    "units": 1,
+    "department": "LDT",
+    "description": "Selected areas, topics in educational technology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 540",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 775",
+    "title": "Directed Internship in Learning Design and Technology",
+    "units": 2,
+    "department": "LDT",
+    "description": "Supervised internship in an educational or training setting. Application to take course must be made during preceding semester.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 795",
+    "title": "Advanced Seminar: Capstone Project",
+    "units": 3,
+    "department": "LDT",
+    "description": "An intensive study culminating in a written project for a community-service-based learning client. Limited to students following Plan B for the Master of Arts degree.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LDT 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LDT 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LDT",
+    "description": "May involve fieldwork.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "LDT",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LDT 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "LDT",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

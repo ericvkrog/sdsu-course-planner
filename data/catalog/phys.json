@@ -1,0 +1,1235 @@
+[
+  {
+    "course_code": "PHYS 180A",
+    "title": "Fundamentals of Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Mechanics, wave motion, sound, and fluids. Physics 180A not open to students with credit in Physics 195. Biological sciences majors must complete entire sequence of Physics 180A-",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 180B",
+    "title": "Fundamentals of Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Electricity, magnetism, optics, and modern physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Presented in a two-semester algebra/trigonometry based sequence. Physics 180B not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 182A",
+    "title": "Physical Measurements Laboratory",
+    "units": 1,
+    "department": "PHYS",
+    "description": "A laboratory course to accompany",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 182B",
+    "title": "Physical Measurements Laboratory",
+    "units": 1,
+    "department": "PHYS",
+    "description": "A laboratory course to accompany PHYS 180B Electricity, DC circuits, oscilloscope measurement techniques, electric and magnetic fields, and optics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 195",
+    "title": "Principles of Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Fundamental principles of physics in areas of mechanics and oscillatory motion. Designed for students requiring calculus-based physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "Recommended: High school physics or PHYS 180A.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 195L",
+    "title": "Principles of Physics Laboratory",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Experiments in mechanics, wave motion, resonance phenomena using precision air tracks. Not open to students with credit in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 182A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 196",
+    "title": "Principles of Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Fundamental principles of physics in areas of electricity and magnetism. Designed for students requiring calculus-based physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 196L",
+    "title": "Principles of Physics Laboratory",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Experiments in DC circuits, AC circuits, electrical resonance, oscilloscope measurement techniques, and electric and magnetic fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 197",
+    "title": "Principles of Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Fundamental principles of physics in areas of electromagnetic waves, modern physics, optics, relativity, thermodynamics, and wave motion. Designed for students requiring calculus-based physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 197L",
+    "title": "Principles of Physics Laboratory",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Experiments in optics, lasers, holography, and nuclear counting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 311",
+    "title": "Electronics for Scientists",
+    "units": 4,
+    "department": "PHYS",
+    "description": "Series/parallel circuits, Kirchhoff\u2019s law, Maxwell\u2019s loop, voltage dividers, Thevenin and Norton circuits, RC, RL and RLC circuits, Analog and digital scopes, Coaxial lines, Semiconductor devices: diodes and transistors, operational amplifiers and limitations, ADC, Digital sampling theory, Limitations of measurement instrumentation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 317",
+    "title": "Introduction to Computational Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Numerical methods applied to a variety of physics topics. Use of computers to solve and plot problems involving differential equations, matrices, root finding, numerical integration.",
+    "grading_method": "CR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 350",
+    "title": "Classical Mechanics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Newtonian mechanics, gravitation, small oscillations, collisions, motion of rigid bodies, Lagrangian mechanics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 354",
+    "title": "Modern Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Special theory of relativity. Particle properties of electromagnetic radiation, and wave properties of particles. Introduction to quantum theory with applications to atomic structure.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 357",
+    "title": "Advanced Physical Measurements",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Stresses both laboratory experiments and techniques of data and error analysis. Experiments are taken from major areas of physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 197L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 311",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 360",
+    "title": "Thermal Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Classical thermodynamics and statistical mechanics. Applications of equilibrium thermodynamics. Statistical mechanics, including concepts from probability and statistics. Maxwell-Boltzmann, Fermi-Dirac, and Bose-Einstein statistics. Applications of statistical mechanics in calculating macroscopic properties of simple systems.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 400A",
+    "title": "Classical Electromagnetism",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Electrostatics, magnetostatics, electromagnetic induction, Maxwell\u2019s equations, radiation and wave propagation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 400B",
+    "title": "Classical Electromagnetism",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Electrostatics, magnetostatics, electromagnetic induction, Maxwell\u2019s equations, radiation and wave propagation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 400A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 406",
+    "title": "Optics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Reflection, refraction, matrix methods, dispersion, polarization, double refraction, interference, diffraction, Fourier optics, coherence theory, lasers, and holography with applications to optical instruments, wave propagation, and the nature of light.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 410",
+    "title": "Quantum Mechanics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Mathematical and physical foundations of quantum theory in terms of wave and matrix mechanics. Applications to properties of atoms and solids.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 412",
+    "title": "Processes and Inquiry in Physics",
+    "units": 4,
+    "department": "PHYS",
+    "description": "Investigation of processes of inquiry and rational thinking skills characteristic of physics, focusing on energy transformations, heat transfer and thermodynamics, force and motion, electricity and magnetism, and waves.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 496",
+    "title": "Selected Topics in Physics",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Selected topics in classical and modern physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 498A",
+    "title": "Senior Research",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Selection and design of individual research project. Oral and written progress reports.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 498B",
+    "title": "Senior Research",
+    "units": 2,
+    "department": "PHYS",
+    "description": "Laboratory work, progress reports, oral and written final reports.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 498A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Individual study or laboratory work on a special problem in physics selected by the student. Each student will be assigned a member of the staff who will supervise his/her work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Credit, hours and topics to be arranged in each case.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 532",
+    "title": "Condensed Matter Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Elastic, electric, magnetic, optical, and thermal properties of solids. Energy band theory of solids and practical application with metals and semiconductors.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 354A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 552",
+    "title": "Modern Optics and Lasers",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Electromagnetic theory, matrix methods of optics, propagation of Gaussian beams, optical resonators, interaction of radiation and atomic systems, theory of laser oscillation, nonlinear optics, specific laser systems, optical detectors, applications of lasers in physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 406",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 400B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 553",
+    "title": "Modern Optics Laboratory",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Experiments in various fields of modern optics such as holography, physics of lasers, Fourier transform spectroscopy, Raman spectroscopy, light modulation techniques, fiber optics, spatial filtering, diffraction grating spectroscopy, radiometry, and nonlinear optics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 357",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 406",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 552",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 560",
+    "title": "Radiological Physics and Dosimetry",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Ionizing radiation fields, interactions of radiation with matter, cavity theory, external radiation dosimetry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 564",
+    "title": "Nuclear Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Nuclear and elementary particle phenomena including nuclear structure, decay, and radioactivity. Nuclear reactions and devices. Experimental methods and applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 565",
+    "title": "Radiobiology and Radiation Safety",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Effects of ionizing radiation on physical and biological systems in medical imaging and radiation therapy. Associated radiation safety precautions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 567",
+    "title": "Nuclear Medicine Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Physical principles of nuclear medicine and operating principles of nuclear medicine instrumentation. Radionuclide production, dose calibrators, well counters, gamma cameras, SPECT, PET, image quality, tomographic reconstruction, and image processing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 570",
+    "title": "Relativity",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Relative coordinates, Lorentz transformation, covariant formation of the laws of physics, applications of special relativity, introduction to curved space time, cosmology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 400A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 580",
+    "title": "Computational Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Computer programming for numerical solution of problems in classical mechanics, electromagnetism, optics, and quantum mechanics. Use of Fortran and C programming languages and the UNIX operating system. Incorporation of standard subroutines for linear algebra and differential equations into student written programs.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 317",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 400A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 581",
+    "title": "Introduction to Quantum Computing",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Overview of quantum computing and quantum information. Quantum mechanics of spin systems and qubits; entanglement, superposition, and measurement. Basic quantum circuits and their applications and physical implementation. Quantum cryptography. History, potential applications, and near-future prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in PHYS 681, COMP 581, or COMP 681.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 596",
+    "title": "Special Topics in Physics",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Selected topics in classical and modern physics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 604",
+    "title": "Electromagnetic Theory",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Electrostatics, magnetic induction, and magnetostatics, Maxwell\u2019s equations, electromagnetic waves and radiation, fields in macroscopic media, special relativity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 400B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 606",
+    "title": "Statistical Mechanics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Statistical basis of thermodynamics. Microcanonical, canonical, and grand canonical ensembles. Ideal Bose and Fermi systems. Interacting systems. Phase transitions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 608",
+    "title": "Classical Mechanics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Vector and tensor methods, motion of rigid bodies, vibration, coupled circuits, Lagrange\u2019s and Hamilton\u2019s equations, principle of least action.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 610A",
+    "title": "Quantum Mechanics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Physical and mathematical basis of quantum mechanics. Wave mechanics and the Schroedinger Equation, matricies and Hilbert space, angular momentum and spin, atomic structure, bound-state perturbation theory, many particle systems, transition rates and time-dependent perturbation theory, scattering, and relativistic quantum mechanics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 670A",
+    "title": "Medical Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Radiological physics, dosimetry, imaging, and radiation protection in medical environments including diagnostic radiology, nuclear medicine, and radiation oncology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 670B",
+    "title": "Medical Physics",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Radiological physics, dosimetry, imaging, and radiation protection in medical environments including diagnostic radiology, nuclear medicine, and radiation oncology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 672A",
+    "title": "Radiation Therapy Physics Laboratory",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Skills to perform radiation therapy physics procedures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 670A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 672B",
+    "title": "Diagnostic Imaging Laboratory",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Skills to perform quality assurance and acceptance testing on radiological equipment in a clinical setting.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 674",
+    "title": "Radiation Treatment Planning",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Fundamental and practical concepts in radiation treatment planning. Hands on experience in clinical treatment planning for external beam radiotherapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 335",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 681",
+    "title": "Quantum Computing",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Overview of quantum computing and quantum information. Quantum mechanics of spin systems and qubits; entanglement, superposition, and measurement. Basic and intermediate quantum circuits and their applications and physical implementation. Quantum cryptography. Simulation of quantum circuits. History, potential applications, and near-future prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Requires use of Python programming. Not open to students with credit or concurrent enrollment in PHYS 581, COMP 581, or COMP 681.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 696",
+    "title": "Advanced Topics in Physics",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Intensive study in specific areas of physics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 701",
+    "title": "Clinical Rotations I",
+    "units": 1,
+    "department": "PHYS",
+    "description": "On-site, full-day clinical training in external beam modalities (megavoltage photons, electrons, superficial x-rays) including equipment selection, radiation protection, acceptance/commissioning, calibration and quality assurance. Theoretical basis and use of the various detectors and dosimeters associated with external beam modalities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 564",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 567",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 672A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 672B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 703",
+    "title": "Clinical Rotations II",
+    "units": 1,
+    "department": "PHYS",
+    "description": "On-site, full-day clinical training in intensity modulated radiation therapy (IMRT) and brachytherapy. Training in quality assurance, calibration, inverse planning, IMRT delivery, and radiation safety. Radionuclides and sealed sources in brachytherapy, clinical applications of the sources, treatment planning, and quality assurance.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 701",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 705",
+    "title": "Clinical Rotations III",
+    "units": 1,
+    "department": "PHYS",
+    "description": "On-site, full-day clinical training in the principles of computed tomography (CT) simulator, associated radiation protection/design considerations, CT protocols. Understand the physics of imaging modalities and perform quality assurance on CT, MRI, ultrasound and PET as related to radiation therapy. Train on picture archiving and communication systems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 703",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 707",
+    "title": "Clinical Rotations IV",
+    "units": 1,
+    "department": "PHYS",
+    "description": "On-site, full-day clinical training covering physics concepts and implementation of standard radiation treatment (RT) techniques for common cancer treatment sites, routine quality assurance associated with patient specific RT and planning, special RT procedures, quality assurance of RT planning systems, patient safety with respect to radiation therapy.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 705",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHYS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Research in one of the fields of physics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHYS",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "PHYS",
+    "description": "Preparation of a thesis in physics for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "PHYS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHYS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "PHYS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

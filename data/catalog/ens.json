@@ -1,0 +1,1712 @@
+[
+  {
+    "course_code": "ENS 104A",
+    "title": "Beginning Weight Training",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 104B",
+    "title": "Intermediate Weight Training",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 108A",
+    "title": "Beginning Basketball",
+    "units": 1,
+    "department": "ENS",
+    "description": "Exercise and Nutritional Sciences 108.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 108B",
+    "title": "Intermediate Basketball",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 109A",
+    "title": "Beginning Soccer",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 109B",
+    "title": "Intermediate Soccer",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 109C",
+    "title": "Advanced Soccer",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 110A",
+    "title": "Beginning Volleyball",
+    "units": 1,
+    "department": "ENS",
+    "description": "Exercise and Nutritional Sciences 110.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 110B",
+    "title": "Intermediate Volleyball",
+    "units": 1,
+    "department": "ENS",
+    "description": "1",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 118A",
+    "title": "Beginning Tennis",
+    "units": 1,
+    "department": "ENS",
+    "description": "An introduction to basic rules, terminology, fundamentals, and etiquette in tennis, providing knowledge and instruction to confidently play tennis as a fitness and leisure activity and applying sports terminology and rules to standard match play and skill-enhancing drills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 118B",
+    "title": "Intermediate Tennis",
+    "units": 1,
+    "department": "ENS",
+    "description": "Provides additional knowledge and instruction to play with greater confidence for fitness and/or leisure. Students will identify proper tennis sports terminology and rules and apply these concepts in standard match play and skill-enhancing drills",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 119A",
+    "title": "Beginning Bowling",
+    "units": 1,
+    "department": "ENS",
+    "description": "Beginning Bowling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 119B",
+    "title": "Intermediate Bowling",
+    "units": 1,
+    "department": "ENS",
+    "description": "Intermediate Bowling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 122",
+    "title": "Mission Bay Aquatic Center Selected Activities",
+    "units": 1,
+    "department": "ENS",
+    "description": "May be repeated with new activity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 10,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 138",
+    "title": "Selected Activities",
+    "units": 1,
+    "department": "ENS",
+    "description": "May be repeated with new activity for additional credit.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 139A",
+    "title": "Beginning Rock Climbing",
+    "units": 1,
+    "department": "ENS",
+    "description": "Rock climbing concepts and theories. Active participation using beginning techniques and training concepts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 139B",
+    "title": "Intermediate Rock Climbing",
+    "units": 1,
+    "department": "ENS",
+    "description": "Rock climbing concepts and theories. Active participation using advanced techniques, training concepts, and lead climbing concepts expected.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 139A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 200",
+    "title": "Introduction to Exercise and Nutritional Sciences",
+    "units": 3,
+    "department": "ENS",
+    "description": "Overview of disciplines of kinesiology and foods and nutrition. Current and emerging issues, ethical considerations, and professional practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 222",
+    "title": "Medical Terminology",
+    "units": 1,
+    "department": "ENS",
+    "description": "Comprehensive introduction to the medical terminology used in health care. Learn the Greek and Latin words used to describe the body systems as well as equipment, diagnoses, and treatment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open to all majors. Not open to students with credit in BIOL 277.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 241",
+    "title": "Physical Education of Children",
+    "units": 2,
+    "department": "ENS",
+    "description": "Physical education of elementary school-aged children: Theory and activity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ENS 241A and ENS 241B. Not open to Kinesiology majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 265",
+    "title": "Care and Prevention of Athletic and Recreational Injuries",
+    "units": 2,
+    "department": "ENS",
+    "description": "Mechanisms of common sports injuries, acute care of injuries, risk management and prevention of injuries, psychosocial intervention and referral, and basic health care administration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 265L",
+    "title": "Care and Prevention of Athletic and Recreational Injuries Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Students will learn mechanisms of common sports injuries, acute care of injuries, risk management and prevention of injuries, psychosocial intervention and referral, and basic administration of athletic training skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The following student levels are not allowed: Graduate.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ENS",
+    "description": "Selected topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 303",
+    "title": "Applied Kinesiology",
+    "units": 3,
+    "department": "ENS",
+    "description": "Arthrology, syndesmology and myology, with emphasis on movement analysis. Muscle groups and their functional relationships. Application of simple mechanical principles to movement analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Proof of prerequisite required.",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DANCE 181",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 304",
+    "title": "Physiology of Exercise",
+    "units": 3,
+    "department": "ENS",
+    "description": "Effects of physical activities on physiological functions of the body.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 304L",
+    "title": "Exercise Physiology Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Laboratory experiences in the application of exercises and the analysis of the results.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 305",
+    "title": "Measurement and Evaluation in Kinesiology",
+    "units": 3,
+    "department": "ENS",
+    "description": "Testing and measurement for assessment and understanding of physical performance and for planning and evaluation of instruction in physical activity settings. Planning, implementation, and evaluation of tests.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 306",
+    "title": "Biomechanics of Human Movement",
+    "units": 3,
+    "department": "ENS",
+    "description": "Mechanical principles as applied to movement; analysis and application to selected motor skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 307",
+    "title": "Neuroscience of Movement",
+    "units": 3,
+    "department": "ENS",
+    "description": "Neural structures and processes involved in movement production and movement disorders.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 215",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 308",
+    "title": "Biomechanics Foundations",
+    "units": 3,
+    "department": "ENS",
+    "description": "Foundational physics concepts in biomechanics for students without a prior physics course.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 311",
+    "title": "Adaptive Sports and Fitness",
+    "units": 1,
+    "department": "ENS",
+    "description": "Adaptive sports and fitness with emphasis on historical development, practical applications, and contemporary issues in inclusivity and accessibility.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 318",
+    "title": "Sport, Games, and Culture",
+    "units": 3,
+    "department": "ENS",
+    "description": "Contemporary games and sports. Anthro-historical development of sports and philosophies, political economies, and socio-cultural influences. Psychological performance modalities of modern sport.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CCS 275",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "HIST 114",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 322",
+    "title": "Applied Assessments in Health and Fitness",
+    "units": 3,
+    "department": "ENS",
+    "description": "Conducting applied assessments for health and fitness within healthy populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 303",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 330",
+    "title": "Exercise and Wellness Across the Lifespan",
+    "units": 3,
+    "department": "ENS",
+    "description": "Role of physical activity and exercise behavior in health and wellness. Personal applications plus gender and cultural implications of physical activity from childhood through adulthood.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 331",
+    "title": "Exercise and Nutrition for Health, Fitness, and Performance",
+    "units": 3,
+    "department": "ENS",
+    "description": "Exercise, physical activity and nutrition information, guidelines, and misinformation. Effects of exercise and nutrition on disease prevention. Personal health, fitness, and performance goals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 332",
+    "title": "Pathophysiology and Exercise Programming of Disease Populations I",
+    "units": 3,
+    "department": "ENS",
+    "description": "Pathophysiology of musculoskeletal, neuromuscular, and cognitive/psychosocial disorders. Develop exercise programs through recommended guidelines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 333",
+    "title": "Pathophysiology and Exercise Programming of Disease Populations II",
+    "units": 2,
+    "department": "ENS",
+    "description": "Pathophysiology of pulmonary, cancer, and immune-related disorders. Develop exercise programs through recommended guidelines.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 340",
+    "title": "Program Design for Health, Fitness, and Performance",
+    "units": 3,
+    "department": "ENS",
+    "description": "Theoretical and practical applications in\u00a0cardiorespiratory and musculoskeletal exercise program design and corrective exercise. Laboratory includes implementing programs and coaching\u00a0proper exercise form and technique.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 410",
+    "title": "Concepts in Metabolism and Weight Management",
+    "units": 3,
+    "department": "ENS",
+    "description": "Overview of, and applications surrounding metabolism, weight management, and physiological/psycho-emotional/social considerations, dieting and body composition. Current and emerging trends and practices with related technology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 433",
+    "title": "Exercise, Physical Activity, and Aging",
+    "units": 3,
+    "department": "ENS",
+    "description": "Relationships between exercise, physical activity, and human aging including physiological, psychological, sociological, health and program considerations. Aging is viewed developmentally with emphasis on the middle and later years.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 434",
+    "title": "Promoting Physical Activity and Healthy Eating",
+    "units": 3,
+    "department": "ENS",
+    "description": "Theoretical frameworks for integrating physical activity and nutrition in developing, implementing, and evaluating multicomponent interventions to increase these behaviors in a variety of population subgroups.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 437A",
+    "title": "Adaptive Fitness Clinic",
+    "units": 1,
+    "department": "ENS",
+    "description": "Hands-on experience working with individuals with a variety of physical and neurological disabilities through prescribed fitness programming at San Diego State University.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 437B",
+    "title": "Community Rehabilitation Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Hands-on experience working with individuals with a variety of physical and neurological disabilities in the San Diego community.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 438",
+    "title": "Psychosocial Aspects of Disease and Injury Rehabilitation",
+    "units": 3,
+    "department": "ENS",
+    "description": "Psychosocial factors related to disease and injury and effects on treatment and rehabilitation processes. Theoretical mechanisms through which psychosocial factors are affected by and influence disease, injury, and treatment and rehabilitation outcomes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 439",
+    "title": "Instructional Leadership in Health and Clinical Settings",
+    "units": 2,
+    "department": "ENS",
+    "description": "Andragogical and pedagogical theories, concepts, and techniques for enhancing instructional effectiveness and learning in exercise, physical activity, and rehabilitation settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 440",
+    "title": "Fitness Practitioner Internship",
+    "units": 3,
+    "department": "ENS",
+    "description": "Supervised practical experience in developing and applying exercise programs and/or physical activity for apparently healthy persons and persons with clinical conditions in community, corporate, commercial, or medically supervised exercise settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Only Kinesiology Fitness Specialist majors in their senior year may enroll. Students must contact Suzanne Meredith at smeredith@sdsu.edu for information on internship placement.  Enrollment entails participation in an on-campus or off-campus internship. Internships require a Service Learning Agreement with the internship site, which is facilitated by the instructor.   The following major is allowed:  KINESIOLOGY FITNESS SPECIALIST (556524)",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ENS",
+    "description": "Selected topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 596",
+    "title": "Selected Topics in Exercise and Nutritional Sciences",
+    "units": 1,
+    "department": "ENS",
+    "description": "Selected topics in exercise and nutritional sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 600A",
+    "title": "Seminar in Kinesiology A",
+    "units": 1,
+    "department": "ENS",
+    "description": "Seminar introducing current research in kinesiology through faculty and student presentations, journal article discussions, and peer review. Emphasizes critical analysis of scientific literature, scholarly dialogue, and development of academic presentation skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 600B",
+    "title": "Seminar in Kinesiology B",
+    "units": 2,
+    "department": "ENS",
+    "description": "Advanced seminar focused on development and presentation of original research in kinesiology, critical peer evaluation, and professional preparation. Includes career development topics such as grant writing, research statements, CV preparation, networking, and interview skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 601",
+    "title": "Experimental Methods in Exercise and Nutritional Sciences",
+    "units": 3,
+    "department": "ENS",
+    "description": "Experimental methods in exercise and nutritional science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 602",
+    "title": "Research Evaluation in Exercise and Nutritional Sciences",
+    "units": 3,
+    "department": "ENS",
+    "description": "Techniques in designing, conducting, and reporting research in exercise and nutritional science. Qualitative and quantitative paradigms examined. Ethical consideration of human research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 603",
+    "title": "Measurement and Evaluation in Exercise and Rehabilitation",
+    "units": 3,
+    "department": "ENS",
+    "description": "Measurement theory and practice as applied to exercise and rehabilitation. Interpretation of measures used in physical medicine and rehabilitation contexts.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 305",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 604",
+    "title": "Evidence Based Practice in Athletic Training I",
+    "units": 1,
+    "department": "ENS",
+    "description": "Clinically appraise best evidence to answer selected clinical questions; strategies for implementing evidence in daily practice. Holistic process for evaluating injuries and conditions common to physically active populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 605",
+    "title": "Evidence Based Practice in Athletic Training II",
+    "units": 2,
+    "department": "ENS",
+    "description": "Critically appraise best evidence to answer selected clinical questions, and discuss strategies for implementing evidence into daily athletic training practice. Lower extremity injuries and conditions, therapeutic interventions, and general medical conditions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 606",
+    "title": "Evidence Based Practice in Athletic Training III",
+    "units": 2,
+    "department": "ENS",
+    "description": "Critically appraise best evidence to answer selected clinical questions, and discuss strategies for implementing evidence into daily athletic training practice. Upper extremity injuries and conditions, therapeutic interventions, pharmaceutical considerations, and psycho-social perspectives for the physically active.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 607",
+    "title": "Evidence Based Practice in Athletic Training IV",
+    "units": 1,
+    "department": "ENS",
+    "description": "Critically appraise best evidence to answer selected clinical questions, and discuss strategies for implementing evidence into daily athletic training practice. Head, neck, and spine injuries and conditions, therapeutic interventions, and sports nutrition. Original collection (or treatment) of data leading to a research paper of scientific quality.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 606",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 609",
+    "title": "Professional Dissemination of Kinesiology Research",
+    "units": 3,
+    "department": "ENS",
+    "description": "Pedagogy of scientific communication in kinesiology, with structured practice in writing, oral presentation, and data visualization. Emphasis on refining communication skills beyond research design and analysis, with application to scholarly, professional, and public audiences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 610",
+    "title": "Biomechanics: Measurement Techniques I-Kinematics",
+    "units": 3,
+    "department": "ENS",
+    "description": "Kinematic analysis of human movement using videography, electrogoniometry, and accelerometry with automated data reduction techniques typically used in study of pathomechanics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 306",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 611",
+    "title": "Time Series Data Processing",
+    "units": 3,
+    "department": "ENS",
+    "description": "Time-series data processing, signal filtering, data interpretation, data visualization, and a variety of science communication approaches as it relates to kinesiology.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 306",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 613",
+    "title": "Motor Control and Rehabilitation Science",
+    "units": 3,
+    "department": "ENS",
+    "description": "Human movement in clinical and non-clinical populations using principles of motor control.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 307",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 603",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 620",
+    "title": "Pathopharmacology for Athletic Trainers",
+    "units": 3,
+    "department": "ENS",
+    "description": "Foundational pharmacologic principles/topics, including drug actions and interactions, effects of various drug categories, and\u00a0pharmacokinetics, and pharmacodynamics. Examination of cellular aspects of the disease, pathophysiological signs/symptoms, and\u00a0dynamics of body defenses related to health problems across the lifespan of physically active.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Only open to students in the Master\u00a0of Science in Athletic Training program.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 625",
+    "title": "Emergency Management of Sports Trauma",
+    "units": 2,
+    "department": "ENS",
+    "description": "Recognition, management, and administration of appropriate emergency medical care to injured or ill athletes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 626",
+    "title": "Clinical Anatomy",
+    "units": 2,
+    "department": "ENS",
+    "description": "Structure and function of human musculoskeletal system. Palpation, primary muscle actions, muscle origins and insertions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 261",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 627L",
+    "title": "Prophylactic Interventions in Athletic Training Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Injury prevention through bracing, padding, taping, and wrapping techniques; managing and transporting injuries via ambulatory aids, spine boarding, splinting, and wrapping.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 628",
+    "title": "Introduction to Therapeutic Modalities",
+    "units": 2,
+    "department": "ENS",
+    "description": "Provides students with a comprehensive understanding of the principles, applications, and clinical significance of various therapeutic modalities. Explores theoretical foundations and\npractical applications of therapeutic interventions aimed at preventing, managing, and rehabilitating musculoskeletal injuries commonly encountered in active populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 632",
+    "title": "Physiological Chemistry of Exercise",
+    "units": 3,
+    "department": "ENS",
+    "description": "Biochemical and metabolic responses of the human body to acute and chronic exercise. Neuroendocrine control of fuel regulation during exercise.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 661",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 638",
+    "title": "Bio-Psychosocial Theories and Strategies in Athletic Training",
+    "units": 2,
+    "department": "ENS",
+    "description": "Theory and research related to psychosocial aspects of injury and injury rehabilitation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 640",
+    "title": "Psychosocial Aspects of Physical Activity",
+    "units": 3,
+    "department": "ENS",
+    "description": "Explore the psychological and social influences affecting physical activity across the lifespan. Emphasis on examining the effects of physical activity on mental health and well-being, addressing disparities in physical activity participation, and designing evidence-based interventions in diverse populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 641",
+    "title": "Physical Activity Assessment",
+    "units": 3,
+    "department": "ENS",
+    "description": "Comprehensive exploration of physical activity assessment methods, including evaluation and application of assessment tools in research and practice. Emphasizes practical skills for assessing physical activity across diverse populations and settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 648",
+    "title": "Professional Ethics, Management, Informatics, and Leadership in Athletic Training",
+    "units": 2,
+    "department": "ENS",
+    "description": "Administrative aspects of athletic training. Contemporary guidelines of medical screening and documentation. Leadership theories and practices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 649",
+    "title": "Professional Preparation in Athletic Training",
+    "units": 1,
+    "department": "ENS",
+    "description": "Directed study for the board of certification for the athletic trainer examination through faculty-led review sessions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 653",
+    "title": "Musculoskeletal Diagnostics for the Lower Extremity",
+    "units": 2,
+    "department": "ENS",
+    "description": "Assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of lower extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 626",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 663",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 663L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 653L",
+    "title": "Musculoskeletal Diagnostics for the Lower Extremity Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of lower extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 654",
+    "title": "Musculoskeletal Diagnostics for the Upper Extremity",
+    "units": 2,
+    "department": "ENS",
+    "description": "Assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of upper extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 653",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 653L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 664",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 664L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 654L",
+    "title": "Musculoskeletal Diagnostics for the Upper Extremity Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of upper extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 655",
+    "title": "Musculoskeletal Diagnostics for the Head and Spine",
+    "units": 2,
+    "department": "ENS",
+    "description": "Assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of the head and spine regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 654",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 654L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 665",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 665L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 655L",
+    "title": "Musculoskeletal Diagnostics for the Head and Spine Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with assessment principles and techniques for accurate diagnosis of injuries or conditions in physically active populations. Evidence-based approach to recognize, explain, and assess emergency medical situations, and conditions of the head and spine regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 659",
+    "title": "Exercise Cardiology and Pathology",
+    "units": 3,
+    "department": "ENS",
+    "description": "Interpretation of resting and exercise electrocardiograms with cardiopulmonary pathologies that skew interpretations.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 661",
+    "title": "Seminar in Advanced Physiology of Exercise",
+    "units": 3,
+    "department": "ENS",
+    "description": "Advanced aspects of the physiology of exercise. Effects of exercise on human beings in relation to health, longevity, morphology and performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 303",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 662",
+    "title": "Advanced Exercise Physiology Laboratory",
+    "units": 3,
+    "department": "ENS",
+    "description": "Laboratory course designed to develop competency in respiratory metabolism pulmonary function, gas analysis, blood chemistry and ergometry. Experience in the application of exercise procedures with human subjects and analysis and interpretation of results.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 663",
+    "title": "Musculoskeletal Interventions for the Lower Extremity",
+    "units": 3,
+    "department": "ENS",
+    "description": "Physiological concepts and principles of comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of lower extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 653",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 653L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 663L",
+    "title": "Musculoskeletal Interventions for the Lower Extremity Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with developing comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of lower extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 664",
+    "title": "Musculoskeletal Interventions for the Upper Extremity",
+    "units": 3,
+    "department": "ENS",
+    "description": "Physiological concepts and principles of comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of upper extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 663",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 663L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 654",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 654L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 664L",
+    "title": "Musculoskeletal Interventions for the Upper Extremity Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with developing comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of upper extremity regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 665",
+    "title": "Musculoskeletal Interventions for the Head and Spine",
+    "units": 3,
+    "department": "ENS",
+    "description": "Physiological concepts and principles of comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of head and spine regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 664",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 664L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 655",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 655L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 665L",
+    "title": "Musculoskeletal Interventions for the Head and Spine Laboratory",
+    "units": 1,
+    "department": "ENS",
+    "description": "Practical experience with developing comprehensive treatment and rehabilitation programs for managing athletic injuries and emergency medical situations of head and spine regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 666",
+    "title": "Adult Fitness: Exercise Prescription",
+    "units": 3,
+    "department": "ENS",
+    "description": "Physical conditioning programs for the prevention, rehabilitation, and control of diseases associated with aging adults. Topics include disease etiology, health/disease evaluation, and exercise prescription for apparently healthy and diseased adults.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 689A",
+    "title": "Athletic Training Clinical Internship I",
+    "units": 5,
+    "department": "ENS",
+    "description": "Full immersion clinical internship in athletic training.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 604",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 625",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 626",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENS 627L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 689B",
+    "title": "Athletic Training Clinical Internship II",
+    "units": 5,
+    "department": "ENS",
+    "description": "Full immersion clinical internship in athletic training.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 689A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 696",
+    "title": "Advanced Topics in Exercise and Nutritional Sciences",
+    "units": 3,
+    "department": "ENS",
+    "description": "Intensive study in specific areas of exercise and nutritional sciences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 699A",
+    "title": "Athletic Training Clinical Clerkship I",
+    "units": 2,
+    "department": "ENS",
+    "description": "Cognitive, psychomotor, and affective skills of athletic training practice in a clinical setting. Competencies in emergency management, lower extremity, and lumbopelvic regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 689A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 699B",
+    "title": "Athletic Training Clinical Clerkship II",
+    "units": 2,
+    "department": "ENS",
+    "description": "Cognitive, psychomotor, and affective skills of athletic training practice in a clinical setting. Competencies in general medical conditions, upper extremity regions, and brachial plexus conditions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 699A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 699C",
+    "title": "Athletic Training Clinical Clerkship III",
+    "units": 2,
+    "department": "ENS",
+    "description": "Cognitive, psychomotor, and affective skills of athletic training practice in a clinical setting. Competencies in bio-psychosocial strategies; and head, neck, and spine regions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 699B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 699D",
+    "title": "Athletic Training Clinical Clerkship IV",
+    "units": 2,
+    "department": "ENS",
+    "description": "Cognitive, psychomotor, and affective skills of athletic training practice in a clinical setting. Competencies in nutrition, administration, informatics, and leadership.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENS 699C",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENS 790",
+    "title": "Culminating Research Project",
+    "units": 3,
+    "department": "ENS",
+    "description": "Preparation of a research project for the master\u2019s degree.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "To take ENS 790, students MUST have been Advanced to Candidacy. Please see the ENS Graduate Advisor for permission to register for this class. Offered for credit/no credit only.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 796",
+    "title": "Exercise Science Internship",
+    "units": 1,
+    "department": "ENS",
+    "description": "Supervised application of exercise laboratory testing, test interpretation, exercise prescription, and exercise leadership in adult fitness, corporate fitness, preventive medicine, and/or hospital disease rehabilitation settings.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Three hours of laboratory per unit. This section has a zero-cost course materials (ZCCM) designation and exclusively uses digital course materials that are free of charge and may have an optional low-cost print version or there are no course materials required. The ZCCM designation may change if a new faculty member is assigned or other course materials are added.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "ENS",
+    "description": "Three units of additional research under the supervision of a faculty member.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

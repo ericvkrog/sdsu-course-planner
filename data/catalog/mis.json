@@ -1,0 +1,717 @@
+[
+  {
+    "course_code": "MIS 180",
+    "title": "Principles of Information Systems",
+    "units": 3,
+    "department": "MIS",
+    "description": "Fundamentals of information systems in business. Integration of information technology, e-commerce, systems analysis, database management systems, networking, security, and collaboration. Application of concepts through developing solutions to business problems using spreadsheets, database management systems, and web development tools/languages.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 299",
+    "title": "Special study",
+    "units": 3,
+    "department": "MIS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 301",
+    "title": "Statistical Analysis for Business",
+    "units": 3,
+    "department": "MIS",
+    "description": "Statistical methods applied to business decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 305",
+    "title": "Business Processes, ERP, and Analytics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Fundamental business processes and Enterprise Resource Planning (ERP) systems. Utilizing an ERP to run a business. How analytics are used by organizations to improve decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 306",
+    "title": "Information Systems Analysis and Design",
+    "units": 3,
+    "department": "MIS",
+    "description": "Systems development life cycle concept, with emphasis on analysis of requirements using structured methodology. Acquisition strategies, application design alternatives, architecture design, feasibility study, implementation plans, needs assessment, and prototyping.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 315",
+    "title": "Business Applications Programming",
+    "units": 3,
+    "department": "MIS",
+    "description": "Computer programming for business applications. Appropriate data structures, control structures and program structures. Languages widely used in business applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 380",
+    "title": "Data Management Systems",
+    "units": 3,
+    "department": "MIS",
+    "description": "Methodology for applying data base management systems in design of information systems. Analysis of data base applications from perspectives of system users and systems analysts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 383",
+    "title": "Networks and Data Communications",
+    "units": 3,
+    "department": "MIS",
+    "description": "Fundamental data communications concepts, including voice communications and carrier service offerings, communications hardware, and network design. Global, enterprise, workgroup, and local area networks. Protocols and network operating systems. Network security and control.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 180",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 396W",
+    "title": "Reporting Techniques for Business Professionals",
+    "units": 3,
+    "department": "MIS",
+    "description": "Advanced preparation of oral and written reports used in business and other organizations. Individualized study of reports in student’s career field.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 401",
+    "title": "Business Intelligence and Analytics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Using diagnostic, predictive, prescriptive, and visual analytics to solve business problems and make data-informed decisions at operational, strategic, and tactical levels.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 420",
+    "title": "Cloud Services, Architecture and Security",
+    "units": 3,
+    "department": "MIS",
+    "description": "Gain knowledge and understanding of the fundamental concepts and foundations related to cloud services, cloud architecture and design, cloud security, cloud economics, and cloud operations and support.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 425",
+    "title": "Artificial Intelligence for Business Applications",
+    "units": 3,
+    "department": "MIS",
+    "description": "Theoretical, practical, and ethical aspects of AI business applications.  Exploration of artificial intelligence (AI) sub-disciplines including intelligent agents, robotics, search algorithms, generative AI, logical agents, machine learning, and neural networks.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 429",
+    "title": "Contemporary Issues in Information Systems",
+    "units": 3,
+    "department": "MIS",
+    "description": "Practices, techniques, and theories of systems that create value with information. See Class Schedule for specific content. May be repeated for a maximum of nine units with new content.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 455",
+    "title": "Digital Entrepreneurship and Innovation",
+    "units": 3,
+    "department": "MIS",
+    "description": "Innovative digital technologies. Communicate value creation, capture, and delivery. Monetization and commercialization, prototype new products and services, and strategize financing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 306",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 460",
+    "title": "Project Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Management of small and large projects. Work breakdown structure milestones, project cost estimating and reporting, and single and multiple resource allocation/leveling. Computerized project management software.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 481",
+    "title": "E-Business/Web Development",
+    "units": 3,
+    "department": "MIS",
+    "description": "Issues and tools related to developing Internet-based applications with database integration through hands-on projects. Developing complex sets of Web pages by linking front-end Web browser languages and databases via back-end server languages, database queries, and middleware.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 306",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 315",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 380",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 495",
+    "title": "Management Information Systems Internship",
+    "units": 3,
+    "department": "MIS",
+    "description": "Internship with business firm, government agency, or nonprofit organization under joint supervision of internship organization and course instructor. Career readiness, fundamentals of management information systems, and professional development.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 496",
+    "title": "Selected Topics in Information Systems",
+    "units": 1,
+    "department": "MIS",
+    "description": "Selected areas of concern in information systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "MIS",
+    "description": "A comprehensive and original study of a problem connected with information systems under the direction of one or more members of the information systems faculty.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MIS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 515",
+    "title": "Programming for Data-Driven Applications",
+    "units": 3,
+    "department": "MIS",
+    "description": "Computer programming techniques using data to address organizational problems. Emphasis on handling diverse dataset formats and implementing modern data analysis algorithms and techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 585",
+    "title": "Fundamentals of Cybersecurity Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Cybersecurity risks, threats, and vulnerabilities. Technologies, procedures, and techniques to assess, control, detect, and remediate threats and vulnerabilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIS 383",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 687",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 596",
+    "title": "Contemporary Topics in Management Information Systems",
+    "units": 1,
+    "department": "MIS",
+    "description": "Contemporary topics in management information systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 649",
+    "title": "Business Analytics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Business analytics techniques for predictive modeling and customer segmentation. Applications include churn management, business experiments, cluster segmentation, and market basket analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 642",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 680",
+    "title": "Information Systems Hardware and Software",
+    "units": 3,
+    "department": "MIS",
+    "description": "Computer architecture, programming languages, programming systems, and operating systems.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 686",
+    "title": "Enterprise Database Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Database management technologies to host, secure, and manipulate enterprise data, information, and knowledge assets to create business value. Modeling tools for analyzing and specifying data requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 687",
+    "title": "Secure Enterprise Networking and Mobile Technologies",
+    "units": 3,
+    "department": "MIS",
+    "description": "Deployment and management of technologies for integrating resources within and between organizations through distributed networks, Internet of things (IoT) networks, and secure enterprise systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 690",
+    "title": "Cloud Computing: Fundamentals, Architecture and Security",
+    "units": 3,
+    "department": "MIS",
+    "description": "The principle concepts and foundations of Cloud computing and architectures, as well as the security principles to secure cloud environments and protect the information they contain.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 691",
+    "title": "AI for Decision Support",
+    "units": 3,
+    "department": "MIS",
+    "description": "Design, implementation, and integration of computerized decision support systems into business management. Problem representation, modeling, and simulation.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 695",
+    "title": "Business Systems Analysis and Design",
+    "units": 3,
+    "department": "MIS",
+    "description": "Secure information systems to solve problems and exploit opportunities. Development strategies, process and data modeling, requirements definition, and security modeling for information systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Intensive study in specific areas of information systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 697",
+    "title": "Project Planning and Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Hybrid project life cycle methodologies, integrated project plan, agile project management and practices, earned value management, and project management theories, techniques, and technologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 720",
+    "title": "AI and Big Data",
+    "units": 3,
+    "department": "MIS",
+    "description": "Advanced data analysis and information technology concepts associated with AI and machine learning. Applications using big data to improve decision-making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 727",
+    "title": "Seminar in Scientific Method",
+    "units": 3,
+    "department": "MIS",
+    "description": "Scientific method as an integrated body of philosophical logic to include applied science and engineering, experimental, exploratory, and theoretical research through multi-methodological and multidisciplinary lenses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 744",
+    "title": "Supply Chain Resilience",
+    "units": 3,
+    "department": "MIS",
+    "description": "Flexibility, agility, and process improvement using Lean principles and Six Sigma methodology and tools. Supply chain resilience assessment. Risk mitigation and contingency strategies for supply chain disruptions. Supply chain business simulation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 748",
+    "title": "Time Series Analysis for Business Forecasting",
+    "units": 3,
+    "department": "MIS",
+    "description": "Forecasting methods in business, finance, and marketing to include ARMA models and multivariate time series models. Data visualization; model diagnostics, identification, and selection.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 642",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIS 750",
+    "title": "Strategic Program Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Managing projects and programs to implement business strategies. Project selection, programs, and portfolios; project organization; resource conflict and resolution; stakeholder management; project team management; project risk assessment and mitigation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 752",
+    "title": "Enterprise Resource Planning and Blockchain",
+    "units": 3,
+    "department": "MIS",
+    "description": "Methodology, theory, technology, and Blockchain to plan and control supply chain and enterprise resources. Integrated processes of sales and operations planning, corporate accounting, materials requirement, procurement, capacity planning, and warehouse management in a simulated enterprise environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 753",
+    "title": "Global Supply Chain Analytics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Advanced analytical concepts, methods, and implementation of global supply chain strategies and management. Global logistic network and management. Supply chain design and optimization. Performance metrics and measurements. Visualization of supply chain performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 754",
+    "title": "Sustainable Sourcing and Logistics",
+    "units": 3,
+    "department": "MIS",
+    "description": "Strategic issues in sourcing and logistics and their integration with organizational sustainability plans. Global sourcing and supplier relationships. Integrated logistics processes for goods movement. Technology for sourcing and logistics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 755",
+    "title": "Information Systems Security and Risk Management",
+    "units": 3,
+    "department": "MIS",
+    "description": "Information systems management. Focus on creation of a security plan for an organization to include risk analysis, security issues, security design, security plan, disaster recovery/business continuity, and threat analysis.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 760",
+    "title": "AI/Machine Learning for Cyber Intelligence and Defense",
+    "units": 3,
+    "department": "MIS",
+    "description": "Technical topics in AI security and privacy, including intrusion detection, malware detection, differential privacy, privacy-preserving machine learning, federated learning, blockchain, and adversarial machine learning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 790",
+    "title": "Culminating Experience in Management Information Systems",
+    "units": 3,
+    "department": "MIS",
+    "description": "Preparation for the comprehensive examination for students.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 797",
+    "title": "Research",
+    "units": 3,
+    "department": "MIS",
+    "description": "Research in the area of management information systems.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MIS",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

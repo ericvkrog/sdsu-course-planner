@@ -1,0 +1,1151 @@
+[
+  {
+    "course_code": "ANTH 101",
+    "title": "Human Biocultural Origins",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Humankind’s place in nature; fossil evidence for hominid evolution; evolutionary theory; racial, clinal and genetic variability; relationship of physical and cultural adaptations; the rise of civilization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 102",
+    "title": "Introduction to Socio-Cultural Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Cross-cultural survey of systems of social, political, and economic organization, language, gender, kinship, religion, and subsistence; culture change and intercultural connections; ethnographic field methods and theories of culture; contemporary applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 103",
+    "title": "Introduction to Archaeology and World Prehistory",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Archaeology emphasizing the modern relevance of understanding the past. Beginning six to seven million years ago in Africa, highlighting the physical and cultural evolution of our human lineage.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 111",
+    "title": "Anthropology of the Night: Sleep, Dreams, and Demons",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Human nighttime activities and cultural understandings regarding the nocturnal world. Cultural context and physiological, psychological, and social roots and ramifications of dreams, sleep, and supernatural encounters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 113",
+    "title": "Pseudoscience and Science in Archaeology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "How we know what we know using anthropology and archaeology case studies from around the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 301",
+    "title": "Principles of Biological Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Theory and method in biological anthropology. Hands-on collection and interpretation of data in primate comparative anatomy, human evolution, human skeletal biology, human adaptability, and primate behavioral observation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 302",
+    "title": "Principles of Archaeology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "History, method, and theory of archaeological data acquisition and interpretation. Methods of data recovery and analysis suitable to resolution of historical and processual questions. Archaeological examples from a worldwide sample of prehistoric and historic societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 303",
+    "title": "Principles of Socio-Cultural Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Development of theories which explain nature of culture and cultural variation. Applications of theory of culture to field methods in ethnography and interpretation of ethnographic findings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 304",
+    "title": "Principles of Anthropological Linguistics",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Structural nature of language. How languages differ, change and influence each other. Language families of the world. Significance of language for human social life in a variety of cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 331",
+    "title": "Pestilence, People, and War: A Bioarchaeological Perspective",
+    "units": 3,
+    "department": "ANTH",
+    "description": "An introduction to paleopathology, bioarchaeology, and human biology within the interdisciplinary framework of epidemiological research. Exposure to method and theory in the study of disease within anthropology and its applications to biomedicine.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 333",
+    "title": "Race, Ethnicity, and Identity in the Americas",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Explore the evolving identities of race, ethnicity, gender, and sexuality across the Americas, from historical roots to contemporary forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 348",
+    "title": "Historical Archaeology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "How historical texts and archaeological artifacts are used to understand colonial expansion and Indigenous response across the globe over last half millennium. Incorporates Indigenous and European worldviews in investigation of archaeological sites from historical times.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 349",
+    "title": "Roots of Civilizations: Why Our Past Matters for Our Future",
+    "units": 3,
+    "department": "ANTH",
+    "description": "The development of human societies around the world from the first stone tools to flourishing cities. Debate what defines a “civilization” and characterize the resilience of ancient societies. How can archaeology teach us lessons for a sustainable future?",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 350",
+    "title": "Exploring Cultural Diversity Around the World",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Diverse cultures from around the world are explored through core anthropological concepts and approaches. In depth cases studies address topics such as religion, gender, personhood, medicine, life/death, artistic expression, environmental adaptation, historical change, and globalization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 353",
+    "title": "Sustainability and Culture",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Examination of efforts of anthropology to understand sustainability and provide solutions to human-environmental problems. Compares and explores sustainability in a variety of contexts and scales, from San Diego region to diverse communities around the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 355",
+    "title": "Exploring Primate Behavior",
+    "units": 3,
+    "department": "ANTH",
+    "description": "World of our closest living relatives. What it means to be a primate, where primates live, how primates have evolved into different groups and adapted to different environments, and what primates are threatened with extinction and why.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 360",
+    "title": "From the Grave: Modern Forensic Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Physical anthropology and skeletal biology within medicolegal context. Methodologies used in science of forensic anthropology, as interdisciplinary nature and authorities in related fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 365",
+    "title": "Pets and Plates: Archaeology of Domestic Animals",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Examines the long-term relationship humans have with animals. Follows the beginnings of hunting through domestication and examines the rise of modern society’s industrial relationship to domesticated animals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 380",
+    "title": "Indigenous Museology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Historical, geographical, political, social, and regulatory context of cultural/environmental resource management and its impact on Native peoples. Economic and political pressures of development, government to government consultation, activism. Creative and effective approaches to tribal cultural heritage preservation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 395",
+    "title": "Orientation and Professional Development for Anthropology Majors",
+    "units": 3,
+    "department": "ANTH",
+    "description": "A practical introduction to professional standards and qualifications for careers in Anthropology and beyond. A guide to successful completion of the Anthropology major. Creation of a portfolio of professional development documents for career readiness.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 402",
+    "title": "Dynamics of Human Biocultural Diversity: The Transformational Partnership of Nature and Nurture",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Explore the interplay of biology and culture in human populations over time and around the world. Using ‘systems thinking’, examine the impact that various geographies, technologies, political-economic (structural) arrangements, historical legacies, and cultural contexts have on human evolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 404",
+    "title": "Evolution of Human Behavior",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Evolutionary approaches to human behavior to include evolutionary psychology, gene-culture coevolution, and human behavioral ecology. Evolution of cooperation and altruism, human health and survival, human mating, parenting, and violence and warfare.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "BIOL 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 410",
+    "title": "Culture and Communicative Pathways",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Explore anthropological interests in the study of language and communicative exchange; from how language shapes our personal lives, to how it informs meaningful cross-cultural, inter-species and otherworldly encounters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 422",
+    "title": "Music and Culture",
+    "units": 3,
+    "department": "ANTH",
+    "description": "How the forms, functions and meanings of music vary crossculturally. Understanding a society’s music historically, holistically and experientially, with emphasis on non-Western music. Universals of music and music use. Anthropological theories of music and music change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 424",
+    "title": "The Supernatural in Cross-Cultural Perspective (C)",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Magic and religion. Conceptions of the supernatural in a cross section of world’s cultures. Anthropological theories relating to supernatural beliefs and practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Courses for Area (C) Theories and Methods, are identified in the course title as (C).",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 439",
+    "title": "Cultural Comparisons Through Film",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Experience anthropology through visual representations of culture. Viewing films, documentaries, photography and animation, we reflect on how these mediums shape our comprehension of diverse human experience through depictions of class, kinship and belonging, conflict and difference, land/sea/cosmos, living and dying.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 440",
+    "title": "Mesoamerican Civilization Before the Europeans",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Pre-European cultures and civilizations of Mexico and upper Central America from 25,000 years ago to arrival of Spanish in 1517. Regional histories, economies, social organizations, ideologies, and political systems, settlement patterns, architecture, and art.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 442",
+    "title": "Cultures of South America",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Explore contemporary and past South American cultures, examining their origins, cultural variation, adaptation to the environment, and contemporary political, social, economic, and cosmological changes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 443",
+    "title": "Anthropology of Violence and Kindness",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Exploring conflict and violence as devastating realities of human existence, we also turn our attention to how cultural groups strive to offset suffering through kindness, truth telling and other forms of healing for survival.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 445",
+    "title": "Culture, Gender, and Race in Sports",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Intersection of culture, gender, and race through sports in Europe, Latin America, and North America at amateur, community-based, and professional levels. Consideration of sports’ participation and fandom and how gender, nationality, indigeneity and race affect those processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 451",
+    "title": "American Indian Identity",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Multidisciplinary perspectives on American Indian identity today. Topics include perspectives from political, ethnic, cultural and legal standpoints, both within and outside of indigenous communities, as well as diachronic variation in perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 460",
+    "title": "American Indian Languages",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Structures of American Indian languages. Language families of North America, history, and present circumstances. Interdependence of language and culture, differences in ways of speaking. Issues of language endangerment, language death, language maintenance, and language revitalization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 471",
+    "title": "Archaeology of North America",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Origins of Indigenous peoples of the Americas and survey of the main pre-European cultures of the North American continent.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 483",
+    "title": "Topics in Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Archeological, biological, linguistic, or sociocultural dimensions of anthropology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 495",
+    "title": "Internship in Applied Anthropology",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Supervised field placement of students in campus or community organization, museums, cultural resource management firms, social service and development agencies, forensic laboratories and other offices including business firms where concepts and principles of anthropology can be put into practice.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 501",
+    "title": "Primates, People, and the Practice of Primatology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "To include: History & theoretical underpinnings of primatology; the practice of primatology: methods, fieldwork, and ethics; current research in primate behavior and ecology; and how to apply primatological knowledge to advance primate conservation and human-primate coexistence.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 504",
+    "title": "Seminar in Human Adaptability",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Biocultural responses to environmental and social stressors. Human adaptability history, methods, and theory. Behavioral, biological, cultural, developmental, and genetic responses to stress. Linkages between human adaptability, human variation, and social and health disparities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ANTH 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 505",
+    "title": "Human Osteology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Identification of individual bones and teeth; sex, age, and racial variation; stature reconstruction; continuous and discontinuous morphological variations; paleopathology. Training in observations, measurements, and analyses.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 508",
+    "title": "Medical Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Socio-cultural ecology of disease, medical health beliefs and practices in cultural context, and complexities of health care delivery in pluralistic societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 510",
+    "title": "Environmental and Ecological Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Ecological thinking in anthropology with focus on relationships between human environmental and ecological systems across different modes of living in the past and present. Cultural aspects of how and why human societies have maintained or undermined their ecosystems.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 515",
+    "title": "Technology, Personhood, and the Body",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Examines contemporary technologies-from social media platforms and AI to biometric scanners-that affect personhood and embodiment. Using digital and medical anthropology and technology studies, analyzes communication, medical, and information technologies to explore how sociocultural belonging is mediated.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 520",
+    "title": "Ethnographic Field Methods",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Problems and techniques of field work in ethnographic and social anthropological research; field work projects conducted using various qualitative and quantitative research techniques. Students work with informants in various settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 529",
+    "title": "Urban Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Urban adaptations of past and present societies. Descriptive topics and applied concerns regarding urban origins, migrations, kinship, ethnicity, stratification, and change. Ethnographic examples drawn from Western and non-Western societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 531",
+    "title": "Methods in Applied Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Anthropological concepts and methodologies to solve human problems in both western and non-western societies through intervention, community development, impact assessment, and cultural communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 532",
+    "title": "Anthropology of Development and Conservation",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Anthropological perspectives on design, implementation, and assessment of development projects and conservation initiatives in “Third World.” Interlinkages between resource exploitation, underdevelopment, and local autonomy; and political and ethical dilemmas faced by anthropologists involved in projects.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 536",
+    "title": "Gender and Human Sexuality",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Constructions of gender and sexuality from anthropological perspective. Social constructions of body, norms, deviance, and medicalization of sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 537",
+    "title": "Anthropology of Childhood",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Childhood in diverse cultural settings; evolutionary, biosocial, and health-related aspects of childhood; social and cultural uses of idea of childhood; enculturation and children’s relationship to material culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 303",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 546",
+    "title": "Seminar in Biocultural Perspectives of Substance Use",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Substance use within biological and cultural perspectives. Prehistory and cross-cultural evidence of substance use. Cultural, evolutionary, and medical anthropology models of substance use. Contemporary patterns of substance use to broader biological, cultural, ecological, and historical factors.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 560",
+    "title": "Advanced Archaeological Field Techniques",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Advanced projects in excavation and stabilization of ruins, archaeological surveys, laboratory analysis, preparation of reports, and act as unit supervisor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 562",
+    "title": "Archaeological GIS and Geospatial Technologies",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Computational spatial research in anthropology and archaeology to include applications of computer modeling, digital imagery analysis, and geographic information systems.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 563",
+    "title": "Anthropogenic Landscapes",
+    "units": 3,
+    "department": "ANTH",
+    "description": "How human activity has shaped Earth’s surface over time. Focus on past human impacts, sustainability challenges, and geoarchaeological methods, including laboratory analyses of anthropogenic sediments and landscapes.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 564",
+    "title": "Zooarchaeology Methods",
+    "units": 3,
+    "department": "ANTH",
+    "description": "History and theory of zooarchaeology. Osteology and identification of amphibians, birds, fish, mammals, and reptiles for archaeological studies.  Functional and comparative analyses, anatomy, curation, histology, observation, and report writing for archaeological collections.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 566",
+    "title": "Seminar in Archaeologies of the Borderlands",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Archaeological and contemporary human cultures and the environment in the Southwestern borderlands. Issues of migration, subsistence, and water.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ANTH 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ANTH 582",
+    "title": "Regional Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Study of societies in a major geographical region of the world such as Africa, the Arctic, East Asia, Europe, Latin America, the Middle East, North America, Oceania, or South Asia.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 583",
+    "title": "Topical Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Study of a major subdiscipline such as political anthropology, economic anthropology, social anthropology, psychological anthropology, cultural ecology, applied anthropology, anthropological genetics, or environmental archaeology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 596",
+    "title": "Topics in Anthropology",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Advanced topics in anthropology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 600",
+    "title": "Seminar",
+    "units": 3,
+    "department": "ANTH",
+    "description": "An intensive study in advanced anthropology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 601",
+    "title": "Seminar in Biological Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "History, theory, and current research in biological anthropology. Key literature from core topical areas such as primatology, paleoanthropology, human biology, bioarchaeology, and skeletal biology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 602",
+    "title": "Seminar in Archaeology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "History and theory in archaeological data collection, analysis, and interpretation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 603",
+    "title": "Seminar in Sociocultural Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Current debates, evolution, and history pertaining to the methodologies, practices, scope, and theories of sociocultural anthropology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 604",
+    "title": "Seminar in Linguistics",
+    "units": 3,
+    "department": "ANTH",
+    "description": "History and theory of linguistics stressing the significant literature on such topics as cultural cognition, descriptive linguistics, lexicostatistics, and transformational analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 700",
+    "title": "Anthropological Approaches to the Human Experience",
+    "units": 3,
+    "department": "ANTH",
+    "description": "A survey of diverse Anthropological approaches to the human experience from biological anthropology, archaeology, and sociocultural anthropology perspectives. Enduring and emerging questions in anthropology. Students develop an individualized approach to the study of complex aspects of the human experience.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 710",
+    "title": "Anthropological Research Design and Proposal Development",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Design of anthropological research and the development of proposals to support it. Principal written outcomes include a research proposal that will form the basis of students’ thesis proposals and a grant proposal formatted for submission to an external funding institution.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 795",
+    "title": "Internship in Anthropology",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Students assigned to various government and private agencies in which anthropological theory can be applied. Supervision shared by department supervisor and on-the-job supervisor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 797",
+    "title": "Research",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Independent investigation in the general field of the thesis.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ANTH",
+    "description": "Individual study directed toward the preparation of a paper on a specific problem. May be repeated with variable content. Up to 6 units applicable to Masters Degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "ANTH",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ANTH 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "ANTH",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

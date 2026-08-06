@@ -1,0 +1,220 @@
+[
+  {
+    "course_code": "ENV S 100",
+    "title": "Environmental Sciences",
+    "units": 3,
+    "department": "ENV",
+    "description": "The earth as an ecosystem composed of biological, chemical, and physical systems and how these systems interact with one another and the human population.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENV",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 301",
+    "title": "Energy and the Environment",
+    "units": 3,
+    "department": "ENV",
+    "description": "Fundamental physical concepts underlying energy, its conversion, and impact on the environment on local to global scales.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 302",
+    "title": "Climate Change Solutions",
+    "units": 3,
+    "department": "ENV",
+    "description": "Exploration of the causes and impacts of the climate crisis and possible solutions. To include the basics of climate science, examination of climate justice issues, and opportunities to take climate action in local communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 390",
+    "title": "Academic and Professional Development in the Earth and Environmental Sciences I",
+    "units": 1,
+    "department": "ENV",
+    "description": "Exploration and discussion of the nature of science, ethics, civics, artificial intelligence, and other topics. Reflection on and planning for academic and professional development as a scientist within the broader and increasingly complex world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Taken in fall of junior year",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 485",
+    "title": "Water, Climate and Power in the US Southwest",
+    "units": 3,
+    "department": "ENV",
+    "description": "Physical principles controlling climate and water resources within the US Southwest. Examine history and politics of water development in California and the greater Colorado River Basin; role of modern environmental policy in solving the current water resource crisis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 490",
+    "title": "Academic and Professional Development in the Earth and Environmental Sciences II",
+    "units": 1,
+    "department": "ENV",
+    "description": "Applications, activities, and reflections designed to promote academic and professional development in the earth and environmental sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Taken in fall of senior year",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 495",
+    "title": "Internship in Earth and Environmental Sciences",
+    "units": 1,
+    "department": "ENV",
+    "description": "Internship with approved private companies, nonprofit organizations, and government agencies. Deliverables co-developed among student, external supervisor, and instructor. Internship report and periodic conferences required. Three units required if being used to fulfill degree requirement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 496",
+    "title": "Selected Topics in Environmental Science",
+    "units": 1,
+    "department": "ENV",
+    "description": "Selected topics in environmental and related sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "See C",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 498A",
+    "title": "Senior Seminar in Environmental Sciences",
+    "units": 3,
+    "department": "ENV",
+    "description": "Research projects related to an environmental issue in the San Diego and California region.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 498B",
+    "title": "Senior Seminar in Environmental Sciences",
+    "units": 3,
+    "department": "ENV",
+    "description": "Research projects related to an environmental issue in the San Diego and California region.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ENV",
+    "description": "Individual study in the area of environmental sciences",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ENV S 544",
+    "title": "Terrestrial Ecosystems and Climate Change",
+    "units": 3,
+    "department": "ENV",
+    "description": "Controls on fluxes and stocks of nutrients within terrestrial ecosystems, ecosystem responses, feedbacks to climate change. Climate systems, water transport, production and decomposition, nutrient cycling, stable isotopes, spatial and temporal integration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ENV S 596",
+    "title": "Advanced Topics in Environmental Science",
+    "units": 1,
+    "department": "ENV",
+    "description": "Advanced special topics in environmental sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

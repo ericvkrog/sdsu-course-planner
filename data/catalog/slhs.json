@@ -1,0 +1,968 @@
+[
+  {
+    "course_code": "SLHS 106",
+    "title": "Introduction to Speech, Language, and Hearing Sciences",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Human communication disorders. Fields of audiology and speech-language pathology. Disability, hearing, language, speech, and communication for participation in society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 150",
+    "title": "Sign Languages and Deaf Culture",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Introduction to sign languages, deafness and deaf culture. General issues of human language, language learning, and minority societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 222",
+    "title": "Communication as a Human Right",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Human communication disorders and how they influence abilities to engage in various domains of life to include community engagement, education, legal and medical systems, media, and politics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 295",
+    "title": "Introduction to Research",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Research methods and tools that can be applied in a variety of research laboratories.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 300",
+    "title": "Introduction to Language Science",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Structure, acquisition, processing, and neurological organization of language in typical and disordered communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 106",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 305",
+    "title": "Hearing Science",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Concepts of hearing science. Hearing science components to include physical acoustics, anatomy and physiology of auditory system, and psychoacoustics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 106",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 320",
+    "title": "Phonetics",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Principles of speech production and practical skills in discriminating and transcribing sounds of various dialects in English and other languages, as well as clinical populations. Competency in IPA broad and narrow transcription, classification of speech sounds, and patterns of speech.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 106",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 321",
+    "title": "Anatomy and Physiology of Speech",
+    "units": 4,
+    "department": "SLHS",
+    "description": "Anatomy and physiology of respiratory, phonatory, and articulatory systems related to speech.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 106",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 340",
+    "title": "Principles of Audiology",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Diagnostic audiology procedures: Pure-tone testing, masking, speech recognition testing and immittance. Integration and interpretation of results from the basic audiological test battery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 305",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 496",
+    "title": "Topics in Speech, Language, and Hearing Sciences",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Study of some problem in speech, language, and hearing sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 510",
+    "title": "Guided Observations",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Twenty-five hours of guided observations. Clinical activities and debriefing of therapy and evaluation procedures.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 511",
+    "title": "Aural Rehabilitation",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Theoretical, methodological, and technical issues related to facilitating receptive and expressive communication in individuals who are deaf or hard-of-hearing. Emphasizes multidisciplinary case management of children.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 513",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 512",
+    "title": "Phonological Acquisition and Disorders",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Phonology, phonological development, and phonological disorders as they relate to basic linguistic theory. Concepts considered through critical thinking and problem-solving.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 513",
+    "title": "Foundations of Speech-Language: Development",
+    "units": 4,
+    "department": "SLHS",
+    "description": "Speech-language development as related to theories of language acquisition, development, and clinical practice in children from birth to school-age.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 514",
+    "title": "Foundations of Speech-Language: Differences and Disorders in Children",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Speech and language disorders and issues related to assessment of and intervention with children from culturally and linguistically diverse populations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 513",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 521",
+    "title": "Speech-Language Screening of Children",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Screening speech and language of children in various community facilities and settings.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 525",
+    "title": "Clinical Processes",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Clinical issues, policies, and methods in speech-language pathology. Experience in writing lesson plans and clinical reports. Clinical observation to partially fulfill requirements for certification.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 539",
+    "title": "Neuroanatomy and Disorders of Speech and Language",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Structural and functional neuroanatomy and disorders of speech and language resulting from pathology of the nervous system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 305",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 570",
+    "title": "Dysphagia",
+    "units": 4,
+    "department": "SLHS",
+    "description": "Measurement techniques and research in dysphagia. Assessment and treatment of dysphagia and swallowing problems in children and adults.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 580",
+    "title": "Communication Processes and Aging",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Normal and disordered communication processes in the aging.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 595",
+    "title": "Research Practicum",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Participation in a specific research activity under faculty supervision.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 596",
+    "title": "Selected Topics in Speech, Language, and Hearing Sciences",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Specialized study of selected topics from the area of speech-language pathology, audiology, education of the hearing impaired, and speech and hearing science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 600A",
+    "title": "Research Methods in Communication Sciences and Disorders",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Methods of investigation in communication sciences and disorders to include research design, basic statistics, principles of evidence-based practice, ethical conduct in research design and work with human participants.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 600B",
+    "title": "Advanced Research Methods in Communication Sciences and Disorders",
+    "units": 2,
+    "department": "SLHS",
+    "description": "Principles of evidence-based practice, single-subject design, statistics for single-subject design, statistics used in longitudinal research and scale development; regression and factor analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 606",
+    "title": "Voice, Resonance, and Fluency Disorders",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Normal voice, resonance, and fluency, symptoms and causes of voice, resonance, and fluency disorders and their assessment and management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 607",
+    "title": "Phonology and Phonological Disorders",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Characterization of phonological disorders, assessment frameworks, intervention strategies. Theoretical frameworks of phonology as applied to and experimentally evaluated in speech-language pathology. Methodology considered within context of clinical cases studies designed to facilitate critical thinking and problem-solving.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 608",
+    "title": "Motor Speech Disorders",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Theories and clinical methods of diagnosis and intervention pertaining to motor speech disorders in children and adults.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 609A",
+    "title": "Acquired Neurogenic Language and Cognitive Disorders I",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Theories and clinical methods of diagnosis and intervention pertaining to language and communication disorders in adults with left or right hemisphere brain damage.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 609B",
+    "title": "Acquired Neurogenic Language and Cognitive Disorders II",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Theories and clinical methods of diagnosis and intervention pertaining to cognitive and linguistic disorders in adolescents and adults with traumatic brain injury, dementing illness or frontal lobe impairments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 609A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 613",
+    "title": "Language Disorders: Infancy Through Preschool",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Major theories of language development with focus on early language development; effect of theoretical perspective on approaches to assessment and intervention; development and evaluation of assessment and intervention procedures and instruments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 614",
+    "title": "Language Disorders: School Age Through Adolescence",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Normal and impaired language development in children five years through adolescence. Assessment and intervention for language disorders across spoken and written modalities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 617",
+    "title": "Diagnostic Methods in Speech-Language Pathology",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Principles and procedures for culturally relevant assessment of communication disorders in children and adults. Ethnographic interviewing; formal, informal, and unbiased testing; clinical reporting. Practice with selected methods and tools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 618",
+    "title": "Diagnostic Practica in Speech-Language Pathology",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Supervised diagnostic practica with children and adults with a variety of speech-language disorders. Four hours of supervision per week.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Not open to students with credit in SLHS 618A or SLHS 618B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 619",
+    "title": "Multidisciplinary Diagnostic Practicum in Speech-Language Pathology",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Participation in multidisciplinary assessment of infants and toddlers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 626A",
+    "title": "Clinical Intervention in Speech-Language Pathology",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Supervised intervention practica with children and adults with a variety of speech-language disorders. Up to four hours per week of client contact plus staffing. Up to three units may be taken concurrently per semester.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 626B",
+    "title": "Neurogenic Speech-Language Intervention",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Supervised intervention practica with adults with neurogenic communication disorders. Up to four hours per week of client contact plus staffing. Up to three units may be taken concurrently.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 626C",
+    "title": "Voice/Fluency/Dysphagia Clinical Intervention",
+    "units": 0,
+    "department": "SLHS",
+    "description": "Supervised intervention practica with voice, fluency, and/or swallowing disorders. Up to two hours per week of client contact plus staffing. Up to three units may be taken concurrently.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 600A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 600B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 607",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 613",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 617",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 525",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 627",
+    "title": "Advanced Field Clinical Practice in Speech-Language Pathology and Audiology",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Supervised practice with speech-language-hearing problems in off-campus settings. Up to 10 hours per week of client contact plus staffing. Up to three units may be taken concurrently.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 629",
+    "title": "Professional Skills in Speech-Language Pathology I",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Development of professional skills to include client advocacy, ethical and legal decision-making, interpersonal skills for team collaboration, and knowledge of professional policies and procedures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 630",
+    "title": "Professional Skills in Speech-Language Pathology II",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Development of professional skills necessary for working successfully in off-campus settings to include caseload management, conflict resolution, professional credentialing requirements, and supervision/leadership skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 672",
+    "title": "Communication Disorders in Bilingual Adults",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Linguistic and cognitive system in normal bilingual adults compared to monolingual peers, and in bilingual adults with language disorders. Assessment and intervention strategies in bilingual adults’ communicative and cognitive disorders. Cross-cultural issues in selection of assessment and intervention procedures.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SLHS 609A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SLHS 673",
+    "title": "Communication Disorders in Bilingual Children",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Normal and atypical language development applied to assessment and treatment of communication disorders in bilingual and monolingual children. Alternative assessment and intervention methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 675",
+    "title": "Augmentative Communication",
+    "units": 2,
+    "department": "SLHS",
+    "description": "Alternative and augmentative approaches, strategies and technology for individuals with severe communication impairments. Assessment and intervention. Project required.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 696",
+    "title": "Selected Topics in Speech, Language, and Hearing Sciences",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Intensive study in specific areas of audiology, education of hearing impaired, speech and hearing science, and speech-language pathology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 722",
+    "title": "Seminar in Neurogenic Communication Disorders",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Neurogenic communication disorders in children and adults to include aphasia, cognitive-communication disorders, dysarthria, apraxia of speech, and/or dementia. Theoretical frameworks, treatment, management, and intervention of these disorders.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 731",
+    "title": "Scientific Grant Writing",
+    "units": 3,
+    "department": "SLHS",
+    "description": "How to write scientific grant proposals, how the grant reviewing process works, and search for available funding opportunities.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 793",
+    "title": "Seminar in Disorders of Language and Cognition/Children",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Language impairment in children, including primary versus secondary language impairment, modular versus processing explanations, relationships between language and cognition, as well as disassociations of development across different populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 794",
+    "title": "Seminar in Language Disorders in Multilingual Populations",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Language disorders in linguistically diverse populations. Disorders of phonological, morphological, syntactic, and semantic aspects of target languages and their clinical implications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 795",
+    "title": "Advanced Research Practicum",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Participation in a specific research activity under faculty supervision",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Research in speech-language pathology, deaf education or audiology.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "SLHS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "SLHS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 801",
+    "title": "Seminar in Foundations of Language Science",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Current issues, theory, and research concerning language representation, processing, and neurological organization in adults.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 830",
+    "title": "Advanced Seminar in Speech, Language, and Hearing Sciences",
+    "units": 3,
+    "department": "SLHS",
+    "description": "Critical evaluation of theoretical frameworks, synthesis of interdisciplinary knowledge, and translation of theory to research methodology in speech, language, and hearing sciences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Individual investigation to the general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 898",
+    "title": "Doctoral Special Study",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Individual study in the field of specialization.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SLHS 933",
+    "title": "Clinical Practice in Public Schools",
+    "units": 1,
+    "department": "SLHS",
+    "description": "Clinical practice in elementary or secondary schools or community colleges in speech-language pathology. Applies only toward Clinical-Rehabilitative Services Credential (C-RS) or Certificate of Clinical Competency in Speech-Language Pathology (ASHA).",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  }
+]

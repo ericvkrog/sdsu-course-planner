@@ -1,0 +1,1157 @@
+[
+  {
+    "course_code": "TFM 110",
+    "title": "Writing for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Theory and practice in writing for electronic and film media. Introduction to techniques of narrative and documentary writing and scripting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 160",
+    "title": "Cinema as Art",
+    "units": 3,
+    "department": "TFM",
+    "description": "Cinema in its diverse forms. Historical and stylistic influences on aesthetic values and social implications of cinema.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 235",
+    "title": "The Art of Creating Emotion in Movies",
+    "units": 3,
+    "department": "TFM",
+    "description": "Film production for non-majors. Ways filmmakers deploy formal elements of cinema to generate a genre-related emotion such as fear in the horror genre; love in the romance genre.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 265",
+    "title": "Cinema in Africa",
+    "units": 3,
+    "department": "TFM",
+    "description": "Filmmaking in sub-Saharan Africa after colonization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 267",
+    "title": "Independent Cinema",
+    "units": 3,
+    "department": "TFM",
+    "description": "Filmmaking that has declared independence from mainstream aesthetics, industrial conventions, and the political status quo.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 270",
+    "title": "Introduction to Filmmaking",
+    "units": 3,
+    "department": "TFM",
+    "description": "An introduction to the roles, techniques, and concepts of film production, including producing, directing, cinematography, sound, and post-production. Course includes hands-on learning designed for students of all skill levels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 310",
+    "title": "Film, Television, and New Media Criticism",
+    "units": 3,
+    "department": "TFM",
+    "description": "Critical approaches to study of film, television, and new media. Analyses of media perspectives, to include ideology, semiotics, genre, gender, and spectatorship.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 314",
+    "title": "Film and Video Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Aesthetics and practice of film and video production techniques. Instruction in equipment use combined with consideration of aesthetics, visual storytelling, and craft. Attention to development of creative voice and original work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 321",
+    "title": "Sound Design for Video and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Digital audio post-production for video, TV, and film. Includes field acquisition, Foley, editing, and assembling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 322",
+    "title": "Cinematography for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Basic cinematography to include introduction to filmmaking activities, lighting techniques for film and television, specialized studio and location equipment. Exhibitions to include broadcasts, film festivals, and special screenings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 327",
+    "title": "Film and Video Editing",
+    "units": 3,
+    "department": "TFM",
+    "description": "Theory and practice of film and video editing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 330",
+    "title": "Cultural Aspects of Media",
+    "units": 3,
+    "department": "TFM",
+    "description": "Cultural dimensions of media. Media structures, uses, and effects at national and international levels in a context of humanities and conceptual arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 340",
+    "title": "Intermediate Documentary",
+    "units": 3,
+    "department": "TFM",
+    "description": "This intermediate documentary film production workshop will provide an introduction to the building blocks of nonfiction filmmaking. The workshop combines theory, history and practice. You will gain production experience working individually and in groups.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 350",
+    "title": "Staging and Art for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Aesthetic considerations and technical practices in staging, lighting, and graphics for television and film. Practical experience in university sponsored productions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 361",
+    "title": "Studio Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Multi-camera television production techniques for studio, sound stage, and remote multi-camera production. Responsibilities of producer, director, and production staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 362",
+    "title": "Intermediate Filmmaking",
+    "units": 3,
+    "department": "TFM",
+    "description": "Single camera techniques in production of narrative fiction. Crew-based location and studio production. Responsibilities of producer, director, and key creative production positions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 361",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 363",
+    "title": "International Cinema",
+    "units": 3,
+    "department": "TFM",
+    "description": "Construction of foreign film to history and practice of cinema as an art. Film as an expression of national culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 364A",
+    "title": "History of Film Classics: Early Developments Through the 1950s",
+    "units": 3,
+    "department": "TFM",
+    "description": "Viewing and analysis of American and foreign theatrical films which represent milestones in development of cinema.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 364B",
+    "title": "History of Film Classics: 1960s Through Today’s Cinema",
+    "units": 3,
+    "department": "TFM",
+    "description": "Viewing and analysis of American and foreign theatrical films which represent milestones in development of cinema.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 390W",
+    "title": "Professional Writing for Film and Television",
+    "units": 3,
+    "department": "TFM",
+    "description": "Professional writing for film and television production, publicity, criticism, and commentary.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C (2.0) or better. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 401",
+    "title": "Business Aspects of Television and Film Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Financing, preproduction planning, postproduction, and distribution of television and film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 361",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 362",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 561",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 410",
+    "title": "Intermediate Screenwriting and Script Analysis",
+    "units": 3,
+    "department": "TFM",
+    "description": "The study of film narrative through story analysis and the craft of screenwriting. Emphasis on designing narrative, characters, dialogue, genre, and tone.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 430",
+    "title": "History of Television",
+    "units": 3,
+    "department": "TFM",
+    "description": "Critical survey of television history, from its origins in radio and film, to its contemporary convergence with digital media and the internet. Topics include regulation, media ownership, technology, aesthetics, genre, authorship, advertising, and audiences, with a focus on sociocultural issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 465",
+    "title": "Compositing and Visual Effects",
+    "units": 3,
+    "department": "TFM",
+    "description": "Computer-generated visual effects to include rendering and compositing techniques used in film, new media, and television.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 470",
+    "title": "Critical Studies of Gender/Sexuality/Media",
+    "units": 3,
+    "department": "TFM",
+    "description": "Critical approaches to representation, production, and reception of gender and sexuality in film, television and new media, including video games and the Internet.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 490",
+    "title": "Internship",
+    "units": 1,
+    "department": "TFM",
+    "description": "Work with approved agencies off-campus under the combined supervision of agency personnel and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "TFM",
+    "description": "Experimental topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "TFM",
+    "description": "Individual study or project, normally in a research area selected by the student.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 506",
+    "title": "Advanced Film Distribution and Marketing",
+    "units": 3,
+    "department": "TFM",
+    "description": "Exposure to the inner workings of industry standard film distribution and marketing strategies, processes, and techniques; advanced knowledge and skills to tactically release indie films to audiences worldwide.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 510",
+    "title": "Advanced Script Writing for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Scripting of dramatic original and adaptation forms, and documentary.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 515",
+    "title": "Television Writing and the Dynamics of the Writers’ Room",
+    "units": 3,
+    "department": "TFM",
+    "description": "Scripting of spec and original material for television. Attention to learning fundamentals of managing and running the television writers’ room.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 521",
+    "title": "Advanced Sound Design for Film and Interactive Media",
+    "units": 3,
+    "department": "TFM",
+    "description": "Aesthetics and advanced techniques for designing sounds for moving image and interactive media. Through laboratories and projects, students will learn auralization, composition, design, and synthesis using contemporary tools: audio programming languages, digital audio workstations, and nonlinear editors.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 522",
+    "title": "Advanced Film and Television Cinematography",
+    "units": 3,
+    "department": "TFM",
+    "description": "Art, craft, and industry of cinematography. Telling visual stories with video and film. Attributes and optics of lenses. Qualities and aesthetics of lighting.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 530",
+    "title": "Selected Topics in Genre Studies for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Film and television genres (noir, western, comedy, musical, science fiction, soap opera, etc.) including key media texts, aesthetics, themes, history, and social context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 540",
+    "title": "Documentary Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Hands-on field experiences in documentary production to include research and writing techniques, investigative procedures, interviewing, shooting and editing. Analyze significant documentaries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 361",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 550",
+    "title": "Art Direction for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Aesthetic, technical, and practical aspects of design for television and film. Experience in scenic design, graphics, set decoration, budgeting, and scheduling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 361",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 362",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 551",
+    "title": "Production Design for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Theory and analysis of production design concepts for television and film. Development of designs and analysis of technical requirements for fictional and nonfictional productions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 401",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 552",
+    "title": "3D Digital Storytelling",
+    "units": 3,
+    "department": "TFM",
+    "description": "Narrative in animation. Pre-production and production techniques in 3D animated film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 558",
+    "title": "Costume Design for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Advanced studies in costume design. Budgeting and departmental management, character development, design problems, materials, production, rendering layout, script breakdowns.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 559",
+    "title": "Digital Design for Film and Stage",
+    "units": 3,
+    "department": "TFM",
+    "description": "Theories and applications of commonly used 3D modeling programs in the entertainment industry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 560",
+    "title": "Advanced Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Practicum in direction and production of dramatic and nondramatic film. Cameras, lighting, design, sound techniques, experience in university sponsored productions. Completion of a short film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 362",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 561",
+    "title": "Advanced Television",
+    "units": 3,
+    "department": "TFM",
+    "description": "Production processes and techniques to include producing, critical analysis, directing, digital cinematography, and editing of scripted projects. Experience in individual and university-sponsored productions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 562",
+    "title": "Doomsday Cinema",
+    "units": 3,
+    "department": "TFM",
+    "description": "Explores the theme of “Doomsday”, on television, cinema, and videogames. Students will create their own doomsday scenarios based on real-life events like climate change, pandemics, AI, and nuclear threats. It includes studying various media, texts, and prophecies to inspire their creations, culminating in ready for film projects, final treatments and synopses.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 563",
+    "title": "Documentary: History and Theory",
+    "units": 3,
+    "department": "TFM",
+    "description": "Persuasive concepts, techniques, and forms in documentary film. Major historical works and their impact on society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 571",
+    "title": "Selected Topics in Director Studies",
+    "units": 3,
+    "department": "TFM",
+    "description": "Historical significance of and theoretical approaches to major media directors (Welles, Hitchcock, Spielberg, etc.) including breadth of work, cultural and generic contexts, aesthetic innovation, and recurring themes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 573",
+    "title": "Selected Topics in History of Film, TV, and Media",
+    "units": 3,
+    "department": "TFM",
+    "description": "Media history including cultural and generic developments, patterns of exhibition, technological influences, significant creative and industrial figures, commercial and social contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 590",
+    "title": "Directing for Film and Television",
+    "units": 3,
+    "department": "TFM",
+    "description": "Directing fundamentals and production to include script analysis, director’s preparation and directing actors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 596",
+    "title": "Selected Topics in Television, Film and New Media",
+    "units": 1,
+    "department": "TFM",
+    "description": "Specialized study of selected topics from the areas of television, film and new media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 601",
+    "title": "Business Aspects of Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Business aspects of independent film production to include television and Internet streaming. Culture and practices of the film industry in context of career development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 605",
+    "title": "Seminar: Production for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Film and television production. Lectures and production of two short media projects that link research to artistic process and familiarize students with all aspects of the television, film and new media program.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 607",
+    "title": "Seminar: Intensive Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Intensive seminar in cinematography, direction, editing, and sound production for television and film. Tools of production culminating in the presentation and critique of students’ creative work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 610",
+    "title": "Seminar in Writing for Television and Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Non-dramatic and dramatic structures as they apply to non-fiction and fiction television programs and films. Writing full length script or scenario.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 612",
+    "title": "Seminar in Writing for New Media",
+    "units": 3,
+    "department": "TFM",
+    "description": "Narrative and non-narrative writing for new media to include gaming, interactive media, social media, and transmedia formats.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 621",
+    "title": "Sound Design for Film",
+    "units": 3,
+    "department": "TFM",
+    "description": "Digital audio production for film, to include automated dialog replacement (ADR), field acquisition, Foley, mixing, sound editing, sweetening.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 622",
+    "title": "Fundamentals of Cinematography",
+    "units": 3,
+    "department": "TFM",
+    "description": "Hands-on overview of the art and craft of motion picture photography. To include study of camera, lenses, and lighting. Introduction to various leadership roles in cinematography.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 625",
+    "title": "Seminar: Writing Short Narrative and Documentary Films",
+    "units": 3,
+    "department": "TFM",
+    "description": "Creating scripts for short narrative films and documentary productions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 627",
+    "title": "Film Editing and Postproduction",
+    "units": 3,
+    "department": "TFM",
+    "description": "Theory and practice of film editing to include color grading, digital post-production workflow, sound and picture cutting.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 662",
+    "title": "Scene-Based Film Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Single camera techniques in production of narrative fiction to include scene construction and production roles. Crew-based location and studio production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 670",
+    "title": "Seminar: Midway Review Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Development and completion of midway project for presentation before faculty jury. Research, presentation and analysis of related work, and creative engagement with material and subject matter to include retrospective written analysis of the work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 605",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 625",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 675",
+    "title": "Seminar: Research and Bibliography in Media Production",
+    "units": 3,
+    "department": "TFM",
+    "description": "Methods of research, critical analysis, and writing in relation to creative work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 670",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 470",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 530",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 563",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 571",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 573",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 790",
+    "title": "Portfolio/Examination Preparation",
+    "units": 3,
+    "department": "TFM",
+    "description": "Supervised preparation for portfolio review and oral defense.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "TFM 675",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "TFM 792",
+    "title": "MFA Capstone Project",
+    "units": 3,
+    "department": "TFM",
+    "description": "Preparation of a capstone project for the M.F.A. Plan B option.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 793",
+    "title": "Capstone Public Presentation",
+    "units": 1,
+    "department": "TFM",
+    "description": "Presentation based on written thesis to include a problem in history, theory, or pedagogy showing evidence of original research (M.F.A. Plan A); presentation of creative work developed in M.F.A. Capstone Project (MFA Plan B).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 797",
+    "title": "MFA Research",
+    "units": 1,
+    "department": "TFM",
+    "description": "Research in preparation for the thesis or capstone project.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "TFM",
+    "description": "Contract required. Arranged with graduate coordinator in area of study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "TFM",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "TFM 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "TFM",
+    "description": "Following assignment of RP in Course 799A, registration in this course is required in any semester in which the student expects to use the facilities and resources of the university; also student must be registered in this course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "code": "DANCE_B_F_A",
+  "name": "Dance, B.F.A.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11975",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11975",
+  "poid": "11975",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "DANCE 481W"
+  ],
+  "lower_division": [
+    "BIOL 100",
+    "BIOL 100L",
+    "DANCE 100D",
+    "DANCE 140",
+    "DANCE 145",
+    "DANCE 156",
+    "DANCE 181",
+    "DANCE 190",
+    "DANCE 210",
+    "DANCE 242",
+    "DANCE 243",
+    "DANCE 246",
+    "DANCE 281",
+    "DANCE 289",
+    "DANCE 290",
+    "MUSIC 290"
+  ],
+  "upper_required": [
+    "DANCE 300",
+    "DANCE 345",
+    "DANCE 346",
+    "DANCE 356",
+    "DANCE 365",
+    "DANCE 380",
+    "DANCE 382",
+    "DANCE 385",
+    "DANCE 390",
+    "DANCE 442",
+    "DANCE 443",
+    "DANCE 453",
+    "DANCE 481W"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

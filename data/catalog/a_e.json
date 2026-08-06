@@ -1,0 +1,1265 @@
+[
+  {
+    "course_code": "A E 123",
+    "title": "The Aerospace Engineer",
+    "units": 1,
+    "department": "A",
+    "description": "Introduction to professional aerospace engineering. Emphasis on aeronautics and astronautics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 200",
+    "title": "Statics",
+    "units": 3,
+    "department": "A",
+    "description": "Force systems, equilibrium, structures, distributed forces, friction, virtual work, moments of inertia, vector algebra.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 220",
+    "title": "Dynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Kinetics of a particle; central force motion; systems of particles; work and energy; impulse and momentum; moments and products of inertia; Euler’s equations of motion; vibration and time response; engineering applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 260",
+    "title": "Programming and Numerical Methods in Aerospace",
+    "units": 3,
+    "department": "A",
+    "description": "Basic programming concepts and numerical methods for aerospace applications. Hands-on MATLAB programming. Branching, data structure, debugging, functions, iteration, plotting, recursion. Common numerical methods in aerospace engineering to include interpolation, numerical differentiation and integration, regression. Simulink is introduced with aerospace applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 280",
+    "title": "Methods of Analysis",
+    "units": 3,
+    "department": "A",
+    "description": "Selected topics from ordinary differential equations, the Laplace transform, Fourier series, and linear algebra, with engineering applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "A",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 301",
+    "title": "Low Speed Aerodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Subsonic flow, airfoil and wing theory, experimental characteristics of wing sections, high lift devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 302",
+    "title": "High Speed Aerodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Normal shocks, one-dimensional governing flow equations, shock-expansion theory, small perturbation theory for subsonic and supersonic flow, supersonic flows in nozzles and diffusers, thermodynamics of high-speed flow.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 303",
+    "title": "Experimental Aerodynamics",
+    "units": 2,
+    "department": "A",
+    "description": "Operating characteristics of subsonic and supersonic wind tunnels. Aerodynamic characteristics of wings and bodies. Flow visualization techniques. Force, moment and pressure distribution measurement. Use of hot-wire anemometer and schlieren equipment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 310",
+    "title": "Aerospace Structural Mechanics and Materials",
+    "units": 4,
+    "department": "A",
+    "description": "Equations of linear elasticity; energy methods; analysis of thin-walled structures; buckling; engineering materials and their processing: atomic and molecular structure of materials, structure-property relationships in materials; material failure by yield, fracture and fatigue. Design of simple aircraft and spacecraft structures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 260",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 320",
+    "title": "Astrodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Two-body orbital mechanics on Keplerian orbits and orbital transfers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 331",
+    "title": "Feedback Flight Control",
+    "units": 3,
+    "department": "A",
+    "description": "Bode plots, lead/lag compensator design using root locus and PID controller design and PID tuning, modeling mechanical and electro-mechanical systems, open loop response, principles of feedback, root locus construction, Routh’s criterion. stability (gain and phase) margins and analysis, state variable approach, stability analysis, pole placement; time domain specifications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 340",
+    "title": "Fluid Mechanics",
+    "units": 3,
+    "department": "A",
+    "description": "Dimensional analysis and modeling, drag forces on moving or immersed objects, fluid dynamic equations and the first law of thermodynamics, fluid statics. Laminar and turbulent flow of liquids and gases in channels, nozzles, and pipes. Reversible and irreversible processes. Not open to students with credit in Mechanical Engineering 360.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 225",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 341",
+    "title": "Fluid Mechanics Laboratory",
+    "units": 1,
+    "department": "A",
+    "description": "Flow measuring devices. Experimental applications of continuity, Bernoulli and momentum equations. Model studies. Pipe and channel flows. Flow visualization techniques. Operating characteristics of wind tunnel and water table.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 403W",
+    "title": "Aerospace Engineering Senior Project",
+    "units": 3,
+    "department": "A",
+    "description": "Design and build an aerospace project, conduct experimental measurements, perform analyses of measured data, write engineering reports, and present project results.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in A E 403. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "A E 410",
+    "title": "Aerospace Structural Dynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Methods of structural dynamic analysis of problems encountered in aerospace vehicles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 430",
+    "title": "Aircraft Propulsion Systems",
+    "units": 3,
+    "department": "A",
+    "description": "Theory and performance of aircraft propulsion systems. Modeling of ramjet, turbofan, and turbojet engine components. Design of turbomachinery to include axial and centrifugal compressors and turbines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 440",
+    "title": "Aircraft Stability and Control I",
+    "units": 3,
+    "department": "A",
+    "description": "Static stability and control, general equations of unsteady motion, stability derivatives, stability of uncontrolled motion, response of aircraft to actuation of controls.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 303",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 460A",
+    "title": "Aerospace Engineering Applications",
+    "units": 3,
+    "department": "A",
+    "description": "Student projects in aerospace design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 303",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 460B",
+    "title": "Aerospace Engineering Applications",
+    "units": 2,
+    "department": "A",
+    "description": "Student projects in aerospace design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 460A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 496",
+    "title": "Advanced Aerospace Engineering Topics",
+    "units": 1,
+    "department": "A",
+    "description": "Modern developments in engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "A",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 510",
+    "title": "Finite Element Methods in Aerospace Structures",
+    "units": 3,
+    "department": "A",
+    "description": "Static and dynamic analysis of aerospace structures utilizing finite element methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 515",
+    "title": "Methods of Analysis",
+    "units": 3,
+    "department": "A",
+    "description": "Selected topics from vector calculus, partial differential equations, and complex analysis, with engineering applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 520",
+    "title": "Spacecraft Attitude Dynamics and Control",
+    "units": 3,
+    "department": "A",
+    "description": "Spacecraft rigid-body attitude dynamics and feedback control.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 530",
+    "title": "Rocket and Space Propulsion",
+    "units": 3,
+    "department": "A",
+    "description": "Equilibrium combustion thermodynamics. Performance of rocket propelled vehicles. Rocket propulsion fundamentals. Topics in chemical (solid and liquid) and electrical propulsion systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 535",
+    "title": "Mechanics of Composite Structures",
+    "units": 3,
+    "department": "A",
+    "description": "Micro- and macro-mechanics of composite materials, classical lamination theory, initial failure prediction and progressive failure analysis of laminates, analysis of beam and plate structures, stiffness and strength based design of composites.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 540",
+    "title": "Aircraft Stability and Control II",
+    "units": 3,
+    "department": "A",
+    "description": "Dynamic stability and control of rigid aircraft; general equations of unsteady motion, stability derivatives, perturbed state thrust forces and moment, special problems in dynamic stability and response.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 546",
+    "title": "Aerospace Guidance and Navigation",
+    "units": 3,
+    "department": "A",
+    "description": "Principles and theories of navigation for aerospace vehicles. Aerospace guidance for entry vehicles, launch vehicles, missiles, and spacecraft. Classical and advanced guidance designs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 550",
+    "title": "Viscous Flow",
+    "units": 3,
+    "department": "A",
+    "description": "Kinematics of fluid motion. Conservation of mass, momentum, and energy. Navier-Stokes equations; exact solutions. Boundary layer approximations, turbulent flow.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 596",
+    "title": "Advanced Aerospace Engineering Topics",
+    "units": 3,
+    "department": "A",
+    "description": "Modern developments in aerospace engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 600",
+    "title": "Seminar",
+    "units": 1,
+    "department": "A",
+    "description": "Intensive study of one of the following topics: Nonlinear vibrations, random vibrations, continuum mechanics, anisotropic elasticity, energy methods, plasticity, and other areas of engineering mechanics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 601",
+    "title": "Computational Fluid Mechanics",
+    "units": 3,
+    "department": "A",
+    "description": "Finite difference method of solving general fluid mechanics problems. Study of stability, convergence, compatibility, dissipation, and dispersion. A project is required.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 611",
+    "title": "Vibration of Elastic Solids",
+    "units": 3,
+    "department": "A",
+    "description": "Vibrational characteristics of elastic media. Vibration of plates. Longitudinal and transverse wave motion in infinite, semi-infinite and finite thickness media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 520",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 612",
+    "title": "Compressible Fluid Flow",
+    "units": 3,
+    "department": "A",
+    "description": "Theory of flow at supersonic speeds. Linearized theory, three-dimensional wings in steady flight, slender-body theory, methods of characteristics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 613",
+    "title": "Hypersonic Aerodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Theory and computation of hypersonic aerodynamics, including atmospheric re-entry. Advanced topics in compressible flows of non-perfect gases with varying specific heat and composition.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 620",
+    "title": "Incompressible Aerodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Theory of incompressible aerodynamics; airfoil and wing theory; computational methods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 621",
+    "title": "Theory of Elasticity",
+    "units": 3,
+    "department": "A",
+    "description": "Analysis of stress and strain: stress-strain relations; the equations of elasticity; uniqueness theorem; compatibility conditions; flexure and torsion.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 629",
+    "title": "Trajectory Design in Cislunar Space",
+    "units": 3,
+    "department": "A",
+    "description": "Covers fundamental topics for trajectory design in the Earth-Moon region, including modeling of the dynamical environment, how to find periodic orbits under these dynamics, and how their stability can be leveraged for mission design in an emerging cislunar economy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Course makes use of basic concepts in STEM (Calculus and Algebra). Background on Astrodynamics would be beneficial, but instructor will review any necessary material for the completion of the course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 631",
+    "title": "Analysis of Elastic Plates",
+    "units": 3,
+    "department": "A",
+    "description": "Elasticity, energy principles, variational methods, classical theory, bending, and vibration of rectangular plates with various boundary conditions, shear deformation plate theories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 641",
+    "title": "Structural Optimization",
+    "units": 3,
+    "department": "A",
+    "description": "Analytical and numerical methods for structural optimization. Optimization problem formulation; optimization using calculus of variations; linear programming; nonlinear optimization; global optimization; generalized optimality criteria and dual methods; sensitivity analysis; multilevel and decomposition techniques; shape and topology optimization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 510",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 644",
+    "title": "Turbulent Flow",
+    "units": 3,
+    "department": "A",
+    "description": "Nature of turbulence based on simple flow observations and a theoretical basis for interpreting and predicting the behaviors of specialized turbulent flow problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 515",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 651",
+    "title": "Theory of Elastic Stability",
+    "units": 3,
+    "department": "A",
+    "description": "Stability of elastic systems. Differential equations of stability by summation of forces and moments, and by the variational method. Applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 310",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 661",
+    "title": "Introduction to Static and Dynamic Aeroelasticity",
+    "units": 3,
+    "department": "A",
+    "description": "Fluid-structure interaction and its static and dynamic effects on airplanes. Aileron reversal, doublet lattice method, dynamic aeroelastic instability (flutter), static aeroelastic instability (divergence), sweep effects, unsteady aerodynamics; computational dynamic aeroelasticity using NASTRAN.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 666",
+    "title": "Inverse Methods and Aerodynamic Applications",
+    "units": 3,
+    "department": "A",
+    "description": "Optimization techniques for solving inverse aerodynamic design problems, inverse panel method, adjoint-based optimization, Bayesian inference and machine learning techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 260",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 670",
+    "title": "Optimal Control",
+    "units": 3,
+    "department": "A",
+    "description": "Applications in aerospace engineering to include Hamilton-Jacobi-Bellman equation, maximum principle, optimal control of dynamic systems, and parameter optimization. Fuel-optimal, linear quadratic optimal control, and time-optimal problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "M E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 671",
+    "title": "Non Destructive Evaluation: Theory and Application",
+    "units": 3,
+    "department": "A",
+    "description": "Introduction to the fundamental principles and applications of Non-Destructive Evaluation (NDE) techniques for aerospace structures. To focus on ultrasonic and infrared thermography inspections; additional topics may vary. Experimental laboratory demonstrations will support in-class lectures.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 676",
+    "title": "Advanced Astrodynamics",
+    "units": 3,
+    "department": "A",
+    "description": "Advanced topics of astrodynamics, focusing on the two-body orbital problem, spacecraft maneuvers, Kepler’s problem, Lambert’s problem, orbit determination, N-body methods, special perturbation techniques for solving Keplerian and non-Keplerian problems, Space Domain Awareness (SDA), and efficient algorithms for orbital propagation and navigation.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 678",
+    "title": "State-Space Flight Control",
+    "units": 3,
+    "department": "A",
+    "description": "State space methods of analysis and design of continuous and discrete-time linear systems. Coordinate transformations, controllability, observability of continuous and discrete systems. Lyapunov stability analysis. Detectability, pole placement, stabilizability. Minimal order observers. Aircraft and spacecraft flight control system analysis and design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "A E 440",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "A E 696",
+    "title": "Advanced Topics in Aerospace Engineering",
+    "units": 1,
+    "department": "A",
+    "description": "Advanced topics in aerospace structural mechanics and design to include non-linear elasticity, plasticity, analysis of plates and shells, fracture mechanics, thermal stress analysis, fatigue analysis, non-linear aeroelasticity, advanced topics in finite element methods, structural optimization and reliability analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 797",
+    "title": "Research",
+    "units": 1,
+    "department": "A",
+    "description": "Research in engineering.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "A",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "A",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "A",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "A E 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "A",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

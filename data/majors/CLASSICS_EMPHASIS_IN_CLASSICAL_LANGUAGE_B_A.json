@@ -1,0 +1,42 @@
+{
+  "code": "CLASSICS_EMPHASIS_IN_CLASSICAL_LANGUAGE_B_A",
+  "name": "Classics, Emphasis in Classical Language, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11955",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11955",
+  "poid": "11955",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "HUM 390W"
+  ],
+  "lower_division": [
+    "HUM 140"
+  ],
+  "upper_required": [
+    "HUM 390W",
+    "CLASS 320",
+    "HUM 400",
+    "HIST 502",
+    "HIST 503",
+    "PHIL 401A"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "CLASS 101G",
+      "CLASS 202G",
+      "CLASS 101L",
+      "CLASS 202L"
+    ]
+  },
+  "default_electives": [
+    "CLASS 101G",
+    "CLASS 101L",
+    "CLASS 202G",
+    "CLASS 202L"
+  ],
+  "unresolved_codes": [
+    "ART 568"
+  ]
+}

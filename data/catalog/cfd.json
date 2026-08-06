@@ -1,0 +1,1224 @@
+[
+  {
+    "course_code": "CFD 135",
+    "title": "Principles of Family Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Family development in society to include applications of social and behavioral science concepts, theory and research, behavioral patterns within families, social and cultural contexts, self-reflection, family dynamics, family transitions, resource management, marriage, parenting, divorce, and aging within families.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 170",
+    "title": "Child and Adolescent Development from a Cultural Perspective",
+    "units": 3,
+    "department": "CFD",
+    "description": "Theories and research regarding child and adolescent development using a cultural and contextual approach with emphasis on understanding of diversity and cultural variation.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Liberal studies premajors and majors and students seeking teaching credentials will complete",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 270",
+    "title": "Human Development Across the Lifespan",
+    "units": 3,
+    "department": "CFD",
+    "description": "Biological, cognitive, and socio-emotional development from conception to old age drawing on psychological and sociological theoretical perspectives and research to examine development within cultural contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 270L",
+    "title": "Principles of Observation: Child Development Laboratory",
+    "units": 1,
+    "department": "CFD",
+    "description": "Multiple methods of observing and recording individual and group behavior of children. Observations required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PSY 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 272",
+    "title": "Child, Family, and Community Engagement",
+    "units": 3,
+    "department": "CFD",
+    "description": "Individual and family needs and the social institutions and agencies attempting to meet these needs. Social issues, service programs, program analyses, and program effectiveness emphasized.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 135",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 275",
+    "title": "Learning Environments and Developmentally Appropriate Practices",
+    "units": 3,
+    "department": "CFD",
+    "description": "Design, implementation, and evaluation of developmentally appropriate practices for children and families.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 278",
+    "title": "Foundations of Human Health, Nutrition, and Safety",
+    "units": 2,
+    "department": "CFD",
+    "description": "Health, safety, nutrition practices and policies in the context of family, culture, and community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CFD",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 312",
+    "title": "Child and Family Community Services",
+    "units": 3,
+    "department": "CFD",
+    "description": "Review and critical evaluation of community service agencies and social institutions serving children and families. Assessment of child and family needs, program effectiveness, evidence-based practice, and accessibility to diverse families.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 272",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 315",
+    "title": "Family Dynamics and Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Theory and research on family dynamics and development from initial attraction to commitment and through all stages of the family. Family dynamics in couples, parent-child, and sibling relationships.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 135",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 316",
+    "title": "Developmentally Appropriate Practice for Children in Early Childhood Education and Family Contexts",
+    "units": 3,
+    "department": "CFD",
+    "description": "Developmentally appropriate practice (DAP) for promoting child learning, development, and wellbeing within early childhood education, care, and family contexts. Design and evaluation of DAP activities based on research and best practices in the field.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 275",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 319",
+    "title": "Child Health, Nutrition, Safety, and Wellbeing",
+    "units": 3,
+    "department": "CFD",
+    "description": "Practices and policies for promoting child health, safety, nutrition, and overall wellbeing within early childhood education, care, family, culture, and community contexts",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 278",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 335",
+    "title": "Interactions in Culturally Diverse Families",
+    "units": 3,
+    "department": "CFD",
+    "description": "Family interaction patterns throughout the life cycle in a multicultural society. Emphasis on theories, research findings, and family practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 135",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 270",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 354",
+    "title": "Parenting: Context, Research, and Application",
+    "units": 3,
+    "department": "CFD",
+    "description": "Parenting and parent education in context to include attachment, discipline, parent-child interactions, parenting styles and practices. Professional applications for child health and well-being through parenting based on research and theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 370",
+    "title": "Research, Assessment, and Evaluation of Children and Families",
+    "units": 3,
+    "department": "CFD",
+    "description": "Methods for measuring child, caregiver, and family behavior. Evaluation of reliability and validity. Includes research design, sampling techniques, data collection strategies, and values/ethics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 375A",
+    "title": "Human Development & Learning: Infancy to Toddlerhood",
+    "units": 2,
+    "department": "CFD",
+    "description": "Physiological, psychological, cognitive, and socio-emotional development of the human organism in cultural contexts from conception to three years of age.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 378A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 375B",
+    "title": "Human Development and Learning: Early to Middle Childhood",
+    "units": 2,
+    "department": "CFD",
+    "description": "Physiological, psychological, cognitive, and socio-emotional development of the human organism in cultural contexts from age 3 to age 12.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 378A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 375C",
+    "title": "Human Development and Learning: Adolescence to Adulthood",
+    "units": 2,
+    "department": "CFD",
+    "description": "Physiological, psychological, cognitive, and socio-emotional development of the human organism in cultural contexts from age 12 to old age.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 378A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 377",
+    "title": "Building Leadership and Communication Skills in Human and Family Development Programs",
+    "units": 3,
+    "department": "CFD",
+    "description": "Development of leadership, communication, conflict resolution, and supervision of professionals in human and family development programs, including child development programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 378A",
+    "title": "Laboratory Experience: Infancy to Toddlerhood",
+    "units": 1,
+    "department": "CFD",
+    "description": "Directed experiences in mainstream infancy and toddlerhood settings. Observing, screening, assessing, designing, and implementing developmentally appropriate activities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Negative TB test and Community Care Licensing clearance needed prior to the first day of class.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 378B",
+    "title": "Laboratory Experience: Early Childhood",
+    "units": 1,
+    "department": "CFD",
+    "description": "Directed experiences in mainstream early childhood settings for children ages 3 to 6 years old (e.g., preschool and kindergarten). Observing, screening, assessing, designing and implementing developmentally appropriate activities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Negative TB test and Community Care Licensing clearance needed prior to the first day of class",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 378C",
+    "title": "Laboratory Experience: Middle Childhood to Adolescence",
+    "units": 1,
+    "department": "CFD",
+    "description": "Directed experiences in middle childhood to adolescence settings (e.g., elementary through secondary schools). Observing, screening, assessing, designing and implementing developmentally appropriate activities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Negative TB test and Community Care Licensing clearance needed prior to the first day of class",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 378D",
+    "title": "Laboratory Experience: Development Across the Lifespan",
+    "units": 1,
+    "department": "CFD",
+    "description": "Directed experiences in settings across the lifespan. Observing, screening, assessing, designing and implementing developmentally appropriate interactions for children, families, caregivers, etc.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Negative TB test and Community Care Licensing clearance needed prior to the first day of class",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 379A",
+    "title": "Observational Learning Experiences: Infants and Toddlers",
+    "units": 1,
+    "department": "CFD",
+    "description": "Observations of infants and toddlers in various developmental contexts. Observation of screening, assessment, and developmentally appropriate activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 378A. Three hours of laboratory (video observation) for each unit of credit (weekly)",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 379B",
+    "title": "Observational Learning Experiences: Preschool/ Kindergarten",
+    "units": 1,
+    "department": "CFD",
+    "description": "Observations of young children of preschool through kindergarten ages in various developmental contexts. Observation, screening, assessment, and developmentally appropriate activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CFD 378B",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 380",
+    "title": "Early Language and Literacy Development in a Linguistically Diverse Society",
+    "units": 3,
+    "department": "CFD",
+    "description": "Language acquisition and early literacy development. Brain development and socio-emotional learning. Applications of developmentally appropriate and culturally responsive practice to enhance language, literacy, and school readiness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 390",
+    "title": "The Hospitalized Child",
+    "units": 3,
+    "department": "CFD",
+    "description": "Psychosocial needs of hospitalized child. Best practices for working with children and their families, and application of patient care vs. family centered care. Stress reduction, coping theories, and role of certified child life specialist.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 404",
+    "title": "Kumeyaay Shamull Project: Child and Family Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Indigenous development and family patterns across the lifespan. Kumeyaay sustaining and revitalizing of cultural and socio-linguistic identity; theories of glocalization and multicultural development; socio-cultural, socio-linguistic, socio-emotional, and socio-political analysis of indigenous communities and relationship to dominant society",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course includes a field placement experience component.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 437",
+    "title": "Violence in Relationships",
+    "units": 3,
+    "department": "CFD",
+    "description": "Impact of relationship violence on individual development and ecological relationships. Historical and cultural contexts, child abuse and neglect, courtship violence, elder abuse, and violence in communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 450",
+    "title": "The Human-Nature Connection: Developmental Perspectives",
+    "units": 3,
+    "department": "CFD",
+    "description": "Exploring effects of nature exposure on physical, emotional, and cognitive development. Emphasis on strategies for integrating contact with the natural environment into children’s lives and educational experiences. Examines nature-based therapeutic methods and their applications. Includes field experience in outdoor learning settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 270",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PSY 230",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 475",
+    "title": "Promoting Behavior Support and Classroom Organization in Early Childhood Settings",
+    "units": 3,
+    "department": "CFD",
+    "description": "Individual and systems-level approach to supporting young child behavior. Strategies for self-regulation, and three-tiers intervention, in early education settings and at home, to support all children, a targeted group of children who require additional support, and individual children who require intensive support.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 335",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 477",
+    "title": "Administration of Early Childhood Education Programs",
+    "units": 3,
+    "department": "CFD",
+    "description": "Programs for young children: design, implementation, and evaluation. Research applications and legal requirements for public and private sectors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 478",
+    "title": "Conﬂict Regulation and Resolution Across Relationships and Lifespan",
+    "units": 4,
+    "department": "CFD",
+    "description": "Review and application of theories and research on conflict regulation, management and resolution across relationship contexts and across the lifespan. Observations of conflict and applications of conflict resolution to students’ lives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is not open to students with credit in CFD 578",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 490",
+    "title": "Disability: Conception through Adolescence & Early Adulthood",
+    "units": 4,
+    "department": "CFD",
+    "description": "Experiences of disabled individuals, conception to 25 years, and their families. Psychopathology, etiology, ableism, disabling environmental conditions, structural inequities, diagnostics, and educational systems. Observations of individuals with disabilities and their families with a focus on inclusion",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is not open to students with credit in CFD 590",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CFD",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 497",
+    "title": "Field Experience in Child and Family Development Programs",
+    "units": 3,
+    "department": "CFD",
+    "description": "Work experience in child and family development. Application of theoretical and evidence-based information with reflective supervision from faculty and field supervisor. Development of professional identity, cultural self-awareness, and career goals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "100 placement hours required. Negative TB test and Community Care Licensing clearance needed prior to the first day of class.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CFD",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 536",
+    "title": "Divorce and Remarriage",
+    "units": 3,
+    "department": "CFD",
+    "description": "Integration of family theories and research findings. Emphasis on adjustment to divorce and remarriage throughout life cycles, across cultures, social classes, and ethnicities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 335",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 537",
+    "title": "Child Abuse and Family Violence",
+    "units": 3,
+    "department": "CFD",
+    "description": "Multidisciplinary approach to child abuse and family violence including maltreatment, mistreatment, neglect, sexual abuse.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 550",
+    "title": "Family School Partnerships in Early Childhood Classrooms",
+    "units": 3,
+    "department": "CFD",
+    "description": "Prepares future educators to develop strengths-based partnerships with diverse families. Emphasizes cultural humility, structural barriers, and home-to-school strategies for engagement. Grounded in ecological and culturally responsive frameworks to foster equity-centered family-school collaborations in early childhood classrooms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 560",
+    "title": "Theories in Socio-Emotional Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Socio-emotional development from infancy to adulthood. Theory and research regarding emotions, relationship-based development, cultural and societal contexts.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 575",
+    "title": "Public Policy and Professional Ethics in Child and Family Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Ethical guidelines and other standards related to child and family development. Informed advocates for equitable educational practices and policies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 335",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 375C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378C",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 378D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 577",
+    "title": "Professional Development and Mentorship in Human and Family Development Programs",
+    "units": 3,
+    "department": "CFD",
+    "description": "Problem analysis and development of successful organizational strategies for child development program delivery. Leadership, effective communication, social and ethical issues from a multicultural perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 578",
+    "title": "Conflict Resolution Across the Life Span",
+    "units": 4,
+    "department": "CFD",
+    "description": "Theories of conflict development and resolution across lifespan. Parenting styles, discipline, behavior and class management, and conflict resolution techniques used in relationships. Directed experiences using conflict resolution techniques in various settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Negative TB test and Community Care Licensing clearance needed prior to the first day of class",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 580",
+    "title": "Observation and Assessment of Young Children’s Environments and Relationships",
+    "units": 3,
+    "department": "CFD",
+    "description": "Ecobehavioral and developmental techniques and procedures to measure development, relationships, and environments. Emphasis on assessment use for educational planning and environmental improvements. Administration of measures in class and in field.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 585",
+    "title": "Family Involvement and Engagement with Young Children: Services and Resources",
+    "units": 3,
+    "department": "CFD",
+    "description": "Role of parents and caregivers in supporting and enhancing developmental outcomes. Home visitation programs, practices, and techniques. Field experience to assist students in building the bridge between research and practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 590",
+    "title": "Disability: Conception through Emerging Adulthood",
+    "units": 4,
+    "department": "CFD",
+    "description": "Experiences of disabled individuals, conception to 25 years, and their families. Psychopathology, etiology, ableism, disabling environmental conditions, structural inequities, diagnostics, and educational systems. Directed experience with individuals with disabilities and families, with a focus on inclusion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Three hours a week of field experience to be arranged. Negative TB test and Community Care Licensing clearance needed prior to the first day of class.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 595",
+    "title": "Early Childhood Mental Health: Theory and Practice",
+    "units": 3,
+    "department": "CFD",
+    "description": "Neurorelational framework to understand brain development and mental health. Emotional and behavioral regulation support at home and in educational settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 596",
+    "title": "Advanced Studies in Child and Family Development",
+    "units": 1,
+    "department": "CFD",
+    "description": "Advanced study of selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 598",
+    "title": "Reflective Learning Portfolio",
+    "units": 1,
+    "department": "CFD",
+    "description": "Capstone course to mentor child development majors to integrate knowledge acquired throughout child and family development program. Create portfolio and reflective essay.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Major code: 08231.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 624",
+    "title": "Seminar in Family Processes",
+    "units": 3,
+    "department": "CFD",
+    "description": "Analysis of selected research in family structure, development, and crisis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 335",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 634A",
+    "title": "Seminar in Family Therapy Theory and Techniques",
+    "units": 3,
+    "department": "CFD",
+    "description": "Family therapy theory and techniques to include cognitive-behavioral, multigenerational, psychodynamic, strategic, and structural models. Epistemological, theoretical, and foundations of family systems theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 335",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 634B",
+    "title": "Seminar in Counseling Theories and Techniques",
+    "units": 3,
+    "department": "CFD",
+    "description": "Psychotherapy theory and techniques to include cognitive-behavioral, emotion-focused, family systems, person-centered, and psychoanalytic. Interpersonal neurobiological foundation of psychological development and its theoretical and epistemological constructs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 644",
+    "title": "Seminar in Diverse Families",
+    "units": 3,
+    "department": "CFD",
+    "description": "Critical examination of issues related to diverse families and various factors that impact children in diverse family contexts to include race, gender, sexual orientation, ethnicity, immigration status, ability, national origin, family formation, family structure, and pathways to parenthood.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 624",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 650",
+    "title": "Seminar in Professional Development and Professionalism",
+    "units": 3,
+    "department": "CFD",
+    "description": "Growth and leadership in child and family development to include advocacy, career trajectories, professional identity, service, and strengths.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 660A",
+    "title": "Seminar in Early Childhood Mental Health Career Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Career development theories and techniques to include decision making models, interrelationships among and between family, work, and other life roles and factors; and multicultural issues in career development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 660B",
+    "title": "Seminar in Professional Law and Ethics in Counseling",
+    "units": 3,
+    "department": "CFD",
+    "description": "Ethical standards, legal statutes, and regulations established by American Ethical standards, legal statutes, and regulations established by the American Counseling Association and the Board of Behavioral Sciences related to the practice of family therapy and psychotherapy. Child and elder abuse assessment and reporting, confidentiality, Health Insurance Portability and Accountability Act, involuntary commitment, patients’ rights, privileged communication, other legal and ethical concerns specific to licensed professional clinical counselor profession.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 670A",
+    "title": "Seminar in Human Development Theories- Attachment and Affect Regulation in Young Children",
+    "units": 3,
+    "department": "CFD",
+    "description": "Advanced child and human growth theories. Attachment and affect regulation applications, models, research, and theories. Developmental crises, disability, and psychopathology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 670B",
+    "title": "Seminar in Human Development Theories- Intervention and Prevention Lifespan Approach",
+    "units": 3,
+    "department": "CFD",
+    "description": "Advanced child and human growth and development theories. Intervention and prevention applications, models, research, and theories. Developmental crises, disability, and psychopathology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 671A",
+    "title": "Seminar in Supporting Early Childhood Mental Health",
+    "units": 3,
+    "department": "CFD",
+    "description": "Psychotherapeutic theories and techniques for early childhood mental health specialists and practitioners to include positive behavior support models. Multidisciplinary models of response to crises and trauma using multicultural approach.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 673A",
+    "title": "Neurorelational Framework for Early Childhood Mental Health Treatment",
+    "units": 3,
+    "department": "CFD",
+    "description": "Early childhood mental health practices, processes, and theories in dyadic psychotherapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 673B",
+    "title": "Early Childhood Intake Assessment, Diagnosis, and Treatment Planning",
+    "units": 3,
+    "department": "CFD",
+    "description": "Assess, diagnose, and plan for treatment of young children and their families using a neurorelational framework.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 673C",
+    "title": "Therapeutic Skills and Techniques for Early Childhood Mental Health",
+    "units": 3,
+    "department": "CFD",
+    "description": "Clinical work preparation with young children and families. Evidenced- based programs and treatment modalities. Peer reflective supervision and feedback.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 675",
+    "title": "Play and Integrated Curriculum",
+    "units": 3,
+    "department": "CFD",
+    "description": "The role of play in designing integrated curriculum for children birth to age 8. Emphasizes anti-bias education, developmentally appropriate practices, family partnership, emergent curriculum and creativity to optimize developmental outcomes.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 696",
+    "title": "Advanced Topics in Child and Family Development",
+    "units": 1,
+    "department": "CFD",
+    "description": "Intensive study in specific areas of child and family development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 697A",
+    "title": "Advanced Field Experiences A",
+    "units": 1,
+    "department": "CFD",
+    "description": "Directed experience in early care and education settings for children 0-5. Screening, assessing, designing and implementing developmentally appropriate activities, supporting children with social-emotional and behavioral needs.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "The course is required in both fall and spring semesters.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 697B",
+    "title": "Advanced Field Experiences B",
+    "units": 3,
+    "department": "CFD",
+    "description": "Mental health and well-being of young children and families in culturally diverse communities. Multicultural theories and knowledge bases to clinical situations, strengths within diverse cultures, thoughts and feelings working with families from diverse cultures.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CFD 670A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 670B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CFD 671A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CFD 698",
+    "title": "On-Site Coaching and Consultation in a Clinical Setting",
+    "units": 1,
+    "department": "CFD",
+    "description": "Professional competence, self-awareness, and understanding through reflective practices. Increasing capacity to work effectively with families, infants, and young children.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 790",
+    "title": "Research Methods and Program Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Research in child and family development: criteria and procedures for conducting research. Development of programs pertaining to children and families; literature review, proposal development, planning steps for implementation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 792",
+    "title": "Advanced Clinical Experience and Group Supervision",
+    "units": 3,
+    "department": "CFD",
+    "description": "Clinical field experience with individuals and groups. Advanced clinical supervision of group processes and working with young children and families experiencing trauma.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 794",
+    "title": "Seminar in Complexities of Child and Family Development",
+    "units": 3,
+    "department": "CFD",
+    "description": "Complexities of child and family development (CFD), integration of material across CFD topic areas and across theory, research, observation, and assessment. Focus on developing professional presentation and writing that reflects integrating and analyzing information across CFD areas and identifying implications.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Successful completion of the comprehensive exam is required for the graduation of Plan B students in addition to completion of this course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CFD",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "CFD",
+    "description": "Preparation of a thesis or project for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "CFD",
+    "description": "Registration required in any semester or term following assignment of RP in 799A in which the student expects to use the facilities and resources of the university, also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CFD 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "CFD",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

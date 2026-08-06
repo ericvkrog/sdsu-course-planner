@@ -1,0 +1,208 @@
+[
+  {
+    "course_code": "LGBT 100",
+    "title": "Pride House",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Collaborative peer mentorship program for first-year undergraduate students facilitated through the Pride Center. Designed to foster community, enhance education, and support matriculation for 2SLGBTQIA+ students in collaboration with LGBTQ+ Studies and Housing and Residential Education.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Students are pre-enrolled into this course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 101",
+    "title": "Introduction to LGBTQ+ Studies",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Interdisciplinary introduction to LGBTQ+ Studies. Diversity of LGBTQ+ communities, identities, and politics. Intersectionality of gender, sexuality, class, race, ethnicity, religion, ability, and other social categories of difference.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 321",
+    "title": "LGBT Identities in the Modern World",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Interdisciplinary field of lesbian and gay studies with attention to social and political institutions and development of personal identity. Topics include discrimination, internalized homophobia, political activism, and diversity within lesbian, gay, bisexual, and transgender community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LGBT 322",
+    "title": "LGBT History and Culture",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Interdisciplinary field of lesbian and gay studies with attention to history and artistic expression. Topics include varying attitudes toward homosexuality in history, as well as literary, artistic, theatrical, and musical contributions of the lesbian, gay, bisexual, and transgender community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LGBT 333",
+    "title": "Trans/Gender Studies",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Diversity of queer/trans identities in history and now. Trans lives and cultures to include oppression and resistance. Cis privilege and alliances. Intersections of ability, age, class, color, and sexuality with trans identities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LGBT 350",
+    "title": "Queer of Color Studies",
+    "units": 3,
+    "department": "LGBT",
+    "description": "LGBTQ+ identities and color. Critiques of assumed whiteness. Intersections of difference based on ability, age, class, ethnicity, gender identity, nationality, race, and sexual orientation. Forms of knowledge, lives and histories, representations, self-expression, and stereotypes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LGBT 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 550",
+    "title": "Queering Comics",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Exploration of LGBTQ+ culture, ideas, aesthetics, identity, and politics through sequential art. The politics of LGBTQ+ representation in culture. Queer methods of reading comic strips, comic books, and graphic narratives. Introduces LGBTQ+ comic creators.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 596",
+    "title": "Selected Topics in Lesbian, Gay, Bisexual, and Transgender Studies",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Selected topics in lesbian, gay, bisexual, and transgender studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 597",
+    "title": "Research Project",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Individual research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 598",
+    "title": "Lesbian, Gay, Bisexual, and Transgender Studies Internship",
+    "units": 3,
+    "department": "LGBT",
+    "description": "Lesbian, gay, bisexual, and transgender studies theories and scholarship to community service and activism. Internship includes 120 hours of work in local public and private agencies serving LGBT populations and working towards LGBT equality.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LGBT 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LGBT",
+    "description": "Independent study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

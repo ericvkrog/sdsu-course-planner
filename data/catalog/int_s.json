@@ -1,0 +1,80 @@
+[
+  {
+    "course_code": "INT S 690",
+    "title": "Seminar in Research Ethics",
+    "units": 1,
+    "department": "INT",
+    "description": "Core content areas that influence responsible conduct of research (RCR) including research misconduct, data management, use of animal and human subjects, conflict of interest and commitment, authorship, publication and peer review, and collaboration and mentoring. Intended for graduate students involved in research projects. Meets NIH and NSF training grant requirements for RCR instruction.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "INT S 797",
+    "title": "Research",
+    "units": 1,
+    "department": "INT",
+    "description": "Independent research in a specialized subject.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "INT S 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "INT",
+    "description": "Independent study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "INT S 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "INT",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "INT S 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "INT",
+    "description": "Registration in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also the student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "INT S 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "INT",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "course_code": "STS 301",
+    "title": "Concepts and Ideas in Science and Technology Studies",
+    "units": 3,
+    "department": "STS",
+    "description": "Frameworks, history, key concepts, and methods. Scientific and technological assumptions and practices. Engaging people, policies, and practices in science, technology, engineering, and mathematics disciplines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "STS 580",
+    "title": "Science and Technology Topics in Society",
+    "units": 3,
+    "department": "STS",
+    "description": "Advanced systematic study of a topic in science, society, and technology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

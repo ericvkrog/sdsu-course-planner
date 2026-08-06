@@ -1,0 +1,78 @@
+{
+  "code": "EE",
+  "name": "Electrical Engineering, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=11&poid=10743",
+  "verified": true,
+  "source": "hand-verified",
+  "covered_ge_areas": [
+    "2",
+    "5A",
+    "5B",
+    "5C"
+  ],
+  "gwar_covered_by": [
+    "E E 491W"
+  ],
+  "lower_division": [
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "MATH 254",
+    "BIOL 100",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "COMPE 160",
+    "COMPE 270",
+    "COMPE 271",
+    "E E 200",
+    "E E 210"
+  ],
+  "upper_required": [
+    "COMPE 375",
+    "E E 300",
+    "E E 310",
+    "E E 330",
+    "E E 330L",
+    "E E 340",
+    "E E 380",
+    "E E 410",
+    "E E 420",
+    "E E 430",
+    "E E 440",
+    "E E 450",
+    "E E 491W",
+    "E E 492"
+  ],
+  "elective_areas": {
+    "Professional Electives (9u, EE 400/500-level)": [
+      "E E 455",
+      "E E 458",
+      "E E 480",
+      "E E 493",
+      "E E 502",
+      "E E 503",
+      "E E 522",
+      "E E 530",
+      "E E 540",
+      "E E 558"
+    ],
+    "Lab Electives (2u)": [
+      "E E 420L",
+      "E E 430L",
+      "E E 458L",
+      "E E 495",
+      "E E 496"
+    ]
+  },
+  "default_electives": [
+    "E E 458",
+    "E E 480",
+    "E E 530",
+    "E E 495",
+    "E E 496"
+  ]
+}

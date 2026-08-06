@@ -1,0 +1,137 @@
+[
+  {
+    "course_code": "SUSTN 100",
+    "title": "Environmental Sciences",
+    "units": 3,
+    "department": "SUSTN",
+    "description": "The earth as an ecosystem composed of biological, chemical, and physical systems and how these systems interact with one another and the human population.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SUSTN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SUSTN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SUSTN 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SUSTN",
+    "description": "Individual Study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SUSTN 332",
+    "title": "Environmental Ethics",
+    "units": 3,
+    "department": "SUSTN",
+    "description": "Development of traditional values concerning the natural environment. Reasons for altering values in light of modern changes in relationship of human beings to the environment. Application of ethical principles to actions affecting the environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SUSTN 334",
+    "title": "Politics of the Environment",
+    "units": 3,
+    "department": "SUSTN",
+    "description": "Environmental politics and policy in historical and comparative non-dominant perspective. Alternative environmental world views, cases/materials on sustainability, climate change, social and racial justice, globalization and developing nations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SUSTN 353",
+    "title": "Sustainability and Culture",
+    "units": 3,
+    "department": "SUSTN",
+    "description": "Examination of efforts of anthropology to understand sustainability and provide solutions to human-environmental problems. Compares and explores sustainability in a variety of contexts and scales, from San Diego region to diverse communities around the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SUSTN 495",
+    "title": "Internship in Sustainability",
+    "units": 3,
+    "department": "SUSTN",
+    "description": "Supervised internship in campus, community, or international organizations, government agencies, or businesses where concepts and principles of sustainability can be learned experientially and put into practice.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SUSTN 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SUSTN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SUSTN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SUSTN",
+    "description": "Individual study in sustainability.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,1167 @@
+[
+  {
+    "course_code": "SOC 101",
+    "title": "Introductory Sociology: The Study of Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "This course is prerequisite to all upper division courses in sociology. Major ideas, concepts, and methods in the study of society to include socialization, culture, social structure, social stratification, deviance, social control, and social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 102",
+    "title": "Introduction to Social Problems",
+    "units": 3,
+    "department": "SOC",
+    "description": "Contemporary social problems. Topics may include poverty, inequality, unemployment, crime and deviance, population and ecological problems, health, family issues, and the role of ideology and interest groups in the definition of social problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 201",
+    "title": "Elementary Social Statistics",
+    "units": 3,
+    "department": "SOC",
+    "description": "Basic statistical techniques in sociology. Tables and graphs, measures of central tendency and variability, correlations, cross-classification, and introduction to multivariate analysis, sampling and statistical inference. Computer applications may be included.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SOC",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 301",
+    "title": "Social Research Methods",
+    "units": 3,
+    "department": "SOC",
+    "description": "Methods in sociological research to include surveys, field experiments, observations, ethnography, comparative, historical, and content analysis. Methods are linked to sociological theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 310",
+    "title": "Sociology of Emotions",
+    "units": 3,
+    "department": "SOC",
+    "description": "Human emotions in cultural dynamics, institutional processes, interactions, and societal structures. Management and regulation of emotions, norms, socialization. Specific emotions in social and political contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 315",
+    "title": "Body and Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Relationship between the body and society and the body as a product of complex social arrangements, interactions, and processes. The body and aging, consumer culture, dying, health, inequalities, life course, and as an object of social control and regulation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 320",
+    "title": "Sex and Gender in Contemporary Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Ways femininity and masculinity are constructed through social arrangements associated with interpersonal relations, family, education, occupations, and economic and political systems. How gender relations are portrayed in mass media and how they are accomplished in community life.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 330",
+    "title": "Cultural and Historical Origins of Surfing",
+    "units": 3,
+    "department": "SOC",
+    "description": "Surfing from Hawaiian origins to the early 20th century. Special emphasis upon cultural differences between Polynesian and Western societies. Phenomenology of surfing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 331",
+    "title": "Modern Surfing and Globalized Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "History and impacts of surfing on popular culture. Representation of the surfer image in global media. Growth of the surfing and surf tourism industries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 335",
+    "title": "Sociology of Popular Culture",
+    "units": 3,
+    "department": "SOC",
+    "description": "Forms and features of popular culture. Distinction between highbrow and lowbrow cultures. Sociological theories about effects, functions, and power of popular culture in society and in social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 338",
+    "title": "Sociology of Religion",
+    "units": 3,
+    "department": "SOC",
+    "description": "Forms of religious belief, knowledge, practice, and experience tied to different social arrangements and historical periods. Consequences of religion for community and society. Secularization and conversion processes in modern industrial societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 350",
+    "title": "Population and Contemporary Issues",
+    "units": 3,
+    "department": "SOC",
+    "description": "Population processes (fertility, mortality, and migration) as they affect and are affected by such contemporary issues as rapid world population growth, environment, urbanization, family, aging, US-Mexico border, and undocumented migration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 352",
+    "title": "Global Social Problems",
+    "units": 3,
+    "department": "SOC",
+    "description": "Contemporary social problems from global and transnational perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 355",
+    "title": "Sociology of Race and Ethnicity",
+    "units": 3,
+    "department": "SOC",
+    "description": "Historical and comparative analysis of race and ethnic relations. Origins and maintenance of ethnic stratification systems; discrimination and prejudice; the adaptation of communities; role of social movements and government policies in promoting civil rights and social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 401",
+    "title": "Classical Social Theory",
+    "units": 3,
+    "department": "SOC",
+    "description": "Classical theories of society. Intellectual history of European and U.S. theoretical developments in functionalism, historical materialism, historicism, positivism, and symbolic interactionism. Theories of modernity and evolution of modern world system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 403",
+    "title": "Contemporary Social Theory",
+    "units": 3,
+    "department": "SOC",
+    "description": "Contemporary theories of society. Intellectual history of U.S. and European theoretical developments in critical race theory, critical theory, feminist theory, post-structuralism, structural functionalism, and structuralism. Theories of postmodernity and non-Western theories of cultural and economic hegemony.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 406",
+    "title": "Intermediate Social Statistics",
+    "units": 3,
+    "department": "SOC",
+    "description": "Statistical techniques in the analysis of social research data and hypothesis testing, including analysis of variance, covariance, partial correlation, multiple and logistic regression, logic and log-linear models, discriminant and factor analysis. Practical application with the use of statistical packages.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 407",
+    "title": "Survey and Experimental Research Methods",
+    "units": 3,
+    "department": "SOC",
+    "description": "Research process from research design through data processing, analysis, and interpretation. Quantitative research techniques including universe enumeration, sampling, questionnaire construction, scaling techniques, structured interviews, and experimental designs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 408",
+    "title": "Qualitative Research Methods",
+    "units": 3,
+    "department": "SOC",
+    "description": "Ethnographic research methods including interviewing, observation, participant observation, and case studies. Problems in research design; gaining and maintaining rapport; analysis, interpretation, and writing with qualitative data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 410",
+    "title": "Social Psychology: Mind, Self, and Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Major theories, problems, and findings concerning the relationship of the individual and society. Topics include consciousness and construction of meaning, self-concept and social identity, socialization and interaction, group behavior and group membership.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 411",
+    "title": "Police and Society in the Americas",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social and cultural factors shaping police work in the United States and Latin America. Policing through lenses of power and social control. Current controversies and innovations to include community policing, immigration, militarization, reform, and securitization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 412",
+    "title": "Social Construction of Reality",
+    "units": 3,
+    "department": "SOC",
+    "description": "Analysis of reality as an ongoing social process. Creation and internalization of social worlds through language. Common sense and the multiple realities of everyday life. Dynamic emergence of social structure.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 419",
+    "title": "Latina/o Sociology",
+    "units": 3,
+    "department": "SOC",
+    "description": "Sociological history of the Hispanic/Latino category, racial and national diversity of Latinx populations, critiques of the Latinx category, and social problems affecting Latinxs. Sociological studies examining immigration and racial classification systems in the U.S. and Latin America.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 420",
+    "title": "Sexuality in Modern Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social construction of sexualities. Sexual behaviors, desires, and practices. Changing norms of sexuality, morality and social control, non-normative sexualities, sexual identities, and social and political movements regarding sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 421",
+    "title": "American Families",
+    "units": 3,
+    "department": "SOC",
+    "description": "Changes in intimacy in American family. Selection of mating partners, spousal and parenting relationships, and alternatives to traditional family forms. Changing functions of the family viewed in historical perspective. Present diverse family arrangements and future prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 429",
+    "title": "Gender and Sexuality in Korea",
+    "units": 3,
+    "department": "SOC",
+    "description": "Issues related to gender and sexuality in Korean history; gender relations in family, workplace, popular culture, politics; non-normative genders and sexualities; how gender and sexuality intersect with race, nationality, ethnicity, and class; social and political movements regarding gender and sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 430",
+    "title": "Social Organization",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social structure of societies. Historical examination of structure and development of social institutions, communities, and other large scale organizations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 433",
+    "title": "Wealth, Status, and Power",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social inequality as an institutional process. Patterns of unequal distribution of wealth, power, privilege and prestige, their causes, and impact this has on communities and societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 436",
+    "title": "Sociology of Health and Illness",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social, cultural, and political factors in definitions of health, disease, healing, and provision of services. Comparative study of medical practices and organizational structures in America and selected international settings. Emphasis on change, socialization of practitioners, relationships between health related occupations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 441",
+    "title": "Sociology of Mental Illness",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social, cultural, historical, and political factors involved in definition of “madness” and theories of mental illness in various societies. Review of research about incidence, prevalence, and social epidemiology of mental illness, as a community problem, and its distribution by social class, gender, age, geographical region, and country.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 442",
+    "title": "Homicide in America",
+    "units": 3,
+    "department": "SOC",
+    "description": "Characteristics and distribution of murder, including historical and cross-cultural comparisons. Social psychological, structural, cultural and situational explanations of causes and consequences of juvenile, gang, domestic, mass, serial and sexual murders.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 443",
+    "title": "Crime and Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social origins, forms, and functions of criminal law. Sociological theories about causes and consequences of crime. Measurement and distribution of violent crimes, property crimes, victimless crimes, white collar crime, and their impact on communities and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 444",
+    "title": "Juvenile Delinquency",
+    "units": 3,
+    "department": "SOC",
+    "description": "Sociological theories about causes and consequences of juvenile delinquency. Social origins of juvenile justice system, with attention to methods of control and prevention at community and national levels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 445",
+    "title": "Sociology of Deviance",
+    "units": 3,
+    "department": "SOC",
+    "description": "Conformity and nonconformity; the relationship between individual liberty and social control; stigma and the labeling of deviant behavior such as prostitution, alcoholism, drug addiction, and crime.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 446",
+    "title": "Sociology of Criminal Organizations",
+    "units": 3,
+    "department": "SOC",
+    "description": "Major criminal organizations that operate in underworld across time, space, and socio-cultural context, including Mafia, Yakuza, Triads, and transnational drug traffickers and human smugglers. Explore their social organizations, operations, roles, and identities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 448",
+    "title": "Urban Sociology",
+    "units": 3,
+    "department": "SOC",
+    "description": "Cities and neighborhoods as they pertain to day-to-day life. Location importance for life outcomes and what social forces can shape location.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 450",
+    "title": "Social Change",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social change at the interpersonal, institutional, and societal levels of analysis. Major economic, political, technological, and demographic forces that have shaped the contemporary world. Topics may include modernization, industrialization, urbanization, revolution, and prospects of social change in rich and poor nations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 455",
+    "title": "Sociology of Intersectionality",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social inequality to include current research on class, gender, and race. Interlocking systems of privilege and oppression and their impact on society.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 457",
+    "title": "Protests, Reforms, and Revolutions",
+    "units": 3,
+    "department": "SOC",
+    "description": "Revolutionary and reform movements in relationship to the larger society. Conditions leading to development of social movements, emergence of leadership, ideologies, strategies, recruitment of members, and social consequences; case studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 458",
+    "title": "Nonviolence, Peace, and Social Change",
+    "units": 3,
+    "department": "SOC",
+    "description": "Actions, research, strategies, and theories regarding nonviolent social change. Power of collective nonviolent actions through the lenses of global, local, and national conflicts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 459",
+    "title": "The American Labor Movement",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social history of the American labor movement from late eighteenth century to present. Relationship between the labor movement, the labor process, and the state. Race and gender divisions within the labor movement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 460",
+    "title": "Technology and Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social construction of technological systems. Emergent technologies within particular cultural forms, social structures, and political practices, and how these phenomena influence design and use of technology. Technology as a mode of social experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 470",
+    "title": "Sociology, Research, and Community Engagement",
+    "units": 3,
+    "department": "SOC",
+    "description": "Division of labor in sociology, theories of organizations and social change, labor market trends frame internship experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Students will be required to complete 45 hours of outside supervised research or internship.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 480",
+    "title": "Field Internship",
+    "units": 3,
+    "department": "SOC",
+    "description": "Supervised field placement of students in community agencies. Practical experiences related to studies within the sociology curriculum.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SOC",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SOC",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 537",
+    "title": "Political Sociology",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social organization of political processes. Power and authority, social class, primary groups, collective behavior, social change, and other sociological factors considered in their relationships to political processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 539",
+    "title": "Sociology of Education",
+    "units": 3,
+    "department": "SOC",
+    "description": "Social organization of education in the United States and other societies. Structure and functions of educational institutions. Formal and informal education. Class, ethnic, and other social factors affecting the educational process. Implications of educational decision making and testing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 543",
+    "title": "Police, Courts, and Corrections: The Sociology of Crime and Punishment",
+    "units": 3,
+    "department": "SOC",
+    "description": "Historical sociology of the American criminal justice system. Development and functions of police, criminal courts, prisons, parole, and probation. Theories and ideologies of punishment and rehabilitation. Review of contemporary research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 555",
+    "title": "Immigrants and Refugees in Contemporary American Society",
+    "units": 3,
+    "department": "SOC",
+    "description": "Contemporary migration to the United States, especially from Latin America and Asia. Political and economic migration. Immigrant and refugee adaptation. Theoretical controversies, research applications, and policy implications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 596",
+    "title": "Current Topics in Sociology",
+    "units": 1,
+    "department": "SOC",
+    "description": "Selected specialized, controversial or currently relevant topics in sociology. Maximum opportunity provided for student initiative in determining course content and procedures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 597",
+    "title": "Investigation and Report",
+    "units": 3,
+    "department": "SOC",
+    "description": "Analysis of special topics in sociology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 600",
+    "title": "Proseminar in Sociology: Core Course",
+    "units": 1,
+    "department": "SOC",
+    "description": "Orientation to the profession of sociology and the department. Introduction to the skills and knowledge necessary for a professional sociologist.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 601",
+    "title": "Advanced Classical Social Theory: Core Course",
+    "units": 3,
+    "department": "SOC",
+    "description": "Systematic treatment of original European and American classic sociological writings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 605",
+    "title": "Advanced Contemporary Social Theory: Core Course",
+    "units": 3,
+    "department": "SOC",
+    "description": "Examination and analysis of original works in modern/postmodern sociological theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 607",
+    "title": "Advanced Quantitative Methods: Core Course",
+    "units": 3,
+    "department": "SOC",
+    "description": "Research methods appropriate to particular types of sociological projects with emphasis on analysis of descriptive statistics and use of linear and non-linear regression methods. Methods of evaluating reported findings in sociological research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 608",
+    "title": "Advanced Qualitative Methods: Core Course",
+    "units": 3,
+    "department": "SOC",
+    "description": "Qualitative methods for data collection, analysis, and reporting in contemporary sociological research and related disciplines. Study, practice, critiques of techniques; ethnography, interviews, archival research, content analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 695",
+    "title": "Topics in Directed Readings",
+    "units": 3,
+    "department": "SOC",
+    "description": "Selected reading providing coverage of social theory, social disorganization, social organization, social institutions, social psychology (sociological approaches), community research methods, population and demography, or special topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 696",
+    "title": "Experimental Topics",
+    "units": 3,
+    "department": "SOC",
+    "description": "Intensive study in specific areas of sociology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 700",
+    "title": "Seminar in Social Theory",
+    "units": 3,
+    "department": "SOC",
+    "description": "Classics of sociology, American social theory, theory construction, application of theory to research, theoretical models, sociology of knowledge, special topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 401",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 407",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 730",
+    "title": "Seminar in Social Institutions",
+    "units": 3,
+    "department": "SOC",
+    "description": "The family and kinship, political organization, economic organization, religion, education, industry, occupations and professions, social stratification, special topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 407",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SOC 430",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 743",
+    "title": "Seminar in Criminology and Criminal Justice Theory",
+    "units": 3,
+    "department": "SOC",
+    "description": "History of criminological theory and review of leading contemporary theories of crime and criminal justice with focus on interconnection among social context, policy making, and methodological implications of theories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 401",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 796",
+    "title": "Field Practicum",
+    "units": 3,
+    "department": "SOC",
+    "description": "Collaborative research project in service of community agency. Application of sociological theories and methods to policy and research needs of agency.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 797",
+    "title": "Research",
+    "units": 3,
+    "department": "SOC",
+    "description": "Independent investigation of special topics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 407",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SOC 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SOC",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "SOC",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "SOC",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SOC 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "SOC",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

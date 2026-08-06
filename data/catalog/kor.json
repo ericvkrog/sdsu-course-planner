@@ -1,0 +1,226 @@
+[
+  {
+    "course_code": "KOR 101",
+    "title": "Elementary Korean I",
+    "units": 5,
+    "department": "KOR",
+    "description": "Language skills to include reading, writing, listening, speaking Korean at elementary level. Basic sentence patterns, useful expressions, basic communication strategies, relationship between language and culture. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in KOR 102, KOR 201, KOR 202, KOR 301, or a higher-numbered Korean course. Taught in Korean. This course is for true beginners. Students with previous exposure to Korean in school or at home should contact the Korean program advisor for a proficiency assessment. Native speakers of Korean will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Korean course taught in Korean. No credit will be given for KOR 101, KOR 102, KOR 201, KOR 202, KOR 301, and KOR 302 taken out of sequence.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 102",
+    "title": "Elementary Korean II",
+    "units": 5,
+    "department": "KOR",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "KOR 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 201",
+    "title": "Intermediate Korean I",
+    "units": 5,
+    "department": "KOR",
+    "description": "Acquisition of grammatical patterns of complex sentences. Expansion of vocabulary and phrases in expressing ideas in various settings. All four language skills emphasized with cultural competency. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 202",
+    "title": "Intermediate Korean II",
+    "units": 5,
+    "department": "KOR",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "KOR 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "KOR",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 301",
+    "title": "Third Year Korean I",
+    "units": 3,
+    "department": "KOR",
+    "description": "Spoken and written modern Korean. Acquisition of complex sentences with advanced grammatical patterns. Development of fluency in conversing on a variety of topics in everyday situations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in KOR 302. Taught in Korean. No credit will be given for lower division courses taken after successfully completing any upper division Korean course taught in Korean. No credit will be given for KOR 101, KOR 102, KOR 201, KOR 202, KOR 301, and KOR 302 taken out of sequence.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 302",
+    "title": "Third Year Korean II",
+    "units": 3,
+    "department": "KOR",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Korean. No credit will be given for lower division courses taken after successfully completing any upper division Korean course taught in Korean. No credit will be given for KOR 101, KOR 102, KOR 201, KOR 202, KOR 301, and KOR 302 taken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "KOR 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 311",
+    "title": "Advanced Korean Conversation",
+    "units": 3,
+    "department": "KOR",
+    "description": "Development of advanced conversational skills in Korean, building competency in oral communication on diverse topics in everyday and professional situations. Utilization of contemporary Korean language based on authentic materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 321",
+    "title": "Korean Civilization",
+    "units": 3,
+    "department": "KOR",
+    "description": "Development of art, religion, philosophy, political, social institutions through different periods in Korean history. Humanistic dimensions of the Korean mind, traditions, heritage.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 429",
+    "title": "Gender and Sexuality in Korea",
+    "units": 3,
+    "department": "KOR",
+    "description": "Issues related to gender and sexuality in Korean history; gender relations in family, workplace, popular culture, politics; non-normative genders and sexualities; how gender and sexuality intersect with race, nationality, ethnicity, and class; social and political movements regarding gender and sexuality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 430",
+    "title": "Contemporary Korean Culture through Media",
+    "units": 3,
+    "department": "KOR",
+    "description": "Contemporary Korean culture and society as reflected in various modes of media (news, drama, film, instructional technology). Korean culture in neighboring countries and beyond. Historical perspective to modern Korean culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "KOR 490",
+    "title": "Practicum in Teaching Korean as a Second Language",
+    "units": 3,
+    "department": "KOR",
+    "description": "Supervised experience and practicum in basic methods of teaching Korean, culminating in a written report. Students will be assigned to appropriate class sections within selected Korean language classes as tutors under staff supervision.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Korean. No credit will be given for lower division courses taken after successfully completing any upper division Korean course taught in Korean.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 496",
+    "title": "Topics in Korean Studies",
+    "units": 1,
+    "department": "KOR",
+    "description": "Topics in Korean language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "KOR 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "KOR",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Korean. No credit will be given for lower division courses taken after successfully completing any upper division Korean course taught in Korean.",
+    "prerequisites": [
+      {
+        "prereq_code": "KOR 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

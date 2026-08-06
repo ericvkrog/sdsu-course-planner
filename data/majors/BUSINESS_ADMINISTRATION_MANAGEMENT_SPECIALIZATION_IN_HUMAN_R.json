@@ -1,0 +1,69 @@
+{
+  "code": "BUSINESS_ADMINISTRATION_MANAGEMENT_SPECIALIZATION_IN_HUMAN_R",
+  "name": "Business Administration, Management, Specialization in Human Resource Management, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12114",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12114",
+  "poid": "12114",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ACCTG 201",
+      "ACCTG 202",
+      "ECON 101",
+      "ECON 102",
+      "FIN 240",
+      "MIS 180",
+      "MATH 120",
+      "RWS 290",
+      "STAT 119",
+      "ECON 201"
+    ],
+    "Major": [
+      "MGT 352",
+      "MGT 401",
+      "MGT 444",
+      "MGT 461",
+      "MGT 462",
+      "MGT 475",
+      "B A 300",
+      "B A 305",
+      "B A 310",
+      "B A 323",
+      "B A 350",
+      "B A 360",
+      "B A 370",
+      "MGT 405"
+    ],
+    "Upper Division Major Electives": [
+      "MGT 463",
+      "MGT 464",
+      "MGT 466",
+      "MGT 467",
+      "MGT 468",
+      "MIS 301"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MATH 120",
+    "MIS 180",
+    "ACCTG 201",
+    "ECON 201",
+    "ACCTG 202",
+    "FIN 240",
+    "B A 300",
+    "B A 305",
+    "B A 310",
+    "MIS 301",
+    "MGT 463"
+  ],
+  "unresolved_codes": []
+}

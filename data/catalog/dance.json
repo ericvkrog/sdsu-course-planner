@@ -1,0 +1,694 @@
+[
+  {
+    "course_code": "DANCE 100D",
+    "title": "Dance Activity: Yoga for Dancers",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Open to all students. Provides physically skilled instruction and knowledge of yoga.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 101",
+    "title": "Dance Influencers",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Basic characteristics and functions of dance on social media (TikTok, Instagram, and YouTube)–entertainment, entrepreneurship, self-expression, wellness, community building–by examining global dance influencers in hip hop, fitness, cheerleading, jazz, K-pop, drag, vogue, competition, ballet, Latin, Bollywood, and more.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 140",
+    "title": "First Year Seminar",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Introduction to concepts, theories, and best current practices of dance as a contemporary art form.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 145",
+    "title": "Dancemaking Praxis I",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Practice of compositional, generative, and performance aspects of dancemaking from classical to contemporary perspectives. Ecosystem of encouragement, learning, and support through shared processes of making dances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 153",
+    "title": "Performance in Capstone",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Performers in aesthetic, logistical, procedural, and theoretical considerations. Students admitted through audition will perform in capstone projects.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 156",
+    "title": "Contact Improvisation I",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Somatic perspectives on gravity, momentum, weight sharing, and other laws of physics. Duet improvisational skills to include partnering that requires immediacy, responsiveness, and trust.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 181",
+    "title": "Introduction to Dance",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Foundations of dance in Western civilization. Dance as art, therapy, fitness, ritual, and social discourse. Analysis of dance in film, video, and live performance with an appreciation for artistic intent, technique, and style.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 190",
+    "title": "Somatic Movement Practices I",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Body-mind practices focused on first-person experience of movement. Awareness of sensations and perceptions are cultivated through the practice of somatic systems to include Bartenieff Fundamentals, Body-Mind Centering, and the Feldenkrais Method.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 210",
+    "title": "Performance Forum",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Dance master classes, workshops, as related to dance performance, style, and repertoire.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 221",
+    "title": "Ballet I",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Ballet skills for dance majors and minors emphasizing placement, coordination, ballet terminology, and technical principles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 242",
+    "title": "Dance Technique(s) Praxis I",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Praxis of classical, contemporary, cultural, and popular dance forms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Limit of 14 units of any combination of DANCE 242,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 243",
+    "title": "Applied Dance Techniques",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Application of classical, contemporary, cultural, and popular dance forms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 10,
+    "notes": "Limit of 14 units of any combination of",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 245",
+    "title": "Dancemaking II",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Continued practice of compositional, generative, and performance aspects of dancemaking from classical to contemporary perspectives. Ecosystem of encouragement, learning, and support through shared processes of making dances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 145",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 246",
+    "title": "Dancemaking Lab I",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Focuses on development of content, choreography and performance techniques. Student-led initiatives, creative arts research, technical production elements and dance as a way to express, envision, and enact connection, imagination and social change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 281",
+    "title": "Dance, Popular Culture, and Identity",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Sociocultural, political, and aesthetical functions of dance in popular culture, from Hollywood movies to Broadway musicals, television shows, YouTube, and global social media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 289",
+    "title": "Embodied Anatomy",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Experiential and empirical overview of human anatomy and kinesiology. Movement and awareness practices from contemplative and somatic methodologies facilitating subjective, first-person study. Objective analyses include images, models, and physical demonstrations of basic biomechanics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 290",
+    "title": "Body Modalities",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Alternative movement theory systems including an introduction to body modalities of yoga, Pilates, ideokinesis, Alexander and Feldenkrais techniques, Laban movement analysis and authentic movement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 300",
+    "title": "Advanced Yoga for Dancer",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Anatomical awareness, breathing and meditation techniques, and use of imagery to integrate functional and creative potential.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 100D",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 345",
+    "title": "Dancemaking Praxis III",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Traditional and contemporary methods, practices, and principles of choreography and improvisational dancemaking. Practices and orchestrations of all aspects of composition and dance performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 346",
+    "title": "Dancemaking Lab II",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Focuses on development of content, choreography and performance techniques. Student-led initiatives, creative arts research, technical production elements and dance as a way to express, envision, and enact connection, imagination and social change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 356",
+    "title": "Contact Improvisation II",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Continuing somatic approaches to gravity, momentum, weight sharing, and other laws of physics. Further development to duet improvisational skills to include partnering that requires immediacy, responsiveness, and trust.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 156",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 365",
+    "title": "University Dance Company: Major Performance",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Practical experience in University Dance Company including concert performances of dance repertory, production of choreographic works, presentation of master classes and workshops, and participation in major production. Students must enroll in a minimum of two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 371",
+    "title": "Video Dance Production",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Technical applications as applied to dance and dance production. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 380",
+    "title": "Dance History: contemporary Global Contexts",
+    "units": 3,
+    "department": "DANCE",
+    "description": "History of dance from early twentieth century to present in a global context. Political, economic, and cultural forces that have shaped the development of contemporary dance as an art form.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 181",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 382",
+    "title": "Dance in World Cultures",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Dance in selected cultures; geographic, historical, social, and aesthetic factors which have shaped development and function.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 383",
+    "title": "K-pop Dance",
+    "units": 3,
+    "department": "DANCE",
+    "description": "An evolution of K-pop dance from the 1980s’ broadcasting backup dancers to the 2020s’ dance influencers and global dance fandom for community building, self-expression, entrepreneurship, fitness, entertainment, and youth activism on social media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 385",
+    "title": "Dance Pedagogy",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Teaching theory and practice as applied to dance for K-12 and adult populations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 386A",
+    "title": "Dance Practicum I",
+    "units": 2,
+    "department": "DANCE",
+    "description": "An introduction to the dance teaching profession. Practical field study that integrates technical and conceptual content knowledge",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Limit of eight units of DANCE 386A, DANCE 386B, DANCE 486A, DANCE 486B applicable to all Dance degrees.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 386B",
+    "title": "Dance Practicum II",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Building on the practical application skills and theories studied in DANCE 386A, through field observations and practice. Supervised field study integrates professional studies of technical and conceptual knowledge",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Limit of eight units of DANCE 386A, DANCE 386B, DANCE 486A, DANCE 486B applicable to all Dance degrees.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 390",
+    "title": "Somatic Movement Practices II",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Continuing body-mind practices focused on first-person experience of movement. Increasing awareness of sensations and perceptions cultivated through additional practices of somatic systems to include Bartenieff Fundamentals, Body-Mind Centering, and Feldenkrais Method.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 190",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "DANCE 290",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 290",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 398",
+    "title": "Dance Internship",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Supervised practical experience in dance studio management and instruction.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 410",
+    "title": "Performance Forum",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Dance master classes, workshops, as related to dance performance, style, repertoire.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 421",
+    "title": "Ballet II",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Ballet skills for dance majors emphasizing turns, jumps, batterie, extended sequences, and movement quality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 221",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 442",
+    "title": "Dance Technique(s) Praxis II",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Advanced praxis of classical, contemporary, cultural, and popular dance forms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 242",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 443",
+    "title": "Applied Dance Techniques II",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Application of classical, contemporary, cultural, and popular advanced dance forms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 10,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 243",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 453",
+    "title": "Senior Capstone",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Fulfills the Capstone Requirements for B.F.A. candidates in the Dance major. Areas may emphasize either aspects of performance/choreography, pedagogical research and practice or dance research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 345",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 471",
+    "title": "Digital Media Dance Production",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Lighting, set, multi-media, and design for dance. Study of concert multi-media and production for dance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "DANCE 371",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 481W",
+    "title": "Performance Writing",
+    "units": 3,
+    "department": "DANCE",
+    "description": "Examination of contemporary dance through the related perspectives of criticism and aesthetics. This writing-intensive course enhances critical thinking and analytical skills, and develops a vocabulary with which to examine, address, and articulate a fundamentally non-verbal art form.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in DANCE 481. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "DANCE 486A",
+    "title": "Dance Practicum III",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Builds on the practical application skills and theories studied in DANCE 386B field observation and field practice. Supervised field study integrates professional studies of technical and conceptual knowledge",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Limit of eight units of DANCE 386A, DANCE 386B, DANCE 486A, DANCE 486B applicable to all Dance degrees.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 486B",
+    "title": "Dance Practicum IV",
+    "units": 2,
+    "department": "DANCE",
+    "description": "Final Practicum that focuses on student concerns as they begin realistic Early Field Experience in public schools. Emphasis on refining skills, professional ethics, and synthesizing dance knowledge with pedagogical knowledge to prepare for DANCE 453 capstone project.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Final course in a series of practicum courses that fulfills the required 30 and 45 hours (depending on program) of paid or volunteer fieldwork in a California public school. Limit of eight units of DANCE 386A, DANCE 386B, DANCE 486A, DANCE 486B applicable to all Dance degrees.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 696",
+    "title": "Special Topics in Dance",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Specialized study of selected topics in dance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "DANCE 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "DANCE",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

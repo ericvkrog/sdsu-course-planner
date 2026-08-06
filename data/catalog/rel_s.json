@@ -1,0 +1,913 @@
+[
+  {
+    "course_code": "REL S 100",
+    "title": "Exploring the Bible",
+    "units": 3,
+    "department": "REL",
+    "description": "Basic content and themes of the Hebrew Bible and New Testament using methods of contemporary biblical studies. Attention to ancient Near Eastern and Greco-Roman cultural settings as well as the impact of the Bible on contemporary culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 101",
+    "title": "World Religions",
+    "units": 3,
+    "department": "REL",
+    "description": "Major world and selected tribal traditions from primal times to present. Broad historical development and philosophical overview including founders, teachings, beliefs, practices, and interactions with culture, such as art, literature, politics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 103",
+    "title": "American Religious Diversity",
+    "units": 3,
+    "department": "REL",
+    "description": "Religious identities and traditions of diverse peoples living in the US. Major world religions in context of contemporary multicultural America. Religions of indigenous peoples and religious movements which have arisen in US.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 201",
+    "title": "The Body: Human Organisms and Human Meaning",
+    "units": 3,
+    "department": "REL",
+    "description": "How bodies shape our understanding of ourselves and others across multiple spheres of private and public life. The body and identity, social power, spirituality, and creativity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 258",
+    "title": "Death, Dying, and Afterlife",
+    "units": 3,
+    "department": "REL",
+    "description": "Diverse ways religions deal with process of dying and rituals involved in transition of life to death. Grieving, end-of-life decisions, views on afterlife.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "REL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 301",
+    "title": "Hebrew Bible",
+    "units": 3,
+    "department": "REL",
+    "description": "Literature, history, major themes of Bible; methods and concerns of contemporary biblical studies. Situates folkloric, political, heroic, poetic, and religious meanings of texts among their original audiences.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 305",
+    "title": "The New Testament",
+    "units": 3,
+    "department": "REL",
+    "description": "Structure, composition, meaning of New Testament; methods for interpreting Biblical texts. Focus on letters of Paul, post-Pauline writings, Gospel accounts of Jesus’s life.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 310",
+    "title": "The Qur’an",
+    "units": 3,
+    "department": "REL",
+    "description": "Major themes of Qur’an including cosmology, eschatology, good and evil, gender, God and monotheism, People of the Book (Jews and Christians), and role of religion in society. Attention to historical period in which the Qur’an was compiled.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 315",
+    "title": "Yoga: Theory and Practice",
+    "units": 3,
+    "department": "REL",
+    "description": "Cultural, historical, and philosophical aspects of yogic tradition since its earliest history to modern days. Texts, traditions, and prominent figures in yogic tradition providing a conceptual basis for yogic practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 320",
+    "title": "Judaism",
+    "units": 3,
+    "department": "REL",
+    "description": "Jewish history, culture, theory, and practice. Biblical roots of modern Jewish beliefs, basic movements within modern Judaism; Jewish calendar and Jewish life cycle as seen in Hebrew Bible, short stories, and films.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 325",
+    "title": "Christianity",
+    "units": 3,
+    "department": "REL",
+    "description": "Historical development of Christian traditions and major issues confronting Christianity today. Beliefs and practices important to Christian self-understanding, debates over authority of Bible, accommodations to modern science, and relationship with non-Christian religions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 328",
+    "title": "Islam",
+    "units": 3,
+    "department": "REL",
+    "description": "Islamic religion and culture in Asia, Africa, and Near East. History, doctrines, practices, literatures, social and intellectual movements, role of Mohammed, and gender relations within Islam as understood in global context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 330",
+    "title": "Religious Encounters: Christianity, Islam, and Judaism",
+    "units": 3,
+    "department": "REL",
+    "description": "Theological, textual, and political relations among Judaism, Christianity, and Islam. Shared religious practices and stories such as creation, sacrifice, theories of evil and salvation, prophecy and Messianic expectations. Contemporary issues regarding gender, fundamentalism, and rise of nationalism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 337",
+    "title": "Asian Religions in America",
+    "units": 3,
+    "department": "REL",
+    "description": "History, development, and study of Asian American religions. Issues and problems particular to predicaments and situations of Asian Americans and Pacific Islanders in the U.S.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 338",
+    "title": "Buddhism",
+    "units": 3,
+    "department": "REL",
+    "description": "Life and teachings of Buddha, foundational concepts of Theravada, Mahayana, and Vajrayana Buddhism. Buddhist psychology and soteriology, meditative techniques, ethical issues; contemporary Buddhism, particularly in America.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 339",
+    "title": "Religions of India",
+    "units": 3,
+    "department": "REL",
+    "description": "Religious pluralism of Indian sub-continent. Influences of Hinduism, Buddhism, Jainism, Islam, and Sikhism upon each other and social structures of gender, race, and caste. Karma and rebirth, liberation theories and practices, the interaction of mainstream religions with minority and indigenous tribal rituals and beliefs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 341",
+    "title": "Japanese Religions Through Anime",
+    "units": 3,
+    "department": "REL",
+    "description": "Analyze Japanese religions through animation; fundamental values of Japanese religion and society: life/ death; cosmology; human relationships with nature; ritual/ tradition; inter-religious cooperation; understandings of gender, sexuality; analysis of religion across Japanese history; understanding contemporary issues: fetishism, environmentalism, nationalism, terrorism.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 343",
+    "title": "Sociology of Religion",
+    "units": 3,
+    "department": "REL",
+    "description": "Forms of religious belief, knowledge, practice, and experience tied to different social arrangements and historical periods. Consequences of religion for community and society. Secularization and conversion processes in modern industrial societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SOC 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 345",
+    "title": "Religions of East Asia",
+    "units": 3,
+    "department": "REL",
+    "description": "Confucianism, Taoism, and Buddhism in broad historical and cultural context. Focus on Chan (Zen) school of Buddhism, Confucius, neo-Confucianism of Ju Xi, and Taoist masters Lao Ze and Chuang Ze.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 356",
+    "title": "Hip Hop and Religion",
+    "units": 3,
+    "department": "REL",
+    "description": "Study of the intersection between the global hip hop movement and religious traditions from across the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 363",
+    "title": "Religion and the Sciences",
+    "units": 3,
+    "department": "REL",
+    "description": "Views of science and religion as separate, conflicting, complementary, and overlapping. Galileo and the Church, the Scopes Trial, and twentieth century physics provide historical examples for study of assumptions about science and religion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 364",
+    "title": "Religion and Film",
+    "units": 3,
+    "department": "REL",
+    "description": "Representations of religion in modern cinema and analysis of how religious themes and imagery in film reflect societal values, beliefs, and morals.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 365",
+    "title": "Religion and Comics",
+    "units": 3,
+    "department": "REL",
+    "description": "Religion and Comics explores central concerns of religious traditions within the comics medium. Struggles with anti-Semitism, immigrants finding their place, the weight of responsibility for impossible actions, the outcry for justice- each finds rich expression in comics grappling with religion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 367",
+    "title": "Religion and Sports",
+    "units": 3,
+    "department": "REL",
+    "description": "The relationship between religion and sports. To include the history of sport in religious life, modern fandom, and the worship of sports idols.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 368",
+    "title": "Religion and Social Justice",
+    "units": 3,
+    "department": "REL",
+    "description": "Religion’s influential role in twentieth and twenty-first century social justice movements. Concepts, debates, terms surrounding the relationships between social justice and religious practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 373",
+    "title": "Women and the Bible",
+    "units": 3,
+    "department": "REL",
+    "description": "Narrative, legal, and poetic material about women in Bible. How women are depicted by authors of Bible, lives of women in ancient world, how women and women’s studies are transforming biblical studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 376",
+    "title": "Spirituality and Sustainability",
+    "units": 3,
+    "department": "REL",
+    "description": "Cross-cultural religious views of nature. Attention to sacred texts, writings of naturalists, deep ecologists, and ecofeminists on place of nature in spirituality and role of spirituality in ecology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 379",
+    "title": "Religious Violence and Nonviolence",
+    "units": 3,
+    "department": "REL",
+    "description": "Role of religion in terrorism, hate groups, scapegoating, domestic and ecological violence, versus role of religion in peacemaking and movements for social justice. Nonviolent philosophies of Gandhi, Martin Luther King, Jr., and pacifism in Jain, Buddhist, and Christian traditions.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 380",
+    "title": "Atheism, Humanism, and Secularism",
+    "units": 3,
+    "department": "REL",
+    "description": "Atheism, humanism, and secularism in western culture to include the creation of institutions that support and advance these movements. Rise of unbelief in reaction to contemporary religious fundamentalism and attacks on science and reason.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 382",
+    "title": "California Religion and Spirituality",
+    "units": 3,
+    "department": "REL",
+    "description": "Religious and spiritual landscape of California with examination of new and indigenous religious communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 390A",
+    "title": "Religion and Revolution",
+    "units": 3,
+    "department": "REL",
+    "description": "Major religious movements, events, and issues affecting development of US government and institutions. From time of Spanish contact to 1900.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This year-long course satisfies the graduation requirement in American Institutions.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 390B",
+    "title": "Religion and Revolution",
+    "units": 3,
+    "department": "REL",
+    "description": "Major religious movements, events, and issues affecting development of US government and institutions. Religion’s impact in twentieth century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This year-long course satisfies the graduation requirement in American Institutions.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 395",
+    "title": "New Age, Neopagan, and New Religious Movements",
+    "units": 3,
+    "department": "REL",
+    "description": "America’s alternative religions, popularly called “cults” and why they attract spiritual seekers. New religions and transplanted Asian and African religions. Theoretical structures of belief systems and concrete specifics on different groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 396W",
+    "title": "Writing on Religion",
+    "units": 3,
+    "department": "REL",
+    "description": "Theoretical approaches in study of religion and religious phenomena. Writing in discipline of religious studies through analysis of key thinkers in history of religions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 400",
+    "title": "Senior Seminar",
+    "units": 3,
+    "department": "REL",
+    "description": "Senior capstone seminar in major. Discussion and directed reading culminating in formal research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 403",
+    "title": "Happiness: Spiritual and Rational Foundations",
+    "units": 3,
+    "department": "REL",
+    "description": "Exploration of happiness across religious, spiritual, and scientific traditions; study of ancient and modern contemplative practices; connections between spiritual orientation and brain science; relationship between happiness and social justice; integration of psychological, cultural, and societal dimensions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 404",
+    "title": "Religion, Medicine, and Health",
+    "units": 3,
+    "department": "REL",
+    "description": "The relationship between religion, medicine, and health. Concepts and debates related to traditional medicine, religious healing, bioethics, palliative care, and public health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 405",
+    "title": "Faith and Hope",
+    "units": 3,
+    "department": "REL",
+    "description": "Humanities as expressed in religion. Acquisition and/or loss of faith. Questioning of theological systems. Confrontation with death. Nature of hope. Use of signs, symbols, and narratives to generate social structures. Symbolic and mystical systems of meaning. Influence of religion upon culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 406",
+    "title": "God, Gold, and Glory: Religion and Colonial Encounter in the Americas",
+    "units": 3,
+    "department": "REL",
+    "description": "Colonialism, race, and religion in the Americas. The “one drop” rule, colonial evangelizing missions, historical colonial religious forms, and slavery. Capitalism, immigration, and new religious movements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 411",
+    "title": "Understanding Evil",
+    "units": 3,
+    "department": "REL",
+    "description": "Evil and how the language of evil has been used by diverse religious communities. Conceptions and portrayals of demons, hell, Satan, and vampires. Literature on the Holocaust, terrorism, torture, and war.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 424",
+    "title": "The Supernatural in Cross-Cultural Perspective",
+    "units": 3,
+    "department": "REL",
+    "description": "Magic and religion. Conceptions of the supernatural in a cross section of world’s cultures. Anthropological theories relating to supernatural beliefs and practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 458",
+    "title": "Asian Traditions",
+    "units": 3,
+    "department": "REL",
+    "description": "Social, cultural, economic, and political traditions of South, Southeast, and East Asia; how they functioned in theory and practice prior to twentieth century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 470",
+    "title": "American Indian Worldviews and Cosmologies",
+    "units": 3,
+    "department": "REL",
+    "description": "In-depth examination of American Indian cultures, ways of knowing, and worldviews. Comparative analysis of tribal philosophies and orientations with those of Western society. Special emphasis on American Indian worldviews and experiences as related to relationship to land, ceremonial practices, and ethical systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "REL S 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "REL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "REL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 507",
+    "title": "The Reformation",
+    "units": 3,
+    "department": "REL",
+    "description": "Continental Europe, 1500-1648. Split of Christendom; political and intellectual dissent; social fabric of family life; relationship between gender, class, and power; cultural stratification of European society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 575",
+    "title": "Poetry of Devotion: Hindu, Buddhist, Taoist and Sufi Voices",
+    "units": 3,
+    "department": "REL",
+    "description": "An exploration of Hindu, Buddhist, Taoist, and Sufi poetry; close readings of translated poetry, on topics such as longing, wisdom, insight, transcendence, and divine union; framing poets, poems, and poetic traditions within their historical and cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 581",
+    "title": "Major Theme",
+    "units": 3,
+    "department": "REL",
+    "description": "Advanced systematic study of a theme or motif selected from major religious traditions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 583",
+    "title": "Major Tradition",
+    "units": 3,
+    "department": "REL",
+    "description": "Advanced systematic study of the doctrines, practices, and development of a major religious tradition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 596",
+    "title": "Advanced Topics in Religious Studies",
+    "units": 1,
+    "department": "REL",
+    "description": "Advanced selected topics in religious studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate advisor.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "REL",
+    "description": "Directed research in a major problem or movement in religious studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "REL S 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "REL",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

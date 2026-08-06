@@ -1,0 +1,53 @@
+{
+  "code": "ART_EMPHASIS_IN_INTERIOR_ARCHITECTURE_B_A",
+  "name": "Art, Emphasis in Interior Architecture, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11902",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11902",
+  "poid": "11902",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ART 100",
+    "ART 101",
+    "ART 103",
+    "ART 104",
+    "ART 148",
+    "ART 258",
+    "ART 259"
+  ],
+  "upper_required": [
+    "ART 347",
+    "ART 350",
+    "ART 351",
+    "ART 352",
+    "ART 451",
+    "ART 453"
+  ],
+  "elective_areas": {
+    "Three Units Selected from": [
+      "ART 216",
+      "ART 220",
+      "ART 223",
+      "ART 231",
+      "ART 248",
+      "ART 249"
+    ],
+    "Graduation Writing Assessment Requirement": [
+      "ART 391W"
+    ]
+  },
+  "default_electives": [
+    "ART 216",
+    "ART 391W"
+  ],
+  "unresolved_codes": [
+    "ART 547",
+    "ART 552",
+    "ART 553",
+    "ART 557",
+    "ART 569"
+  ]
+}

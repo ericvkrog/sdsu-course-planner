@@ -1,0 +1,527 @@
+[
+  {
+    "course_code": "FRENC 100A",
+    "title": "Elementary French I",
+    "units": 5,
+    "department": "FRENC",
+    "description": "Interactive introduction to speaking, reading, and writing French in a cultural context. Essential language structures for communication at the novice level.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in French. Native speakers of French will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French. No credit will be given for French 100A,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 100B",
+    "title": "Elementary French II",
+    "units": 5,
+    "department": "FRENC",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in French. Native speakers of French will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 201",
+    "title": "Readings in French",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Emphasis on reading.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 210",
+    "title": "French Grammar",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Comprehensive survey of French grammar at the intermediate level. Analysis and use of typical French structures.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "French majors, minors, and International Business majors are encouraged to enroll concurrently in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 221",
+    "title": "Speaking and Writing French",
+    "units": 4,
+    "department": "FRENC",
+    "description": "Prose models, tone, and register; speaking practices, written composition and oral expression. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Taught in French. Native speakers of French will not receive credit for taking lower division courses except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French. No credit will be given for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "FRENC",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 301",
+    "title": "Advanced Grammar and Composition",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Advanced grammar and stylistics, intensive writing practice focused on a theme in French culture.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with eight or more years of schooling in institutions where French was the sole or primary medium of instruction. French 301 and",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 302",
+    "title": "Advanced Grammar and Translation",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Advanced grammar and comparative stylistics of French and English, taught through translation.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "FRENC 301",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 304",
+    "title": "Phonetics and Oral Proficiency",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Phonetic theory, listening, intonation and transcription practice, corrective phonetic and intonation exercises. Study of varieties of Francophone oral expression.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 305A",
+    "title": "Survey of French Literature",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Important movements, authors, and works in French literature from the Middle Ages to the Revolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 305B",
+    "title": "Survey of French Literature",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Important movements, authors, and works in French literature from the Revolution to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 421",
+    "title": "French Civilization",
+    "units": 3,
+    "department": "FRENC",
+    "description": "French civilization from Middle Ages to the present. Artistic, intellectual achievements and cultural movements.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 422",
+    "title": "Contemporary France",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Contemporary France, emphasizing political, economic and social structures as well as artistic, intellectual, and cultural trends.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 423",
+    "title": "Commercial French",
+    "units": 3,
+    "department": "FRENC",
+    "description": "French commercial practices and language, the enterprise, correspondence, advertising, telecommunications, banking, transportation, import-export, insurance, accounting, stock market, preparation for the Certificate offered by the Paris Chamber of Commerce.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 424",
+    "title": "French Cinema and Theory",
+    "units": 3,
+    "department": "FRENC",
+    "description": "French cinema emphasizing social, political, and cultural changes in modern France. Topics include film theory, the new wave, history in cinema, influence of feminism, French colonialism, race, class, and gender in modern culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 465",
+    "title": "Africa in Literature and Film",
+    "units": 3,
+    "department": "FRENC",
+    "description": "African cultural history through literature and film. Consistency/variety of African cultural expressions and conventions in literature and film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 495",
+    "title": "French Internship",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Practical work experience in a field related to French and Francophone studies. Work done under joint direction of activity sponsor and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Approved international internships may count towards international requirement for major. Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 496",
+    "title": "Topics in French Studies",
+    "units": 1,
+    "department": "FRENC",
+    "description": "Topics in French literature, culture and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FRENC",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "This course is intended only for students who are currently enrolled in or who already have credit for all upper division courses in French available in any given semester. Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 501",
+    "title": "Translation",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Stylistic comparison of French and English through translation of a variety of prose styles from English to French and from French to English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in French. No credit will be given for lower division courses taken after successfully completing any upper division French course taught in French.",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 520",
+    "title": "French and Francophone Literary Studies",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Specialized study of a century, genre, movement or theme in French and Francophone literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 530",
+    "title": "French and Francophone Cultural Studies",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Specialized study of artistic and intellectual trends, customs, and politics in French and Francophone culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "FRENC 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 421",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FRENC 422",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FRENC 596",
+    "title": "Topics in French Studies",
+    "units": 1,
+    "department": "FRENC",
+    "description": "Topics in French literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 621",
+    "title": "Critical Methods",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Methods and theories of critical analysis and their application to the works of a major French author or literary genre.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 631",
+    "title": "Issues in French and Francophone Studies",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Study of a theme, theoretical or literary movement, or historical moment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 696",
+    "title": "Topics in French Studies",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Intensive study in specific areas of French.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 700",
+    "title": "Seminar: A Major French or Francophone Author",
+    "units": 3,
+    "department": "FRENC",
+    "description": "In-depth study of works of a major French or Francophone author.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 710",
+    "title": "Seminar in a Literary Genre",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Study of a specific literary genre, e.g. poetry, novel, theater.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 720",
+    "title": "Seminar in French and Francophone Culture and Civilization",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Study of a specific topic in French and Francophone culture and civilization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FRENC",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "FRENC",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "FRENC",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FRENC 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "FRENC",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

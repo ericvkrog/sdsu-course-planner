@@ -1,0 +1,28 @@
+[
+  {
+    "course_code": "BQS 601",
+    "title": "Biomedical Quality Systems",
+    "units": 3,
+    "department": "BQS",
+    "description": "Global view of biomedical industry and Safe Medical Devices Act from quality perspective to provide foundation in field of biomedical quality systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "BQS 696",
+    "title": "Advanced Topics in Biomedical Quality Systems",
+    "units": 1,
+    "department": "BQS",
+    "description": "Current issues and topics in quality systems evaluated and discussed. Recent developments and changes in selected areas of quality systems presented by faculty and industry professionals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "code": "NURSING_B_S",
+  "name": "Nursing, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12151",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12151",
+  "poid": "12151",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "NURS 307W"
+  ],
+  "lower_division": [
+    "PSY 101",
+    "PSY 230"
+  ],
+  "upper_required": [
+    "NURS 307W",
+    "NURS 300",
+    "NURS 304",
+    "NURS 316",
+    "NURS 321",
+    "NURS 354",
+    "NURS 356",
+    "NURS 401",
+    "NURS 416",
+    "NURS 421"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "BIOL 211",
+      "BIOL 211L",
+      "BIOL 212",
+      "BIOL 261",
+      "CHEM 102",
+      "STAT 250",
+      "BIOL 215",
+      "PSY 280",
+      "COMM 103",
+      "RWS 100",
+      "RWS 200",
+      "NURS 202",
+      "NURS 206",
+      "NURS 208",
+      "NURS 219",
+      "NURS 221"
+    ]
+  },
+  "default_electives": [
+    "RWS 100",
+    "CHEM 102",
+    "COMM 103",
+    "RWS 200",
+    "NURS 202",
+    "NURS 206",
+    "NURS 208",
+    "BIOL 211",
+    "BIOL 211L",
+    "BIOL 212",
+    "BIOL 215",
+    "NURS 219",
+    "NURS 221",
+    "STAT 250",
+    "BIOL 261"
+  ],
+  "unresolved_codes": []
+}

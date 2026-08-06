@@ -1,0 +1,1619 @@
+[
+  {
+    "course_code": "CHEM 100",
+    "title": "Preparation for General Chemistry",
+    "units": 4,
+    "department": "CHEM",
+    "description": "Preparation for general chemistry. Emphasis on conceptual understanding of chemical principles, quantitative problem solving, and skills needed for success in general chemistry course and laboratory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in\u00a0CHEM 200.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 102",
+    "title": "Introduction to General, Organic, and Biological Chemistry",
+    "units": 5,
+    "department": "CHEM",
+    "description": "Concepts of general, organic, and biological chemistry necessary to understanding human biochemistry and pharmacology, including chemical bonding, stereochemistry, acidity, thermodynamics, carbohydrates, lipids, enzymes, proteins, and nucleic acids.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "Open only to students applying for entrance to the nursing major.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 103",
+    "title": "Introduction to General Chemistry with Laboratory",
+    "units": 4,
+    "department": "CHEM",
+    "description": "Survey of the fundamental chemical principles of matter,\u00a0presenting students with the elementary chemical concepts used to illustrate nature and the development of modern scientific thought.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is offered as a GE course to students in non-STEM majors and fulfills the General Education Natural Sciences and Quantitative Reasoning requirement. The course is also offered as a General Chemistry course to students in STEM majors that do not require taking Chemistry 200 (e.g. Food and Nutrition major). This course is also recommended as a preparatory course for students with limited mathematics and/or science background who plan to take higher level chemistry courses such as Chemistry 100, or students who plan to take the Chemistry Placement Exam for placement in Chemistry 200.\u00a0Not open to students with credit in\u00a0Chemistry 100\u00a0or 200.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 130",
+    "title": "Elementary Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Introduction to compounds of carbon including both aliphatic and aromatic substances.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CHEM 231 or CHEM 232",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 160",
+    "title": "Introductory Biochemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Fundamental principles of the chemistry of life. This course is intended primarily for majors in nutrition and related fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable for admission to the School of Nursing.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 130",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 162",
+    "title": "Saving Our Planet with Sustainable Biochemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Highly sustainable biochemical processes such as apiary science (beekeeping), edible insects, smart textiles. Food production systems such as, aquaponics, hydroponics, and humane poultry egg production from food waste. Upon global implementation, these processes may help save our planet.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 200",
+    "title": "General Chemistry",
+    "units": 5,
+    "department": "CHEM",
+    "description": "General principles of chemistry with emphasis on inorganic materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 201",
+    "title": "General Chemistry",
+    "units": 5,
+    "department": "CHEM",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 202",
+    "title": "General Chemistry for Engineers",
+    "units": 4,
+    "department": "CHEM",
+    "description": "General principles of chemistry with emphasis on inorganic and physical chemistry and chemistry basics for engineers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 210",
+    "title": "Chemical Applications of Calculus and Physics",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Chemical problems that utilize calculus and physics relevant to upper division chemistry. Chemical rate laws, chemical thermodynamics, and molecular quantum mechanics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended if a grade of C- (1.7) or below was received in MATH 150, MATH 151, MATH 252, PHYS 195, or PHYS 196.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 232",
+    "title": "Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Properties and synthesis of organic compounds including reaction mechanisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Chemistry 231.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 232L",
+    "title": "Organic Chemistry Laboratory",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Properties and synthesis of organic compounds including methods of separation and purification techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in Chemistry 231.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 251",
+    "title": "Analytical Chemistry",
+    "units": 5,
+    "department": "CHEM",
+    "description": "Introduction to the theory and practice of analytical chemistry including gravimetric, volumetric, and instrumental methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 300",
+    "title": "Forensic Science",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Techniques and case studies of mysteries solved by molecular analysis: chemical and DNA analysis of crime scenes, biochemical explanations of mysterious deaths and accidents, molecular hallmarks of forgery, chemical methods in crime deterrence, chemical causes of fires and structure failure.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course cannot be applied to the minor or major in chemistry.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 100",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 308",
+    "title": "Chemistry as a Unifying Science",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Atomic-molecular theory of matter; use of concepts of chemistry to explain observable phenomena in everyday life, including physical properties and chemical changes; connections between chemistry and biology, earth science, and physical science.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course cannot be applied to the minor or major in chemistry.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 362",
+    "title": "Confronting Cancer",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Humankind\u2019s efforts to combat the diseases known as cancer. Approaches to treatment, future directions, historical perspectives and current understanding through the lenses of medicine, science, and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course cannnot be applied to the minor or major in chemistry.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 365",
+    "title": "Fundamentals of Biochemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Basic concepts of modern integrated biochemistry, cell and molecular biology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 203L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 410A",
+    "title": "Physical Chemistry",
+    "units": 4,
+    "department": "CHEM",
+    "description": "Theoretical principles of chemistry with emphasis on mathematical relations. Theory and practice in acquisition and statistical analysis of physical measurements on chemical systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 180B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 410B",
+    "title": "Physical Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Theoretical principles of chemistry with emphasis on mathematical relations. Theory and practice in acquisition and statistical analysis of physical measurements on chemical systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 411",
+    "title": "Chemical Thermodynamics",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Chemical thermodynamics and statistical thermodynamics, including entropy, reaction enthalpy and free energy, electrochemical processes, engines and other thermodynamic cycles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 711.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 412",
+    "title": "Chemical Kinetics",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Theory of rate processes; applications of kinetics to the study of reaction mechanisms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 712.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 413",
+    "title": "Quantum Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Quantum mechanics of atomic and molecular systems; applications to chemical bonding theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 713.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 417",
+    "title": "Advanced Physical Chemistry Laboratory",
+    "units": 2,
+    "department": "CHEM",
+    "description": "Experimental physical chemistry. Emphasis on interpretation and statistical evaluation of instrument-derived results, record keeping, report writing, and individual initiative in observing results.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 427",
+    "title": "Inorganic Chemistry Laboratory",
+    "units": 2,
+    "department": "CHEM",
+    "description": "Laboratory course designed to introduce students to techniques used in synthesis, characterization, and manipulation of inorganic compounds and materials.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 520A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 432",
+    "title": "Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Chemistry 431.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 432L",
+    "title": "Organic Chemistry Laboratory",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in Chemistry 431.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 457",
+    "title": "Instrumental Methods of Chemical Analysis Laboratory",
+    "units": 2,
+    "department": "CHEM",
+    "description": "Application of instrumental methods of chemical separations and analysis frequently used in all disciplines of chemistry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 496",
+    "title": "Selected Topics in Chemistry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Selected topics in modern chemistry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 497",
+    "title": "Undergraduate Research",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Individual laboratory investigation.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 498",
+    "title": "Senior Project",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Individual literature and/or laboratory investigation and report on a problem.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 510",
+    "title": "Advanced Physical Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Problems in chemical thermodynamics, statistical mechanics, chemical kinetics, quantum chemistry and molecular structure and spectroscopy, with applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 515",
+    "title": "Computational Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Theory and practice of computational methods applied to chemical problems, including electronic structure calculations, Monte Carlo methods, molecular dynamics simulations, and reaction modeling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 520A",
+    "title": "Inorganic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Nature of chemical bond and an advanced systematic study of representative and transition elements and their compounds.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 520B",
+    "title": "Inorganic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Nature of chemical bond and an advanced systematic study of representative and transition elements and their compounds.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 520A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 530",
+    "title": "Physical Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Attractive and repulsive interactions between molecules, experimental methods and applications. Kinetic and thermodynamic analysis of reaction mechanisms and noncovalent binding. Qualitative molecular orbital theory, strain and stability, structure and bonding of organic molecules.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open for post-baccalaureate credit or to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 531",
+    "title": "Synthetic Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Modern methods, strategies, and mechanisms in advanced organic synthesis. Retrosynthetic analysis of and synthetic routes towards biologically important compounds.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open for post-baccalaureate credit or to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 534",
+    "title": "Organometallics",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Advanced or special topics in organometallic chemistry and applications to organic chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open for post-baccalaureate credit or to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 457",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 536",
+    "title": "Spectroscopic Characterization of Organic Compounds",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Organic compounds using physical and spectroscopic methods. Establishment of purity and yields.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open for post-baccalaureate credit or to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 550",
+    "title": "Instrumental Methods of Chemical Analysis",
+    "units": 2,
+    "department": "CHEM",
+    "description": "Theory and application of instrumental methods of chemical separation and analysis most frequently used in all disciplines of chemistry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 457",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 417",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 311",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 560",
+    "title": "General Biochemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "The structure, function, metabolism, and thermodynamic relationships of chemical entities in living systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 562",
+    "title": "Intermediary Metabolism",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Catabolic and biosynthetic pathways of carbohydrate, lipid, amino acid, and nucleotide metabolism; TCA cycle, mitochondrial and chloroplast electron transport chains, ATP generation and their interactions and control.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 563",
+    "title": "Nucleic Acid Function and Protein Synthesis",
+    "units": 3,
+    "department": "CHEM",
+    "description": "DNA replication, RNA transcription, RNA processing, and protein translation, including chemical mechanisms of synthesis and cellular mechanisms of regulating gene expression; genomics, recombinant DNA, and DNA topology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 563B",
+    "title": "Epitranscriptomics",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Advanced biochemistry of nucleic acids to include epitranscriptomics, posttranscriptional editing and modification of RNA; biosynthesis, detection and functional characterization of modified nucleotides; epitranscriptomic sequencing technology, epitranscriptomic code and its alterations in human disease.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 563",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 564",
+    "title": "Receptor Biochemistry and Protein Modification",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Biochemical study of receptors, second messengers, and cellular proteins that participate in extracellular and intracellular communication, with focus on protein structures, post-translational modifications, and biochemical mechanisms that regulate receptors and effector enzymes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 567",
+    "title": "Biochemistry Laboratory",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Theory and practice of procedures used in study of life at molecular level. Includes purification and characterization of enzymes, isolation of cell components, and use of radioactive tracer techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 571",
+    "title": "Topics in Environmental Chemistry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Fundamentals of chemistry applied to environmental problems. Chemistry of ecosystems; analysis of natural constituents and pollutants; sampling methods; transport of contaminants; regulations and public policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 232",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 232L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 251",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 596",
+    "title": "Advanced Special Topics in Chemistry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Advanced selected topics in modern chemistry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 695",
+    "title": "Graduate Education in Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Skills and knowledge needed for success in a chemistry graduate program and development as a scientist. Topics to include introduction to department research, ethics, laboratory safety, mentorship, campus resources, career planning, and effective means of finding and communicating chemical information.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 696",
+    "title": "Selected Topics in Chemistry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Intensive study in specific areas of chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 711",
+    "title": "Chemical Thermodynamics",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Chemical thermodynamics and introduction to statistical thermodynamics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 411.",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 712",
+    "title": "Chemical Kinetics",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Theory of rate processes; applications of kinetics to the study of reaction mechanisms.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 412.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 713",
+    "title": "Quantum Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Quantum mechanics of atomic and molecular systems; applications to chemical bonding theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit or concurrent enrollment in CHEM 413.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 730",
+    "title": "Physical Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Attractive and repulsive interactions between molecules, experimental methods and applications. Kinetic and thermodynamic analysis of reaction mechanisms and noncovalent binding. Qualitative molecular orbital theory, strain and stability, structure and bonding of organic molecules.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 731",
+    "title": "Synthetic Organic Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Modern methods, strategies, and mechanisms in advanced organic synthesis. Retrosynthetic analysis of and synthetic routes towards biologically important compounds.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 734",
+    "title": "Organometallics",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Advanced or special topics in organometallic chemistry and applications to organic chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 457",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 736",
+    "title": "Spectroscopic Characterization of Organic Compounds",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Organic compounds using physical and spectroscopic methods. Establishment of purity and yields.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 750",
+    "title": "Advanced Topics in Analytical Chemistry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Selected topics from the field of analytical chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 751",
+    "title": "Separations Science",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Theoretical basis for separation techniques important in analytical chemistry. Chemical and physical interactions between components of different classes of separation systems, including selection and optimization of operational parameters.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 752",
+    "title": "Mass Spectrometry",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Theory and practice in analysis of volatile and nonvolatile organic and inorganic compounds, basic design principles, theory of ionization processes; interpretation of mass spectra.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 410B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 753",
+    "title": "Analytical Spectroscopy",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Theory and application of atomic and molecular absorption, emission and fluorescence methods. Modern optical instrumentation and methods of analysis. Nonlinear laser spectroscopic methods in chemical analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 754",
+    "title": "Advances in Bioanalytical Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Traditional methods such as enzyme assays, biosensors, and separations will be compared with advanced techniques including microfluidics, next-generation sequencing, and surface-based analyses. Special focus will address combinatorial library creation and high throughput screening in early-stage drug discovery using contemporary bioanalysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 761",
+    "title": "Biophysical Chemistry",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Biological macromolecules to include absorption/circular dichroism/ emission spectroscopy, calorimetry, centrifugation, electrophoresis, light/small-angle x-ray/neutron scattering, mass spectrometry, and x-ray crystallography.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 765",
+    "title": "Molecular Mechanisms of Human Disease",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Protein dysfunction in cancer, HIV, and prion disorders. Altered catalytic function to include drug design/pharmacokinetics/ADME, global kinetics fitting software, hydrogen-deuterium exchange mass spectrometry, pre-steady-state kinetics, x-ray crystallography, and structural manipulation programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 365",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM 781",
+    "title": "Scientific Approaches to Teaching and Learning",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Research and best practices in undergraduate teaching and learning science. Development of a teaching philosophy, discipline-based education research literature, reflective teaching practices, student assessment techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 790",
+    "title": "Seminar",
+    "units": 1,
+    "department": "CHEM",
+    "description": "An intensive study in advanced chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 791",
+    "title": "Research Seminar",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Presentation of current research by students working towards M.S. degrees. Must be completed before end of second year of study.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 792",
+    "title": "Bibliography",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Exercise in the use of basic reference books, journals, and specialized bibliographies, preparatory to the writing of a master\u2019s project or thesis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 795",
+    "title": "Chemistry Seminar",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Advanced study in all fields of chemistry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 797",
+    "title": "Research",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Research in one of the fields of chemistry.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "CHEM",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "CHEM",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Independent investigation in the general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CHEM 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "CHEM",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "code": "CHILD_DEVELOPMENT_B_S",
+  "name": "Child Development, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11947",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11947",
+  "poid": "11947",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "CFD 335",
+    "CFD 354",
+    "CFD 370",
+    "CFD 375A",
+    "CFD 375B",
+    "CFD 375C",
+    "CFD 475",
+    "CFD 537",
+    "CFD 560",
+    "CFD 575",
+    "CFD 578",
+    "CFD 590",
+    "CFD 598",
+    "CFD 378A",
+    "CFD 378B",
+    "CFD 378C",
+    "CFD 378D"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "CFD 135",
+      "CFD 270",
+      "CFD 270L",
+      "CFD 272",
+      "CFD 275",
+      "CFD 278",
+      "BIOL 100",
+      "PSY 101",
+      "SOC 101",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119",
+      "STAT 250"
+    ],
+    "Electives": [
+      "CFD 377",
+      "CFD 380",
+      "CFD 390",
+      "CFD 404",
+      "CFD 437",
+      "CFD 450",
+      "CFD 477",
+      "CFD 497",
+      "CFD 536",
+      "CFD 577",
+      "CFD 580",
+      "CFD 585",
+      "CFD 595",
+      "CFD 596",
+      "ED 451",
+      "CFD 499",
+      "ED 450"
+    ]
+  },
+  "default_electives": [
+    "BIOL 100",
+    "CFD 377"
+  ],
+  "unresolved_codes": []
+}

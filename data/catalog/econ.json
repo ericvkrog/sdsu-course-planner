@@ -1,0 +1,1171 @@
+[
+  {
+    "course_code": "ECON 101",
+    "title": "Principles of Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis including national income analysis, money and banking, business cycles, and economic stabilization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 102",
+    "title": "Principles of Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on direction of production, allocation of resources, and distribution of income, through the price system (microanalysis); and international economics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 201",
+    "title": "Statistical Methods",
+    "units": 3,
+    "department": "ECON",
+    "description": "Introduction to descriptive statistics, statistical inference, regression and correlation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ECON",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 301",
+    "title": "Introduction to Applied Econometrics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Statistical techniques to estimate and test economic relationships. To include classical single-equation regression model and multiple regression models, hypothesis testing. Applications using real economic data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 311",
+    "title": "History of Economic Thought",
+    "units": 3,
+    "department": "ECON",
+    "description": "The development of economics. Contributions of schools of thought and individual writers are examined with regard to their influence on economic theory and policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 320",
+    "title": "Intermediate Macroeconomic Theory",
+    "units": 3,
+    "department": "ECON",
+    "description": "Determination of output, income, unemployment, and inflation. Policies for economic stabilization and growth in an open economy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 321",
+    "title": "Intermediate Microeconomic Theory",
+    "units": 3,
+    "department": "ECON",
+    "description": "Behavior of consumers, firms and industries with respect to product and input markets. Price system and other models of economic decision making. Economic efficiency and welfare; property rights and externalities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 330",
+    "title": "Comparative Economic Systems",
+    "units": 3,
+    "department": "ECON",
+    "description": "Current economic systems from primarily laissez-faire to state-controlled market economies with a focus on nations of Asia, Europe and Latin America; Soviet-style economic planning and transition to a market economy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 338",
+    "title": "Economic History of the United States",
+    "units": 3,
+    "department": "ECON",
+    "description": "American economic development and national legislation. Studies of agriculture, industry, the labor force, and national output.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 349",
+    "title": "Economics for Teachers",
+    "units": 3,
+    "department": "ECON",
+    "description": "Micro and macroeconomics with emphasis on developing economic literacy and economic way of thinking.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 360",
+    "title": "International Economic Problems",
+    "units": 3,
+    "department": "ECON",
+    "description": "International problems, economic communities, organizations, and other selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 365",
+    "title": "Economics of Underdeveloped Areas",
+    "units": 3,
+    "department": "ECON",
+    "description": "The nature and causes of economic underdevelopment. Problems of and policies for the economic development of underdeveloped areas of the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 380",
+    "title": "Labor Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Labor force and mobility, human capital, labor demand, discrimination, determination of compensation and employment, productivity, impact of labor organizations, labor disputes, and social legislation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 381",
+    "title": "Economics of Immigration",
+    "units": 3,
+    "department": "ECON",
+    "description": "Examination and history of immigration policy in the United States and its intended and unintended consequences. Debates over economic assimilation, immigration policy, impact of native labor market, and perceptions about immigrants and the welfare system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 382",
+    "title": "Economics of Work, Marriage, and Family",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic analysis of marriage and labor supply; family-related changes in work behavior; gender differences in occupations and earnings; welfare, work and family policies in the U.S. and internationally; macroeconomic analysis of household structure and economy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 401",
+    "title": "Public Finance",
+    "units": 3,
+    "department": "ECON",
+    "description": "Principles and practices of taxation and public expenditures. Economic effects of public spending, debts and taxation. Financing social security and other services. Fiscal policy and prosperity. Relation to inflation and deflation. Special emphasis on social problems involved.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 403",
+    "title": "Health Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Apply economic principles and statistical techniques to production of health and delivery of health services. Business structures of delivery systems and incentives for providers and patients. Compare international health insurance systems, examine U.S. reforms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 404",
+    "title": "Economic Inequality",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic inequality in terms of how it is measured, its impact, its causes and evaluating potential policies that address inequality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 406",
+    "title": "Economics of Sports",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic issues in professional and college team sports. Emphasis on monopoly and monopsony behavior by sports leagues and teams, public subsidies for sports facilities, ticket pricing, and NCAA rules and regulations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 422",
+    "title": "Business Cycles",
+    "units": 3,
+    "department": "ECON",
+    "description": "Fundamental factors in economic fluctuations. Examination of business cycle theories, and various policy proposals for economic stabilization. A consideration of current economic conditions and an examination of methods employed in preparing national economic forecasts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 441",
+    "title": "Introduction to Econometrics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Econometric techniques with emphasis on single-equation models. Applied skills learned through computer assignments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 449W",
+    "title": "Economic Literacy",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic way of thinking through writing. Effective communication of economic concepts and analysis to different audiences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 455",
+    "title": "Environmental Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Relation of environmental amenities and pollution to economic behavior and institutions. Environmental problems in externalities, public goods, and common-property resources. Environmental policy from perspective of public economics: regulation, benefit-cost analysis, valuation of non-market goods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 456",
+    "title": "Economics of Natural Resources",
+    "units": 3,
+    "department": "ECON",
+    "description": "Examination of efficient extraction and use of natural resources from an economic perspective. Fundamental and practical differences between renewable and nonrenewable resources. Fossil fuel extraction, mining, renewable energy, forestry, fisheries, and conservation policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 460",
+    "title": "Economics of Financial Crises",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic theories of crises and economic histories in qualitative and quantitative perspective to include recent crises in US and Europe. Empirical analysis of variety, frequency, and consequences. Policies for ending crises.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 463",
+    "title": "Economic Development Before 1900",
+    "units": 3,
+    "department": "ECON",
+    "description": "Emergence of market institutions in medieval Europe; comparisons with China, India, and Islamic world. Origin and evolution of market institutions, using concepts from new institutional economics, game theory, and behavioral economics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 464",
+    "title": "Economic Problems of Latin America",
+    "units": 3,
+    "department": "ECON",
+    "description": "Economic development, institutions, and problems of Latin America in the context of a global economy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 466",
+    "title": "Economics of the Middle East",
+    "units": 3,
+    "department": "ECON",
+    "description": "Theories and practices of economic development in the Middle East to include economic history, colonial legacies, natural resource curse, migration, state capitalism, and economics of conflict.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 485",
+    "title": "Law and Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Impact of legal rules on implicit prices for consumer and firm behavior, distribution of resources, economic efficiency. Background on laws surrounding property, contracts, torts, the judicial process, and crime, with focus on effects of laws on consumers and producers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 487",
+    "title": "Economics of Strategy",
+    "units": 3,
+    "department": "ECON",
+    "description": "Game theory and analysis of strategic decision-making. Non-cooperative games in the context of business, bargaining among agents, political decision-making, voting, etc.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 490",
+    "title": "Money and Banking",
+    "units": 3,
+    "department": "ECON",
+    "description": "Money’s measurement and use; monetary theory and policy; returns on financial instruments; international payments and foreign exchange; evolution of banking institutions, and global competition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 495",
+    "title": "Economics Internship",
+    "units": 3,
+    "department": "ECON",
+    "description": "Internship with business firms, nonprofit organizations and government agencies. Work done under joint direction of activity supervisor and instructor. Project report and internship conferences required.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ECON",
+    "description": "Selected topics in economics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ECON",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 507",
+    "title": "Mathematical Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Mathematical concepts as tools in understanding, developing, and illustrating economic theories. Applications of calculus and linear equations to constrained optimization, macro models, elasticity, general equilibrium, and input-output analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 561",
+    "title": "International Trade",
+    "units": 3,
+    "department": "ECON",
+    "description": "Theory and policy of international trade with examples drawn from current issues. Models of determinants of trade. Free trade and protectionism. Trade and economic development. Trading blocs, the European community, GATT and U.S. trade policy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 592",
+    "title": "International Monetary Theory and Policy",
+    "units": 3,
+    "department": "ECON",
+    "description": "International monetary spillovers from domestic macroeconomic policies. Foreign exchange markets and balance of payments. Fixed, flexible and managed exchange rates. Bretton Woods, international monetary fund, and world debt crisis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 490",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 596",
+    "title": "Experimental Topics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Intensive study in specific areas of economics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 630",
+    "title": "Microeconomic Theory",
+    "units": 3,
+    "department": "ECON",
+    "description": "Theories of the consumer, the firm, and the market. Topics in welfare and general equilibrium. Duality and uncertainty.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 631",
+    "title": "Applied Microeconomic Methods",
+    "units": 3,
+    "department": "ECON",
+    "description": "Decision-making techniques in applied microeconomics including cost-benefit analysis, choice under uncertainty and applied game theory techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 630",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 640",
+    "title": "Econometrics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Measurement in economics. Use of economic models involving multiple regression analysis, simultaneous equation systems, and time series analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 321",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 641",
+    "title": "Applied Research in Econometrics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Econometric applications and techniques including discrete choice, panel data simultaneous equations and time series. Data analysis and statistical software training in STATA, SAS, and SPSS.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 650",
+    "title": "Statistical Tools for Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Stata and R data analysis and programming to construct datasets, conduct econometric analysis, perform simulations/machine learning, and visualize data.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 441",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 696",
+    "title": "Experimental Topics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Intensive study in specific areas of economics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 700",
+    "title": "Seminar in Microeconomic Applications",
+    "units": 3,
+    "department": "ECON",
+    "description": "Microeconomic applications to individual, firm, or government. Seminars to include topics in economic issues in demography, experimental economics, industrial organization and firm behavior, and labor economics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 630",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 710",
+    "title": "Seminar in Public Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Government in a market economy. Impact on individual and firm behavior. Seminars to include topics in environmental Issues, international trade and commercial policy, public expenditures, regulation, tax policy, and urban and regional economies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 630",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 730",
+    "title": "Seminar in Macroeconomic Policy",
+    "units": 3,
+    "department": "ECON",
+    "description": "Applications of macroeconomics to open economics. Seminars to include topics in business cycles, international monetary policy, macroeconomic modeling and prediction, national monetary institutions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 740",
+    "title": "Seminar in Applied Economic Research",
+    "units": 3,
+    "department": "ECON",
+    "description": "Advanced treatment of research design and methodology. Application of empirical techniques to selected problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 795",
+    "title": "Internship in Economics",
+    "units": 3,
+    "department": "ECON",
+    "description": "Students will be assigned to various jobs in which economic theory can be applied to decision making. Supervision will be shared by the graduate adviser and on-the-job supervisor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECON 630",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECON 797",
+    "title": "Research",
+    "units": 3,
+    "department": "ECON",
+    "description": "Independent research project in an area of economics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ECON",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "ECON",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "ECON",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECON 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "ECON",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

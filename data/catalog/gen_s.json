@@ -1,0 +1,394 @@
+[
+  {
+    "course_code": "GEN S 100A",
+    "title": "First Year Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "Provides opportunities for students to interact with faculty and staff in a small seminar setting. Students develop learning strategies, time management, and interpersonal skills, and are introduced to various campus resources (e.g., library, advising, career, health and wellness services, etc.)",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 100B",
+    "title": "First Year Seminar: Learning in Communities",
+    "units": 1,
+    "department": "GEN",
+    "description": "Provides opportunities for students to interact with faculty and staff in a small seminar setting. Students develop learning strategies, time management, and interpersonal skills, and are introduced to various campus resources (e.g., library, advising, career, health and wellness services, etc.).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 100C",
+    "title": "First Year Seminar: Living-Learning Community",
+    "units": 1,
+    "department": "GEN",
+    "description": "Provides opportunities for students to interact with faculty and staff in a small seminar setting. Students develop learning strategies, time management, and interpersonal skills, and are introduced to various campus resources (e.g., library, advising, career, health and wellness services, etc.).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 110",
+    "title": "Athletics Freshman Foundation Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "Establishes foundation for student-athlete first-year success through academic enhancement, transition to college, resources, and relationships. Promotes Aztecs Going Pro (AGP) foundational pillars of personal growth, career development, and civic engagement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 140",
+    "title": "Navigating College to Career",
+    "units": 3,
+    "department": "GEN",
+    "description": "Explores career pathways through critical reflection, evidence-based learning, and applied data analysis. Students will prepare for lifelong professional development by creating an individualized, evidence-based, data-informed plan that acknowledges evolving job markets, emergent challenges, and dynamic economic contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 147",
+    "title": "Data Literacy: Human Choices Behind the Numbers",
+    "units": 3,
+    "department": "GEN",
+    "description": "How social scientists use data, presentation of empirical analysis, and role of assumptions and choices in analyses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 150",
+    "title": "Building Your Future Self for Success in College and Beyond",
+    "units": 3,
+    "department": "GEN",
+    "description": "First-year students will meet one another where they are, build community, and explore how the latest interdisciplinary research, strategies, and tools can help cultivate success in academic and life pursuits as they develop and realize their future selves.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 170",
+    "title": "Introduction to Interdisciplinarity",
+    "units": 3,
+    "department": "GEN",
+    "description": "Examination of the history of interdisciplinary studies as an academic field. Exploration of elements of academic disciplines and their importance to the interdisciplinary process. Introduction to different models of integration, interdisciplinary research and problem solving. Synthesis of diverse perspectives.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 200",
+    "title": "Professional Experience and Community Service",
+    "units": 1,
+    "department": "GEN",
+    "description": "Academic work designed with faculty approval to complement concurrent paid or unpaid professional or community service experience.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Information and course contract forms available in Division of Academic Engagement and Student Achievement, AD-220. Applications must be submitted to the division prior to the end of the first week of classes. May be used to satisfy major or minor requirements only upon written approval of department chair. No combination of General Studies 200 and",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 210",
+    "title": "Athletics Sophomore Success Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "Supports student-athlete second-year success through focus on wellness, values, major and career exploration, and experiential learning. Promotes Aztecs Going Pro (AGP) foundational pillars of personal growth, career development, and civic engagement.",
+    "grading_method": "CNC",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 250",
+    "title": "Interdisciplinary Topics",
+    "units": 1,
+    "department": "GEN",
+    "description": "Interdisciplinary selected topics course. To enroll contact the faculty adviser of the department offering the course.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 255",
+    "title": "Bounce Back Retention Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "In a highly interactive, small group setting, students learn a variety of skills, such as time management, test taking, class preparedness, and study skills, in order to strengthen performance. Students learn what personal attributes contribute to academic success and learn how to recognize and expand on these characteristics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 280",
+    "title": "Introduction to Civic Engagement",
+    "units": 3,
+    "department": "GEN",
+    "description": "Civic engagement through service learning. Collective action and global citizenship. Civic dimensions supporting democratic engagement. Civic capacities and literacies for social responsibility. One to two hours of weekly community service required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 290",
+    "title": "Introduction to Undergraduate Research",
+    "units": 3,
+    "department": "GEN",
+    "description": "Basic principles and practices of research inquiry. Design and methodology of three research paradigms (mixed methods, qualitative, quantitative) and proposal preparation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "GEN",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 300",
+    "title": "Interdisciplinary Process",
+    "units": 3,
+    "department": "GEN",
+    "description": "Contextualization of interdisciplinary theory and the concept of disciplinary perspective. Integration of phenomena, data, assumptions, epistemology, theories, and methods for interdisciplinary research. Implementation of a structured research process to investigate an interdisciplinary problem.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 310",
+    "title": "Athletics Junior Journey Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "Continue student-athlete third-year success to include wellness, career exploration, and experiential learning. Focus on leadership development and professional mentorship. Promotes Aztecs Going Pro (AGP) foundational pillars of personal growth, career development, and civic engagement.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 340",
+    "title": "Confronting HIV/AIDS",
+    "units": 3,
+    "department": "GEN",
+    "description": "Examines the HIV/AIDS epidemic from historical, epidemiological, biological, medical, psychological, political, legal, and ethical perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 350",
+    "title": "Interdisciplinary Topics",
+    "units": 1,
+    "department": "GEN",
+    "description": "Interdisciplinary selected topics course. To enroll contact the faculty adviser of the department offering the course.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 400",
+    "title": "Professional Experience and Community Service",
+    "units": 1,
+    "department": "GEN",
+    "description": "Academic work designed with faculty approval to complement concurrent paid or unpaid professional or community service experience.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Information and course forms available in Division of Academic Engagement and Student Achievement, AD-220. Applications must be submitted to the division prior to the end of the first week of classes. May be used to satisfy major or minor requirements only upon written approval of department chair. No combination of",
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 410",
+    "title": "Athletics Senior Send-Off Seminar",
+    "units": 1,
+    "department": "GEN",
+    "description": "Continue leadership development for fourth-year student-athletes. To include preparation for career or secondary degree and successful transition to life after college. Promotes Aztecs Going Pro (AGP) foundational pillars of personal growth, career development, and civic engagement.",
+    "grading_method": "CNC",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 420",
+    "title": "Disability and Society",
+    "units": 3,
+    "department": "GEN",
+    "description": "Explores the range of the disability experience; examines society’s attitudes toward individuals and the interrelationship between societal institutions and the perception of people with disabilities. Contemporary issues with particular emphasis on disability culture, ableism, and inclusion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 450",
+    "title": "Life and Culture Semester Abroad",
+    "units": 3,
+    "department": "GEN",
+    "description": "Life and culture of a foreign country through an approved semester abroad program sponsored by an academic department or program at SDSU. Requires lecture attendance, excursions and site visits, examinations and written reports.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 455",
+    "title": "Social and/or Behavioral Science Study Abroad",
+    "units": 3,
+    "department": "GEN",
+    "description": "Social and/or behavioral science-based exploration of/in a foreign country through an approved study abroad program or equivalent experience. Requires lecture attendance, site visits, examinations and written reports. May also include group projects and relevant disciplinary methodological training.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 480",
+    "title": "Engaged Citizenship and Social Responsibility",
+    "units": 3,
+    "department": "GEN",
+    "description": "Fieldwork in multidisciplinary analyses of civic citizenship and social responsibility through participatory action research and inquiry driven service in pluralistic communities. Service paradigms for engaged citizenship. Students will be required to complete nine hours of supervised fieldwork per week and to attend weekly meetings with instructor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "GEN S 280",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "GEN S 490",
+    "title": "Undergraduate Research",
+    "units": 1,
+    "department": "GEN",
+    "description": "Research and creative activities to include preparation for qualitative and quantitative empirical research projects. Identify problem, formulate research question, design small-scale investigation, collect and analyze data, present findings, and may include creative and performing arts projects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "GEN S 491",
+    "title": "Capstone in Interdisciplinary Studies",
+    "units": 3,
+    "department": "GEN",
+    "description": "Integrates and applies the knowledge, methods, and perspectives gained through majors’ three chosen disciplinary areas. Students design and complete an original capstone project that demonstrates their ability to synthesize interdisciplinary approaches to a complex question, issue, or problem pertinent to an anticipated career pathway.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

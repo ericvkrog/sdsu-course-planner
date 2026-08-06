@@ -1,0 +1,189 @@
+[
+  {
+    "course_code": "ARAB 101",
+    "title": "Elementary Arabic I",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Introduction to Arabic, with emphasis on language of everyday conversation. Focus on vocabulary and structures needed for elementary speaking, listening, and reading. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 102",
+    "title": "Elementary Arabic II",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "ARAB 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ARAB 201",
+    "title": "Intermediate Arabic I",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Further development of speaking, listening, reading, and writing skills, with emphasis on the language of everyday conversation. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 202",
+    "title": "Intermediate Arabic II",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Further development of speaking, listening, reading, and writing skills, with emphasis on the language of everyday conversation. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Taught in Arabic. Native speakers of Arabic will not receive credit for taking lower division courses in Arabic except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic. No credit will be given for",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 296",
+    "title": "Topics in Arabic Studies",
+    "units": 1,
+    "department": "ARAB",
+    "description": "Topics in Arabic language, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 301",
+    "title": "Advanced Arabic I",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Advanced facility in oral expression and writing for practical purposes; exposure to various dialects through newspaper and media Arabic; elements of literary and classical language.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Taught in Arabic. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic. No credit will be given for Arabic 301,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 302",
+    "title": "Advanced Arabic II",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Taught in Arabic. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic. No credit will be given for",
+    "prerequisites": [
+      {
+        "prereq_code": "ARAB 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ARAB 330",
+    "title": "Arabic Culture",
+    "units": 3,
+    "department": "ARAB",
+    "description": "Cultures of Arabic speaking peoples of the Near East, Middle East, and North Africa, as reflected in literature, the arts, history, political and social institutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ARAB 350",
+    "title": "Advanced Conversational Arabic",
+    "units": 4,
+    "department": "ARAB",
+    "description": "Study of one or more spoken varieties of Arabic, with emphasis on advanced conversational proficiency. Social and cultural topics, conversational strategies and stylistic features.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "Taught in Arabic. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 360",
+    "title": "Advanced Arabic Grammar",
+    "units": 3,
+    "department": "ARAB",
+    "description": "Arabic grammar and grammatical relations, parts of speech, and cases. Word, sentence, and discourse structure. Comparison between Modern Standard Arabic and spoken Arabic.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Arabic. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 361",
+    "title": "Advanced Arabic Grammar II",
+    "units": 3,
+    "department": "ARAB",
+    "description": "Continuation of advanced Arabic structure; contextualized analysis of Arabic grammar to include both structure and use.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 496",
+    "title": "Topics in Arabic Studies",
+    "units": 1,
+    "department": "ARAB",
+    "description": "Topics in Arabic language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ARAB 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ARAB",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Arabic. No credit will be given for lower division courses taken after successfully completing any upper division Arabic course taken in Arabic.",
+    "prerequisites": []
+  }
+]

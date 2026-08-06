@@ -1,0 +1,55 @@
+{
+  "code": "PHYSICS_B_A",
+  "name": "Physics, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12156",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12156",
+  "poid": "12156",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "CHEM 200",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "PHYS 197",
+    "PHYS 197L",
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "BIOL 203"
+  ],
+  "upper_required": [
+    "MATH 342A"
+  ],
+  "elective_areas": {
+    "Upper Division Physical Science/Explorations": [
+      "ASTR 303",
+      "ASTR 310",
+      "CHEM 300",
+      "CHEM 362"
+    ],
+    "Upper Division Major Electives": [
+      "ASTR 320",
+      "ASTR 440",
+      "ASTR 450",
+      "CHEM 365",
+      "CHEM 432",
+      "CHEM 432L",
+      "GEOL 300",
+      "GEOL 412",
+      "MATH 342B",
+      "MATH 532",
+      "MATH 538"
+    ]
+  },
+  "default_electives": [
+    "CHEM 300",
+    "GEOL 300",
+    "ASTR 320"
+  ],
+  "unresolved_codes": []
+}

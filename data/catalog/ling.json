@@ -1,0 +1,1359 @@
+[
+  {
+    "course_code": "LING 100A",
+    "title": "English Composition for Multilingual Students I",
+    "units": 3,
+    "department": "LING",
+    "description": "Introduction to college-level writing for language/grammar needs of first-semester English learners. Understanding written argument, comprehension of college-level academic texts, and integrating ideas and information from multiple text sources in formal written papers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to native speakers of English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 100B",
+    "title": "English Composition for Multilingual Students II",
+    "units": 3,
+    "department": "LING",
+    "description": "College-level writing; attention to language needs of advanced English learners. Written argument, comprehension and analysis of college-level academic texts, and use of multiple text sources for written synthesis and argument.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to native speakers of English. Not open to students with credit in a higher-numbered composition course or AFRAS 120 or AMIND 120 or CCS 111B or RWS 100 [or ECL 100] or RWS 105B.",
+    "prerequisites": [
+      {
+        "prereq_code": "LING 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 101",
+    "title": "Introduction to Language",
+    "units": 3,
+    "department": "LING",
+    "description": "The nature of language. Sound, meaning, and grammar. Language history and change. Dialects and variation. Language acquisition. Animal communication. Language and the brain.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in upper division linguistics courses, excluding",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 120",
+    "title": "Machines, Minds, and Society",
+    "units": 3,
+    "department": "LING",
+    "description": "Artificial intelligence (AI) and machine learning from the perspectives of history, culture, and the social sciences. Technological advances in “thinking machines” in social and political contexts. Applications in work, media, education, and health. Social and ethical implications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 200",
+    "title": "Advanced Composition for Multilingual Students",
+    "units": 3,
+    "department": "LING",
+    "description": "Satisfaction of the SDSU Written Communication Assessment requirement; and completion of LING 100B with a grade of C- or better.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in AFRAS 200, AMIND 225, CCS 200, or RWS 200 [or ECL 200].",
+    "prerequisites": [
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 270",
+    "title": "Elementary Statistics for Language Studies",
+    "units": 3,
+    "department": "LING",
+    "description": "Introductory statistics and probability using language data to illustrate statistical ideas and facilitate analyses of quantitative language data. Measures of central tendency and dispersion, correlation, mixed models, regression, and significance. Probabilistic explanation in linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "LING",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LING",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 305W",
+    "title": "Academic and Professional Writing for Multilingual Students",
+    "units": 3,
+    "department": "LING",
+    "description": "Advanced expository writing, with practice in the various associated skills (organization, research, presentation, rhetoric). The goal is to enable non-native English speakers to function completely with written English on advanced university levels. This course may not be used toward the major or minor in linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 332",
+    "title": "Body Talk: Language, Bodily Behavior, and Social Interaction",
+    "units": 3,
+    "department": "LING",
+    "description": "Study of how language, gesture, and embodied behavior shape real-time interaction. Examines how speech and bodily conduct work together to perform social actions and manage social relationships. Cross-cultural miscommunication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 333",
+    "title": "How to Spot a Liar",
+    "units": 3,
+    "department": "LING",
+    "description": "Analyze the role of language in lying across domains and communities. Apply tools from pragmatics and related areas to examine how word choice, pronunciation, and grammar change in untrue statements at the interpersonal and societal levels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 350",
+    "title": "Language and Politics",
+    "units": 3,
+    "department": "LING",
+    "description": "Linguistics devices used to persuade in politics. Differences between what is literally said and what is actually conveyed in political discourse. How political speakers and writers use grammar, sound structure, and vocabulary to persuade.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 351",
+    "title": "Why Do We Talk Like That? Dialect variation in English",
+    "units": 3,
+    "department": "LING",
+    "description": "Regional accents and dialect diversity of English in the United States and elsewhere. Stereotypes about dialects, portrayal of dialects in pop culture, and how dialects change over time.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 352",
+    "title": "Language and Advertising",
+    "units": 3,
+    "department": "LING",
+    "description": "Linguistic devices used to persuade in advertising. Differences between what is literally said and what is actually conveyed in advertisements. How advertisers use the grammar, sound structure, and vocabulary of languages (especially English) to persuade audiences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 353",
+    "title": "Language Across the Lifespan",
+    "units": 3,
+    "department": "LING",
+    "description": "The scientific study of language. Effect of normal and pathological aging on language knowledge and use. Language learning in cognitively impaired individuals. Native and second language acquisition and use in childhood and adulthood. Cognitive benefits of bilingualism.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 354",
+    "title": "Language and Computers",
+    "units": 3,
+    "department": "LING",
+    "description": "Computers, computer programming languages, and “artificial intelligence” viewed from perspective of human language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 363",
+    "title": "Sociocultural Analysis of Black Languages",
+    "units": 3,
+    "department": "LING",
+    "description": "Social and cultural functions of Black languages, verbal and nonverbal, in Afro-American life, and their profound impact on larger society. Also, a probe into issues concerning validity of Black English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 420",
+    "title": "Linguistics and English",
+    "units": 3,
+    "department": "LING",
+    "description": "Introduction to sound and grammatical structure of language, with special attention to English. Language acquisition and variation. Of special interest to prospective teachers. Not open to students with credit in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 430",
+    "title": "English Grammar for Prospective Teachers",
+    "units": 3,
+    "department": "LING",
+    "description": "Core grammatical concepts and facts of English grammar. Parts of speech; grammatical relations; word, sentence, discourse structure. Focus on standard written English. Of special interest to prospective secondary school teachers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 452",
+    "title": "Language Acquisition",
+    "units": 3,
+    "department": "LING",
+    "description": "Principles of child language development. Sounds and grammar in speech of young children. Acquisition of reading and vocabulary. Relationship between cognitive development and language. Development of language in bilinguals. Second language acquisition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 453",
+    "title": "Heritage Language Acquisition",
+    "units": 3,
+    "department": "LING",
+    "description": "Linguistic properties of heritage languages, which are minority languages acquired in the home by bilinguals who become dominant in the main societal language. Cultural and social aspects of language use, language education, and issues of equity in heritage language research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 454",
+    "title": "Second Language Acquisition",
+    "units": 3,
+    "department": "LING",
+    "description": "Basic facts about the acquisition of nonnative languages in adulthood to include beginning and end points, implicit and explicit learning, individual differences, input and output, ordered development, and the role of instruction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 457",
+    "title": "Community-Based Language Fieldwork",
+    "units": 1,
+    "department": "LING",
+    "description": "Fieldwork in language use in community setting. Students observe, keep field notes, analyze language behavior (e.g. speaking, reading, writing, listening).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 460",
+    "title": "American Indian Languages",
+    "units": 3,
+    "department": "LING",
+    "description": "Structures of American Indian languages. Language families of North America, history, and present circumstances. Interdependence of language and culture, differences in ways of speaking. Issues of language endangerment, language death, language maintenance, and language revitalization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "LING 465",
+    "title": "How We Meme, Emoji and Reel: Language in New Media",
+    "units": 3,
+    "department": "LING",
+    "description": "Exploration of how digital technologies shape language use through informal writing, multimodal communication, and online discourse. Covers Netspeak, memes, emojis, creativity, and AI, analyzing how language evolves in digital spaces with attention to theoretical frameworks, literacy, and critical debates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 496",
+    "title": "Experimental Topics in Linguistics",
+    "units": 1,
+    "department": "LING",
+    "description": "Specialized study of a selected topic in linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LING",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 501",
+    "title": "Fundamentals of Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Principles of modern linguistics, with attention to English phonetics, phonology, morphology, syntax, semantics and pragmatics; universals and typology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 502",
+    "title": "Language in Mind and Society",
+    "units": 3,
+    "department": "LING",
+    "description": "Child language acquisition, adult language production/comprehension and sociolinguistics. Dialects, language variation, and standardization. Bilingualism and language change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 503",
+    "title": "Functions of Language",
+    "units": 3,
+    "department": "LING",
+    "description": "Empirical methods in linguistics. Phonological structure of English and other languages. Functional and discourse related approaches to language patterns. Connections between morphosyntactic concepts and functional/discourse concepts to conduct text analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 505",
+    "title": "Writing for Graduate Students",
+    "units": 3,
+    "department": "LING",
+    "description": "Conventions of scholarly writing appropriate for student papers, theses, or academic journal articles. Development of research questions and literature reviews as appropriate for students’ disciplines. Revision of current or previous course papers according to disciplinary conventions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 521",
+    "title": "Phonology",
+    "units": 3,
+    "department": "LING",
+    "description": "Theoretical principles of transformational-generative phonology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 522",
+    "title": "Syntax",
+    "units": 3,
+    "department": "LING",
+    "description": "Theoretical principles of transformational-generative syntax.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 523",
+    "title": "Morphology",
+    "units": 3,
+    "department": "LING",
+    "description": "Theoretical principles of words structure, including inflection, derivation, and compounding; organization of the lexicon; structure of inflectional paradigms; morphophonological and morphosyntactic alterations; and computational applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 525",
+    "title": "Semantics and Pragmatics",
+    "units": 3,
+    "department": "LING",
+    "description": "Advanced semantic theory; systematic analysis of the interaction of sequences of language with real world context in which they are used.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 526",
+    "title": "Discourse Analysis",
+    "units": 3,
+    "department": "LING",
+    "description": "Theories of discourse structure. Text and context. Frameworks for analyzing written and spoken discourses such as genre analysis, conversation analysis, critical discourse analysis, discourse and grammar, speech act theory, and corpus linguistics. Applications of discourse analysis such as cross-cultural misunderstanding.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 530",
+    "title": "English Grammar",
+    "units": 3,
+    "department": "LING",
+    "description": "English morphology, syntax, and discourse structure, including simple and complex sentence structure; lexical categories and subcategories; discourse functions of selected constructions. Problems and solutions in teaching English grammar.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 550",
+    "title": "Theory and Practice of English as a Second Language",
+    "units": 3,
+    "department": "LING",
+    "description": "The nature of language learning; evaluation of techniques and materials for the teaching of English as a second language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 551",
+    "title": "Sociolinguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Investigation of the correlation of social structure and linguistic behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 552",
+    "title": "Psycholinguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Psychological and mental processes related to comprehension, production, perception, and acquisition of language in adults and children.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 553",
+    "title": "Bilingualism",
+    "units": 3,
+    "department": "LING",
+    "description": "Bilingualism in society and in schools. Cognition, language processing, and representation in bilinguals. Research methods in the study of bilingualism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SLHS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 448",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 555",
+    "title": "Practical Issues in Teaching English as a Second Language",
+    "units": 3,
+    "department": "LING",
+    "description": "Practical approaches to applications of the theory of English as a Second Language (ESL) and methodology for speaking, reading, listening, writing; techniques for facilitating growth of communicative competence.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 556",
+    "title": "Computer Assisted Language Learning and Teaching",
+    "units": 3,
+    "department": "LING",
+    "description": "Theory and practice of computer assisted language learning and language teaching. Hands-on experience with pedagogical aspects of using technology in the language classroom.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 571",
+    "title": "Computational Corpus Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Practical introduction to computation with text corpora and introduction to Python. Tokenizing, part-of-speech tagging, and lemmatizing (stemming) large corpora. Writing of Python programs required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 572",
+    "title": "Python Scripting for Social Science",
+    "units": 3,
+    "department": "LING",
+    "description": "Python scripting for social science data. Statements and expressions. Strings, lists, dictionaries, files. Python with unformatted data (regular expressions). Graphs and social networks. Spatial data and simple GIS scripts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 581",
+    "title": "Computational Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Basic concepts in computational linguistics including finite-state transducers, n-gram language models, vector space semantics, statistical classifiers, neural nets, and transformers. Applications to parsing, natural language understanding, and large language models.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 583",
+    "title": "Statistical Methods in Text Analysis",
+    "units": 3,
+    "department": "LING",
+    "description": "Statistical methods for analysis of large texts to include classification, clustering, vector space models, and the use of Large Language Models (LLMs). Data collection and annotation. Applications to include retrieval-augmented generation, relation detection, sentiment analysis, and topic modeling.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 571",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 572",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BDA 572",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 550",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 551A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 596",
+    "title": "Selected Topics in Linguistics",
+    "units": 1,
+    "department": "LING",
+    "description": "Advanced study of selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 597",
+    "title": "Research Practicum",
+    "units": 3,
+    "department": "LING",
+    "description": "Participation in a specific research activity under faculty supervision. Maximum credit three units toward the major and minor in linguistics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 600",
+    "title": "Professional Development in Linguistics",
+    "units": 1,
+    "department": "LING",
+    "description": "Introduction to the profession and to the skills and knowledge necessary for a professional in Linguistics and in English Language Teaching. Students engage in presentations by professionals and in a series of focused workshops.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 602",
+    "title": "Advanced Study of Language in Mind and Society",
+    "units": 3,
+    "department": "LING",
+    "description": "Language acquisition, psycholinguistics, and sociolinguistics. Mental and social influences on language learning and representation. Cognitive models of language production and processing. Rational speech acts and other social models of language comprehension.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 502",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 610",
+    "title": "Topics in Historical Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Methods and principles used in historical study of language; processes of language change in phonology, syntax, and semantics; linguistics reconstruction; origin of language; language families; development of writing. Analysis of Indo-European, Old English, or Middle English.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 521",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 620",
+    "title": "Advanced Formal Syntax",
+    "units": 3,
+    "department": "LING",
+    "description": "Advanced study of formal syntactic theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 522",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 621",
+    "title": "Advanced English Phonology",
+    "units": 3,
+    "department": "LING",
+    "description": "English phonetics, phonemics, and phonological rules. Phonological differences among American English dialects. Survey of contemporary approaches to phonology.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 521",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 623",
+    "title": "Immigrant Languages",
+    "units": 3,
+    "department": "LING",
+    "description": "Contrastive structure of selected languages representing significant immigrant populations in San Diego; emphasis on phonological, orthographic, morphological, lexical and syntactic features.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 626",
+    "title": "Pragmatics",
+    "units": 3,
+    "department": "LING",
+    "description": "Gricean and neo-Gricean approaches to pragmatics; relevance theory; reference; presupposition; speech acts; information structure.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 525",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 505",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 627",
+    "title": "Heritage Language Bilingualism",
+    "units": 3,
+    "department": "LING",
+    "description": "Representation, processing, and acquisition of heritage languages, which are minority languages acquired in the home by bilinguals who become dominant in the main societal language.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SPAN 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 650",
+    "title": "Materials Development in Applied Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Materials development and adaptation for teaching English as a second language and a language other than English.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 651",
+    "title": "Seminar in Sociolinguistic Research in the Speech Community",
+    "units": 3,
+    "department": "LING",
+    "description": "Methods to include the collection of sociolinguistic data through interviews. Analysis of those data to address questions pertaining to language variation and change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 551",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 652",
+    "title": "Second Language Acquisition",
+    "units": 3,
+    "department": "LING",
+    "description": "Analyses of theories of second language acquisition; theoretical and empirical bases of current second language teaching methodologies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 653",
+    "title": "ESL Reading and Writing",
+    "units": 3,
+    "department": "LING",
+    "description": "Application of discourse and reading theory to the teaching and testing of ESL reading and writing. Issues of coherence, process-product, genre studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 654",
+    "title": "Language and Cognition",
+    "units": 3,
+    "department": "LING",
+    "description": "Language production, comprehension, and acquisition, as these relate to human cognition.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 552",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 655",
+    "title": "English for Specific Purposes and Content-Based Instruction",
+    "units": 3,
+    "department": "LING",
+    "description": "Theory, practice, and history of these two related approaches to ESL/EFL.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 656",
+    "title": "Quantitative Research Methods in Language Studies",
+    "units": 3,
+    "department": "LING",
+    "description": "Research design and quantitative research methods for linguistic applications. Critical evaluation of published research studies; empirical research project.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 420",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 657",
+    "title": "Foundations of Language Assessment",
+    "units": 3,
+    "department": "LING",
+    "description": "Fundamental principles and goals of language assessment and language assessment research: characteristics of assessment methods; analyzing test tasks; designing test items; describing test scores; approaches to estimating reliability; validity and validation; authenticity and impact.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 696",
+    "title": "Advanced Topics in Linguistics",
+    "units": 1,
+    "department": "LING",
+    "description": "Advanced study in specific areas of linguistics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 740",
+    "title": "Internship in English as a Second Language and Foreign Language Teaching",
+    "units": 3,
+    "department": "LING",
+    "description": "Internship in teaching English as a second language and English as a foreign language, offering work experience with practicing professionals.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 795",
+    "title": "Seminar in Linguistics",
+    "units": 3,
+    "department": "LING",
+    "description": "Research in linguistics, course content varying according to instructor.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 797",
+    "title": "Advanced Research Practicum",
+    "units": 1,
+    "department": "LING",
+    "description": "Participation in a specific research activity under faculty supervision. Maximum combined credit of three units of",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "LING 597",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "LING 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "LING",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "LING",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "LING",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "LING 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "LING",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "code": "ARTIFICIAL_INTELLIGENCE_AND_HUMAN_RESPONSIBILITY_B_S",
+  "name": "Artificial Intelligence and Human Responsibility, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12791",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12791",
+  "poid": "12791",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "ANTH 562",
+    "GEOG 383",
+    "GEOG 580",
+    "GEOG 581",
+    "GEOG 582",
+    "GEOG 585",
+    "LING 583",
+    "ANTH 353",
+    "SUSTN 353",
+    "GEOG 360",
+    "POL S 334",
+    "SUSTN 334",
+    "JMS 568",
+    "CAL 495"
+  ],
+  "elective_areas": {
+    "Preparation for Major": [
+      "CS 200",
+      "ECON 201",
+      "STAT 119",
+      "STAT 250",
+      "ENGR 250",
+      "GEOG 104",
+      "GEOG 170",
+      "MATH 124",
+      "MATH 150",
+      "PHIL 140",
+      "SUSTN 100",
+      "ENV S 100"
+    ],
+    "Major": [
+      "ANTH 515",
+      "BDA 594",
+      "GEOG 594",
+      "GEOG 385",
+      "LING 354",
+      "LING 581",
+      "PHIL 337",
+      "PHIL 338",
+      "SOC 460",
+      "SUSTN 332",
+      "PHIL 332"
+    ],
+    "Requirements": [
+      "CS 301",
+      "HUM 409",
+      "HUM 412",
+      "LCS 300",
+      "REL S 363",
+      "RWS 411",
+      "STS 580",
+      "STS 301",
+      "WGSS 382"
+    ]
+  },
+  "default_electives": [
+    "SUSTN 100",
+    "ENV S 100",
+    "GEOG 104",
+    "STAT 119",
+    "MATH 124",
+    "PHIL 140",
+    "MATH 150",
+    "GEOG 170",
+    "SUSTN 332",
+    "LCS 300"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,70 @@
+{
+  "code": "DANCE_B_A",
+  "name": "Dance, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11976",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11976",
+  "poid": "11976",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "DANCE 481W"
+  ],
+  "lower_division": [
+    "DANCE 100D",
+    "DANCE 140",
+    "DANCE 145",
+    "DANCE 156",
+    "DANCE 181",
+    "DANCE 190",
+    "DANCE 210",
+    "DANCE 242",
+    "DANCE 243",
+    "DANCE 281",
+    "DANCE 289",
+    "DANCE 290",
+    "MUSIC 290",
+    "BIOL 100",
+    "BIOL 100L"
+  ],
+  "upper_required": [
+    "DANCE 481W",
+    "DANCE 300",
+    "DANCE 356",
+    "DANCE 380",
+    "DANCE 382",
+    "DANCE 385",
+    "DANCE 390",
+    "DANCE 442",
+    "DANCE 443"
+  ],
+  "elective_areas": {
+    "Lower Division Dance Electives": [
+      "DANCE 101",
+      "DANCE 242",
+      "DANCE 243",
+      "DANCE 246"
+    ],
+    "Upper Division Dance Electives": [
+      "DANCE 345",
+      "DANCE 346",
+      "DANCE 365",
+      "DANCE 383",
+      "DANCE 386A",
+      "DANCE 386B",
+      "DANCE 410",
+      "DANCE 442",
+      "DANCE 443",
+      "DANCE 486A",
+      "DANCE 486B",
+      "SPED 450",
+      "ED 451"
+    ]
+  },
+  "default_electives": [
+    "DANCE 101",
+    "DANCE 345"
+  ],
+  "unresolved_codes": []
+}

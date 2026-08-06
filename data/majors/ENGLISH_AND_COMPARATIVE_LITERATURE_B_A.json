@@ -1,0 +1,59 @@
+{
+  "code": "ENGLISH_AND_COMPARATIVE_LITERATURE_B_A",
+  "name": "English and Comparative Literature, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11989",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11989",
+  "poid": "11989",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ECL 250",
+    "ECL 260",
+    "ECL 270",
+    "RWS 200",
+    "ECL 220",
+    "ECL 280"
+  ],
+  "upper_required": [
+    "ECL 498"
+  ],
+  "elective_areas": {
+    "Three Units Selected from": [
+      "ECL 220",
+      "ECL 280"
+    ],
+    "A. Three Units Selected from the Following": [
+      "ECL 510A",
+      "ECL 522",
+      "ECL 530",
+      "ECL 533",
+      "ECL 534",
+      "ECL 536",
+      "ECL 537",
+      "ECL 540A",
+      "ECL 541A"
+    ],
+    "B. Six Units Selected from the Following": [
+      "ECL 440",
+      "ECL 470",
+      "ECL 513",
+      "ECL 564",
+      "ECL 565",
+      "ECL 566",
+      "ECL 594",
+      "ECL 595"
+    ],
+    "C. Three Units Selected from the Following": [
+      "ECL 508W"
+    ]
+  },
+  "default_electives": [
+    "ECL 510A",
+    "ECL 440",
+    "ECL 508W"
+  ],
+  "unresolved_codes": []
+}

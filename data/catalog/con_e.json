@@ -1,0 +1,470 @@
+[
+  {
+    "course_code": "CON E 101",
+    "title": "Construction and Culture",
+    "units": 3,
+    "department": "CON",
+    "description": "Cultural context of construction, emphasizing its centrality in evolution and expansion of built environments as expressions of ethical and historical value systems. Relationship between culture, geography, construction materials, and built expressions of cultural legacy. Interdependence of built environment and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 201",
+    "title": "Construction Concepts and Building Codes",
+    "units": 3,
+    "department": "CON",
+    "description": "Concepts of control and information exchange in construction. Purpose and function of fundamental information flows, function, and development of construction-related codes and standards to protect public health and safety, compliance with requirements, and design using codes.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 215",
+    "title": "Virtual Design and Construction",
+    "units": 3,
+    "department": "CON",
+    "description": "Building information modeling (BIM). Connectivity to other aspects of the construction enterprise to include estimating, planning, and scheduling deployment. Constructability review.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 240",
+    "title": "Introduction to Construction Materials",
+    "units": 3,
+    "department": "CON",
+    "description": "Properties of materials used for construction to include aggregate, ceramic, concrete asphalt, decorative and finish materials, soil, steel aluminum, and wood. Key material properties and material performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 180A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 280",
+    "title": "Construction Methods",
+    "units": 3,
+    "department": "CON",
+    "description": "Components and methods of construction including earthwork; foundations; wood, steel, and concrete construction; roofing and cladding; interior construction. Field experience in conducting and/or observing construction operations. Concepts of production in a construction setting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "CON",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 301",
+    "title": "Construction Ethics, Law, and Contracts",
+    "units": 3,
+    "department": "CON",
+    "description": "Legal and ethical environment of construction. Study of documents and common procedures in construction administration and their legal and ethical contexts for general contractors and subcontractors. Contract documentation, claim in various construction delivery methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 312",
+    "title": "Mechanical and Electrical Principles for Construction",
+    "units": 3,
+    "department": "CON",
+    "description": "Engineering principles for mechanical, electrical, plumbing systems. Thermodynamics, energy principles, psychometrics. Electrical theory, circuits, motors. Static and dynamic principles for fluids, pipe flow. Mechanical and plumbing equipment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 320",
+    "title": "Construction Estimating",
+    "units": 3,
+    "department": "CON",
+    "description": "Identifying and estimating time and cost requirements for construction operations based on drawings and specifications. Review computer applications for estimating.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 330",
+    "title": "Principles of Engineering Economy",
+    "units": 3,
+    "department": "CON",
+    "description": "Mathematics of finance applied to engineering and managerial decision making. Framework for cost management in engineering and construction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 340",
+    "title": "Analysis and Design of Construction Operations",
+    "units": 3,
+    "department": "CON",
+    "description": "Properties and methods for use of construction equipment and integration into production system. Assessment of equipment needs and selection. Site utilization and layout planning, incorporating efficiency and safety of operations.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CON E 320",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CON E 330",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 401",
+    "title": "Construction Planning and Scheduling",
+    "units": 3,
+    "department": "CON",
+    "description": "Fundamentals of scheduling logic including critical path method, deterministic and probabilistic scheduling, and impact of constraints. Development of construction plan and representation in schedule format using common computer applications used in industry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 160",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CON E 320",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 479",
+    "title": "Construction Materials",
+    "units": 3,
+    "department": "CON",
+    "description": "Selection, design and control of mixes of portland cement and asphalt concrete. Properties of these and other materials used in construction.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CHEM 202",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CHEM 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CIV E 301",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "M E 304",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 480",
+    "title": "Design of Temporary Structures",
+    "units": 3,
+    "department": "CON",
+    "description": "Design of structures for temporary support of constructed work, including scaffolding and formwork, bracing, and excavations. Influence of codes and standards on the design process, selection of degrees of safety, and concepts of liability.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CIV E 321",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "CIV E 462",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 496",
+    "title": "Advanced Construction Engineering Topics",
+    "units": 1,
+    "department": "CON",
+    "description": "Modern developments in Construction Engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "CON",
+    "description": "Individual study in the area of construction engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 520",
+    "title": "Environmentally Conscious Construction",
+    "units": 3,
+    "department": "CON",
+    "description": "Design and design processes to target a sustainable structure. Construction practices associated with protection of environment. Application of industry standards for environmental and energy performance of buildings. Impacts on selection of methods, materials, and equipment for construction. Design of procurement and management systems to support environmentally conscious building. Commissioning and startup.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in CON E 420.",
+    "prerequisites": [
+      {
+        "prereq_code": "CON E 312",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CIV E 444",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 590",
+    "title": "Construction Management and Safety",
+    "units": 3,
+    "department": "CON",
+    "description": "Management and control of critical project processes for construction projects. Definition, planning, and execution of projects based on plan, estimate, and bid documentation. Fundamentals of construction safety planning, design, and requirements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CON E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CON E 401",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 650",
+    "title": "Construction Labor Productivity",
+    "units": 3,
+    "department": "CON",
+    "description": "Definition of productivity measures and factors that affect productivity of construction labor. Quantification techniques of labor productivity in construction.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Open only to graduate students and advanced undergraduates with instructor approval.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 652",
+    "title": "Construction Operations Modeling and Technology",
+    "units": 3,
+    "department": "CON",
+    "description": "An introduction to data-driven methodologies such as modeling, simulation, machine learning, and optimization to enhance engineering and construction processes.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 653",
+    "title": "Planning and Scheduling for Civil Engineering Projects",
+    "units": 3,
+    "department": "CON",
+    "description": "Project planning, scheduling and evaluation of planning techniques, labor, and equipment leveling, expecting cost and crashing, resource loading, what if scenarios, and use of scheduling in delay analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 654",
+    "title": "Construction Claims",
+    "units": 3,
+    "department": "CON",
+    "description": "Basic foundations construction claims process starting with an understanding of contractual basis for construction claims through final resolution of claims. Clauses that form the basis for claims; recognition of claims, communicating claims elements, pricing claims, and methods for resolving claims.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CON E 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 655",
+    "title": "Project Design and Portfolio Management",
+    "units": 3,
+    "department": "CON",
+    "description": "Techniques for project selection, definition, design management and value generation, including consideration of ROI, feasibility, and portfolio diversification. Incorporation of life-cycle considerations into all levels of design, including concepts of sustainability. Owner, designer, and contractor perspectives.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ENV E 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ENV E 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CON E 656",
+    "title": "Building Information Modeling and Digital Twins",
+    "units": 3,
+    "department": "CON",
+    "description": "Advanced digital technologies in architecture, engineering, and construction. Creation, management, and utilization of 3D models and data-rich digital replicas. To include: BIM fundamentals, Digital Twin applications, lifecycle asset management, collaborative workflows, and integration of design, construction, and operational processes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CON E 696",
+    "title": "Advanced Topics in Construction Engineering",
+    "units": 1,
+    "department": "CON",
+    "description": "Intensive study in specific areas of Construction Engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "course_code": "MKTG 305",
+    "title": "Professional Development in Marketing",
+    "units": 1,
+    "department": "MKTG",
+    "description": "Define purpose for education, life and professional pursuits in marketing. Explore personal and professional goals. Engage in work fit and career assessments. Determine learning and working style preferences. Develop well-being practices. Practice effective business communication and etiquette techniques.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in B A 305",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 306",
+    "title": "Marketing and Sales Micro-internship",
+    "units": 1,
+    "department": "MKTG",
+    "description": "Micro-internship with business firms, government agencies, or nonprofit organizations. Under joint supervision of intern organization and course instructor students pursue a small scale project or short term internship. Fundamentals of sales and marketing in a real-world context.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 371",
+    "title": "Consumer Behavior",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Consumer behavior concepts and theories for developing, implementing, and assessing marketing strategy. Psychological, social, and environmental factors in understanding of needs, wants, preferences, and decision making related to consumption behaviors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 372",
+    "title": "Retail Marketing Methods",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Retailing industry and retailer strategy to include online retailers, multi-channel retailing, consumer behavior, retail market strategy, site selection, locations, human resource management, merchandise management, pricing, marketing communications strategy, store layout, design, and management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 373",
+    "title": "Integrated Marketing Communications",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Communication theory in context of integrating marketing communication tools to include advertising; digital, social, nontraditional media; sales promotion; public relations. Media planning and strategy, budgeting, effectiveness measurement, social/ethical issues, regulation of advertising and promotion.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 376",
+    "title": "Global Marketing Strategy",
+    "units": 4,
+    "department": "MKTG",
+    "description": "International marketing concepts. Assessing organization internationalization potential, external environmental analysis for global market segmentation, target country market selection, entry strategies, international product, pricing decisions, analysis of international distribution systems, developing international advertising and promotion programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 377",
+    "title": "Selling Strategy and Practices",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Marketing and sales process. Theories, approaches, techniques used in selling process, development of sales presentations, and use of partnering/relationship selling and technology in professional selling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 380",
+    "title": "Direct Marketing Methods",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Direct marketing as part of a company or organization’s marketing program. Major direct marketing media and methods to include direct mail, broadcast and print advertising, Internet and interactive media, catalogs, and telemarketing. Data base creation and management and effectiveness measurement for direct marketing programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 381",
+    "title": "Introduction to Business Tools for Data Analysis and Visualization",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Tools for organizing data and interpreting results. Creating, editing, and interacting with spreadsheets. Development of advanced tables, charts, data views, and dashboards. Use of data visualization to communicate insights.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 402",
+    "title": "Marketing and Sales Internship",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Internship with business firms, government agencies, or nonprofit organizations. Under joint supervision of intern organization and course instructor. Fundamentals of sales and marketing in a real-world context.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 470",
+    "title": "Marketing Research",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Marketing research process. Research design and data collection principles for qualitative and quantitative research techniques in marketing practice. Analysis, data visualization, and reporting of primary and secondary marketing research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 473",
+    "title": "Sales Management",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Management of recruitment, training, motivation, and compensation of the sales personnel of a company. Policies and procedures used for organization, evaluation, and control of the sales force.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 474",
+    "title": "Business Marketing",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Marketing strategy and practices designed for organizational customers. Purchasing practices of organizational buyers and development of marketing programs for enterprise customers and markets, both domestic and global.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 476",
+    "title": "Internet/Interactive Marketing",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Impact of networked, cloud, mobile and contextual technologies on consumer behavior, business and marketing practice. Marketing communication and strategy leveraging the Internet to include search optimization, user experience design, social media, contextual advertising, pricing, distribution, commerce, and analytics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 477",
+    "title": "Sustainable Marketing",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Strategy for sustainable and regenerative marketing practices and business models. Explores aspects of consumer behavior, public policy, and market research to develop triple bottom line business solutions. Development of recommendations for sustainable marketing strategy applied to real world client vignettes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 478",
+    "title": "Marketing and Sales for Social Impact",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Marketing and sales planning to solve social or environmental issues. Management of marketing and sales functions to address pressing needs at the base of the economic pyramid, underserved communities, or markets affected by environmental problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MKTG 371",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 480",
+    "title": "Marketing Analytics",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Analysis and interpretation of large, complex data sets (Big Data). Theory, analytical approaches to solve marketing problems, utilizing software tools for marketing and sales decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 490",
+    "title": "Advanced Marketing Analytics",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Advanced analysis and interpretation of complex marketing data. Students apply experimental design, regression, conjoint analysis, and machine learning to real-world problems using analytical software. Emphasizes data storytelling, evidence-based decision-making, and collaboration through a semester long marketing analytics project.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 491",
+    "title": "Customer Experience Design",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Integration of marketing perspectives from behavioral science, data analytics, human-centered design, and emerging technologies such as AI and automation. Students apply interdisciplinary theories related to consumer behavior to design customer-centric experiences that enhance service, loyalty, satisfaction, and overall brand equity.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 492",
+    "title": "Advanced Integrated Marketing Communications",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Management of marketing communications function with emphasis on integration and coordination of all activities. Planning, implementation, and coordination of marketing communications activities. Development, implementation, and program evaluation of an integrated marketing communications project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 493",
+    "title": "Sustainable Marketing Consulting",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Advanced applications of sustainable and regenerative marketing strategy emphasizing consulting practice. Integrates consumer insight, market intelligence, systems innovation, and policy strategy to design circular, stakeholder-centered marketing strategy. Students deliver data-driven, triple-bottom-line marketing consulting solutions through experiential projects with real-world organizations.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended: Completion of MKTG 478-Marketing for Social Impact or concurrent enrollment.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 494",
+    "title": "Advanced Strategic Marketing",
+    "units": 4,
+    "department": "MKTG",
+    "description": "Marketing concepts and decision tools for analyzing and solving marketing problems; marketing strategy and plans; problem identification, evaluation of alternatives, strategic and tactical recommendations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 495",
+    "title": "Marketing and Sales Applications",
+    "units": 2,
+    "department": "MKTG",
+    "description": "Integrative course that applies key marketing or sales concepts through real-world consulting or student research projects. Students work in teams to diagnose and solve marketing challenges faced by local businesses, non-profits, or organizations to develop marketing insights or recommendations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 496",
+    "title": "Selected Topics in Marketing",
+    "units": 1,
+    "department": "MKTG",
+    "description": "Selected areas of concern in marketing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree. See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "MKTG",
+    "description": "A comprehensive and original study of a problem connected with marketing under the direction of one or more members of the marketing staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MKTG",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 515",
+    "title": "Cause Selling and Fundraising",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Cause selling strategies and tactics. Integration of cause selling and marketing through relationship management, planning and delivery of donor presentations, the use of technology and analytics, and trust-building techniques to engage prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 645",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Intensive study in specific areas of marketing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 729",
+    "title": "Contemporary Issues in Marketing Theory and Practice",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Issues in marketing theory and practice: examination and application of contemporary theories and techniques in relation to changes in marketing environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 761",
+    "title": "Product Innovation Management",
+    "units": 3,
+    "department": "MKTG",
+    "description": "New product development and issues related to overall management of product innovation in context of entrepreneurial opportunity, start-up ventures and existing organizations. Focus on planning, design, and implementation of marketing strategy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 763",
+    "title": "Seminar in Sales Management",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Sales management and personal selling decisions and strategies in business organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 767",
+    "title": "Sales and Marketing Analytics",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Communicating, reporting, and visualizing analytics to inform decision making. Descriptive, predictive, prescriptive modeling of data to address sales and marketing problems. Utilizing market intelligence and consumer response data to inform development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 642",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 768",
+    "title": "Seminar in Internet Marketing and E-Business",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Theory and application of marketing utilizing the Internet and associated issues of electronic commerce.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 769",
+    "title": "Seminar in International Marketing",
+    "units": 3,
+    "department": "MKTG",
+    "description": "The impact of cultural, social, political, economic, and other environmental variables on international marketing systems and the decision-making process of multinational marketing operations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 772",
+    "title": "Strategic Brand Management",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Planning, managing, and evaluating brand strategies. Theories, models, concepts, and techniques used to build, measure, and manage brand equity. Marketing decisions faced by an organization in managing brands for long-term profitability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 627",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG 797",
+    "title": "Research",
+    "units": 3,
+    "department": "MKTG",
+    "description": "Research in the area of marketing.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MKTG 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MKTG",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

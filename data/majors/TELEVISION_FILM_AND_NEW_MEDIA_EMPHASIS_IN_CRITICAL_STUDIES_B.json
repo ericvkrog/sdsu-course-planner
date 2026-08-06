@@ -1,0 +1,68 @@
+{
+  "code": "TELEVISION_FILM_AND_NEW_MEDIA_EMPHASIS_IN_CRITICAL_STUDIES_B",
+  "name": "Television, Film and New Media, Emphasis in Critical Studies, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12218",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12218",
+  "poid": "12218",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "TFM 390W",
+    "RWS 305W"
+  ],
+  "lower_division": [
+    "THEA 100",
+    "THEA 120",
+    "TFM 110",
+    "TFM 160"
+  ],
+  "upper_required": [
+    "TFM 390W",
+    "RWS 305W",
+    "TFM 310",
+    "TFM 330",
+    "TFM 363",
+    "TFM 364A",
+    "TFM 364B",
+    "TFM 563"
+  ],
+  "elective_areas": {
+    "Cinema Studies Electives": [
+      "TFM 470",
+      "TFM 530",
+      "TFM 571",
+      "TFM 573"
+    ],
+    "Interdisciplinary Electives": [
+      "TFM 401",
+      "TFM 430",
+      "TFM 490",
+      "TFM 499",
+      "AFRAS 485",
+      "AMIND 435",
+      "CCS 400",
+      "LATAM 400",
+      "ECL 493",
+      "EUROP 424",
+      "FRENC 424",
+      "LATAM 306",
+      "PORT 306",
+      "RUSSN 310",
+      "THEA 460A",
+      "THEA 460B",
+      "THEA 465"
+    ]
+  },
+  "default_electives": [
+    "TFM 470",
+    "TFM 530",
+    "TFM 571",
+    "LATAM 306",
+    "PORT 306",
+    "RUSSN 310",
+    "CCS 400"
+  ],
+  "unresolved_codes": []
+}

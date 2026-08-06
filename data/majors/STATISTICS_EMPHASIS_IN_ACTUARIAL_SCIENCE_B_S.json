@@ -1,0 +1,61 @@
+{
+  "code": "STATISTICS_EMPHASIS_IN_ACTUARIAL_SCIENCE_B_S",
+  "name": "Statistics, Emphasis in Actuarial Science, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12205",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12205",
+  "poid": "12205",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "STAT 350A",
+    "STAT 350B",
+    "STAT 551A",
+    "STAT 551B",
+    "STAT 575",
+    "B A 323",
+    "ECON 320",
+    "ECON 321",
+    "FIN 327",
+    "STAT 325",
+    "STAT 410",
+    "STAT 496",
+    "STAT 560",
+    "STAT 596",
+    "FIN 421",
+    "FIN 427"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "STAT 119",
+      "STAT 250",
+      "ACCTG 201",
+      "CS 150",
+      "CS 150L",
+      "ECON 101",
+      "ECON 102",
+      "MATH 150",
+      "MATH 151",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "CS 150",
+    "CS 150L",
+    "MATH 150",
+    "MATH 151",
+    "ACCTG 201",
+    "MATH 245",
+    "STAT 250",
+    "MATH 252"
+  ],
+  "unresolved_codes": []
+}

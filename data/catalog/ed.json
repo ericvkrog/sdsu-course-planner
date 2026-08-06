@@ -1,0 +1,642 @@
+[
+  {
+    "course_code": "ED 200",
+    "title": "Teaching as a Profession",
+    "units": 3,
+    "department": "ED",
+    "description": "Current issues, challenges in education; explores strategies that promote professional development. Critically assesses issues related to teaching in culturally and linguistically diverse school settings. Includes guided classroom observations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 350",
+    "title": "Education in American Society",
+    "units": 3,
+    "department": "ED",
+    "description": "Philosophical, historical and psychological roots of education in America; current models, instructional designs and strategies of education. Contemporary concerns in education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ED 409",
+    "title": "Cultural Competency",
+    "units": 3,
+    "department": "ED",
+    "description": "Application for a democratic and pluralistic society to include critical thinking, multicultural awareness, and social issues. Beliefs and attitudes on cultural issues and identity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 203",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 450",
+    "title": "Study Abroad",
+    "units": 1,
+    "department": "ED",
+    "description": "Study abroad in Education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 451",
+    "title": "Introduction to Multicultural Education",
+    "units": 3,
+    "department": "ED",
+    "description": "Overview of cultural pluralism in education, industry, business, other institutions, and society at large.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 484",
+    "title": "Valuing Human Diversity",
+    "units": 3,
+    "department": "ED",
+    "description": "Human diversity that enriches societies. Race, gender, language, and spirituality. Impediments to valuing human diversity; classism, sexism, racism, and anti-Semitism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Teacher Education 284.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ED 690",
+    "title": "Methods of Inquiry",
+    "units": 3,
+    "department": "ED",
+    "description": "Procedures for gathering, analyzing, and synthesizing information; reviewing the literature; designing studies. Section selection to be made with department graduate adviser.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 696",
+    "title": "Selected Topics in Community Influences on Learning and Curriculum Planning",
+    "units": 1,
+    "department": "ED",
+    "description": "Intensive study in specific areas of education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 795A",
+    "title": "Seminar",
+    "units": 3,
+    "department": "ED",
+    "description": "An intensive study in selected areas of education culminating in a written project. Limited to students following Plan B for the Master of Arts degree in education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 795B",
+    "title": "Seminar",
+    "units": 3,
+    "department": "ED",
+    "description": "An intensive study in selected areas of education culminating in a written project. Limited to students following Plan B for the Master of Arts degree in education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 797",
+    "title": "Research",
+    "units": 1,
+    "department": "ED",
+    "description": "Research in one of the fields of education.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "ED",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "ED",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "ED",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 801",
+    "title": "Seminar on Social and Cultural Foundations of Multicultural Education",
+    "units": 3,
+    "department": "ED",
+    "description": "Social and cultural parameters that have contributed to the shaping of American society and affected developments in education in the last two decades. Emphasis on the impact on multicultural education and human social behavior in pluralistic societies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 804",
+    "title": "English Learner Education: Models, Current Research, and Policy Trends",
+    "units": 3,
+    "department": "ED",
+    "description": "Analysis of existing models of English learner education and processes for educational leadership for designing, analyzing or researching policy, curriculum or programs, to meet diverse linguistic and cultural needs of students in current socio-political contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 808",
+    "title": "Academic Research and Publishing in Education",
+    "units": 3,
+    "department": "ED",
+    "description": "Development, writing, and submission of an article to a juried journal in education. Argument development, creation of abstracts, and identification of theoretical frameworks.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 810",
+    "title": "Seminar in Curriculum Development and Implementation",
+    "units": 3,
+    "department": "ED",
+    "description": "Curriculum development and implementation to include culturally diverse contexts with emphasis on reflective implementation and critical analysis of commercial and site-based curriculum.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 811",
+    "title": "Seminar in Global Education",
+    "units": 3,
+    "department": "ED",
+    "description": "ED 811 is an embedded study abroad course restricted to doctoral students enrolled in the JDP and prioritizes students who are pursuing the Global Seal of Biliteracy. Includes both COIL and study abroad components.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "The course prioritizes student pursuing the University Seal of Biliteracy and Cultural Competence (USBCC).",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 814",
+    "title": "Seminar in Curricular Change Processes",
+    "units": 3,
+    "department": "ED",
+    "description": "Curriculum change processes in educational organizations. Process of planning change and elements necessary for implementing and managing curriculum change to include diverse cultural contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 810",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 815",
+    "title": "Re-Thinking Leadership",
+    "units": 3,
+    "department": "ED",
+    "description": "Concepts of individual and group leadership in educational environments. Practices and policies of effective management and leadership; ethical and emerging trends in leadership styles.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 820",
+    "title": "Advanced Educational Statistics",
+    "units": 3,
+    "department": "ED",
+    "description": "Theory and practice of statistical inference for research in education. Probability and sampling theory, data collection and organization, computer applications in educational research, statistical significance testing and prediction, use of statistical computer program libraries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 822",
+    "title": "Seminar in Analysis and Issues in Race and Ethnic Relations",
+    "units": 3,
+    "department": "ED",
+    "description": "Analysis of race and ethnic relations in education from a theoretical, research, and action based perspective. Conceptual framework of race, ethnicity, and prejudice theory needed for policies and strategies of reform in education to address unequal race relations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 801",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 823",
+    "title": "Seminar in Action Oriented Policy Research in Multicultural Contexts",
+    "units": 3,
+    "department": "ED",
+    "description": "Multidimensional ways to resolve social problems. Development of community based issues, analysis, research, and implementation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 801",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 827",
+    "title": "Seminar in Communication and Cognition in Education",
+    "units": 3,
+    "department": "ED",
+    "description": "Roots of communication in a diverse society. Relationship between cognition and communication including mass media, as well as cross-cultural, and personal modes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 836",
+    "title": "Research and Writing Support",
+    "units": 2,
+    "department": "ED",
+    "description": "Identification and clarification of a researchable problem in PreK- 12 and community college leadership; analysis of related literature, investigation of possible methodology; application to Institutional Review Board.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 840",
+    "title": "Seminar in Leadership in a Diverse Society",
+    "units": 3,
+    "department": "ED",
+    "description": "Theories and practices for achieving schools informed by and built around participation of diverse communities and cultures. Inter-section of leadership with socio-historical, socio-cultural, and social justice theories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 841",
+    "title": "Critical and Decolonizing Theories in Educational Research",
+    "units": 3,
+    "department": "ED",
+    "description": "Survey of critical social theories, research, and experiences to explore ontological and epistemological stances aligned with a decolonial praxis of educational research; connect critical theoretical frameworks to methods and research in education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 850",
+    "title": "Seminar in Quantitative Methods of Inquiry",
+    "units": 3,
+    "department": "ED",
+    "description": "Inquiry and empirical research in educational settings within public schools, postsecondary institutions, and public and private sector educational organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 851",
+    "title": "Seminar in Qualitative Methods of Inquiry",
+    "units": 3,
+    "department": "ED",
+    "description": "Theory and methods of qualitative research and evaluation. Computer applications in qualitative research. Match methodology to research settings in education; design a research or evaluation proposal; collect and analyze data; and present results of qualitative study.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 852",
+    "title": "Seminar in Advanced Quantitative Methods of Inquiry",
+    "units": 3,
+    "department": "ED",
+    "description": "Quantitative methods to include weighting, missing value analysis, mean-based procedures, prediction modeling, and causal modeling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 850",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 853",
+    "title": "Seminar in Advanced Qualitative Methods of Inquiry",
+    "units": 3,
+    "department": "ED",
+    "description": "Qualitative procedures to include advanced observation, focus groups, visual ethnography, and case study research.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 851",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 854",
+    "title": "Visual-Based Research Methods",
+    "units": 3,
+    "department": "ED",
+    "description": "Theoretical groundings, design, and conduct of qualitative research to include an array of visual-based data generation tools.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ED 851",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 855",
+    "title": "Seminar in Leadership for Developing Educational Systems",
+    "units": 3,
+    "department": "ED",
+    "description": "Skills and processes to lead the development of educational systems. Development of educational systems into learning organizations through organizational communications, adult learning, and professional development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 860",
+    "title": "Seminar in Leadership and Educational Change",
+    "units": 3,
+    "department": "ED",
+    "description": "Complexities of educational change. Models of organizational change and specific leadership skills and strategies; action plans for educational leadership challenges.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 885",
+    "title": "Seminar in Educational Program Planning and Evaluation",
+    "units": 3,
+    "department": "ED",
+    "description": "Effective monitoring of and evaluating systems for educational program improvement and policymaking.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 895",
+    "title": "Seminar",
+    "units": 1,
+    "department": "ED",
+    "description": "Investigation of a particular topic or issue, emphasis on empirical research in education.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "ED",
+    "description": "Independent investigation in the general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "ED",
+    "description": "Preparation of the dissertation for the doctoral program. Enrollment is required during the term in which the dissertation is approved.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 970",
+    "title": "Teaching Event Assessment",
+    "units": 1,
+    "department": "ED",
+    "description": "Tasks required for performance assessment teaching event: context of learning, planning instruction and assessment, instructing students and supporting learning, assessing student learning, and reflecting on teaching and learning.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": [
+      {
+        "prereq_code": "DLE 954",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 903",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TE 961",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ED 997",
+    "title": "Special Topics in Education",
+    "units": 0,
+    "department": "ED",
+    "description": "Designed to meet the needs of teachers who wish to develop or continue the study of a current topic.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ED 203",
+    "title": "Foundations of Cultural Competency",
+    "units": 3,
+    "department": "ED",
+    "description": "Cultural self-awareness, ethnocentrism, individual biases, institutional oppression, microaggressions, race relations. Historical background of racism. Impacts on current majority-minority relationships.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  }
+]

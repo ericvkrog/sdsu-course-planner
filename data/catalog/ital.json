@@ -1,0 +1,349 @@
+[
+  {
+    "course_code": "ITAL 100A",
+    "title": "Elementary Italian I",
+    "units": 5,
+    "department": "ITAL",
+    "description": "Pronunciation, speaking and writing, readings on Italian culture and civilization, essentials of grammar.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Italian. Native speakers of Italian will not receive credit for taking lower division courses in Italian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian. No credit will be given when Italian 100A,",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 100B",
+    "title": "Elementary Italian II",
+    "units": 5,
+    "department": "ITAL",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Italian. Native speakers of Italian will not receive credit for taking lower division courses in Italian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian. No credit will be given when",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 100A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 120",
+    "title": "Italian Food Culture",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Interdisciplinary approaches to the study of food and foodways in Italian and Italian American culture, to include discussion of food practices, socialization, production, consumption, justice and sustainability.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 201",
+    "title": "Reading and Speaking Italian",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Italian minors and international business majors are encouraged to enroll concurrently in",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended for students wanting to satisfy the language graduation requirement. Emphasis on spoken language with readings of cultural material serving as a basis for discussion. Taught in Italian. Native speakers of Italian will not receive credit for taking lower division courses in Italian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian. Italian 201 may only be taken after completing",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 211",
+    "title": "Intermediate Italian I",
+    "units": 4,
+    "department": "ITAL",
+    "description": "Comprehensive review of Italian grammar and practice of all language skills at intermediate level within context of Italian culture. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Italian. Native speakers of Italian will not receive credit for taking lower division courses in Italian except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian. No credit will be given when",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 212",
+    "title": "Intermediate Italian II",
+    "units": 4,
+    "department": "ITAL",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Italian minors and international business majors are encouraged to concurrently register in",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 296",
+    "title": "Topics in Italian Studies",
+    "units": 1,
+    "department": "ITAL",
+    "description": "Topics in Italian language and culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 301",
+    "title": "Advanced Oral and Written Composition",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Grammar review. Reading of modern Italian prose, with written reports and oral discussions in Italian. Italian 301 is not open to students who hold the Italian secondary school diploma.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian. No credit will be given when",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 305A",
+    "title": "Italian Literature",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Important movements, authors and works in Italian literature from Middle Ages to the Renaissance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 305B",
+    "title": "Italian Literature",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 305A",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 421",
+    "title": "Italian Culture and Society",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Major aspects of Italian society with emphasis on culture, politics, art, music, history, and cinema.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 422",
+    "title": "Issues in Italian Studies",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Interdisciplinary approach to major themes and figures of Italian culture. Emphasis on social, literary, artistic, and political movements underlying development of contemporary Italy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 423",
+    "title": "Business Italian",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Italian advertising, business culture, commercial practices and language, communication, cultural management, curation, current events, marketing entrepreneurship, social and digital media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 424",
+    "title": "Italian Cinema",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Development of Italian cinema. Pre-viewing lectures enhance cultural comprehension. Post-viewing discussions stimulate ideas for written work and final projects. Lectures and discussions in Italian.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 212",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 425",
+    "title": "Italian Cultures of Migration",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Artistic, literary, cinematic and social representations of the cultures of migration in Italy and the diaspora.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Course taught in Italian. No credit for those with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 426",
+    "title": "Italian American Culture",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Italian American experience of migration, identity formation, ethnic conflict, integration and assimilation, in a variety of genres and media, from literature to film, music and theatre, fiction and non-fiction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 495",
+    "title": "Internship",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Practical work experience in a field related to Italian studies. Work done under joint direction of activity sponsor and instructor. Approved international internships may count toward international experience requirement for certain majors.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 496",
+    "title": "Selected Topics",
+    "units": 1,
+    "department": "ITAL",
+    "description": "Topics in Italian language, literature, culture and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ITAL 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ITAL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "This course is intended only for students who are currently enrolled in or who already have credit for all upper division courses in Italian available in any given semester. Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ITAL 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ITAL 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ITAL 510",
+    "title": "Italian and Italophone Cultural Studies",
+    "units": 3,
+    "department": "ITAL",
+    "description": "Artistic, intellectual, literary, social and political trends in Italy and in diaspora.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Italian. No credit will be given for lower division courses taken after successfully completing any upper division Italian course taught in Italian.",
+    "prerequisites": [
+      {
+        "prereq_code": "ITAL 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ITAL 421",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

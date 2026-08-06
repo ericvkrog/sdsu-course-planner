@@ -1,0 +1,113 @@
+{
+  "code": "GEOGRAPHY_EMPHASIS_IN_GENERAL_GEOGRAPHY_B_A",
+  "name": "Geography, Emphasis in General Geography, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12016",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12016",
+  "poid": "12016",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "GEOG 395",
+    "GEOG 495",
+    "GEOG 320",
+    "GEOG 321",
+    "GEOG 324",
+    "GEOG 336",
+    "GEOG 426"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "GEOG 101",
+      "GEOG 101L",
+      "GEOG 102",
+      "GEOG 106",
+      "GEOG 104"
+    ],
+    "Graduation Writing Assessment Requirement": [
+      "ECL 508W",
+      "ECL 581W",
+      "ECL 584W",
+      "RWS 305W",
+      "RWS 500W",
+      "RWS 503W"
+    ],
+    "Requirements": [
+      "GEOG 312",
+      "GEOG 342",
+      "GEOG 348",
+      "GEOG 353",
+      "GEOG 354",
+      "GEOG 360",
+      "GEOG 440",
+      "POL S 440",
+      "GEOG 454",
+      "GEOG 554",
+      "GEOG 573"
+    ],
+    "Requirements (2)": [
+      "GEOG 341",
+      "GEOG 348",
+      "GEOG 360",
+      "GEOG 370",
+      "GEOG 426",
+      "GEOG 454",
+      "GEOG 570",
+      "GEOG 572",
+      "GEOG 573",
+      "GEOG 574"
+    ],
+    "Requirements (3)": [
+      "GEOG 303",
+      "GEOG 375",
+      "GEOG 401",
+      "GEOG 409",
+      "GEOG 503",
+      "GEOG 507",
+      "GEOG 509",
+      "GEOG 511",
+      "GEOG 512",
+      "GEOG 574",
+      "GEOG 576",
+      "GEOG 578"
+    ],
+    "Requirements (4)": [
+      "GEOG 380",
+      "GEOG 381",
+      "GEOG 383",
+      "GEOG 385",
+      "GEOG 484",
+      "GEOG 580",
+      "GEOG 581",
+      "GEOG 582",
+      "GEOG 583",
+      "GEOG 584",
+      "GEOG 585",
+      "GEOG 586",
+      "GEOG 589",
+      "GEOG 590",
+      "GEOG 591",
+      "GEOG 591L",
+      "GEOG 592",
+      "GEOG 592L",
+      "GEOG 593",
+      "GEOG 594",
+      "BDA 594"
+    ]
+  },
+  "default_electives": [
+    "GEOG 101",
+    "GEOG 101L",
+    "GEOG 102",
+    "GEOG 104",
+    "RWS 305W",
+    "GEOG 312",
+    "GEOG 341",
+    "GEOG 303",
+    "GEOG 380"
+  ],
+  "unresolved_codes": []
+}

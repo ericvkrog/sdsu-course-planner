@@ -1,0 +1,553 @@
+[
+  {
+    "course_code": "FN 200",
+    "title": "Foods and Nutrition: Overview and Opportunities",
+    "units": 1,
+    "department": "FN",
+    "description": "Curriculum, research, and practice areas in foods and nutrition.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 201",
+    "title": "Fundamentals of Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Role of nutrition in health promotion and disease prevention. Current concepts, controversies, and dietary recommendations from a scientific perspective.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 203",
+    "title": "Cultural Aspects of Food and Nutrition",
+    "units": 2,
+    "department": "FN",
+    "description": "Food habits and health beliefs about foods and nutrition. Regional and ethnic influences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 205",
+    "title": "Introduction to Science of Food",
+    "units": 2,
+    "department": "FN",
+    "description": "Composition, preparation, preservation, sensory and consumer evaluation of foods.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 205L",
+    "title": "Introduction to Food Science Laboratory",
+    "units": 2,
+    "department": "FN",
+    "description": "Experiential learning through food preparation, preservation, sensory and consumer evaluation, and scientific writing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "FN",
+    "description": "Selected topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 302",
+    "title": "Advanced Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Integration of cellular, physiological, and biochemical relationships with human nutrient requirements.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Concurrent enrollment in lecture and lab required.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 302L",
+    "title": "Nutritional Assessment and Research Laboratory",
+    "units": 2,
+    "department": "FN",
+    "description": "Application and evaluation of techniques used to assess nutritional status, including basic methods, experimental animal and human studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 303",
+    "title": "Quantity Food Production",
+    "units": 2,
+    "department": "FN",
+    "description": "Quantity food production service delivery systems. Skills for food safety, recipe standardization, menu planning, purchasing, production operations, and quality standards. Intended for majors in foods and nutrition and hospitality and tourism management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 304",
+    "title": "Nutrition Throughout the Life Span",
+    "units": 3,
+    "department": "FN",
+    "description": "Factors affecting nutrient needs and ways to meet nutrient requirements across the life span.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 313",
+    "title": "Contemporary Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Food and nutrient classifications, functions, requirements, and recommendations. Relationship of nutrition to health, fitness, performance, and disease. Menus and recipes, food packaging labels, nutrition literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "FN 398",
+    "title": "Supervised Field Experience",
+    "units": 1,
+    "department": "FN",
+    "description": "Supervised practical experience in areas of food and nutrition.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Three hours per week per unit of course credit for 15 weeks.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 401",
+    "title": "Advanced Science of Food",
+    "units": 3,
+    "department": "FN",
+    "description": "Physical, chemical, nutritional, and functional properties and quality attributes of foods and food additives; food handling, changes and interactions of food components induced by processing and storage; food laws, regulations, legislation, and food safety issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 404",
+    "title": "Food Systems Management",
+    "units": 3,
+    "department": "FN",
+    "description": "Managerial functions in food service systems.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Distance Education course. All class meetings and activities take place online. SPRING ONLY CLASS",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 405",
+    "title": "Experimental Food Science and Technology Laboratory",
+    "units": 2,
+    "department": "FN",
+    "description": "Application of principles and methods of physical and sensory evaluation and food component analysis to conventional and fabricated foods; effects of additives and ingredient variations; project studies; data interpretation and report writing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Six hours of laboratory.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 406",
+    "title": "Medical Nutrition Therapy I",
+    "units": 3,
+    "department": "FN",
+    "description": "Nutrition assessment, diagnosis, pathophysiology, and medical nutrition therapy for chronic diseases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Fall ONLY Class",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 407",
+    "title": "Medical Nutrition Therapy I Laboratory",
+    "units": 1,
+    "department": "FN",
+    "description": "Required for Didactic Program in Dietetics competencies established by the Academy of Nutrition and Dietetics. Builds multi-level skills for dietetic practice to assess nutritional status and to develop care plans for patients.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Two hours of laboratory.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 408",
+    "title": "Medical Nutrition Therapy II",
+    "units": 3,
+    "department": "FN",
+    "description": "Concepts and principles of disease pathophysiology, nutrition assessment and medical nutrition therapy for specific diseases and conditions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 409",
+    "title": "Medical Nutrition Therapy II Laboratory",
+    "units": 1,
+    "department": "FN",
+    "description": "Advanced practical experience in food service and medical nutrition therapy for future dietitians.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Two hours of laboratory.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "FN",
+    "description": "Selected topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FN",
+    "description": "Individual study",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 510",
+    "title": "Community Nutrition",
+    "units": 2,
+    "department": "FN",
+    "description": "Nutritional problems in the community with consideration of their resolution.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 511",
+    "title": "Nutrition Education and Counseling",
+    "units": 1,
+    "department": "FN",
+    "description": "Nutrition education and counseling.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 512",
+    "title": "Nutrition for Athletes",
+    "units": 3,
+    "department": "FN",
+    "description": "Influence of exercise on nutritional status and dietary requirements. Current theories and practices related to nutrition and athletic performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 596",
+    "title": "Advanced Studies in Nutrition",
+    "units": 1,
+    "department": "FN",
+    "description": "Advanced study of selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree. No more than six units of 596 may be applied to a bachelor’s degree. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate advisor.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 600",
+    "title": "Seminar: Foods and Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Introductory seminar of research and research publications in foods and nutrition.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 603",
+    "title": "Advanced Food Analysis",
+    "units": 3,
+    "department": "FN",
+    "description": "Principles, methods, and applications of food analysis; instrumental analysis (e.g., composition analysis, texture analysis, spectroscopy, chromatography, electrophoresis); techno-functional analysis (e.g., solubility, gelation, emulsification, foaming); data analysis and interpretation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 604",
+    "title": "Sustainable Foods",
+    "units": 3,
+    "department": "FN",
+    "description": "Environmental sustainability and food security; sustainable food production techniques (e.g., hydroponics, precision fermentation, cellular agriculture); sustainable food sources (e.g., edible native plants, insects, plant proteins, microbial proteins, cultured meat); consumer acceptance of emerging food technologies and food sources.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 607",
+    "title": "Child Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Nutrition, health, and biochemical growth in children. Conditions leading to malnutrition, prevention, and correction.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 608",
+    "title": "Geriatric Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Biomedical and psychosocial aspects of aging that affect food habits, nutritional status, and nutrient needs of elders.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 610",
+    "title": "Nutrition and Energy",
+    "units": 3,
+    "department": "FN",
+    "description": "Methods for measurement of energy intake and expenditure assessment, factors which control food intake and energy expenditure, and examination of normal and specialized needs of energy requirements.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 700",
+    "title": "Seminar in Nutrition",
+    "units": 3,
+    "department": "FN",
+    "description": "Reading and analyses of basic and applied research in nutrition.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "FN 302",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "FN 302L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "FN 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "FN",
+    "description": "Individual study",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "FN",
+    "description": "Preparation of a thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "FN",
+    "description": "Registration required in any semester or term following assignment of RP in NUTR 799A in which the student expects to use the facilities and resources of the university; also, student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "FN 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "FN",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

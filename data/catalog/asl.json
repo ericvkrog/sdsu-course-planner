@@ -1,0 +1,111 @@
+[
+  {
+    "course_code": "ASL 101",
+    "title": "American Sign Language I",
+    "units": 4,
+    "department": "ASL",
+    "description": "American Sign Language structure, use, literature, and deaf culture. Introductory level communication competence in ASL.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "No credit will be given for American Sign Language ASL 101, ASL 102, ASL 201 taken out of sequence. Not open to students with credit in ASL 102 or ASL 201.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASL 102",
+    "title": "American Sign Language II",
+    "units": 4,
+    "department": "ASL",
+    "description": "Continuation of ASL 101. Beginning level communication competence in American Sign Language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "No credit will be given for American Sign Language ASL 101, ASL 102, ASL 201 taken out of sequence. Not open to students with credit in ASL 201.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASL 201",
+    "title": "American Sign Language III",
+    "units": 4,
+    "department": "ASL",
+    "description": "Continuation of ASL 102. Intermediate level communication competence in American Sign Language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "No credit will be given for American Sign Language ASL 101, ASL 102, and ASL 201 taken out of sequence.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASL 301",
+    "title": "American Sign Language IV",
+    "units": 4,
+    "department": "ASL",
+    "description": "Advanced conversational skills, grammatical structures, classifiers, and narrative are covered in ASL Level IV classes. Offering thorough ASL communication while developing vocabulary and fluency, typically encompassing role-shifting, elaborate descriptions, and culturally relevant Deaf concerns, prepares students for more advanced interactions with native/Deaf signers. An ASL Level 4 course builds upon previous ASL knowledge by focusing on advanced conversational skills, complex grammatical structures, an in-depth understanding of ASL classifiers, and nuanced storytelling. Allowing students to engage in detailed ASL communication while further refining their vocabulary and fluency, often including topics like role-shifting, detailed descriptions, and culturally significant issues within the Deaf community; essentially preparing them for more advanced interactions with native/Deaf signers; requiring completion of ASL Level 1, 2, and 3 courses with a grade of “C” or better, or equivalent as a prerequisite.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in American Sign Language (ASL). No credit will be given for lower division courses taken after successfully completing any upper division ASL course taken in ASL.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASL 311",
+    "title": "Deaf Cultural Studies",
+    "units": 3,
+    "department": "ASL",
+    "description": "This course introduces students to Deaf Cultural Studies, examining historical milestones, cultural beliefs, ASL literature, influential Deaf figures, and the impact of social, political, and technological changes on the evolving identity of the Deaf community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASL 322",
+    "title": "American Sign Language Literature",
+    "units": 3,
+    "department": "ASL",
+    "description": "Explore ASL literature from a Deaf perspective and give them various literary genres to practice and improve their ASL skills. Analysis of ASL literary artists’ content, themes, and stylistic techniques, with a focus on planning, developing, performing, and critiquing folklore poetics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in American Sign Language. No credit will be given for lower division courses taken after successfully completing any upper division ASL course taken in ASL.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASL 324",
+    "title": "Fingerspelling in American Sign Language",
+    "units": 3,
+    "department": "ASL",
+    "description": "This course focuses on fingerspelling and numbering systems in American Sign Language (ASL) for intermediate to advanced learners. It enhances proficiency in native fingerspelled signs, focusing on improving receptive skills for effective comprehension and interpretation during live conversations. This class will be taught in ASL without using spoken English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The course is taught entirely in American Sign Language (ASL) without the use of spoken language.",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "course_code": "PUB 202",
+    "title": "Introduction to Statistics for the Public Sector",
+    "units": 3,
+    "department": "PUB",
+    "description": "Introduction to basic statistical concepts and data analysis techniques that form the foundation of evidence-based decision-making in the public sector. Focus on collection, analysis, interpretation, and presentation of data relevant to public programs and policy evaluation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PUB 350W",
+    "title": "Writing for Public Service and Social Change",
+    "units": 3,
+    "department": "PUB",
+    "description": "Writing and rhetorical strategies to communicate effectively across public-sector contexts, from policy memos to social media. Emphasis on clear, ethical, and purpose-driven writing for civic and institutional audiences, including information literacy, public communication, and team collaboration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PUB 550",
+    "title": "Study Abroad in Public Affairs and Service",
+    "units": 3,
+    "department": "PUB",
+    "description": "Selected topics in comparative public affairs and public service. Course taught abroad.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  }
+]

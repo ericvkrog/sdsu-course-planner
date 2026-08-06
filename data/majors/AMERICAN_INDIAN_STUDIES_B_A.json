@@ -1,0 +1,56 @@
+{
+  "code": "AMERICAN_INDIAN_STUDIES_B_A",
+  "name": "American Indian Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11892",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11892",
+  "poid": "11892",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "AMIND 420",
+    "AMIND 485",
+    "AMIND 498"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "AMIND 110",
+      "AMIND 140",
+      "AMIND 141"
+    ],
+    "18 Units Selected from": [
+      "AMIND 300",
+      "AMIND 320",
+      "AMIND 331",
+      "POL S 331",
+      "AMIND 370",
+      "HTM 370",
+      "AMIND 430",
+      "AMIND 435",
+      "AMIND 440",
+      "AMIND 451",
+      "ANTH 451",
+      "AMIND 460",
+      "ANTH 460",
+      "LING 460",
+      "AMIND 470",
+      "REL S 470",
+      "AMIND 480",
+      "AMIND 499"
+    ]
+  },
+  "default_electives": [
+    "AMIND 110",
+    "AMIND 140",
+    "AMIND 300",
+    "AMIND 320",
+    "AMIND 331",
+    "POL S 331",
+    "AMIND 370",
+    "HTM 370"
+  ],
+  "unresolved_codes": []
+}

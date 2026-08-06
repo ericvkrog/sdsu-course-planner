@@ -1,0 +1,71 @@
+{
+  "code": "JOURNALISM_EMPHASIS_IN_ADVERTISING_B_A",
+  "name": "Journalism, Emphasis in Advertising, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12090",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12090",
+  "poid": "12090",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "JMS 310W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "JMS 310W",
+    "JMS 315",
+    "JMS 460",
+    "JMS 462",
+    "JMS 494",
+    "JMS 560",
+    "JMS 562",
+    "JMS 563",
+    "JMS 565"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "JMS 200",
+      "JMS 210",
+      "JMS 220",
+      "JMS 250"
+    ],
+    "Requirements": [
+      "JMS 416",
+      "JMS 450",
+      "JMS 452",
+      "JMS 453",
+      "JMS 506",
+      "JMS 540",
+      "JMS 545",
+      "JMS 574",
+      "JMS 582"
+    ],
+    "Requirements (2)": [
+      "JMS 312W",
+      "JMS 415",
+      "JMS 418",
+      "JMS 426",
+      "JMS 428",
+      "JMS 333",
+      "JMS 434",
+      "JMS 435",
+      "JMS 441",
+      "JMS 445",
+      "JMS 490",
+      "JMS 495",
+      "JMS 529",
+      "JMS 530",
+      "JMS 555",
+      "JMS 566",
+      "JMS 567",
+      "JMS 568"
+    ]
+  },
+  "default_electives": [
+    "JMS 200",
+    "JMS 416",
+    "JMS 312W"
+  ],
+  "unresolved_codes": []
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "course_code": "AAS 100",
+    "title": "Asian American History",
+    "units": 3,
+    "department": "AAS",
+    "description": "Asian American histories from the Gold Rush, Railroads to World War II to present day. Immigration patterns, resistance stories, Constitution, Asians and Asian Americans in California. U.S. history from an Asian American perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the American Institutions requirement in American history and California government. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 101",
+    "title": "Politics, Power, and Asian America",
+    "units": 3,
+    "department": "AAS",
+    "description": "Asian American perspectives on politics and power. Considers activism, political participation, and laws related to Asian Americans. Ideals of the U.S. Constitution and its political institutions and processes.Formerly numbered:ASIAN 102ANote:Satisfies the American Institutions requirement in American history and United States Constitution. This course satisfies the ethnic studies [ES] requirement.Course Designations:American Institutions (AI)",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the American Institutions requirement in American history and United States Constitution. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 103",
+    "title": "Introduction to Filipino American Studies",
+    "units": 3,
+    "department": "AAS",
+    "description": "Introduction to Filipino American Studies to include culture, economics, history, governments, laws, and the artistic, intellectual, philosophical, political, and religious foundations for these structures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the Ethnics Studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 122",
+    "title": "War, Empire, and the Asian American Experience",
+    "units": 3,
+    "department": "AAS",
+    "description": "Introduction to major wars and conflicts involving Asian Americans as combatants and those affected by war. Key themes will include military campaigns, colonialism and imperialism, citizenship, refugees and immigration, families, memory, and gender.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 150",
+    "title": "Writing Composition and Rhetoric",
+    "units": 3,
+    "department": "AAS",
+    "description": "Development of critical college-level writing and reading skills for the 21st century. Focus on communication and critical thinking skills through exploration of Asian American texts and readings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies Written Communication, CSU subarea A2. Not open to students with credit in a higher-numbered composition course or AFRAS 120 or AMIND 120 or CCS 111B or LING 100B or RWS 100 [or ECL 100] or RWS 105B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 152",
+    "title": "Oral Communications and Public Speaking",
+    "units": 3,
+    "department": "AAS",
+    "description": "Study and practice of oral communication skills and theories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in AFRAS 140, CCS 111A, or COMM 103",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 208",
+    "title": "Asian Americans and Popular Culture",
+    "units": 3,
+    "department": "AAS",
+    "description": "Interdisciplinary and intersectional approach to studying Asian Americans participation and representation in popular culture. Examination of historical contexts and power systems shaping Asian American identities within popular culture. Readings include a range of pop culture media and academic scholarship.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the Ethnics Studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 261",
+    "title": "Eating Asian America",
+    "units": 3,
+    "department": "AAS",
+    "description": "Explore the people, practices, and dishes that make up contemporary Asian American food. Determine the important role that food plays in maintaining Asian American communities, cultures, and identities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 263",
+    "title": "Asian American Film and Media",
+    "units": 3,
+    "department": "AAS",
+    "description": "Asian American experiences told through film and media. Independent films, documentaries, experimental, and social justice films.Formerly numbered:ASIAN 264Note:This course satisfies the ethnic studies [ES] requirement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 268",
+    "title": "Asian Americans and Mental Health",
+    "units": 3,
+    "department": "AAS",
+    "description": "Exploration of diverse cultural, historical, and social contexts related to mental health in Asian American communities. Interdisciplinary and historical approaches to the study of Asian American experiences. Analysis of the role of institutions, policies, and power structures in Asian American experiences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the Ethnics Studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 270",
+    "title": "Ethnocommunications: Creating Community Media",
+    "units": 3,
+    "department": "AAS",
+    "description": "Introduction to community-centered media making in Asian American Studies: topics may include students analyze representation, practice interviewing, craft pitches, develop short media pieces.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 301",
+    "title": "Gender, Sexuality, and Asian Americans",
+    "units": 3,
+    "department": "AAS",
+    "description": "Feminism, gender, and sexuality in the lives and experiences of Asian Americans. Interdisciplinary, intersectional, theoretical, and applied approaches.Formerly numbered:ASIAN 301Note:This course satisfies the ethnic studies [ES] requirement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 313",
+    "title": "Asian American Communities",
+    "units": 3,
+    "department": "AAS",
+    "description": "An overview of Asian American communities, cultures, and identities, with a focus on spatial and cultural formations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 323",
+    "title": "Korean American Experiences",
+    "units": 3,
+    "department": "AAS",
+    "description": "An overview of Korean American communities, identities, issues, and cultural productions. Highlights the diversity of Korean American experiences, examining variations across race, gender, sexuality, and social class, among others.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 326",
+    "title": "Asian Americans and Business",
+    "units": 3,
+    "department": "AAS",
+    "description": "Asian American experiences in business, entrepreneurship, and labor force. Historical overview of how Asian Americans have contributed to business enterprises and endeavors. Topics may include Asian Americans in the Railroad, Agriculture, STEM, Education, and Healthcare industries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 380",
+    "title": "Asian American Issues in the News",
+    "units": 3,
+    "department": "AAS",
+    "description": "Exploration of current debates within the Asian American and transnational Asian American communities. Analysis of key debates involving Asian Americans in local, state, national, and international news. News sources include traditional media and new and emerging media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 420",
+    "title": "Storytelling Techniques in Asian America",
+    "units": 3,
+    "department": "AAS",
+    "description": "Overview of the techniques used by Asian American creative artists to tell a diverse set of stories related to the Asian American experience. Storytelling techniques may include those in film, novels, memoirs, and performance art. Analysis of storytelling techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "This course satisfies the ethnic studies [ES] requirement",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 422",
+    "title": "Asian American Experiences",
+    "units": 3,
+    "department": "AAS",
+    "description": "Experiences of Asian/Pacific Islander Americans to include immigration, colonialism, imperialism, exclusion, citizenship, labor, family, community, gender, popular culture, refugees, multi-racial tensions, globalization, and resistance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 428",
+    "title": "Medical Humanities and Asian Americans",
+    "units": 3,
+    "department": "AAS",
+    "description": "Exploration of the Asian American experience in the domain of disease, health, and medicine. Analysis of Asian American interactions and participation in medical discourses. Decolonization of medical humanities through centering Asian American experience. Topics include Asian American narratives of health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 460",
+    "title": "Contemporary Issues in Filipino-American Communities",
+    "units": 3,
+    "department": "AAS",
+    "description": "History of Philippines and Filipino immigration to US. Current issues in Filipino American communities to include labor, health, gender and sexuality, race relations, family culture and parenting, youth and the elderly, ethnic identity and empowerment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 482",
+    "title": "Topics in Asian American Studies",
+    "units": 3,
+    "department": "AAS",
+    "description": "Selected topics in American American Studies such as transnational, diaspora, computational, digital, community-engaged research methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific topic",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AAS 483",
+    "title": "Applied Praxis Projects",
+    "units": 3,
+    "department": "AAS",
+    "description": "Analyzes real-world business or nonprofit projects through both Ethnic Studies and industry frameworks. Students develop career-ready skills while examining how standard practices shape economic outcomes for local communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Open to all upper-division students.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 486",
+    "title": "Leadership and Asian Americans",
+    "units": 3,
+    "department": "AAS",
+    "description": "Asian American perspectives on leadership and professional development. Exploration of Asian American participation and experiences with leadership. Topics may include Asian American cultural differences, Asian American representation and inclusion, and Asian American approaches to leadership. Personal leadership development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AAS 488",
+    "title": "Applying Asian American Studies",
+    "units": 3,
+    "department": "AAS",
+    "description": "Application of Asian American Studies to a practical contemporary issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  }
+]

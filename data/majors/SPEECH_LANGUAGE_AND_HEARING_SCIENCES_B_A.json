@@ -1,0 +1,60 @@
+{
+  "code": "SPEECH_LANGUAGE_AND_HEARING_SCIENCES_B_A",
+  "name": "Speech, Language, and Hearing Sciences, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12203",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12203",
+  "poid": "12203",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "SLHS 300",
+    "SLHS 305",
+    "SLHS 320",
+    "SLHS 321",
+    "SLHS 340",
+    "SLHS 512",
+    "SLHS 513",
+    "SLHS 514",
+    "SLHS 539",
+    "SLHS 580"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "SLHS 106",
+      "SLHS 150",
+      "BIOL 100",
+      "PHYS 180A",
+      "CHEM 100",
+      "PSY 101",
+      "PSY 260",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119",
+      "STAT 250"
+    ],
+    "International Experience": [
+      "HHS 290",
+      "HHS 350",
+      "ASIAN 490",
+      "ED 450",
+      "GEN S 450",
+      "ISCOR 450",
+      "LATAM 320",
+      "LATAM 450",
+      "LATAM 550",
+      "POL S 450",
+      "P H 550",
+      "SCI 350"
+    ]
+  },
+  "default_electives": [
+    "BIOL 100",
+    "HHS 290",
+    "LATAM 320"
+  ],
+  "unresolved_codes": []
+}

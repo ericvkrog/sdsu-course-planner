@@ -1,0 +1,1835 @@
+[
+  {
+    "course_code": "THEA 100",
+    "title": "The Art of Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Introduction to theatre as a reflection of society and a contributor to the world of art. Students explore theatre\u2019s continuing relevance to contemporary culture. Attendance at selected theatre events required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 111",
+    "title": "Voice and Movement",
+    "units": 3,
+    "department": "THEA",
+    "description": "Project-based preparation of physical and vocal instrument for acting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Theatre 110.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 115",
+    "title": "Acting for Nonmajors",
+    "units": 3,
+    "department": "THEA",
+    "description": "Improvisational exercises (verbal and nonverbal) in sensory awareness, observation, concentration, listening, and response skills with application to other fields. Individual presentation techniques for the preprofessional in other disciplines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 120",
+    "title": "Heritage of Storytelling",
+    "units": 3,
+    "department": "THEA",
+    "description": "Survey of significant concepts over a wide history of theatre, television, and film. Analysis of classical, contemporary, realistic, and avant-garde examples; exploring influence of historical narrative forms on contemporary storytelling.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 130",
+    "title": "Acting I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Development of individual\u2019s ability to express thought and emotion through effective use of the voice and body. These fundamental concepts may be applied to stage, film, and television acting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 205",
+    "title": "American Musical on Stage and Screen",
+    "units": 3,
+    "department": "THEA",
+    "description": "Shows, films, and performers that trace the evolution of this unique American art form from its origins to contemporary Broadway, film, and pop culture, utilizing live performance and digital media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 212",
+    "title": "Asian-American Theatre & Performances",
+    "units": 3,
+    "department": "THEA",
+    "description": "Introduces Asian American theatre, beginning in the 1970s with political roots. Through dramatic works and critical studies, it explores Asian American narratives, cultural interventions, and the multiplicity of identities-race, gender, class-revealed in the theatre, highlighting how different waves of immigration and generations express themselves theatrically.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 231",
+    "title": "Acting II",
+    "units": 3,
+    "department": "THEA",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 111",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 130",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 240",
+    "title": "Theatre Design and Technology I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Design, technical practices, and production organization for the theatre.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "THEA",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "THEA",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 305",
+    "title": "Chicano/a Performance: Introduction to Latina/o Cultural Production on Stage and Screen",
+    "units": 3,
+    "department": "THEA",
+    "description": "Explores contemporary representations of Latinas/os in media, examining how performance reflects gender, class, race, sexuality, and nationality. Students will analyze visual strategies and apply civic engagement theories, fostering a comprehensive understanding of Latinas/os on stage and screen.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 310",
+    "title": "Creative Drama I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Current philosophies, principles, and techniques of creative drama. Development of the individual through use of dramatic play, imagination, improvisation, and theatre games. Applicable to classroom teaching, counseling, recreation, and senior citizen programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 315",
+    "title": "Theatre for Young Audiences",
+    "units": 3,
+    "department": "THEA",
+    "description": "Current philosophies and practices in theatre for young audiences. Techniques of selecting and producing plays for and with youth. Theatre styles, script analysis, and functions of the production team.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 320A",
+    "title": "Advanced Voice and Text for Actors: Select Heightened Speech From the Greeks to Today",
+    "units": 3,
+    "department": "THEA",
+    "description": "Techniques of vocal expression in the theatre, primarily in plays with heightened and elevated speech, e.g. Shakespeare and classic Greek drama.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 111",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 130",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 325",
+    "title": "Script Analysis",
+    "units": 3,
+    "department": "THEA",
+    "description": "Analysis of representative plays with emphasis on plot and character development, dramatic structure, action, and style.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 120",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 330",
+    "title": "Individual Vocal Instruction",
+    "units": 1,
+    "department": "THEA",
+    "description": "Individual voice instruction/coaching for students in B.A. Musical Theatre degree program",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 332",
+    "title": "Acting III",
+    "units": 3,
+    "department": "THEA",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 130",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 231",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 335",
+    "title": "Stage Management-Theory",
+    "units": 3,
+    "department": "THEA",
+    "description": "Development of the prompt script, organizational methods, and collaborative personnel interaction.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 336",
+    "title": "Stage Management-Practicum",
+    "units": 3,
+    "department": "THEA",
+    "description": "Practical experience in stage managing department productions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 345",
+    "title": "Theatre Marketing and Publicity",
+    "units": 3,
+    "department": "THEA",
+    "description": "Practical experience in marketing and publicity for theatres, including PSAs, press releases, layout-graphics for written materials, magazine and newspaper advertisements, marketing strategy and campaign development for a full theatre season.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 349",
+    "title": "Theatrical Makeup",
+    "units": 2,
+    "department": "THEA",
+    "description": "Planning and application of makeup for stage, film, and television. Classroom exercises and production-related activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 350",
+    "title": "Musical Theatre Performance I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Basic performance techniques in musical theatre. Application of acting theory to musical theatre literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 351",
+    "title": "Musical Theatre Performance II",
+    "units": 3,
+    "department": "THEA",
+    "description": "Basic performance techniques in musical theatre. Vocal/performance style and vocal production related to period/style musical theatre literature, solo/group/audition presentation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 353",
+    "title": "Musical Theatre Dance",
+    "units": 2,
+    "department": "THEA",
+    "description": "Musical theatre dance techniques to include classic jazz and ballet. Movement vocabulary and choreographic styles utilized in musical theatre production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 16,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 355",
+    "title": "Movement for the Theatre I",
+    "units": 2,
+    "department": "THEA",
+    "description": "Activities to develop physical skills of the performer. Links between imagination, movement, and body expression leading to character development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 359",
+    "title": "Directing I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Principles and techniques of directing for the stage: play selection, analysis, and interpretation; casting methods; stage composition and movement; and rehearsal procedures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 314",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 427",
+    "title": "African American Theatre and Performance",
+    "units": 3,
+    "department": "THEA",
+    "description": "An exploration into the historical, political, and social struggles that have inspired the creation of African American Theatre, Television, and Film. Students will be encouraged to seek, develop and express their own creative voices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 431",
+    "title": "Workshop in Improvisational Acting",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theories and principles of improvisational acting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 332",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 434",
+    "title": "Audition and Business Skills for the Actor",
+    "units": 3,
+    "department": "THEA",
+    "description": "Auditioning and interviewing for stage and screen; selecting audition pieces, rehearsing, performing auditions. Business skills of audition process; researching individual marketability, branding, networking to secure auditions and representation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 332",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 435",
+    "title": "Acting on Camera",
+    "units": 3,
+    "department": "THEA",
+    "description": "Director-actor-camera collaborations in rehearsal and performance, using single or multi camera television technique. Techniques for preparing and performing monologues and scenes with practical experience in front of and behind the camera.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 111",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 130",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 438",
+    "title": "Shakespeare Touring Production",
+    "units": 2,
+    "department": "THEA",
+    "description": "Participate in high school outreach touring production.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 440",
+    "title": "Scene Design I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Techniques and procedures in application of design, color, and perspective in designing scenery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended pre- or co-requisite: THEA 325.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 442A",
+    "title": "Practicum in Theatrical Production: Scenery Construction",
+    "units": 2,
+    "department": "THEA",
+    "description": "Technical theatre production experience for departmental public performances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 442B",
+    "title": "Practicum in Theatrical Production: Costume Construction",
+    "units": 2,
+    "department": "THEA",
+    "description": "Technical theatre production experience for departmental public performances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 442C",
+    "title": "Practicum in Theatrical Production: Lighting",
+    "units": 2,
+    "department": "THEA",
+    "description": "Technical theatre production experience for departmental public performances. C. Stage Lighting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 446A",
+    "title": "Practicum in Performance: Stage Crew",
+    "units": 2,
+    "department": "THEA",
+    "description": "Practical experience working as\u00a0a crew member on one of three departmental productions. Arranged activity, schedules\u00a0distributed in class. Most activities\u00a0take place during\u00a0evening\u00a0and weekend hours. Average 70 hours per semester.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 446B",
+    "title": "Practicum in Performance: Costume Crew",
+    "units": 2,
+    "department": "THEA",
+    "description": "Practical experience working as\u00a0a costume crew member on one of three departmental productions. Arranged activity, schedules\u00a0distributed in class. Most activities\u00a0take place during\u00a0evening\u00a0and weekend hours. Average 70 hours per semester.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 446C",
+    "title": "Practicum in Performance: Cast Member",
+    "units": 1,
+    "department": "THEA",
+    "description": "Practical experience in departmental public performances.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 16,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 446D",
+    "title": "Practicum in Performance: Lighting Crew",
+    "units": 2,
+    "department": "THEA",
+    "description": "Practical experience working as\u00a0a lighting crew member on one of three departmental productions. Arranged activity, schedules\u00a0distributed in class. Most activities\u00a0take place during\u00a0evening\u00a0and weekend hours. Average 70 hours per semester.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 447",
+    "title": "Lighting Design I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Concepts and technologies in lighting for theatre and related performance areas. Emphasis on mechanics of stage lighting, color, instruments, and control. Laboratory and production related activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended pre- or co-requisite: THEA 325.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 449",
+    "title": "Portfolio Preparation and Exit Interview",
+    "units": 1,
+    "department": "THEA",
+    "description": "Transition to the industry of design and technology for theatre, television, and film by examining the self-marketing materials required to enter the workforce after graduation. Culmination in exit interview.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      },
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      },
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 450",
+    "title": "Musical Theatre Performance III",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced rehearsal/performance techniques in musical theatre. Performance style, vocal production, and staging relating to musical theatre literature: duet and small group presentation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 351",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 451",
+    "title": "Musical Theatre Performance IV",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced rehearsal/performance techniques in musical theatre. Collaboration, performance preparation, acting/singing styles, vocal production, and staging that result in a final performance for an audience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 452",
+    "title": "Costume Design I",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theory and creative application of principles of costume design for various types of production. Emphasis on concept development, character interpretation, research methods, color organization, and fabric selection. Laboratory and production related activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended pre- or co-requisite: THEA 325.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 459",
+    "title": "Directing II",
+    "units": 3,
+    "department": "THEA",
+    "description": "Experience and group evaluation in directing one-act plays before an audience. Attendance at selected public performances required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 359",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 460A",
+    "title": "History of the Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theatre from ancient times to the present. Special attention given to the theatre as a mirror of the social and cultural background of various countries and periods in which it is studied.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Theatre 460A is not prerequisite to",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 460B",
+    "title": "History of the Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theatre from ancient times to the present. Special attention given to the theatre as a mirror of the social and cultural background of various countries and periods in which it is studied.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "THEA 460A",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 465",
+    "title": "Theatre of Diversity",
+    "units": 3,
+    "department": "THEA",
+    "description": "Racial, ethnic, political, and social diversity of American landscape as reflected in works of major playwrights of diversity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 470",
+    "title": "Facility Operations and Management for Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Leadership, managing creative teams, budgeting, scheduling, liability and safety, co-producing, special event and corporate entertainment production management. Front of house operations to include house management, box office operations, ticketing, budgeting and reporting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 476",
+    "title": "Event Coordination and the Entertainment Industry",
+    "units": 3,
+    "department": "THEA",
+    "description": "All aspects of producing special events, including venue designs and planning, managerial roles of entertainment industry, and how venue planning affects business decisions of these various managers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 490",
+    "title": "Theatre Internship",
+    "units": 1,
+    "department": "THEA",
+    "description": "Work with approved theatre organizations off-campus under the combined supervision of theatre personnel and instructors.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "THEA",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor\u2019s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "THEA",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 510",
+    "title": "Creative Drama and Language Arts",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced techniques in using creative drama to teach literature and language. Emphasis on use of drama in teaching of reading and world literature. Practical experience through fieldwork in elementary or middle school classrooms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 515",
+    "title": "Playwriting",
+    "units": 3,
+    "department": "THEA",
+    "description": "Writing for the stage and public presentation. Characterization, dialogue, and formal experimentation when writing short plays.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 525",
+    "title": "Dramaturgy",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theory and application of various aspects of dramaturgy and theatre literary management. Production-oriented synthesis of advanced text analysis, dramatic theory and criticism, historical research, and dramatic literature. Attendance at select plays required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 530A",
+    "title": "Period Dress and Decor: Ancient World Through Eighteenth Century",
+    "units": 3,
+    "department": "THEA",
+    "description": "Visual survey of relationships and cultural significance of period dress, architecture, and decorative arts as applied to theatrical productions. Emphasis on significant historic periods in dramatic literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Theatre 530A is not open to students with credit in Theatre 530.",
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 530B",
+    "title": "Period Dress and Decor: NeoClassical Through Twentieth Century",
+    "units": 3,
+    "department": "THEA",
+    "description": "Visual survey of relationships and cultural significance of period dress, architecture, and decorative arts as applied to theatrical productions. Emphasis on significant historic periods in dramatic literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 532",
+    "title": "Advanced Topics in Stage and Screen Performance",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theory and practice in performance from theatre, television, and film to include physical theatre, voice and speech, film and theatre performance styles, intercultural theatre, devised work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 332",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 533",
+    "title": "Theory and Styles in Acting and Directing",
+    "units": 3,
+    "department": "THEA",
+    "description": "Acting and directing challenges in theory and style related to the production of plays from great periods in theatre history, with attention to characterization, creative directing, dramatic values, and production approaches.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 332",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 320A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 355",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 535",
+    "title": "Wig Construction and Period Hair Styling",
+    "units": 2,
+    "department": "THEA",
+    "description": "Wig construction and period hairstyling for the entertainment industry. History of hairstyles and the social function of follicle aesthetics of various cultures from antiquity through the twenty-first century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 537",
+    "title": "Production and Event Management in the Arts",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced theory and practice of professional event management and production in the visual and performing arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 539",
+    "title": "Theatre Rendering",
+    "units": 2,
+    "department": "THEA",
+    "description": "Rendering for scenic, costume, and lighting designers. Techniques, media, and portfolio preparation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 540",
+    "title": "Scene Design II",
+    "units": 3,
+    "department": "THEA",
+    "description": "History of scene design and application of contemporary styles to various types of dramatic productions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 541",
+    "title": "Scene Painting",
+    "units": 2,
+    "department": "THEA",
+    "description": "Theories and techniques of scene painting, including both historical backgrounds and modern procedures. Full-scale projects executed in scenery studio.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 530A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 542",
+    "title": "Studio Skills for Theatre: Model Making",
+    "units": 2,
+    "department": "THEA",
+    "description": "Traditional model-making for scenic designers. Media, presentation, and techniques of work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 544",
+    "title": "Advanced Stage Technologies",
+    "units": 2,
+    "department": "THEA",
+    "description": "Design and fabrication of stage machinery and special effects. Computer-based automation and controls, electro-mechanical systems, and programmable logic controllers. Current U.S. and European machinery standards and safety systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 545",
+    "title": "Mechanical Drawing for the Theatre",
+    "units": 2,
+    "department": "THEA",
+    "description": "Theatre drafting standards and techniques. Floor plans, sections, elevations, perspective drawings, and light plots.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 546",
+    "title": "CADD for the Theatre",
+    "units": 2,
+    "department": "THEA",
+    "description": "Computer aided drafting applications for theatre designers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 545",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 547",
+    "title": "Lighting Design II",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced design theories and lighting practice for the entertainment arts.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended co-requisite THEA 556: Digital Communication for Lighting Design.\u00a0Plus fee.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 548",
+    "title": "Sound Design for the Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theories and techniques of sound design and reinforcement for theatrical performance. Laboratory experience in sound production.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 325",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 460",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 549",
+    "title": "Lighting and Sound Technology",
+    "units": 2,
+    "department": "THEA",
+    "description": "Use of electrics for the stage. Lighting, sound, computer. Practical applications emphasized.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 550",
+    "title": "Software for Theatrical Design",
+    "units": 2,
+    "department": "THEA",
+    "description": "Application of computer software for theatre, including scenery, costume, lighting, and sound design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 546",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 551",
+    "title": "Advanced Media Design",
+    "units": 2,
+    "department": "THEA",
+    "description": "Digital media creation for theatrical use. Creation of video content for projection design and integrated media. Advanced digital painting of theatrical renderings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 550",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 552",
+    "title": "Costume Design II",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced studies in costume design. Emphasis on theatrical style, rendering layout, design problems, materials, and budget.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 530B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 553",
+    "title": "Technical Direction",
+    "units": 3,
+    "department": "THEA",
+    "description": "Modern technical direction including project management (budgeting and procurement, managing employees); design and engineering; automation, rigging, advanced stagecraft (metalcraft, CNC machinery, composite construction), and safety.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 442A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 442B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 554A",
+    "title": "Costume Design Technology I",
+    "units": 2,
+    "department": "THEA",
+    "description": "Current materials and practices of costume technology: advanced construction techniques, fabric selection and use, period pattern drafting, draping, and cutting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 442B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 554B",
+    "title": "Costume Design Technology II",
+    "units": 2,
+    "department": "THEA",
+    "description": "Advanced costume craft construction techniques and management procedures for costume production: millinery, fabric dyeing and painting, jewelry, and related crafts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 555B",
+    "title": "Movement for the Theatre II",
+    "units": 2,
+    "department": "THEA",
+    "description": "Musical theatre movement and dance styles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 556",
+    "title": "Digital Communication for Lighting Design",
+    "units": 2,
+    "department": "THEA",
+    "description": "Application of Lightwright, Vectorworks, and other industry-standard software programs to produce 2D/3D light plots, 3D lighting renderings, and professional quality lighting design package documentation. Communication techniques, drawing organization, and industry practices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 557",
+    "title": "3D Fabrication for Entertainment Design",
+    "units": 2,
+    "department": "THEA",
+    "description": "Theory and practice of basic principles of 3D printing and scanning for theatrical use. Basics of fused deposition modeling manufacture. Sourcing and creating 3D models. Creation and realization of original work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 558",
+    "title": "Welding and Metal Fabrication for Theatre",
+    "units": 2,
+    "department": "THEA",
+    "description": "This course covers the fundamentals of welding and fabrication techniques for the construction of theatrical scenery.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 442A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 559",
+    "title": "Programming for Live Events",
+    "units": 2,
+    "department": "THEA",
+    "description": "In-depth, hands-on experience programming lighting consoles for a diverse range of live events. Emphasis on moving, multi-attribute fixtures, and effects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 561",
+    "title": "Projection Design and Integrated Media",
+    "units": 3,
+    "department": "THEA",
+    "description": "Designing projections and integrated media for theatrical productions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 550",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 551",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 564",
+    "title": "Costume Topics",
+    "units": 1,
+    "department": "THEA",
+    "description": "Fashion for costume design, Hollywood costume design in the past century, origins of modern menswear, psychology and meaning of dress.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 570A",
+    "title": "Practicum in Theatrical Production: Independent Study",
+    "units": 1,
+    "department": "THEA",
+    "description": "Design projects in areas of scenery, costume, lighting, sound, or makeup.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 570B",
+    "title": "Practicum in Theatrical Production: Design for Department Public Performances",
+    "units": 1,
+    "department": "THEA",
+    "description": "Design projects in areas of scenery, costume, lighting, sound, or makeup.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 447",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 452",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 571",
+    "title": "Theatre and Racial Protests: The Civil Rights to the Apartheid Movements",
+    "units": 3,
+    "department": "THEA",
+    "description": "Explores the intersection of performance and activism during the American Civil Rights Movement and South African anti-Apartheid struggle. Students analyze protest theatre\u2019s role in articulating resistance, influencing change, and promoting racial justice, studying key productions, historical contexts, and performative strategies from the Negro Ensemble, National Black Theatre, and Market Theatre. Students registered at the 500 level will be expected to expand beyond the treatments and synopsis, into the creation of individual short scripts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 580",
+    "title": "Theatre in the Classroom",
+    "units": 3,
+    "department": "THEA",
+    "description": "Methods of teaching theatre in elementary, middle, and secondary schools. Emphasis on pedagogy, organization of curriculum, play selection, and principles of producing plays in the classroom.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "THEA 315",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 596",
+    "title": "Selected Topics in Theatre",
+    "units": 1,
+    "department": "THEA",
+    "description": "A specialized study of selected topics from the areas of theatre.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 600",
+    "title": "Writing for Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Advanced study of forms and methods of writing to include critical writing for theatre. Making appropriate rhetorical choices for different writing contexts and the uses of research in writing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 610",
+    "title": "Seminar in Design Aesthetics for Theatre, Television, and Film",
+    "units": 3,
+    "department": "THEA",
+    "description": "Aesthetic theories and practice. Design aesthetics as applied to theatre, television, film and new media production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 620A",
+    "title": "Seminar in History of Musical Theatre: Nineteenth Century Viennese Operetta through 1950",
+    "units": 3,
+    "department": "THEA",
+    "description": "Chronological survey of representative works from musical theatre history including major productions, personalities, styles, and genres.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 620B",
+    "title": "Seminar in History of Musical Theatre: 1950 to present",
+    "units": 3,
+    "department": "THEA",
+    "description": "Chronological survey of representative works from musical theatre history including major productions, personalities, styles, and genres.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 621",
+    "title": "Seminar in Theories of the Theatre",
+    "units": 3,
+    "department": "THEA",
+    "description": "Theories of dramatic literature and performance, reflecting major stylistic movements and aesthetic philosophies of the stage from the classical Greeks to today (e.g., Aristotle, Lessing, Appia, Brecht, and Grotowski).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 622A",
+    "title": "History of Musical Theatre Laboratory",
+    "units": 1,
+    "department": "THEA",
+    "description": "Laboratory component of",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 620A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 622B",
+    "title": "History of Musical Theatre Laboratory",
+    "units": 1,
+    "department": "THEA",
+    "description": "Laboratory component of",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "THEA 620B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "THEA 623",
+    "title": "Seminar in Musical Theatre Script and Score Analysis",
+    "units": 3,
+    "department": "THEA",
+    "description": "Representative works from musical theatre analyzed in terms of dramatic and musical aesthetics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "THEA 627",
+    "title": "Musical Theatre Studio",
+    "units": 4,
+    "department": "THEA",
+    "description": "Acting, singing, and movement skills in relation to musical theatre performance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 16,
+    "notes": null,
+    "prerequisites": []
+  }
+]

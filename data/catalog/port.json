@@ -1,0 +1,348 @@
+[
+  {
+    "course_code": "PORT 101",
+    "title": "Elementary Portuguese I",
+    "units": 5,
+    "department": "PORT",
+    "description": "Introduction to grammar, listening, reading, speaking, and writing. Communicative approach to developing language skills.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 102",
+    "title": "Elementary Portuguese II",
+    "units": 5,
+    "department": "PORT",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 110",
+    "title": "Beginner Portuguese for Spanish Speakers",
+    "units": 3,
+    "department": "PORT",
+    "description": "Accelerated beginner course for Spanish speakers. Essentials of grammar, listening, reading, speaking, and writing. Adoption of a communicative approach to develop intermediate-low level skills in Portuguese. Contrasts with Spanish and other Romance languages.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 203",
+    "title": "Intermediate Portuguese I",
+    "units": 3,
+    "department": "PORT",
+    "description": "Continuation of first-year Portuguese. Practices of grammar, listening reading, speaking, and writing. Adoption of a communicative approach to develop intermediate-mid level skills in Portuguese.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 204",
+    "title": "Intermediate Portuguese II",
+    "units": 3,
+    "department": "PORT",
+    "description": "Continuation of second-year Portuguese. Practices of grammar, listening, reading, speaking, and writing. Adoption of a communicative approach to develop intermediate-high level skills in Portuguese.  Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 205",
+    "title": "Intermediate Portuguese for Business, Health, and Legal Purposes",
+    "units": 3,
+    "department": "PORT",
+    "description": "Prepares students to reach intermediate high proficiency in Portuguese, focusing on language use in the business, health, and legal fields.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Heritage speakers of Portuguese are encouraged to take the course; may consult with instructor or Portuguese Program Director for placement. Not open after PORT 204.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 250",
+    "title": "Women’s Literature in the Portuguese-speaking World",
+    "units": 3,
+    "department": "PORT",
+    "description": "Women authors of the Portuguese-speaking world and their relationship to the cultural, historical, literary, and sociopolitical questions raised by their texts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PORT",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PORT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Portuguese. Native speakers of Portuguese will not receive credit for taking lower division courses in Portuguese except with advance approval from the department. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 306",
+    "title": "Portuguese and Brazilian Cinema and Culture",
+    "units": 3,
+    "department": "PORT",
+    "description": "Main movements and productions of Portuguese and Brazilian cinema. Social factors and representations of national identities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 307",
+    "title": "Brazilian Music and Culture",
+    "units": 3,
+    "department": "PORT",
+    "description": "Brazilian music and culture with emphasis on religious and cultural practices of candomble, capoeira, carnival, and notions of race and class in contemporary Brazilian funk and hip-hop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 311",
+    "title": "Advanced Reading, Writing, and Grammar",
+    "units": 3,
+    "department": "PORT",
+    "description": "Developing advanced proficiencies in grammar, reading, and writing, based on models from modern Luso-Brazilian literary and non-literary texts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 312",
+    "title": "Advanced Listening and Conversation",
+    "units": 3,
+    "department": "PORT",
+    "description": "Developing advanced proficiencies in listening and speaking activities, based on Luso-Brazilian audiovisual and multimedia sources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "May be taken concurrently or prior to",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 443",
+    "title": "Contemporary Luso-Brazilian Civilization",
+    "units": 3,
+    "department": "PORT",
+    "description": "Cultural, ethnic, geographic, historical, political, and social factors of modern Brazil and Portugal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 470",
+    "title": "Methods in Teaching Spanish and Portuguese as a Second Language",
+    "units": 3,
+    "department": "PORT",
+    "description": "Teaching of Spanish and Portuguese as a second language: contemporary theory and methods. Emphasizes training in teaching techniques to develop students’ presentational, interpersonal, and interpretative skills.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Taught in English, Spanish and Portuguese. Proficiency in Portuguese not required for students specializing in Spanish; proficiency in Spanish not required for students specializing in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Spanish and Portuguese courses.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 496",
+    "title": "Selected Studies in Portuguese",
+    "units": 3,
+    "department": "PORT",
+    "description": "Topics in Lusophone language, literature, culture, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PORT",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PORT 520",
+    "title": "Women Authors in Portuguese",
+    "units": 3,
+    "department": "PORT",
+    "description": "Feminist and cultural studies approach to works by women authors of countries where Portuguese is spoken, including Portugal, Brazil, Angola, Cape Verde, São Tomé e Príncipe.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 530",
+    "title": "Portuguese Literature",
+    "units": 3,
+    "department": "PORT",
+    "description": "Foremost authors, movements, and works in the literature of Portugal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 535",
+    "title": "Race, Gender, and National Identity in Brazilian Literature",
+    "units": 3,
+    "department": "PORT",
+    "description": "Works of Brazilian literature focused on the contribution of racial interactions (Afro-Brazilian, indigenous, white) and gender dynamics to the definition of Brazilian national identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 540",
+    "title": "Luso-Brazilian Literature",
+    "units": 3,
+    "department": "PORT",
+    "description": "Portuguese and Brazilian literary genres, movements, and texts of historical and modern aesthetics discussed from a transatlantic perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in Portuguese. No credit will be given for lower division courses taken after successfully completing any upper division Portuguese course taught in Portuguese.",
+    "prerequisites": [
+      {
+        "prereq_code": "PORT 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PORT 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PORT",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

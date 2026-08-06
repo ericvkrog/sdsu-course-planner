@@ -1,0 +1,42 @@
+{
+  "code": "BIOLOGY_B_A",
+  "name": "Biology, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11918",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11918",
+  "poid": "11918",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "BIOL 203",
+    "BIOL 203L",
+    "BIOL 204",
+    "BIOL 204L",
+    "BIOL 215",
+    "CHEM 200",
+    "CHEM 201",
+    "CHEM 232",
+    "CHEM 232L",
+    "MATH 124",
+    "PHYS 180A",
+    "PHYS 180B",
+    "PHYS 182A",
+    "PHYS 182B"
+  ],
+  "upper_required": [
+    "BIOL 351",
+    "BIOL 352",
+    "BIOL 354",
+    "BIOL 366",
+    "BIOL 366L",
+    "CHEM 365",
+    "BIOL 350",
+    "BIOL 459",
+    "BIOL 462"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

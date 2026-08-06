@@ -1,0 +1,606 @@
+[
+  {
+    "course_code": "COMPE 101",
+    "title": "Introduction to Electrical and Computer Engineering",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Basic principles of electrical and computer engineering. Introduction to the diverse fields of electrical and computer engineering to include power, control, electromagnetics, signal processing, microelectronics, communication, and embedded systems. Professional aspects including career opportunities and engineering ethics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 160",
+    "title": "Introduction to Computer Programming",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Computer organization and operation. Binary representation of information. Fundamentals of computer programming using a C family language: data types, selection and iteration structures, functions, arrays, pointers, scope and duration of variables. Systematic design and development of computer programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 260",
+    "title": "Data Structures and Object-Oriented Programming in C++",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Data structures using object-oriented programming in C++. Disciplined approach to design, coding, and testing using OOP, teach use and implementation of data abstractions using data structures. Arrays, linked lists, stacks, queues, trees. Sorting, searching, recursive algorithms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 270",
+    "title": "Digital Systems",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Modelling, analysis and design of digital systems, primarily at the Logic Design level. Combinational and sequential networks.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 271",
+    "title": "Computer Organization",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Organization and operation of computer hardware and software. Operating system shell and services. Program design and development. Input-output programming. Multi-module and mixed-language programming. Assembler and C language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 270",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 361",
+    "title": "Advanced Programming",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Object Oriented Programming (OOP) using Python. Advanced programming concepts. Graphical User Interface (GUI) and event-driven programming. Scientific programming and data visualization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 260",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 271",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 375",
+    "title": "Embedded Systems Programming",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Embedded system architecture; IO programming using parallel ports, serial ports, timers, and D/A and A/D converters; interrupts and real-time programming; program development and debugging tools; C language and assembler.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 470",
+    "title": "Digital Circuits",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Design of digital electronic systems using commercially available high-speed digital devices and circuits.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "E E 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 160",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 270",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 470L",
+    "title": "Digital Logic Laboratory",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Hands-on experience in characterization and application of standard digital integrated circuit devices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 470",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 330L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 475",
+    "title": "Computer Architecture",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Fundamental principles and advanced concepts of computer architecture. Design and organization of modern computing systems. Instruction set architectures, processor design, pipelining, memory hierarchy, input/output systems, and parallel processing. System performance evaluation. Emerging trends in processor and system architectures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 375",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 470",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 491W",
+    "title": "Senior Design Project A",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Develop project plans, work on a team, acquire project management skills, develop and evaluate the forms of communication engineers encounter in their profession. Develop critical reading and writing skills for engineering documents. The importance of professional ethics and ethical practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in COMPE 491 or COMPE 492. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 492",
+    "title": "Senior Design Project B",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Supervised team-based capstone engineering project to provide integrative design experience for seniors to demonstrate a working project. Students will engage in collaborative, project-based learning that develops teamwork, communication, leadership, engineering practice, and problem-solving skills through team-designed deliverables and reflective assessments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in COMPE 492W",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 491W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 493",
+    "title": "Senior Design Project B",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Supervised team-based capstone engineering project to provide integrative design experience for seniors to demonstrate a working project. Students will engage in collaborative, project-based learning that develops teamwork, communication, leadership, engineering practice, and problem-solving skills through team-designed deliverables and reflective assessments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in COMPE 492",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 496",
+    "title": "Advanced Computer Engineering Topics",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Modern developments in computer engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 510",
+    "title": "Machine Learning for Engineers",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Selected topics from linear regression, logistic regression, neural networks, support vector machine, decision trees, clustering, Naive Bayes, dimension reduction, and ensemble learning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 361",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 525",
+    "title": "Cyber-Physical Systems",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Core principles of building cyber-physical systems (CPS), hardware and software components of CPS, formal CPS modeling and verification, real-time control and timing analysis of CPS, data processing for CPS, practical CPS examples and applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 571",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 560",
+    "title": "Computer and Data Networks",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Wide area and local area networks, multi-layered protocols, telephone systems, modems, and network applications.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 271",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 561",
+    "title": "Windows Database and Web Programming",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Programming applications involving file systems, relational databases, Structured Query Language (SQL), ADO.NET, client-server architecture, multithreading sockets, web servers, web browsers, web services, ASP.NET, Hypertext Markup Language (HTML), and Extensible Markup Language (XML).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 361",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 565",
+    "title": "Multimedia Communication Systems",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Design and implementation of multimedia communication systems. Image compression, JPEG, VQ, cell-B standards. Video and audio compression standards, MPEG, MPEG-2, H.26X, G.72X. Data storage systems and multimedia requirements. Networking requirements and networks as multimedia carriers. Transport and network protocols for carrying multimedia over data networks. Multimedia system design, scheduling, congestion control, traffic shaping, buffer management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 560",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 570",
+    "title": "VLSI System Design",
+    "units": 3,
+    "department": "COMPE",
+    "description": "VLSI systems at the architectural level for digital signal processing applications: feedforward and feedback systems, fixed-point and floating-point representations, folding, iteration bound, parallel architectures, pipelining, retiming, unfolding, wave and asynchronous pipelining.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 470",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 571",
+    "title": "Embedded Operating Systems",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Real-time kernel, basic kernel services, threading and synchronization, preemptive multithreading, mutexes, spin locks, critical sections, priority scheduling, interrupts, RTOS implementation, memory management, task management, intertask communications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 260",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "COMPE 375",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 572",
+    "title": "VLSI Circuit Design",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Design of digital integrated circuits based on CMOS technology; characterization of field effect transistors, transistor level design and simulation of logic gates and subsystems; chip layout, design rules, introduction to processing; ALU architecture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": [
+      {
+        "prereq_code": "COMPE 271",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "E E 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "COMPE 596",
+    "title": "Advanced Computer Engineering Topics",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Modern developments in computer engineering.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Prerequisites will be enforced in all undergraduate computer engineering and electrical engineering courses numbered 100 through 599. A copy of an official transcript will be accepted as proof. For corequisites, an enrollment confirmation form will be accepted.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 660",
+    "title": "High Speed Networks: Design Principles and Recent Advances",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Provides students with knowledge of recent developments in area of computer networks. Current research in high speed computer networks.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 662",
+    "title": "Wireless Sensor Networks",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Sensor platforms, wireless channel characteristics, time synchronization, medium access control, topology control, routing protocols, localization, coverage and placement, detection and tracking, query processing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 665",
+    "title": "Multimedia Wireless Networks",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Cross-layer protocol design, multimedia QoS-aware 4G, 5G, CRN, WLAN networks; multimedia source and bitstream characteristics, quality of service, and roles of processing capacity and power consumption.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 671",
+    "title": "VLSI Testing",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Theory and techniques for testing VLSI circuits and systems. Analog/mixed-signal testing, Automatic Test Pattern Generation (ATPG), boundary scan and core-based testing, Built-in Self-Test (BIST), defect and fault diagnosis, Design For Testability (DFT), logic/fault simulation, memory test, machine learning applications in VLSI testing, scan design/architecture.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 696",
+    "title": "Advanced Topics in Computer Engineering",
+    "units": 1,
+    "department": "COMPE",
+    "description": "Intensive study in specific areas of electrical engineering. May be repeated with new content. See Class Schedule for specific content. Credit for 596 and 696 applicable to a master?s degree with approval of the graduate adviser.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 797",
+    "title": "Research",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Research in computer engineering.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 798",
+    "title": "Special Study",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Applicable to a master’s degree for students in Plan B study.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "COMPE 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "COMPE",
+    "description": "Preparation of a thesis for the Master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

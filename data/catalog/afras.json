@@ -1,0 +1,872 @@
+[
+  {
+    "course_code": "AFRAS 101",
+    "title": "Introduction to Africana Studies: Social and Behavioral Sciences",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Interdisciplinary introduction of African American thought and behavior. Subject areas include social systems, economic empowerment, self development, family dynamics, use of power, cognitive styles, interethnic communication and international relations. Review of relevant literature in social and behavioral sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 102",
+    "title": "An Afrocentric Response to Generational Trauma",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Generational trauma to African Americans resulting from Black Lives Matter movement, Jim Crow, Maafa, and Reconstruction. Physiological, psychological, and social impacts of generational trauma. Wholeness and healing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 120",
+    "title": "Composition",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Designed to develop and enhance composition and reading skills. Focus on writing skills that contribute to academic growth and development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 140",
+    "title": "Oral Communication",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Practice in speaking, critical listening, reasoning and organizing. Theory and techniques of communications used to evaluate the effect they have on the lives of Blacks and others.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 170A",
+    "title": "Afro-American History to 1865",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "U.S. history from an Afro-American perspective to 1865. Examines U.S. constitution and legislation, and impact upon culture and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the American Institutions requirement in American history and United States Constitution. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 170B",
+    "title": "Afro-American History from 1865 to Present",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "U.S. history from an Afro-American perspective from 1865 to the present.  Attention given to historical, contemporary, political, socioeconomic issues, the U.S. and California constitutions and their impact on Afro-Americans.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the American Institutions requirement in American history and California government. This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 200",
+    "title": "Intermediate Expository Writing and Research Fundamentals",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Development of intermediate expository writing skills and application of practical research principles.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in AMIND 225, CCS 200, LING 200, or RWS 200 [or ECL 200].",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 240",
+    "title": "Africana Intellectual Thought",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Major theories and theory-makers and production of a global black intellectual tradition. Thoughts and writings of major black leaders as they relate to liberation, struggle, resistance, and cultural production.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 260",
+    "title": "Africana Literary Study",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Oral and written literature produced by people of African descent. How Africana people use language to communicate their history and culture. Basic literary vocabulary, techniques, and theories for the non-specialist.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "AFRAS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 300",
+    "title": "Afro-Brazilian Community, Culture, and Identity",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Culture, history, and the social institutions of Brazilians of African descent. Economic and political standing in Brazil’s contemporary urban and traditional rural societies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 302",
+    "title": "Literature and Film of Black Brazil",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Afro-Brazilian prose, poetry, non-fiction writing and cinema. Race and cultural resistance in Brazil.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 305W",
+    "title": "Writing in Various Settings",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Compose effective texts for a wide range of situations in and out of the university. Adjust textual elements for specific audiences, purposes, and settings. Enhance critical reading and writing skills by exploring how content contributes to meaning and effectiveness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 320",
+    "title": "Political Economy of African Diaspora",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Political economy of urban growth, development, and redevelopment in African diaspora, examined in historical and contemporary contexts. Race and class inequality and conflict; effectiveness of public and private sector decisions and programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 321",
+    "title": "Black Political Participation in America",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Afro-American political life and development in the United States. Interaction between Afro-Americans and various actors, institution processes, and policies of the American system of politics and governance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 322",
+    "title": "African American Political Thought",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Political and social thought underlying principles, goals, strategies developed by African Americans in struggle for social development and human rights. Focus on twentieth century thought.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 323",
+    "title": "History and Culture of Haiti",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Challenges traditional narratives of Haiti and provides a historical overview to better understand contemporary Haiti. Topics to include: slavery, colonialism, Haitian Revolution, U.S. occupation, Dominican Republic, Haitian Creole, Vodou, and more.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 327",
+    "title": "Critical Theories in Africana Studies",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Major historical and contemporary theories and thinkers that have defined and continue to define discipline of Africana studies. Comparative analyses of diverse voices and perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 331",
+    "title": "The Black Family",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Structure and functions of the Black family in contemporary American society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 332",
+    "title": "Black Women: Myth and Reality",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Images of Black women in America and how those images have been distorted.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 333",
+    "title": "Black Women’s History",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Black women’s experiences during enslavement and Jim Crow. Struggles of liberation and the shaping of American society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 335",
+    "title": "Africana Presence in Latin America",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Students will explore Black people’s experiences in Latin America, critically reflecting on the resistance to racism and oppression while discussing themes such as the role of Black people in constructing Latin American societies and the intersection with Indigenous peoples’ struggle. Furthermore, students will deconstruct themes such as the formation of regional alliances, the global South-North migration, and reparations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Language Instruction: This course will be taught in English.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 341",
+    "title": "Cultural Patterns and African American Identity",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Impact of social institutions on African American identity and cultural patterns.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 350",
+    "title": "Africana Digital Humanities",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Examines Black life and culture as experienced and engaged through human computing platforms, tools, and media sources. Considers the discipline’s relationship with human computing; how DH methodologies relate to democracy, possibility, and freedom; and the various roles they take up.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 351",
+    "title": "Black Religions and Spirituality",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Major Black religious and spiritual responses and expressions in Africa and Black diaspora, including creation of institutions to support and advance religious and spiritual matters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 363",
+    "title": "Sociocultural Analysis of Black Languages",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Social and cultural functions of Black languages, verbal and nonverbal, in Afro-American life, and their profound impact on larger society. Also, a probe into issues concerning validity of Black English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 365A",
+    "title": "African American Literature to 1900",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Eighteenth and nineteenth century writing by African American authors. Issues of literary form, canon formation, and sociopolitical impact of the literature upon African American culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 365B",
+    "title": "African American Literature After 1900",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Writing by African American authors after 1900. Issues of literary form, canon formation and sociopolitical impact of the literature upon African American and American culture of the twentieth and twenty-first centuries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 380",
+    "title": "African Americans and the US Justice System",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Interpretation and application of constitutional principles and judicial decisions to political and social problems faced by Afro-Americans.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 385",
+    "title": "African American Music",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "African American music from its African roots to present. Consideration of musical styles, events, significant contributors as well as role of sociocultural values in development of music.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 421",
+    "title": "Black Urban Experience",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Major social science literature of international Black urban experience. Behavior, culture, and oppressions unique to urban environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 422",
+    "title": "Modern Civil Rights Movement",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Key events, strategies, and theoretical debates that emerged from struggle for black equality during modern civil rights movement in the United States from 1945 to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 423",
+    "title": "Black Nationalism",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Black nationalism in the world, with emphasis on comparative analysis of writings of leading nationalist (and Pan-Africanist) thinkers and theorists.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 455",
+    "title": "Africana Class, Gender, and Sexualities",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Intersection of race, class, gender, and sexualities within Africana culture and experience and impact on Africana world-view.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 465",
+    "title": "Africa in Literature and Film",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "African cultural history through literature and film. Consistency/variety of African cultural expressions and conventions in literature and film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Taught in English.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 466",
+    "title": "Afrofuturism",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Interdisciplinary study of African and African American contributions to science fiction, comic book art, pop culture, and its origins and influences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 470",
+    "title": "Comparative History: Afro-American and African Heritage",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Conceptual framework of African history and a comparative study of Afro-American institutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 471",
+    "title": "Africana History",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Major themes in African American historical development as they relate to African survivals in diaspora; growth of free Africana communities; Reconstruction; history of United States social movements; movement leadership and daily life; and concurrent developments in Africa.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement. Not open to students with credit in Africana Studies 471A and 471B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 472",
+    "title": "African Enslavement",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Comparative history of enslavement of Africans in the Americas and Muslim world, African servitude, and modern day enslavement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 473",
+    "title": "Women in Africa",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Historical and contemporary roles women have occupied in Africa as political leaders, spiritual authoritative figures, and mothers in various African societies, from classical Africa to the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 475",
+    "title": "Super Black: The Politics of Representation in Comics",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Super Black is the exploration of comics focused on the increased prevalence of black comic book characters and their creators.  An analytic history of the diverse contributions of Black artists to the medium, covering comics and graphic novels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 476",
+    "title": "History and Culture of Hip Hop",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Genesis of hip hop as a worldwide culture, with attention to major Africana historical, political, sociological, cultural, and aesthetic precursors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 483",
+    "title": "Applied Praxis Projects",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Analyzes real-world business or nonprofit projects through both Ethnic Studies and industry frameworks. Students develop career-ready skills while examining how standard practices shape economic outcomes for local communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Open to all upper-division students.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 485",
+    "title": "Blacks in the Arts",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Academic and artistic perspectives on Black participation in and contributions to the creative and performing arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 490",
+    "title": "Senior Seminar",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Capstone experience in which mastery of practice, theories, concepts, and issues central to Africana studies is demonstrated.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "AFRAS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "AFRAS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 500",
+    "title": "Research Methods",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Research methods, models, and theories. Strategies for gathering data from and about Africana people towards generating social change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AFRAS 510",
+    "title": "Black Geographies In and Outside the U.S.",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Experiences, approaches, and methodologies at the intersection of African diaspora theories and Black Geographies. ‘Space’ and ‘place’ in the Black experience within and outside the US. Africana “geographies of experience” alongside geographies of power and the production of difference. May be repeated with different course content.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 518",
+    "title": "The Black Male Experience",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Explore the multidimensional lives, experiences, and development of Black men and boys within the context of their families, communities, and society at large from Afrocentric and Black masculinist perspectives.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 520",
+    "title": "African Civilization I",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "An intensive investigation into the rise and fall of several major ancient African Civilizations. Civilizations and periods will normally include the classical cultures of Kush, Kemet, Axum, and a survey of the early history of the Sudanic empires.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 521",
+    "title": "African Civilization II",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "An intensive investigation into the rise and fall of several major contemporary African Civilizations. Civilizations and periods will normally include the Sudanic Empires of Ghana, Mali, Songhai, as well as modern societies such as the Yoruba, Xhosa, and the Asante.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 542",
+    "title": "Afrocentricity",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "An investigation into the origins, evolution, applications, and critiques of Afrocentricity. Engage with concepts such as centeredness, agency, cultural location, dislocation, orientation, and historical disorientation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AFRAS 571",
+    "title": "Theatre of Racial Protest: From the Civil Rights to Apartheid",
+    "units": 3,
+    "department": "AFRAS",
+    "description": "Explores intersection of performance and activism during the American Civil Rights Movement and South African anti-Apartheid struggle. Students analyze protest theatre’s role in articulating resistance, influencing change, and promoting racial justice, studying productions, historical contexts, and performative strategies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "code": "CHEMISTRY_B_A",
+  "name": "Chemistry, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11940",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11940",
+  "poid": "11940",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "CHEM 200",
+    "CHEM 201",
+    "CHEM 232",
+    "CHEM 232L",
+    "CHEM 251",
+    "BIOL 203",
+    "BIOL 203L",
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "PHYS 197",
+    "PHYS 197L"
+  ],
+  "upper_required": [
+    "CHEM 410A",
+    "CHEM 410B",
+    "CHEM 417",
+    "CHEM 432",
+    "CHEM 432L",
+    "CHEM 457",
+    "CHEM 550"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

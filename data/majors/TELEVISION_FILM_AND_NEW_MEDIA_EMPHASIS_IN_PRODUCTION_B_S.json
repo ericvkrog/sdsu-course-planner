@@ -1,0 +1,82 @@
+{
+  "code": "TELEVISION_FILM_AND_NEW_MEDIA_EMPHASIS_IN_PRODUCTION_B_S",
+  "name": "Television, Film and New Media, Emphasis in Production, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12219",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12219",
+  "poid": "12219",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "TFM 390W",
+    "RWS 305W"
+  ],
+  "lower_division": [
+    "TFM 110",
+    "TFM 160",
+    "THEA 100",
+    "THEA 120"
+  ],
+  "upper_required": [
+    "TFM 390W",
+    "RWS 305W",
+    "TFM 310",
+    "TFM 314",
+    "TFM 330",
+    "TFM 361",
+    "TFM 362",
+    "TFM 364A",
+    "TFM 364B",
+    "TFM 401",
+    "TFM 410",
+    "TFM 540",
+    "TFM 560"
+  ],
+  "elective_areas": {
+    "Additional Preparation for the Major": [
+      "ART 157",
+      "ART 258",
+      "ART 259",
+      "MUSIC 151",
+      "THEA 115",
+      "THEA 130"
+    ],
+    "Production Electives": [
+      "TFM 321",
+      "TFM 322",
+      "TFM 327",
+      "TFM 350",
+      "TFM 465",
+      "TFM 490",
+      "TFM 499",
+      "TFM 510",
+      "TFM 522",
+      "TFM 550",
+      "TFM 551",
+      "TFM 559",
+      "TFM 561",
+      "TFM 590",
+      "THEA 359"
+    ],
+    "Cinema Studies Electives": [
+      "TFM 363",
+      "TFM 364A",
+      "TFM 364B",
+      "TFM 430",
+      "TFM 470",
+      "TFM 530",
+      "TFM 563",
+      "TFM 571",
+      "TFM 573"
+    ]
+  },
+  "default_electives": [
+    "THEA 115",
+    "TFM 321",
+    "TFM 322",
+    "TFM 363",
+    "TFM 430"
+  ],
+  "unresolved_codes": []
+}

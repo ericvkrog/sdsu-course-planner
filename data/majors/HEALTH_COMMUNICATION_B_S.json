@@ -1,0 +1,81 @@
+{
+  "code": "HEALTH_COMMUNICATION_B_S",
+  "name": "Health Communication, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11961",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11961",
+  "poid": "11961",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "COMM 300",
+    "COMM 321",
+    "COMM 350",
+    "COMM 371",
+    "COMM 415",
+    "COMM 445",
+    "COMM 492",
+    "COMM 499",
+    "COMM 555",
+    "COMM 495"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "COMM 160",
+      "COMM 201",
+      "COMM 204",
+      "COMM 245"
+    ],
+    "Investigating Communication": [
+      "COMM 407",
+      "COMM 420",
+      "COMM 441",
+      "COMM 462",
+      "COMM 465"
+    ],
+    "Health Communication Electives": [
+      "COMM 421",
+      "COMM 422",
+      "COMM 423",
+      "COMM 424",
+      "COMM 425",
+      "COMM 426",
+      "COMM 427",
+      "COMM 428",
+      "COMM 444",
+      "COMM 485",
+      "COMM 490",
+      "COMM 540"
+    ],
+    "Health-Related Preparation Courses": [
+      "GERO 360",
+      "GERO 370",
+      "HHS 350",
+      "NURS 350",
+      "PHIL 330",
+      "P A 340",
+      "P H 353",
+      "P H 362",
+      "SWORK 430"
+    ]
+  },
+  "default_electives": [
+    "COMM 160",
+    "COMM 201",
+    "COMM 204",
+    "COMM 407",
+    "COMM 420",
+    "COMM 421",
+    "COMM 422",
+    "COMM 423",
+    "COMM 424",
+    "COMM 425",
+    "COMM 426",
+    "PHIL 330",
+    "P A 340"
+  ],
+  "unresolved_codes": []
+}

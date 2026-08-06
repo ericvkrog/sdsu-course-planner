@@ -1,0 +1,42 @@
+{
+  "code": "PHYSICS_GENERAL_PHYSICS_B_S",
+  "name": "Physics, General Physics, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12157",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12157",
+  "poid": "12157",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "PHYS 197",
+    "PHYS 197L",
+    "CHEM 200",
+    "MATH 150",
+    "MATH 151",
+    "MATH 252"
+  ],
+  "upper_required": [
+    "PHYS 311",
+    "PHYS 317",
+    "PHYS 350",
+    "PHYS 354",
+    "PHYS 357",
+    "PHYS 360",
+    "PHYS 400A",
+    "PHYS 400B",
+    "PHYS 410",
+    "PHYS 498A",
+    "PHYS 498B",
+    "MATH 342A",
+    "MATH 342B"
+  ],
+  "elective_areas": {},
+  "default_electives": [],
+  "unresolved_codes": []
+}

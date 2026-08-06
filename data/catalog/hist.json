@@ -1,0 +1,1523 @@
+[
+  {
+    "course_code": "HIST 100",
+    "title": "World History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Growth of civilizations and interrelationships of peoples of Europe, Asia, Africa, and the Americas to 1500.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 101",
+    "title": "World History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Modern history from a global perspective, 1500 to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 102",
+    "title": "World History Through Science and Technology",
+    "units": 3,
+    "department": "HIST",
+    "description": "Hunter-gatherers and the rise of agriculture to modern globalization of industry and global warming. Interrelationships between cultural changes, scientific theories, and technological advances.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 106",
+    "title": "Western Civilization Since the Sixteenth Century",
+    "units": 3,
+    "department": "HIST",
+    "description": "Development of European cultures, thought, and institutions from sixteenth century to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 109",
+    "title": "American History to Reconstruction",
+    "units": 3,
+    "department": "HIST",
+    "description": "United States history from pre-colonial societies to Reconstruction. Contact of cultures, patterns of settlement, contests over racial, ethnic, religious, class, gender, regional, and national identities and institutions. Satisfies the American Institutions requirement in American history and United States Constitution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 110",
+    "title": "American History Since the Civil War",
+    "units": 3,
+    "department": "HIST",
+    "description": "United States history since the Civil War. Development of U.S. economy, urbanization, social and cultural change, emergence of U.S. as a world power, struggles over American identities and institutions. Satisfies the American Institutions requirement in American history and California government.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 114",
+    "title": "Sports in American History",
+    "units": 3,
+    "department": "HIST",
+    "description": "3",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 125",
+    "title": "Sex and History",
+    "units": 3,
+    "department": "HIST",
+    "description": "How the past shapes the modern physiological, psychological, and sociological sexual self. Sex and capitalism, politics, religion, and science; sexual norms and liberation; sexual expression and censorship; gender and sexual roles and relations; shifting paradigms of repression and pleasure.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 135",
+    "title": "Film as the Past",
+    "units": 3,
+    "department": "HIST",
+    "description": "Critical analysis of films about history as an art form. Accuracy, aesthetics, authenticity, authorial intentions, collective memory, controversial and uncomfortable topics, empathy, national myths, point of view, popular and critical reception, and revisionism in films about history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 150",
+    "title": "Why History Matters",
+    "units": 3,
+    "department": "HIST",
+    "description": "Historically-informed behaviors, contexts, and frameworks through the lenses of contemporary social issues, marking memory through monuments, museum and cultural experiences, politics, and pop-culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 157",
+    "title": "Comics and History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Aesthetics, interplay of texts and images, visual communication, and changes over time.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HIST",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "HIST",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 390W",
+    "title": "Writing in History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Practice of different genres of historical writing in one field of history (chosen by instructor), mastery of library skills, citations, academic integrity, source evaluation, pre-writing, and drafting, critiquing, and revising.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 400",
+    "title": "Junior Seminar in Methods and Historiography",
+    "units": 3,
+    "department": "HIST",
+    "description": "Study and practice of historical methods and historiography through writing and discussion. Historical methods, argumentation, interpretation in one field of history (chosen by instructor). Production of a substantial historiographical essay.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 390W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 404",
+    "title": "History of Human Rights",
+    "units": 3,
+    "department": "HIST",
+    "description": "Struggles that contributed to wide range of rights in today’s international human rights regime in practice and thought and as an institution following the adoption of the Universal Declaration of Human Rights.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 405",
+    "title": "Amazons and Wonder Woman",
+    "units": 3,
+    "department": "HIST",
+    "description": "Legends of ancient Amazon warrior women and the reception of the Amazons in the Spanish myths of California, the Wonder Woman comics, television series, and films.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 406",
+    "title": "History of Sexuality",
+    "units": 3,
+    "department": "HIST",
+    "description": "Comparative and historical approach to changing conceptions of the body, regulation of sexual practices, and emergence of sexual identities. Historical perspectives on body parts, sexual practices, and sexual celebrities invested with social and political significance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 407",
+    "title": "Early Modern Europe",
+    "units": 3,
+    "department": "HIST",
+    "description": "Early modern Europe from Renaissance to French Revolution. Social, cultural, economic, political, and intellectual trends, development of nation-states, and sources of continental conflict.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 408",
+    "title": "Modern Europe",
+    "units": 3,
+    "department": "HIST",
+    "description": "Modern Europe from French Revolution to present. Social, cultural, economic, political, and intellectual trends, development of nation-states, and sources of continental conflict.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 410",
+    "title": "United States History for Teachers",
+    "units": 3,
+    "department": "HIST",
+    "description": "United States history from colonial period to present with emphasis on historiography, bibliography, and relationship between philosophy of history and teaching. Satisfies the American Institutions requirement in American history and California government.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 109",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "HIST 110",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 411",
+    "title": "Premodern World History for Teachers",
+    "units": 3,
+    "department": "HIST",
+    "description": "Topics in world history from paleolithic times to sixteenth century emphasizing comparative analysis, interrelations among societies, and large-scale patterns of change. Various approaches to conceptualizing and teaching world history. Intended primarily for students in teacher preparation programs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 106",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 412",
+    "title": "Modern World History for Teachers",
+    "units": 3,
+    "department": "HIST",
+    "description": "Topics in world history from the beginning of the sixteenth century to the present emphasizing world-scale patterns of change and cross-cultural comparisons. Various approaches to conceptualizing and teaching world history. Intended primarily for students preparing to teach history in secondary schools.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HIST 106",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 413",
+    "title": "United States History For Teachers for Liberal Studies Majors",
+    "units": 3,
+    "department": "HIST",
+    "description": "United States history from pre-colonial period to World War I, incorporating California with emphasis on historiography and relationship between philosophy of history and teaching. Satisfies the American Institutions requirement in American history and United States Constitution. Required of liberal studies majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in History 409.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 415",
+    "title": "Pre-Contact and Colonial Latin America",
+    "units": 3,
+    "department": "HIST",
+    "description": "Indigenous and colonial history of Latin America, pre-contact through early national period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 416",
+    "title": "Modern Latin America",
+    "units": 3,
+    "department": "HIST",
+    "description": "History of Latin America, early national period to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 420",
+    "title": "Asian History to 1600",
+    "units": 3,
+    "department": "HIST",
+    "description": "Hinduism, Buddhism, Confucianism in Asian family relations, governance, art, and literature. Comparative development of social structure, gender roles, state formation in India, China, and Japan. Interactions among Asian societies via Silk Route and maritime trade.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 421",
+    "title": "Asian History since 1600",
+    "units": 3,
+    "department": "HIST",
+    "description": "China, Japan, and India, with case studies on Philippines and Vietnam. Comparative Asian responses to Western imperialism, nationalism, revolution, and war. Diverse Cold War paths; contemporary problems and prospects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 422",
+    "title": "Asian American Experiences",
+    "units": 3,
+    "department": "HIST",
+    "description": "Experiences of Asian/Pacific Islander Americans to include immigration, colonialism, imperialism, exclusion, citizenship, labor, family, community, gender, popular culture, refugees, multi-racial tensions, globalization, and resistance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 425",
+    "title": "The Vietnam War",
+    "units": 3,
+    "department": "HIST",
+    "description": "The Vietnam War from a global perspective. The war’s evolution in Vietnam and Indochina as well as its implications on socialist nations, the Third World, and the West.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 435",
+    "title": "History Through Film",
+    "units": 3,
+    "department": "HIST",
+    "description": "Critical analysis of selected historical problems, eras, and events, using film as the principal historical document.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 436",
+    "title": "Modern Jewish History in Feature Films",
+    "units": 3,
+    "department": "HIST",
+    "description": "Representations of twentieth century Jewish history in feature films. Topics include persecutions of Jews in Czarist Russia and Nazi occupied Europe, social mobility in the United States and national sovereignty in Israel.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 440",
+    "title": "The Holocaust and Western Civilization",
+    "units": 3,
+    "department": "HIST",
+    "description": "German campaign to eliminate Jews during World War II. Anti-semitic background, both Christian and racial; rise of Adolf Hitler and implementation of “the final solution”; responses by Jews and non- Jews in the Western world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 441",
+    "title": "Unnatural Disasters: History of Current Environmental Problems",
+    "units": 3,
+    "department": "HIST",
+    "description": "Comparative and historical study of current environmental problems in San Diego and the world. Considers the role of religious beliefs, social values, economic practices, and political systems in shaping past attitudes, policies, and behavior toward the environment. International in scope.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 442",
+    "title": "People from our Past",
+    "units": 3,
+    "department": "HIST",
+    "description": "Biographical approach to history through lives of prominent and ordinary individuals. Topics may include war, community, dissent, individualism, leadership, politics, culture, religion, gender, race, and ethnic identities. Specific content may vary.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 445",
+    "title": "California History",
+    "units": 3,
+    "department": "HIST",
+    "description": "California history from pre-colonial societies to present. Emphasis on early colonial societies, economy, environment, politics, race, gender, and California’s place in popular culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 450",
+    "title": "Senior Seminar in Historical Research",
+    "units": 3,
+    "department": "HIST",
+    "description": "Capstone seminar on historical research. Application of historical theory and methods to original research in a selected field of history. Includes a major research paper based on primary sources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 400",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 451",
+    "title": "Historians and the Public",
+    "units": 3,
+    "department": "HIST",
+    "description": "Capstone seminar in public history. Analysis and practice of ways historians preserve, research, and interpret the past for public audiences. Topics include historic preservation projects, parks, museums, archives, and living history programs. Includes a major analytical essay and public history project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 400",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 452",
+    "title": "Advanced Internship in Applied History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Capstone seminar and internship in public history. Campus and community archives, museums, government, and other historical agencies. Emphasis on critical analysis, writing, and historiography. Includes a semester-long internship (10 hours per week average), class discussions, and an analytical essay.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 400",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 454",
+    "title": "Manga and Japanese History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Japanese history through the lens of comics studies; manga as a reflection of shifting social, political, economic, and national paradigms; manga and race, ethnicity, gender, and sexuality; manga in times of war and rehabilitation; manga and Japanese youth cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 455",
+    "title": "Digital History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Capstone seminar in digital history. Tools and practices used by historians to conduct research and present findings and results through a technology lens. Challenges, issues, theories, and uses of digital history. Includes a major analytical essay and digital history project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 400",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 457",
+    "title": "Graphic History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Critical analysis of selected historical problems, eras, and events, using long-form comics including graphic histories and graphic novels as the principal historical documents.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 473",
+    "title": "Middle Eastern History from the Advent of Islam to 1500",
+    "units": 3,
+    "department": "HIST",
+    "description": "Middle Eastern history, 600 C.E. to 1500 C.E.; spread of Islam through rise of Ottoman Empire.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 474",
+    "title": "The Middle East Since 1500",
+    "units": 3,
+    "department": "HIST",
+    "description": "Middle Eastern history since 1500 C.E.; Islamic empires, European colonialism, nationalism, and modernization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 486",
+    "title": "World War II",
+    "units": 3,
+    "department": "HIST",
+    "description": "Causes of World War II, its course, and its legacy for today’s world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 488",
+    "title": "Modern Jewish History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Social, religious, and intellectual life of European Jewry from Middle Ages to present; political struggle for emancipation; anti-Semitism, the Holocaust, and establishment of state of Israel.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 490",
+    "title": "Senior Honors Thesis",
+    "units": 3,
+    "department": "HIST",
+    "description": "Directed research on a historical topic chosen in consultation with the honors thesis adviser, and completion of a senior honors thesis. Required of students wishing to graduate with a certificate of recognition in history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 400",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 495",
+    "title": "Internship in Applied History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Supervised field placement of students in campus and community archives, historical museums, and other historical agencies. Practical experiences related to studies within history curriculum.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HIST 451",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HIST 496",
+    "title": "Issues in History",
+    "units": 1,
+    "department": "HIST",
+    "description": "Examination of selected problems and current issues in history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HIST",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 500",
+    "title": "Topics in Ancient History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in ancient history throughout the world may include: Women in Greek and Roman societies, magic in the Greco-Roman World, Silk Roads, and pre-contact Mesoamerica.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 501",
+    "title": "History of Ancient Near Eastern Civilizations",
+    "units": 3,
+    "department": "HIST",
+    "description": "Major civilizations of Near East from the origin of civilization to Roman Conquest, including Egyptians, Babylonians, Hebrews, and Persians. Social, political, and religious problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 502",
+    "title": "Ancient Greece",
+    "units": 3,
+    "department": "HIST",
+    "description": "Greek history from prehistoric period through Age of Alexander the Great. Emphasis on political, social, cultural and institutional developments, and historiography. Secondary attention to military, economic, and religious topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 503",
+    "title": "Ancient Rome",
+    "units": 3,
+    "department": "HIST",
+    "description": "Roman history from origins of Rome to fall of the Empire. Emphasis on political, social, cultural and institutional developments, and historiography. Secondary attention to military, economic, and religious topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 504",
+    "title": "The Dark Ages",
+    "units": 3,
+    "department": "HIST",
+    "description": "Europe and the Mediterranean, sixth to eleventh centuries C.E. through various approaches: political, economic, social, and cultural. Topics include the barbarians and Vikings, the Byzantine, Arab, and Holy Roman Empires, the Norman Conquest, Charlemagne, Beowulf, feudalism, and serfdom.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 505",
+    "title": "The Later Middle Ages",
+    "units": 3,
+    "department": "HIST",
+    "description": "Europe and the Mediterranean 1100-1450 C.E. through various approaches: political, economic, social, and cultural. Development of kingdoms of western Europe and relationship to Byzantine empire and other states.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 506",
+    "title": "The Renaissance",
+    "units": 3,
+    "department": "HIST",
+    "description": "Intellectual, artistic, social, and economic transformation in Europe from fourteenth to seventeenth centuries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 507",
+    "title": "The Reformation",
+    "units": 3,
+    "department": "HIST",
+    "description": "Continental Europe, 1500-1648. Split of Christendom; political and intellectual dissent; social fabric of family life; relationship between gender, class, and power; cultural stratification of European society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 508",
+    "title": "The Fall of the Roman Empire",
+    "units": 3,
+    "department": "HIST",
+    "description": "History of Mediterranean region between third and sixth centuries C.E. Changes in society, politics, economics, the military, gender, sexuality, religion, literature, art, archaeology, and law. Competing perceptions of the period as one of “fall” versus one of “transformation.”",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 509",
+    "title": "British Century: Waterloo to World War I",
+    "units": 3,
+    "department": "HIST",
+    "description": "History of England, 1815-1914, to include industrial supremacy; struggles over urban problems, reform, democratization, labor organization, national self-image; interplay of liberalism and collectivism; sources of social stability and instability; women’s rights; jingoism; coming of World War I.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 512A",
+    "title": "The Great War: A Turning Point in European History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Forces and events that shaped Europe in period prior to and during World War I, 1890-1919.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 512B",
+    "title": "The Age of Dictators and Contemporary Europe",
+    "units": 3,
+    "department": "HIST",
+    "description": "Europe in the age of dictatorship, world war, decline, and recovery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 514",
+    "title": "History of Science: From Revolution to Evolution",
+    "units": 3,
+    "department": "HIST",
+    "description": "Development of early modern European science. Origins of Western concept of “science,” Greco-Roman and Arabic roots of science, impact of Renaissance humanism and voyages of exploration on Scientific Revolution, and imperial context of evolutionary theories and scientific racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 516",
+    "title": "Imperialism and the Colonial Experience",
+    "units": 3,
+    "department": "HIST",
+    "description": "Imperialism and colonialism as these transformed both colonizing and colonized peoples, e.g., modernization, racism, Orientalism, multi-ethnic, Great Power competition, anti-colonial resistance, and nationalism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 518",
+    "title": "Gender and War in 20th Century History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Gender constructions and warfare in 20th century history. Gendered experiences in times of military conflict for civilians, soldiers, veterans, and victims of atrocities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 532",
+    "title": "Topics in Early American History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in history of colonial America and the early republic. Possible topics to include: women and the family; race, class and labor; American Revolution; religion and politics; immigrants’ experiences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 533",
+    "title": "Antebellum America",
+    "units": 3,
+    "department": "HIST",
+    "description": "Westward expansion and movement, market revolution, democratic politics, revivalism, slavery, and women’s rights.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 534",
+    "title": "Civil War and Reconstruction",
+    "units": 3,
+    "department": "HIST",
+    "description": "Civil War and Reconstruction, emphasizing political affairs and role of Abraham Lincoln.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 535",
+    "title": "The Age of Roosevelt",
+    "units": 3,
+    "department": "HIST",
+    "description": "The United States in Depression, War, and Cold War.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 536",
+    "title": "The United States Since World War II",
+    "units": 3,
+    "department": "HIST",
+    "description": "Major foreign and domestic issues confronting the United States, and the government policies and popular movements generated in response.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 537",
+    "title": "Star Trek, Culture, and History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Explores relationship between Star Trek’s several television series, movies, novels, and the larger historical and cultural context of post-World War II America. Themes include race, gender, sexuality, foreign policy, terrorism, religion, and politics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 538",
+    "title": "Comics and Cold War America",
+    "units": 3,
+    "department": "HIST",
+    "description": "Examination of the Cold War as a political, ideological, cultural, and military contest through the medium of the “comic” as it evolved throughout the post-World War II era.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 539",
+    "title": "Topics in the History of the American West",
+    "units": 3,
+    "department": "HIST",
+    "description": "Selected topics in history of American West such as Westward movement; Southwest borderlands; gender and the frontier; new western history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 541",
+    "title": "Violence and Colonialism in African History",
+    "units": 3,
+    "department": "HIST",
+    "description": "African history from the mid-nineteenth to the end of the twentieth century through the lens of violence studies; the destruction of African life-worlds through European colonial domination; different forms, logics, and ethics of violence; methods of analyzing violence in history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 544B",
+    "title": "Modern American Foreign Relations",
+    "units": 3,
+    "department": "HIST",
+    "description": "Development of American foreign relations since 1900.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 548",
+    "title": "Race and Ethnicity in United States History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Race and ethnicity in America from colonial period through twentieth century to include historical construction of identity; colonization, slavery, state formation; labor, immigration, politics of whiteness; applicability of black/white binary of a multiethnic society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 550",
+    "title": "Colonial Mexico",
+    "units": 3,
+    "department": "HIST",
+    "description": "Social history of Mexico from pre-contact through early national period using primary and secondary sources. Processes of social and cultural negotiation involving gender, religion, environment, medicine, and urban experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 551",
+    "title": "Modern Mexico",
+    "units": 3,
+    "department": "HIST",
+    "description": "Social history of Mexico since early national period using primary and secondary sources. Processes of social and cultural negotiation involving gender, religion, environment, medicine, and urban experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 553",
+    "title": "History of Slavery in the Americas",
+    "units": 3,
+    "department": "HIST",
+    "description": "Trans-Atlantic slavery from the fifteenth to nineteenth centuries. Liberation movements, nation-states, revolution, slavery, and capitalism. Agency of enslaved people, agricultural and environmental transformations, legacies of trans-Atlantic slavery and contemporary enslavement, new communities and diversities, race and racism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 556",
+    "title": "History of Brazil",
+    "units": 3,
+    "department": "HIST",
+    "description": "Economic, political, and social history of Brazil from precolonial era to present. Democratic and dictatorial rule, industrialization, populism, race and racism, and slavery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 557",
+    "title": "Dictatorships and Human Rights in Latin America",
+    "units": 3,
+    "department": "HIST",
+    "description": "Cold War tensions; United States-Latin American relations; Cuban Revolution; rise of dictatorial rule in Argentina, Brazil, Chile, Guatemala; transition to democracy since the 1980s.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 558",
+    "title": "Latin America in World Affairs",
+    "units": 3,
+    "department": "HIST",
+    "description": "History of Latin America’s political and economic relations with Europe, the Soviet Union, the United States, and the Third World.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 566",
+    "title": "Ancient and Imperial China",
+    "units": 3,
+    "department": "HIST",
+    "description": "Chinese history before 1600 CE. Confucianism, Daoism, Legalism; emperors and evolution of Chinese state; gender and sexuality; Buddhism and daily life along Silk Route; Song technological and commercial revolution; Mongol invasions; Ming voyages; China’s role in pre-modern world history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 567",
+    "title": "China in Revolution",
+    "units": 3,
+    "department": "HIST",
+    "description": "China’s history during the tumultuous nineteenth and twentieth centuries. China’s forced encounter with Western imperialism, rural, and urban social movements. Impact of Mao’s Revolution on everyday life in China, successes, limitations of China’s recent reform policies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 569",
+    "title": "Premodern Japan: From Life at Court to the Warring States",
+    "units": 3,
+    "department": "HIST",
+    "description": "Japanese history from the eighth century to 1600. Mythological histories; court politics, life, and love; Shintō and Buddhism; nature and society; gender roles and relations; the rise of the samurai and peasantry; encounters with the West; civil war and reunification.Maximum Credits:3",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 570",
+    "title": "Modern Japan: From Samurai to Sony",
+    "units": 3,
+    "department": "HIST",
+    "description": "Japanese history from 1600 to present. Late-samurai period; nineteenth century industrialization and imperialism; Japan in World War II: Nanjing, Pearl Harbor, Hiroshima; foundations of postwar “economic miracle”; gender relations, anime, and identity in contemporary Japan; Japan’s role in twenty-first century world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 574",
+    "title": "Arab-Israeli Relations, Past and Present",
+    "units": 3,
+    "department": "HIST",
+    "description": "Arab-Israeli conflict and diplomacy over Palestine from perspectives of Zionism, Arab nationalism, and Great Power relations from nineteenth century to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 580",
+    "title": "Topics in the History of War and Violence",
+    "units": 3,
+    "department": "HIST",
+    "description": "History of war and violence may include: Violence in Africa, modern genocide, trauma and modern East Asia, social suffering in historical perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 581",
+    "title": "Topics in Urban History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in urban history may include: The city in United States history, Chinatowns, suburbs and suburbanization, urban politics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 582",
+    "title": "Topics in Social and Cultural History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in social and cultural history may include: Ritual in early modern Europe, radicals ad revolutionaries, intellectuals and society, families in former times, and American popular culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 583",
+    "title": "Topics in History of Gender and Sexuality",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in history of gender and sexuality may include: Gay and Lesbian history, Asian American gender and sexuality, genders in Latin America.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 584",
+    "title": "Topics in Environmental History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in environmental history may include: Press, politics, environment, world environmental history, water and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 585",
+    "title": "History of the Sixties",
+    "units": 3,
+    "department": "HIST",
+    "description": "Variable topics in the history of the 1960s may include: America in the 1960s, Africa in the 1960s, politics and protests in 1960s, Europe in the 1960s.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 586",
+    "title": "Topics in World History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Major historical problems, themes, or topics from global, chronological, and geographical perspectives of world history to include frontiers, food and famine, violence and warfare, science, religion and magic, the Atlantic world, medieval era.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 587",
+    "title": "Topics in Public History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Current methodological, practical, and theoretical issues facing public historians and their audiences. Classes include field work projects.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 596",
+    "title": "Selected Studies in History",
+    "units": 1,
+    "department": "HIST",
+    "description": "Topics in various fields of history, such as biography, war, science, technology, urbanization, minority groups, immigration, and capitalism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 601",
+    "title": "Seminar in Historical Methods",
+    "units": 3,
+    "department": "HIST",
+    "description": "Historical methodologies, historiography, and critical analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 602",
+    "title": "Seminar in Historical Approaches to War and Society in the Modern Era",
+    "units": 3,
+    "department": "HIST",
+    "description": "Methodological approaches to the field of war and society studies to include culture and identity, empire, gender and race, globalization, military experience and war, social migration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 610",
+    "title": "Seminar in Public History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Methodology, practice, and theory of the field of public history, with a community service learning component working in public history venues throughout the San Diego region.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HIST 620",
+    "title": "Directed Readings in European History",
+    "units": 3,
+    "department": "HIST",
+    "description": "Selected readings in historical literature and primary sources in a designated area of European history.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "code": "STATISTICS_B_S",
+  "name": "Statistics, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12204",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12204",
+  "poid": "12204",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "MATH 252",
+    "CS 150",
+    "CS 150L"
+  ],
+  "upper_required": [
+    "STAT 350A",
+    "STAT 350B",
+    "STAT 410",
+    "STAT 551A",
+    "STAT 551B",
+    "STAT 325",
+    "STAT 496",
+    "STAT 520",
+    "STAT 560",
+    "STAT 575",
+    "STAT 580",
+    "STAT 596"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "STAT 119",
+      "STAT 250",
+      "MATH 150",
+      "MATH 151",
+      "MATH 245",
+      "MATH 254"
+    ]
+  },
+  "default_electives": [
+    "STAT 119",
+    "MATH 150",
+    "MATH 151",
+    "MATH 245",
+    "STAT 250"
+  ],
+  "unresolved_codes": []
+}

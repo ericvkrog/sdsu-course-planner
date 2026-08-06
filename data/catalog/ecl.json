@@ -1,0 +1,1592 @@
+[
+  {
+    "course_code": "ECL 100",
+    "title": "Rhetoric of Written Argument",
+    "units": 3,
+    "department": "ECL",
+    "description": "Writing and reading as critical inquiry, designed to help students undertake university-level writing projects. Focus on rhetoric of written arguments. Students learn to use sources in their writing and make appropriate decisions about structure, cohesion, and rhetorical conventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 156",
+    "title": "Artificial Intelligence and Human Creativity",
+    "units": 3,
+    "department": "ECL",
+    "description": "Exploration of the relationship between Artificial Intelligence and Human Creativity. To include analysis of historical representations of disembodied intelligences, close readings of digital interfaces and storage systems, and contemporary electronic literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 157",
+    "title": "Comics and History",
+    "units": 3,
+    "department": "ECL",
+    "description": "Aesthetics, interplay of texts and images, visual communication, and changes over time.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 158",
+    "title": "Introduction to Horror Aesthetics",
+    "units": 3,
+    "department": "ECL",
+    "description": "Criticism, history, and theory of horror aesthetics in horror comic books, film, literature, podcasts, radio, theatre, video games, and more.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 159",
+    "title": "Introduction to Children\u2019s Literature Aesthetics",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to aesthetics, criticism, history, and theory of children\u2019s literature. Focus on children\u2019s literature as an artistic, technical, and creative medium.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 200",
+    "title": "Rhetoric of Written Arguments in Context",
+    "units": 3,
+    "department": "ECL",
+    "description": "Further practice in writing, reading, and critical thinking. Emphasis on rhetoric of written arguments in context and using multiple sources in writing. Continued attention to structure, cohesion, and rhetorical conventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in AFRAS 200, AMIND 225, CCS 200, LING 200, or RWS 200. Completion of RWS 200 may require completion of the library workbook assignment.",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 220",
+    "title": "The Art of Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to aesthetics, criticism, history, and theory of literature. Focus on literature as an artistic, creative, and technical medium.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 240",
+    "title": "Introduction to Children\u2019s Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to the philosophical, critical, cultural, and political dimensions and implications of literature for children in different historical and cultural contexts. To include study of the issues, themes, and ideas that children\u2019s texts engage.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 245",
+    "title": "Literature, the Self, and Society",
+    "units": 3,
+    "department": "ECL",
+    "description": "Literary depictions of the self in society and the personal relevance of these depictions. Individual identity and psychology. Impacts of class, embodiment, gender, race, sexuality on selfhood, socialization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 250",
+    "title": "Introduction to Literature of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to key issues, methods, and texts in the study of Literature of the United States. Development of a broad and rigorous understanding of the concerns and debates that currently characterize the study of American literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ENGL 250A or ENGL 250B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 260",
+    "title": "Introduction to British Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to key issues, methods, and texts in the study of British Literature. Development of a broad and rigorous understanding of the concerns and debates that currently characterize the study of British literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ENGL 260A or ENGL 260B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 270",
+    "title": "Introduction to Comparative Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to key issues, methods, and texts in the field of Comparative Literature. Emphasis on comparative study of literature from diverse historical epochs and cultural traditions. May include the relation of literature to other arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in C LT 270A or C LT\u00a0270B.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 280",
+    "title": "Introduction to Creative Writing",
+    "units": 3,
+    "department": "ECL",
+    "description": "Reading, analysis, and practice of poetry and fiction. Includes analysis of works of poetry and fiction from a variety of critical perspectives to help students \u201cread as writers\u201d and to focus on how creative writing is developed.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 296",
+    "title": "Topics in Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to the study of specific topics\u00a0in literature. Focus on a specific movement, theme, figure, genre, etc.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ECL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 301",
+    "title": "The Psychological Novel",
+    "units": 3,
+    "department": "ECL",
+    "description": "Psychological novel from its inception to present, including major works from a variety of cultures. Readings designed to aid students in discovering insights which great novelists have unearthed in their explorations of the human psyche.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 305",
+    "title": "Literature and Environment",
+    "units": 3,
+    "department": "ECL",
+    "description": "Environmental thought and consciousness as expressed in literature, emergence of modern and contemporary environmental thought, and impacts of literature on environmental awareness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 306A",
+    "title": "Children\u2019s Literature and Advanced Composition",
+    "units": 3,
+    "department": "ECL",
+    "description": "Critical and historical analysis of children\u2019s literature in a variety of genres and forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 306W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 306W",
+    "title": "Children\u2019s Literature and Advanced Composition",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced composition; improvement of student skills through writing assignments based upon reading and work in the lecture part. Primarily designed to meet Graduation Writing Assessment and Literature requirements for Liberal Studies-Emphasis in Education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 308W",
+    "title": "Literary Study: Analysis, Research, and Writing",
+    "units": 3,
+    "department": "ECL",
+    "description": "Methods of literary analysis; concepts and terminology of literary study; research methods. Modes of writing about literature, with emphasis on the research paper.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 335",
+    "title": "Chicana and Chicano Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Ideas, forms, history of significant Chicana and Chicano prose, poetry, and other literary genres.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 365A",
+    "title": "African American Literature to 1900",
+    "units": 3,
+    "department": "ECL",
+    "description": "Eighteenth and nineteenth century writing by African American authors. Issues of literary form, canon formation, and sociopolitical impact of the literature upon African American culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 365B",
+    "title": "African American Literature After 1900",
+    "units": 3,
+    "department": "ECL",
+    "description": "Writing by African American authors after 1900. Issues of literary form, canon formation and sociopolitical impact of the literature upon African American and American culture of the twentieth and twenty-first centuries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 401",
+    "title": "Childhood\u2019s Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Analysis of influential and/or neglected literature for children and young adults in a variety of genres and forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to English or comparative literature majors. Majors are to take",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 409",
+    "title": "Science Fiction",
+    "units": 3,
+    "department": "ECL",
+    "description": "How authors have responded to growing impact of science and technology on people\u2019s lives and imaginations. Representative works by authors such as Kobo Abe, Bradbury, Butler, Delaney, DeLillo, Dick, Gibson, Heinlein, Hoban, Huxley, Kapek, LeGuin, Murakami, Orwell, Poe, Russ, Shelley, Verne, Wells, Zamyatin, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 440",
+    "title": "African Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Comparative study of African literature as well as Black literature of North and South America and the Caribbean; intercontinental influences and the theme of Black identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 450",
+    "title": "LGBT Literature and Culture",
+    "units": 3,
+    "department": "ECL",
+    "description": "LGBT knowledge and identities as expressed in literature and culture; changing nature of same-sex desire, sexual behavior, and same-sex relationships from antiquity to present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 470",
+    "title": "Folk Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Studies in the ballad, bardic poetry, oral and popular literature and folklore.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 491",
+    "title": "Contemporary Topics in Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Exploration of writers, works and topics in fiction, poetry, drama, and film, emphasizing the relationship between literature and current concerns. Topics include the city in fiction and film, literature and identity, literature of death, literature of contemporary myth and folklore, women in literature. Primarily for the general student not specializing in English or comparative literature. May count only as an elective course toward the English major.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 493",
+    "title": "Literature and Film",
+    "units": 3,
+    "department": "ECL",
+    "description": "Relationships between film and genres of literature, focusing on a critical comparison of the techniques of rhetoric, fiction, and drama and those of film. Topics include literature and film, novel into film, drama and film, reading film. Primarily for the general student not specializing in English or comparative literature. May count only as an elective course toward the English major.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 494",
+    "title": "Modern Fiction of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Representative works by twentieth-century American authors such as Cather, Hemingway, Steinbeck, Faulkner, Fitzgerald, Ellison, Welty, Bellow, Vonnegut, Heller, Walker, others. Primarily for the general student not specializing in English or comparative literature. May count toward the English major only as an elective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 495",
+    "title": "Internship",
+    "units": 1,
+    "department": "ECL",
+    "description": "Practical work experience in a field related to English and comparative literature. Work performed under joint direction of activity sponsor and instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Not applicable to requirements for English and\u00a0Comparative Literature majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 496",
+    "title": "Selected Topics in Literature",
+    "units": 1,
+    "department": "ECL",
+    "description": "Specialized study of a selected topic in literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 498",
+    "title": "Seminar: English and Comparative Literature Honors Thesis",
+    "units": 3,
+    "department": "ECL",
+    "description": "Capstone class to prepare students who have been accepted into the department\u2019s honors program to write an undergraduate thesis by emphasizing advanced research methods and critical or creative writing skills.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ENGL 498.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ECL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 501",
+    "title": "Literature for Children",
+    "units": 3,
+    "department": "ECL",
+    "description": "Critical, historical, and ideological analysis of literature intended for and read by children in a variety of genres and forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course cannot be used in place of",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 502",
+    "title": "Adolescence in Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Critical, historical, and ideological analysis of adolescent literature to include works in a variety of forms and genres read by, written for, or that feature adolescents.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 503",
+    "title": "Topics in Children\u2019s Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Topics in youth culture, literature, and media to include aesthetics, gender, multiculturalism, and sexuality. Fantasy, illustrated, non-fiction, and science fiction books.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 508W",
+    "title": "The Writing of Criticism",
+    "units": 3,
+    "department": "ECL",
+    "description": "Theory and practice of literary criticism. Emphasis on the work of important critics and on development of student\u2019s own critical writing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 510A",
+    "title": "Earlier Histories of British and American Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Historical movements and developments in English language literature before 1800.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 510B",
+    "title": "Later Histories of British and American Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Historical movements and developments in English language literature after 1800.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 513",
+    "title": "Nineteenth Century European Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "European literature of the nineteenth century or of a more limited period within that century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 519",
+    "title": "Ethnic Literatures of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Works from United States ethnic literatures, with emphasis on formerly excluded traditions as African-American, Hispanic and Chicano, Asian-American, and American Indian.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 522",
+    "title": "Literature of the United States, 1800-1860",
+    "units": 3,
+    "department": "ECL",
+    "description": "Representative works by United States writers from 1800 to 1860; likely to include works by Emerson, Hawthorne, Melville, Poe, Stowe, Thoreau, Whitman, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 523",
+    "title": "Literature of the United States, 1860-1920",
+    "units": 3,
+    "department": "ECL",
+    "description": "Representative works by United States writers from 1860 to 1920; likely to include works by Charles Chesnutt, Kate Chopin, Stephen Crane, Emily Dickinson, Henry James, Mark Twain, Edith Wharton, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 524",
+    "title": "Literature of the United States, 1920-1960",
+    "units": 3,
+    "department": "ECL",
+    "description": "Representative works by United States writers from 1920 to 1960; likely to include works by Willa Cather, T. S. Eliot, William Faulkner, F. Scott Fitzgerald, Ernest Hemingway, Zora Neale Hurston, Eugene O\u2019Neill, Katherine Anne Porter, Ezra Pound, John Steinbeck, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 525",
+    "title": "Literature of the United States, 1960 to Present",
+    "units": 3,
+    "department": "ECL",
+    "description": "United States writers from 1960 to the present; likely to include works by Edward Albee, Saul Bellow, Allen Ginsberg, Joseph Heller, Maxine Hong Kingston, Norman Mailer, Toni Morrison, Sylvia Plath, Adrienne Rich, Kurt Vonnegut, Eudora Welty, and others.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 526",
+    "title": "Topics in Literature of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Topics in United States literature to include the literature of the South, Black writers in the U.S., the frontier and U.S. literature, the outcast in U.S. literature, the immigrant experience in U.S. literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 527",
+    "title": "Genre Studies",
+    "units": 3,
+    "department": "ECL",
+    "description": "Study of a specific literary genre or genres, such as the novel, tragedy, epic, and lyric.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 528",
+    "title": "Authors",
+    "units": 3,
+    "department": "ECL",
+    "description": "Works of a major author or, if useful comparisons and juxtapositions warrant, works of two or three authors, such as Jane Austen, Melville, Emerson, and Thoreau.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 530",
+    "title": "Chaucer",
+    "units": 3,
+    "department": "ECL",
+    "description": "Chaucer\u2019s works, with emphasis on The Canterbury Tales and Troilus and Criseyde.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 533",
+    "title": "Shakespeare",
+    "units": 3,
+    "department": "ECL",
+    "description": "An introduction to the writings of Shakespeare.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 534",
+    "title": "Study of Shakespeare",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of Shakespeare\u2019s achievement as poet and playwright.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 533",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 536",
+    "title": "British Literary Periods, Beginnings to 1660",
+    "units": 3,
+    "department": "ECL",
+    "description": "Study of a literary period such as the Middle Ages or Renaissance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 537",
+    "title": "Milton",
+    "units": 3,
+    "department": "ECL",
+    "description": "Milton\u2019s writings, with emphasis on Paradise Lost.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 540A",
+    "title": "English Fiction",
+    "units": 3,
+    "department": "ECL",
+    "description": "The development of English fiction from its beginnings to the end of the eighteenth century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 541A",
+    "title": "English Drama",
+    "units": 3,
+    "department": "ECL",
+    "description": "English dramatic literature from its beginnings to the present. From the beginning to 1642.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 541B",
+    "title": "English Drama",
+    "units": 3,
+    "department": "ECL",
+    "description": "English dramatic literature from its beginnings to the present. Period following reopening of the theatres in 1660.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 543",
+    "title": "British Literary Periods, 1800-1900",
+    "units": 3,
+    "department": "ECL",
+    "description": "Study of a literary period such as the Romantic or Victorian Age.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 544",
+    "title": "British Literary Periods, 1900-Present",
+    "units": 3,
+    "department": "ECL",
+    "description": "Study of a literary period such as the Postmodern Era.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 550",
+    "title": "Queer Texts and Contexts",
+    "units": 3,
+    "department": "ECL",
+    "description": "Queer knowledge and identities as expressed in literature and culture, to include queer theory, history, and experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 556",
+    "title": "Gothic Literary Tradition",
+    "units": 3,
+    "department": "ECL",
+    "description": "Gothic literary tradition from its beginnings to the present day.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 560",
+    "title": "Literature in the Digital Age",
+    "units": 3,
+    "department": "ECL",
+    "description": "Shifting literary landscape in the digital age. Adapting print-based literature and reading practices to a digital world and digital literary marketplace. Digital-born literature. New narrative and poetic forms for computational media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 562",
+    "title": "Digital Methods in Literary Studies",
+    "units": 3,
+    "department": "ECL",
+    "description": "Analyzing digitized literary texts and creating born-digital literature. Studying and creating literature digitally.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 563",
+    "title": "Literature and Culture",
+    "units": 3,
+    "department": "ECL",
+    "description": "Study of literature in relation to a specific culture idea or phenomenon, such as literature and the law, literature and technology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 564",
+    "title": "World Literatures",
+    "units": 3,
+    "department": "ECL",
+    "description": "A comparative approach to themes and forms in world literatures (novel and short story). Focus of course to be set by instructor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 565",
+    "title": "Ecocriticism",
+    "units": 3,
+    "department": "ECL",
+    "description": "In-depth study of relationship between environment and literature to include ecocritical literary theory, history, and practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in C LT 570.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 566",
+    "title": "Concepts in Comparative Studies",
+    "units": 3,
+    "department": "ECL",
+    "description": "Basic concepts in comparative studies in literature (e.g., influence, movement, figure, genre, etc.); their validity, usefulness, and limitations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 567",
+    "title": "Topics in Comparative Horror Studies",
+    "units": 3,
+    "department": "ECL",
+    "description": "Comparative study of horror literature and other media to include film, music, television, and video games.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 568",
+    "title": "Chicanx Comix: Community, Storytelling, and Social Justice",
+    "units": 3,
+    "department": "ECL",
+    "description": "A survey of noteworthy comic book titles by Americans of Mexican descent and other Latinx practitioners.\u00a0Noteworthy works may include those of Lalo Alcaraz, Gilbert and Jaime Hernandez, Kayden Phoenix, and others. Topics include social justice movements, autobiography, and more.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 570",
+    "title": "Techniques of Poetry",
+    "units": 3,
+    "department": "ECL",
+    "description": "Techniques of poetry from the writer\u2019s point of view. Introduction to critical and theoretical literature on poetry. Includes a creative writing workshop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 571",
+    "title": "Techniques of the Short Story",
+    "units": 3,
+    "department": "ECL",
+    "description": "Techniques of the short story from the writer\u2019s point of view. Introduction to critical and theoretical literature on the short story. Includes a creative writing workshop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 573",
+    "title": "Techniques of the Novel",
+    "units": 3,
+    "department": "ECL",
+    "description": "Techniques of the novel from the writer\u2019s point of view. Introduction to critical and theoretical literature on the novel. Includes a creative writing workshop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 575",
+    "title": "Poetry of Devotion: Hindu, Buddhist, Taoist and Sufi Voices",
+    "units": 3,
+    "department": "ECL",
+    "description": "An exploration of Hindu, Buddhist, Taoist, and Sufi poetry; close readings of translated poetry, on topics such as longing, wisdom, insight, transcendence, and divine union; framing poets, poems, and poetic traditions within their historical and cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 576A",
+    "title": "Literary Publishing and Editing Workshop A",
+    "units": 3,
+    "department": "ECL",
+    "description": "Survey of literary publishing and editing industry. Practical experience in a variety of publishing and editing skills, interaction with industry professionals, and critical writing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 576B",
+    "title": "Literary Publishing and Editing Workshop B",
+    "units": 3,
+    "department": "ECL",
+    "description": "Practical experience in small-press literary publishing. Creating and running a press to publish print and digital texts. Tutorials and guest lectures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 577",
+    "title": "Techniques of Screenwriting",
+    "units": 3,
+    "department": "ECL",
+    "description": "Techniques of screenwriting. Introduction to critical and theoretical literature on screenwriting. Includes a creative writing workshop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 280",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 110",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "TFM 510",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 579",
+    "title": "Topics in Creative Writing",
+    "units": 3,
+    "department": "ECL",
+    "description": "Techniques of creative writing focusing on a specialized genre such as comedy, science fiction, and biography. Study of the critical and theoretical literature on the genre. Includes a creative writing workshop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 580",
+    "title": "Writing of Poetry",
+    "units": 3,
+    "department": "ECL",
+    "description": "A creative writing workshop in poetry. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 570",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 581W",
+    "title": "Writing of Fiction",
+    "units": 3,
+    "department": "ECL",
+    "description": "A creative writing workshop in fiction. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 571",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 584W",
+    "title": "Writing Informal Essays",
+    "units": 3,
+    "department": "ECL",
+    "description": "A creative writing workshop in nonfiction, especially the essay as an art form.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 594",
+    "title": "Topics in Literature and the Arts",
+    "units": 3,
+    "department": "ECL",
+    "description": "Comparative study of literature and other arts such as painting, sculpture, architecture, music, dance, and film.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 595",
+    "title": "Literature and Aesthetics",
+    "units": 3,
+    "department": "ECL",
+    "description": "Theoretical and experiential investigation of relationships between literature and the other arts; literary works in context of an inquiry into aesthetics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 596",
+    "title": "Selected Topics in Literature",
+    "units": 1,
+    "department": "ECL",
+    "description": "Selected topics in literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 600",
+    "title": "Introduction to Graduate Study",
+    "units": 3,
+    "department": "ECL",
+    "description": "Introduction to research methods and critical approaches common in the graduate study of literature and expository writing, with attention to basic reference works, bibliographical techniques, analytical strategies, scholarly frames of reference, and theory. Recommended for first-semester graduate students.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 604A",
+    "title": "Seminar: Literary Period or Movement: American Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study, through its literature, of a literary period such as the Renaissance, or a movement such as American modernism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 604B",
+    "title": "Seminar: Literary Period or Movement: British Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study, through its literature, of a literary period such as the Renaissance, or a movement such as American modernism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 604D",
+    "title": "Seminar: Literary Period or Movement: Children\u2019s Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study, through its literature, of a literary period such as the Renaissance, or a movement such as American modernism.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 606A",
+    "title": "Seminar: A Literary Type: American Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of a specific literary genre, such as the novel, tragic drama, lyric poetry, the personal essay, autobiography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 606D",
+    "title": "Seminar: A Literary Type: Children\u2019s Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of a specific literary genre, such as the novel, tragic drama, lyric poetry, the personal essay, autobiography.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 624",
+    "title": "British Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Selected works of an author, period, or subject in English literature.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 625",
+    "title": "Literature of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Selected works of an author, period, or subject in literature of the United States.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 626",
+    "title": "Comparative Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Comparative approaches to literature: study of a theme, geographical region, external relationship, or of selected authors.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 630",
+    "title": "Form and Theory of Poetry",
+    "units": 3,
+    "department": "ECL",
+    "description": "Poetry as a literary form.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 631",
+    "title": "Form and Theory of Fiction",
+    "units": 3,
+    "department": "ECL",
+    "description": "Fiction as a literary form.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 696",
+    "title": "Special Topics",
+    "units": 3,
+    "department": "ECL",
+    "description": "Intensive study in specific areas of English.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ECL 700",
+    "title": "Seminar: A Major Author or Authors",
+    "units": 3,
+    "department": "ECL",
+    "description": "Critical study of a major author or authors such as William Shakespeare, Charles Dickens, Edith Wharton, Marcel Proust, Gabriel Garc\u00eda M\u00e1rquez, Toni Morrison and others.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 724",
+    "title": "Seminar: Issues in British Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of issues within the development of the novel in Great Britain, colonial literatures in English, the British lyrical tradition and others.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 725",
+    "title": "Seminar: Issues in Literature of the United States",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of such issues as postmodernity, regionalism, ethnicity, the urban experience, gender, the political novel.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ECL 726",
+    "title": "Seminar: Issues in Comparative Literature",
+    "units": 3,
+    "department": "ECL",
+    "description": "Advanced study of an issue such as translation, negritude, cultural studies, semiotics, deconstruction, or literature and censorship.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ECL 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

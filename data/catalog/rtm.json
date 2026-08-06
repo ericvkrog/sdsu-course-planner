@@ -1,0 +1,454 @@
+[
+  {
+    "course_code": "RTM 100",
+    "title": "Sustainable Self-Development",
+    "units": 3,
+    "department": "RTM",
+    "description": "Applications, definitions, key concepts, measures, and theories of sustainable development of individuals and society. Establishment of effective and potentially fulfilling sustainability lifestyle plan for the future. Interrelationships between biodiversity and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 102",
+    "title": "Wellness and Recreation for Life Through Surfing",
+    "units": 3,
+    "department": "RTM",
+    "description": "This course explores links between recreation, society, and wellness through surfing culture and lifestyle. Surfing as a context for exploring human behavior, cognition, and organization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 103",
+    "title": "Surfing and Science",
+    "units": 3,
+    "department": "RTM",
+    "description": "Natural science exploration of surf related topics to include high quality surfing waves in the ocean and in human made surf lagoons, surfboard evolution from hand carved lumber to recycled ocean plastics, and, climate change resilience and surf ecosystem conservation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 200",
+    "title": "Recreation, Travel, and Self-Awareness",
+    "units": 3,
+    "department": "RTM",
+    "description": "How recreation and travel are influenced by economic, environmental, political, and socio-cultural forces. Impacts of recreation and travel on well-being and self-awareness.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 284",
+    "title": "Supervised Field Work",
+    "units": 3,
+    "department": "RTM",
+    "description": "Observation and participation in community recreation leadership. Practical experience in a variety of recreational settings. Eight hours per week at an agency.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 290",
+    "title": "Data Driven Decision Making in Hospitality, Recreation, and Tourism",
+    "units": 3,
+    "department": "RTM",
+    "description": "Quantitative and qualitative methods in hospitality, recreation, and tourism fields. Gathering data from sources, summarizing data points, analyses, reporting findings/results, conclusions and recommendations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "RTM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 301",
+    "title": "Service Leadership Development",
+    "units": 3,
+    "department": "RTM",
+    "description": "Communication, creativity, group dynamics and leadership, problem solving, program planning, and publicity in recreation and tourism contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 304",
+    "title": "Leisure and Tourism",
+    "units": 3,
+    "department": "RTM",
+    "description": "Study of leisure and its impact on contemporary life; issues affecting recreation in today’s urbanized society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 305",
+    "title": "Wilderness and the Leisure Experience",
+    "units": 3,
+    "department": "RTM",
+    "description": "Values of protected landscapes to individuals and society. Scientific, political, international, and ethical dimensions of natural landscapes. Implications for protection, visitor management, and sustainable tourism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 100",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "BIOL 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 340",
+    "title": "Conduct of Recreational Sports",
+    "units": 3,
+    "department": "RTM",
+    "description": "Organization of competition, community sports programs, administration of intramural athletics, and techniques of officiating.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 351",
+    "title": "Recreation Therapy and Special Populations",
+    "units": 3,
+    "department": "RTM",
+    "description": "Sociopsychological aspects of special populations and their implications for leisure pursuits. Field trips may be included.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 360",
+    "title": "Recreation and Tourism Management",
+    "units": 3,
+    "department": "RTM",
+    "description": "Through experiential learning incorporating local organizations, students gain real-world experience in, recreation and tourism management to include: needs assessment and services development; marketing; budget development; revenue generation; assets management; risk management; strategic planning; operation of facilities/areas; and, human resources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 404",
+    "title": "Cross-Cultural Perspectives of Tourism",
+    "units": 3,
+    "department": "RTM",
+    "description": "Concepts, definitions, and measures of essential cultural components of tourism. Integrated view of interrelated socio-cultural tourism issues with an understanding and appreciation of diverse cultures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 413",
+    "title": "Cultural Tourism",
+    "units": 3,
+    "department": "RTM",
+    "description": "Concepts of cultural tourism and cultural heritage management. Strategies for planning of cultural tourism resources and for development of cultural tourism initiatives. Evaluating tourism potential of cultural or heritage assets.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RTM 470",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 468",
+    "title": "Marketing, Financing, and Assessment in Recreation and Tourism Management",
+    "units": 3,
+    "department": "RTM",
+    "description": "Marketing, financing, and assessment specifically related to recreation and tourism management to include services development, pricing, promotion, distribution; budget development, revenue generation, assets management, controls; evaluation and research process as they relate to service development and delivery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 469",
+    "title": "Administration and Operation of Recreation and Tourism Agencies",
+    "units": 3,
+    "department": "RTM",
+    "description": "Administrative and operational aspects of managing and leading in recreation and tourism agencies to include liability, risk management, administrative regulations; information/decision systems in organizations; strategic planning; operation of facilities/areas; human resource functions related to successful service delivery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RTM 470",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RTM 475",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 470",
+    "title": "Global Sustainable Tourism Management",
+    "units": 3,
+    "department": "RTM",
+    "description": "Global tourism management, economics, development and sustainability. Social, cultural, and environmental impact indicators and management tools for sustainable development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 475",
+    "title": "Commercial Recreation and Attractions Management",
+    "units": 3,
+    "department": "RTM",
+    "description": "Analysis of commercial recreation field, including design, development, programming and marketing aspects of various commercial recreation enterprises.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 477",
+    "title": "Sustainable Tourism Planning",
+    "units": 3,
+    "department": "RTM",
+    "description": "Nature and scope of sustainable tourism planning. Approaches, principles, and processes for creating sustainability value in tourism. Sustainability assessment and corporate social responsibility for tourism amenities, attractions, services, transportation and facilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 484",
+    "title": "Directed Leadership",
+    "units": 3,
+    "department": "RTM",
+    "description": "Supervised leadership experience in public and private recreation agencies.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RTM 284",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 485",
+    "title": "Outdoor Recreation Planning and Policy",
+    "units": 3,
+    "department": "RTM",
+    "description": "Nature and scope of recreation in nonurban areas. Public demand for recreation and its impact on natural resources. Management, planning, research and operation of regional and national park and recreation areas.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 487",
+    "title": "Environmental and Cultural Interpretation",
+    "units": 3,
+    "department": "RTM",
+    "description": "Philosophy, theory, methods, application, and scope of cultural interpretation in recreation and tourism settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 489",
+    "title": "Outdoor Leadership and Adventure Programming",
+    "units": 3,
+    "department": "RTM",
+    "description": "Theoretical principles and experience in leadership, judgment, and decision making in outdoor adventure programming.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RTM 305",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RTM 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "RTM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 498",
+    "title": "Internship in Recreation and Tourism Management",
+    "units": 6,
+    "department": "RTM",
+    "description": "For six unit internship: 250 hours of professional work experience in recreation and tourism management.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "For 12 unit internship: 500 hours required Credit for course requires completion of ePortfolio.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "RTM",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RTM 396W",
+    "title": "Writing in Recreation Settings",
+    "units": 3,
+    "department": "RTM",
+    "description": "Theory and practice of writing in the field of recreation and parks with application to various settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "code": "MUSIC_B_A",
+  "name": "Music, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12135",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12135",
+  "poid": "12135",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "MUSIC 409W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "MUSIC 409W",
+    "MUSIC 305A",
+    "MUSIC 305B",
+    "MUSIC 308A",
+    "MUSIC 309",
+    "MUSIC 347"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "MUSIC 105",
+      "MUSIC 106A",
+      "MUSIC 106B",
+      "MUSIC 108",
+      "MUSIC 151",
+      "MUSIC 110A",
+      "MUSIC 110B",
+      "MUSIC 205A",
+      "MUSIC 205B"
+    ],
+    "Ensembles": [
+      "MUSIC 170",
+      "MUSIC 174",
+      "MUSIC 175",
+      "MUSIC 176",
+      "MUSIC 177",
+      "MUSIC 180",
+      "MUSIC 183",
+      "MUSIC 184",
+      "MUSIC 185",
+      "MUSIC 186",
+      "MUSIC 189"
+    ],
+    "Applied Instruction": [
+      "MUSIC 251A",
+      "MUSIC 251B",
+      "MUSIC 251C",
+      "MUSIC 251D",
+      "MUSIC 251E",
+      "MUSIC 251F",
+      "MUSIC 251G",
+      "MUSIC 251I",
+      "MUSIC 251L"
+    ],
+    "Ensembles (2)": [
+      "MUSIC 370",
+      "MUSIC 374",
+      "MUSIC 375",
+      "MUSIC 376",
+      "MUSIC 377",
+      "MUSIC 380",
+      "MUSIC 383",
+      "MUSIC 384",
+      "MUSIC 385",
+      "MUSIC 386",
+      "MUSIC 389"
+    ]
+  },
+  "default_electives": [
+    "MUSIC 105",
+    "MUSIC 170",
+    "MUSIC 174",
+    "MUSIC 175",
+    "MUSIC 251A",
+    "MUSIC 251B",
+    "MUSIC 251C",
+    "MUSIC 370",
+    "MUSIC 374",
+    "MUSIC 375"
+  ],
+  "unresolved_codes": []
+}

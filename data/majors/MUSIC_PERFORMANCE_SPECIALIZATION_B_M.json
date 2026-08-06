@@ -1,0 +1,104 @@
+{
+  "code": "MUSIC_PERFORMANCE_SPECIALIZATION_B_M",
+  "name": "Music, Performance Specialization, B.M.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12138",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12138",
+  "poid": "12138",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "MUSIC 409W"
+  ],
+  "lower_division": [
+    "MUSIC 250A",
+    "MUSIC 250B",
+    "MUSIC 250C",
+    "MUSIC 250D",
+    "MUSIC 250E",
+    "MUSIC 250F",
+    "MUSIC 250G"
+  ],
+  "upper_required": [
+    "MUSIC 409W",
+    "MUSIC 305A",
+    "MUSIC 305B",
+    "MUSIC 308A",
+    "MUSIC 309",
+    "MUSIC 345",
+    "MUSIC 347",
+    "MUSIC 405A"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "MUSIC 105",
+      "MUSIC 106A",
+      "MUSIC 106B",
+      "MUSIC 108",
+      "MUSIC 151",
+      "MUSIC 110A",
+      "MUSIC 110B",
+      "MUSIC 205A",
+      "MUSIC 205B",
+      "MUSIC 206A",
+      "MUSIC 206B",
+      "MUSIC 210A",
+      "MUSIC 210B",
+      "MUSIC 243"
+    ],
+    "Ensembles": [
+      "MUSIC 170",
+      "MUSIC 174",
+      "MUSIC 175",
+      "MUSIC 176",
+      "MUSIC 177",
+      "MUSIC 180",
+      "MUSIC 183",
+      "MUSIC 184",
+      "MUSIC 185",
+      "MUSIC 186",
+      "MUSIC 189"
+    ],
+    "Ensembles (2)": [
+      "MUSIC 370",
+      "MUSIC 374",
+      "MUSIC 375",
+      "MUSIC 376",
+      "MUSIC 377",
+      "MUSIC 380",
+      "MUSIC 383",
+      "MUSIC 384",
+      "MUSIC 385",
+      "MUSIC 386",
+      "MUSIC 389"
+    ]
+  },
+  "default_electives": [
+    "MUSIC 105",
+    "MUSIC 170",
+    "MUSIC 174",
+    "MUSIC 175",
+    "MUSIC 370",
+    "MUSIC 374",
+    "MUSIC 375"
+  ],
+  "unresolved_codes": [
+    "MUSIC 450A",
+    "MUSIC 450B",
+    "MUSIC 450C",
+    "MUSIC 450D",
+    "MUSIC 450E",
+    "MUSIC 450F",
+    "MUSIC 450G",
+    "MUSIC 515",
+    "MUSIC 516",
+    "MUSIC 518",
+    "MUSIC 530",
+    "MUSIC 541",
+    "MUSIC 542",
+    "MUSIC 543",
+    "MUSIC 554",
+    "MUSIC 562"
+  ]
+}

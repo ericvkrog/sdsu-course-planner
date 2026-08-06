@@ -1,0 +1,93 @@
+[
+  {
+    "course_code": "SCI 100",
+    "title": "First Year Seminar for College of Sciences Majors",
+    "units": 1,
+    "department": "SCI",
+    "description": "Provides opportunities for students to interact with faculty and staff in a small seminar setting. Students develop learning strategies, time management, and interpersonal skills, and are introduced to various campus resources (e.g., library, advising, career, health and wellness services, etc.).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 200",
+    "title": "Introduction to Campus Activities and Networking",
+    "units": 1,
+    "department": "SCI",
+    "description": "Provides upper class mentors for freshman and community college transfer students. Mentors assist students in locating campus resources, linking them with departmental advisers, identifying tutors in science courses and encouraging students to participate in workshops.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SCI",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 350",
+    "title": "International Experience",
+    "units": 1,
+    "department": "SCI",
+    "description": "Study abroad experience.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SCI",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 596",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SCI",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SCI 696",
+    "title": "Advanced Topics in Sciences",
+    "units": 1,
+    "department": "SCI",
+    "description": "Intensive study in specific areas of sciences.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Credit for 596 and 696 applicable to a master’s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  }
+]

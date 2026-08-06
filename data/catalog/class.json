@@ -1,0 +1,499 @@
+[
+  {
+    "course_code": "CLASS 101G",
+    "title": "Ancient Greek I",
+    "units": 5,
+    "department": "CLASS",
+    "description": "Beginning classical Greek. Basic grammar, vocabulary. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given for Classics 101G,CLASS 202G,CLASS 303G,CLASS 304Gtaken out of sequence.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 101L",
+    "title": "Latin I",
+    "units": 5,
+    "department": "CLASS",
+    "description": "Beginning classical Latin. Basic grammar, vocabulary. Course uses language acquisition skills to help students understand cultural differences and develop a global perspective.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given for Classics 101L,CLASS 202L,CLASS 303L,CLASS 304Ltaken out of sequence. Not open to students with credit in Classics 250L.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 120",
+    "title": "Latin and Greek for the Professional World",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Latin and Greek words and bases and their English derivatives. Etymology, word analysis and construction, language history, and structure.  Focus on professional jargon in business, law, and healthcare.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 140",
+    "title": "Introduction to Classics",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Survey of Greek and Roman art, literature, drama, sculpture, and institutions. Influence on our culture today. Contemporary relevance of epic heroes, tragic heroines, gods and goddesses. Impact of political thought.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 202G",
+    "title": "Ancient Greek II",
+    "units": 5,
+    "department": "CLASS",
+    "description": "Continuing classical Greek. Grammar, vocabulary, syntax. Preparation for",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101G, 202G,CLASS 303G,CLASS 304Gtaken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 303G",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 202L",
+    "title": "Latin II",
+    "units": 5,
+    "department": "CLASS",
+    "description": "Continuing classical Latin. Grammar, vocabulary, syntax. Preparation for",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101L, 202L,CLASS 303L,CLASS 304Ltaken out of sequence. Not open to students with credit in Classics 250L.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 303L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 296C",
+    "title": "Experimental Topics in Classics",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 296G",
+    "title": "Experimental Topics in Greek",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 296L",
+    "title": "Experimental Topics in Latin",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 303G",
+    "title": "Reading Greek Prose",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Reading classical prose authors such as Xenophon or Plato in original Greek. Attention to vocabulary, syntax, style, and historical-cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101G,CLASS 202G, 303G,CLASS 304Gtaken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 202G",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 303L",
+    "title": "Reading Latin Prose",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Reading classical prose authors such as Caesar or Cicero in original Latin. Attention to vocabulary, syntax, style, and historical-cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101L,CLASS 202L, 303L,CLASS 304Ltaken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 202L",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 304G",
+    "title": "Reading Greek Poetry",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Reading classical poets such as Homer or Euripides in original Greek. Attention to vocabulary, syntax, style, and historical-cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101G,CLASS 202G,CLASS 303G, 304G taken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 303G",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 304L",
+    "title": "Reading Latin Poetry",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Reading classical poets such as Catullus or Ovid in original Latin. Attention to vocabulary, syntax, style, and historical-cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix. No credit will be given forCLASS 101L,CLASS 202L,CLASS 303L, 304L taken out of sequence.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 303L",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 310",
+    "title": "Greek and Roman Myth and Legend",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Great stories from the past. Heroes and heroines. Gods and goddesses. War and peace. Love and death. Adventure, romance, and peril in ancient literature, arts, and religion. Relevance and influence today.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 320",
+    "title": "Epic and the Novel",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Four classic works in the genre of epic and the novel in English translation; Homer’s Iliad and Odyssey, Vergil’s Aeneid, and Apuleius’ Golden Ass. Literary criticism in historical-cultural contexts and relevance today.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 330",
+    "title": "Comedy, Tragedy, Actors, and Audiences",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Classical tragedy and comedy in English translation. Playwrights such as Aeschylus, Sophocles, Euripides, Aristophanes, Plautus. Ancient theatre, stagecraft, literary criticism, and popular attitudes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 333",
+    "title": "Hell",
+    "units": 3,
+    "department": "CLASS",
+    "description": "The theme of hell in literature and film from antiquity to today. The concept of hell and the afterlife. Classical and contemporary representations of hell.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 340",
+    "title": "Gods, Gladiators, and Empire",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Literary, artistic, and intellectual achievements of the ancient mediterranean world and beyond. Temples, tragedies, and texts. Priests, poets, and proconsuls. Great cultural traditions and influences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 350",
+    "title": "Classics and Cinema",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Heroes, heroines, and conflicts of ancient Greece and Rome as represented in major cinematic “sword and sandal” productions. Screenplays compared with Greek and Latin sources in English translation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 360",
+    "title": "Sex, Gender, and the Erotic in the Ancient World",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Sexual lives of Greeks and Romans in classical art, literature, and material culture. Constructions of body aesthetics, desiring subjects and desired objects, the erotic, and gender norms. Modern receptions and theoretical interpretations of ancient sex.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 450L",
+    "title": "Seminar: Variable Topics in Latin Literature",
+    "units": 3,
+    "department": "CLASS",
+    "description": "Reading significant Latin language texts in history, biography, religion, and other areas. Attention to vocabulary, syntax, style, and historical-cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 496C",
+    "title": "Topics in Classical Studies: Classics",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Topics in classical languages, literatures, cultures, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 496G",
+    "title": "Topics in Classical Studies: Greek",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Topics in classical languages, literatures, cultures, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 496L",
+    "title": "Topics in Classical Studies: Latin",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Topics in classical languages, literatures, cultures, and linguistics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 499C",
+    "title": "Special Study in Classics",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 499G",
+    "title": "Special Study in Greek",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 499L",
+    "title": "Special Study in Latin",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "CLASS 599C",
+    "title": "Special Study in Classics",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CLASS 304G",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 599G",
+    "title": "Special Study in Greek",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 304G",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "CLASS 599L",
+    "title": "Special Study in Latin",
+    "units": 1,
+    "department": "CLASS",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "Classics includes courses in Greek and Latin as well as non-language courses. Greek course numbers have a G suffix; Latin courses have an L suffix.",
+    "prerequisites": [
+      {
+        "prereq_code": "CLASS 304L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

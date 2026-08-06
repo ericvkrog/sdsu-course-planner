@@ -1,0 +1,37 @@
+{
+  "code": "ECONOMICS_SPECIALIZATION_IN_QUANTITATIVE_ANALYSIS_B_A",
+  "name": "Economics, Specialization in Quantitative Analysis, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11984",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11984",
+  "poid": "11984",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "ECON 301",
+    "ECON 320",
+    "ECON 321",
+    "ECON 441",
+    "ECON 507"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 201",
+      "STAT 119",
+      "STAT 250",
+      "MATH 150"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "ECON 102",
+    "STAT 119",
+    "MATH 150"
+  ],
+  "unresolved_codes": []
+}

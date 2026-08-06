@@ -1,0 +1,961 @@
+[
+  {
+    "course_code": "RWS 100",
+    "title": "Rhetoric of Written Argument",
+    "units": 3,
+    "department": "RWS",
+    "description": "Writing and reading as critical inquiry, designed to help students undertake university-level writing projects. Focus on rhetoric of written arguments. Students learn to use sources in their writing and make appropriate decisions about structure, cohesion, and rhetorical conventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "International students are advised to take",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 105A",
+    "title": "Rhetoric of Written Argument Stretch I",
+    "units": 3,
+    "department": "RWS",
+    "description": "First of two-semester stretch sequence. Writing and reading as critical inquiry. Rhetoric of written arguments. Cohesion, rhetorical conventions, structure, and utilization of sources.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 105B",
+    "title": "Rhetoric of Written Argument Stretch II",
+    "units": 3,
+    "department": "RWS",
+    "description": "Second of two-semester stretch sequence. Writing and reading as critical inquiry. Rhetoric of written arguments. Cohesion, rhetorical conventions, structure, and utilization of sources.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in a higher-numbered composition course or",
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 105A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 200",
+    "title": "Rhetoric of Written Arguments in Context",
+    "units": 3,
+    "department": "RWS",
+    "description": "Further practice in writing, reading, and critical thinking. Emphasis on rhetoric of written arguments in context and using multiple sources in writing. Continued attention to structure, cohesion, and rhetorical conventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "International students are advised to take LING 200. Not open to students with credit in AFRAS 200, AMIND 225, CCS 200, ECL 200, or LING 200. Completion of Rhetoric and Writing Studies 200 may require completion of the library workbook assignment.",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 220",
+    "title": "Rhetoric of Written Arguments and the Tutoring of Writing",
+    "units": 3,
+    "department": "RWS",
+    "description": "Critical thinking, reading, and writing. Rhetoric of written arguments in exploring theories and practices related to learning to write and the tutoring of writing. Cohesion, rhetorical conventions, and structure.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in AFRAS 200, AMIND 225, CCS 200, LING 200, or RWS 200 [or ECL 200].",
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 250",
+    "title": "Rhetoric in Everyday Life",
+    "units": 3,
+    "department": "RWS",
+    "description": "Rhetorical analysis of written, visual, and electronic texts. How rhetorical theories and perspectives help us understand the workings of popular culture, political discourse, visual images, legal arguments, social media, and other texts encountered in everyday life.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 279",
+    "title": "Introduction to Academic Reading and Writing",
+    "units": 3,
+    "department": "RWS",
+    "description": "University-level reading and writing, with emphasis on argumentation, analysis, and learning to write through revision process. Designed for U.S.-resident language minority students.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 290",
+    "title": "Business Writing and Rhetoric",
+    "units": 3,
+    "department": "RWS",
+    "description": "Effective writing and rhetoric in business and organizational settings, including letters, memos, and reports. Features organization, drafting, revision, and editing of documents and presentations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "RWS",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "RWS",
+    "description": "Individual Study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 305W",
+    "title": "Writing in Various Settings",
+    "units": 3,
+    "department": "RWS",
+    "description": "Composing effective texts for a wide range of situations in and out of the university. Learning to adjust textual elements for specific purposes, audiences, and settings. Enhances critical reading and writing skills by exploring how content contributes to meaning and effectiveness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses. International students are advised to take LING 305W.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 360",
+    "title": "Rhetoric of Sustainability",
+    "units": 3,
+    "department": "RWS",
+    "description": "Analysis and construction of sustainability texts from a variety of interdisciplinary, popular, and professional contexts. Collaboration through service learning to produce texts related to sustainability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 360W",
+    "title": "The Rhetoric of Board Sports",
+    "units": 3,
+    "department": "RWS",
+    "description": "An intermediate writing course focused on reading and writing both in and beyond the university, applies an academic lens to the development of board sports, evaluating and analyzing the rhetorics that have defined, shaped and explained these activities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 390W",
+    "title": "Writing in Business Settings",
+    "units": 3,
+    "department": "RWS",
+    "description": "Composing effective texts and presentations for a wide range of audiences, business purposes, genres, and settings. Enhancing critical reading and writing skills by exploring how content contributes to meaning and effectiveness in business documents.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "International students are advised to take Linguistics 305W. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 392W",
+    "title": "Writing for Engineers",
+    "units": 3,
+    "department": "RWS",
+    "description": "Composition of presentations and texts for a wide range of engineering audiences, genres, purposes, and settings. Development of critical reading and writing skills by exploring how content contributes to effectiveness and meaning in engineering documents.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 410",
+    "title": "Rhetoric and Culture",
+    "units": 3,
+    "department": "RWS",
+    "description": "Interplay of rhetoric, writing, and culture, including race/ethnicity, gender, class, and other cultural considerations. Role of texts in shaping and shifting community knowledge, identity, norms, and values.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in RWS 510.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 411",
+    "title": "Digital Rhetorics",
+    "units": 3,
+    "department": "RWS",
+    "description": "Exploration of digital writing and new media literacies from a rhetorical perspective. Includes research on digital rhetoric and history of literacy to investigate new media literacies, texts, and writing practices.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 413",
+    "title": "The Rhetoric of Comics",
+    "units": 3,
+    "department": "RWS",
+    "description": "Rhetorical analysis of comic texts focusing on the multimodal communicative techniques and their social and cultural contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 414",
+    "title": "Visual Rhetoric",
+    "units": 3,
+    "department": "RWS",
+    "description": "Rhetorical analysis of visual texts in their social, cultural, and political contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 415",
+    "title": "Writing Rhetorically: Genre, Audience, and Style",
+    "units": 3,
+    "department": "RWS",
+    "description": "Rhetorical development of one’s style of writing through a blend of theoretical and practical applications of key rhetorical concepts, genre, style and discourse communities.Typically Offered:Fall",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 496",
+    "title": "Topics in Rhetoric and Writing Studies",
+    "units": 1,
+    "department": "RWS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 498",
+    "title": "Seminar: Writing and Research",
+    "units": 3,
+    "department": "RWS",
+    "description": null,
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 499",
+    "title": "Directed Study",
+    "units": 1,
+    "department": "RWS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 500W",
+    "title": "Advanced Writing Strategies",
+    "units": 3,
+    "department": "RWS",
+    "description": "Advanced writing course focusing on how meaning is negotiated and claims are argued in academic and public discourse.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 501",
+    "title": "Editing",
+    "units": 3,
+    "department": "RWS",
+    "description": "Fundamentals of professional editing. Functions of an editor. Document development, style, and style guides. Editing tools and technologies. Preparing text for publication and production.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 503W",
+    "title": "Professional Writing",
+    "units": 3,
+    "department": "RWS",
+    "description": "Principles and practices of professional writing, including clear and concise style and rhetorical strategies of designing effective workplace documents. Practice composing memos, reports, proposals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 504",
+    "title": "Foundations in Technical and Professional Communication",
+    "units": 3,
+    "department": "RWS",
+    "description": "Exploration of technical and professional communication, blending theoretical foundations with practical application. Considers standard and digital genres written for diverse audiences, usability, accessibility, communication design, content strategy, and collaboration; includes attention to ethical considerations that shape communication in professional contexts.Typically Offered:Fall",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 506",
+    "title": "Writing Internship",
+    "units": 3,
+    "department": "RWS",
+    "description": "Intensive experience in writing and editing documents while student is under the joint supervision of an academic instructor and a professional coordinator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 500W",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 503W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 507",
+    "title": "Professional Communication in Community Organizations",
+    "units": 3,
+    "department": "RWS",
+    "description": "Project-based writing in community organizations; attention to nonprofit and community communication, including collaboration with communities on grant proposals, research and outreach projects, and social media development and strategy; consideration of ethical concerns related to writing with and for communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 508W",
+    "title": "Scientific Writing",
+    "units": 3,
+    "department": "RWS",
+    "description": "Scientific writing in academic and empirical research settings to include clear and concise writing style, rhetorical strategies, and writing of research reports, proposals, conference presentations, and articles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 509",
+    "title": "Teaching Composition in Secondary Schools",
+    "units": 3,
+    "department": "RWS",
+    "description": "Theory and practice of teaching and assessing composition in secondary schools and comparable contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 512",
+    "title": "Writing Center Practice, Research, and Theory",
+    "units": 3,
+    "department": "RWS",
+    "description": "Practice, research, and theory of coaching writing in various settings. Individual and small group writing projects and research.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 200",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 515",
+    "title": "UX Writing and Rhetoric",
+    "units": 3,
+    "department": "RWS",
+    "description": "Examines user experience (UX) writing as a rhetorical practice and prepares students to develop clear, persuasive, and accessible content designed to guide users effectively.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 543",
+    "title": "Rhetoric of Visual Composing",
+    "units": 3,
+    "department": "RWS",
+    "description": "Analyzing, communicating, and organizing complex data, educational content, ideas, and specialized information through multimodal and visual means. Data visualization, shaping content, and usability for diverse audiences and contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 250",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 596",
+    "title": "Special Topics in Rhetoric and Writing Studies",
+    "units": 1,
+    "department": "RWS",
+    "description": "Selected topics in rhetoric and writing studies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 599",
+    "title": "Special Study",
+    "units": 1,
+    "department": "RWS",
+    "description": "Directed individual study.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 600",
+    "title": "Reading and Writing Rhetorically",
+    "units": 3,
+    "department": "RWS",
+    "description": "Theoretical frameworks, including rhetorical theory and discourse analysis, for analyzing and interpreting academic, professional, and everyday texts. Critical reading and writing of texts and rhetorical dimensions of knowledge production.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 601A",
+    "title": "History of Rhetoric I",
+    "units": 3,
+    "department": "RWS",
+    "description": "Major works of rhetoric from Greek Sophists through Imperial Rome. Themes and core concepts that shape the discipline of rhetoric. How the works informed pedagogy and public life. Relationship of historical texts to contemporary rhetorical practices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 602",
+    "title": "Modern Rhetoric and Composition Studies",
+    "units": 3,
+    "department": "RWS",
+    "description": "Twentieth century rhetoric and composition theory, and their relationship to study and teaching of written discourse.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 603",
+    "title": "Cultural Rhetorics",
+    "units": 3,
+    "department": "RWS",
+    "description": "An introduction to the theories and methodologies useful to research and scholarship in Cultural Rhetorics.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 607",
+    "title": "Writing Project Management",
+    "units": 3,
+    "department": "RWS",
+    "description": "Managing technical documentation projects. Collaborative writing. Managing writing teams. Conducting task analysis, estimating cost and schedule, preparing document plans, gathering information, testing documents, and managing project documentation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 504",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 609",
+    "title": "Theory and Practice of Teaching Composition",
+    "units": 3,
+    "department": "RWS",
+    "description": "Research and theory in field of teaching composition. Links research to classroom practice. Prepares students to teach composition at SDSU and other post-secondary settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Prerequisite for teaching associateships in Rhetoric and Writing Studies.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 611",
+    "title": "Literacy, Technology, and Rhetoric",
+    "units": 3,
+    "department": "RWS",
+    "description": "Theories and definitions of digital literacy. Online texts and how they are used to build community, coordinate action, fashion identity, and persuade. Changes in reading and writing practices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 640",
+    "title": "Research Methods in Rhetoric and Writing Studies",
+    "units": 3,
+    "department": "RWS",
+    "description": "Methods and critical approaches for research in the fields of rhetoric and writing studies, with attention to qualitative and rhetorical inquiry.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 601A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 696",
+    "title": "Topics in Rhetoric and Writing Studies",
+    "units": 3,
+    "department": "RWS",
+    "description": "Intensive study in specific areas of rhetoric and writing studies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 730",
+    "title": "Gender and Rhetoric",
+    "units": 3,
+    "department": "RWS",
+    "description": "Explores intersection of gender, rhetoric, and power. Topics include rhetoric and the body, gendered differences in rhetorical styles, roles gender plays in professional relationships, culture, and the media. Interrogation of gender as an analytical category.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 601A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 744",
+    "title": "Seminar in Issues in Rhetorical Theory and Practice",
+    "units": 3,
+    "department": "RWS",
+    "description": "Problems in teaching of rhetoric and writing, both practical and theoretical. Advanced study of topics such as teaching practices, genres, stylistics, or a major figure.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 601A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 790",
+    "title": "M.A. Examination Preparation",
+    "units": 3,
+    "department": "RWS",
+    "description": "Survey of selected essays, articles, and texts in rhetoric, composition studies, and professional and technical writing included in the M.A. examination. Emphasis on rhetorical analysis of texts and contexts (historical, social, professional, and technical). Strongly recommended for students taking the M.A. examination.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 796A",
+    "title": "Teaching Internship",
+    "units": 3,
+    "department": "RWS",
+    "description": "Teaching experience while student is under joint supervision of college-level teacher and academic instructor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 609",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 796B",
+    "title": "Writing Internship",
+    "units": 3,
+    "department": "RWS",
+    "description": "Intensive experience in writing and editing documents while student is under joint supervision of an academic instructor and a professional coordinator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "RWS 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 504",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 600",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 601A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "RWS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "RWS",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "RWS",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "RWS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "RWS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "RWS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "code": "ISLAMIC_AND_ARABIC_STUDIES_B_A",
+  "name": "Islamic and Arabic Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11896",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11896",
+  "poid": "11896",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "ARAB 201",
+    "ARAB 202",
+    "HIST 101",
+    "POL S 103",
+    "REL S 101",
+    "HIST 100",
+    "ARAB 101",
+    "ARAB 102"
+  ],
+  "upper_required": [
+    "ARAB 301",
+    "ARAB 302",
+    "ARAB 330",
+    "HIST 473",
+    "HIST 474",
+    "POL S 363",
+    "WGSS 560",
+    "POL S 562",
+    "REL S 310",
+    "REL S 328",
+    "ECON 466",
+    "HIST 574",
+    "REL S 379"
+  ],
+  "elective_areas": {
+    "Requirements": [
+      "ARAB 350",
+      "ECON 466",
+      "HIST 574",
+      "POL S 353",
+      "POL S 562",
+      "REL S 310",
+      "REL S 328",
+      "REL S 379"
+    ],
+    "Up to Six Units": [
+      "ARAB 496",
+      "ARAB 499",
+      "HIST 496",
+      "HIST 499",
+      "HIST 596",
+      "POL S 496",
+      "POL S 499",
+      "POL S 596",
+      "REL S 496",
+      "REL S 499",
+      "REL S 596"
+    ]
+  },
+  "default_electives": [
+    "ARAB 350",
+    "ARAB 496",
+    "HIST 496",
+    "POL S 496"
+  ],
+  "unresolved_codes": []
+}

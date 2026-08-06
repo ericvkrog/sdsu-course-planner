@@ -1,0 +1,131 @@
+[
+  {
+    "course_code": "HONOR 100",
+    "title": "Introduction to Honors",
+    "units": 1,
+    "department": "HONOR",
+    "description": "Ways to integrate learning and experiences to enrich college experience. Leadership, community service, research and creative arts, scholarship and fellowships, and study abroad opportunities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 113",
+    "title": "Seminar in Honors Connection and Commitment",
+    "units": 3,
+    "department": "HONOR",
+    "description": "Interdisciplinary education and the theoretical and practical integration of knowledge. Coursework beyond the classroom in areas of community service, creative activity, leadership, research, and study abroad.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 296",
+    "title": "Honors Experimental Topics",
+    "units": 1,
+    "department": "HONOR",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HONOR",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "A maximum combined credit of nine units of 299, 499 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 313",
+    "title": "Seminar in Interdisciplinary Studies",
+    "units": 3,
+    "department": "HONOR",
+    "description": "Idea, philosophy, and method of interdisciplinary studies. Various disciplines and topics from interdisciplinary perspectives, workplaces, and societal settings. Integration of a variety of schools of thought and the value of an interdisciplinary outlook.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "HONOR 113",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HONOR 413",
+    "title": "Interdisciplinary Perspectives on Social Problems",
+    "units": 3,
+    "department": "HONOR",
+    "description": "Various social problems from interdisciplinary perspectives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HONOR 495",
+    "title": "Seminar in Integrative Capstone",
+    "units": 3,
+    "department": "HONOR",
+    "description": "Honors culminating capstone experience. Synthesis and integration of academic, professional, and community involvement, including major and honors-specific coursework and high impact practices. Formulation of action plan for post-baccalaureate personal and professional aspirations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HONOR",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HONOR 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HONOR",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "A maximum combined credit of nine units of 299, 499 courses applicable to a bachelor’s degree. Maximum credit of six units of 499 applicable to a bachelor’s degree.",
+    "prerequisites": []
+  }
+]

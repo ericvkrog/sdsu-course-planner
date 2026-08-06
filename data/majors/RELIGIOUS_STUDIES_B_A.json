@@ -1,0 +1,41 @@
+{
+  "code": "RELIGIOUS_STUDIES_B_A",
+  "name": "Religious Studies, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12182",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12182",
+  "poid": "12182",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "REL S 396W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "REL S 396W",
+    "REL S 400"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "REL S 100",
+      "REL S 101",
+      "REL S 103"
+    ],
+    "Traditions": [
+      "REL S 320",
+      "REL S 325",
+      "REL S 328",
+      "REL S 330",
+      "REL S 338",
+      "REL S 339",
+      "REL S 380"
+    ]
+  },
+  "default_electives": [
+    "REL S 100",
+    "REL S 320",
+    "REL S 325"
+  ],
+  "unresolved_codes": []
+}

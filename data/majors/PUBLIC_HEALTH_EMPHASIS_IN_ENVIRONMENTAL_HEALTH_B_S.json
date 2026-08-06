@@ -1,0 +1,77 @@
+{
+  "code": "PUBLIC_HEALTH_EMPHASIS_IN_ENVIRONMENTAL_HEALTH_B_S",
+  "name": "Public Health, Emphasis in Environmental Health, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12545",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12545",
+  "poid": "12545",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "RWS 305W",
+    "LING 305W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "RWS 305W",
+    "LING 305W",
+    "P H 300",
+    "P H 302",
+    "P H 304",
+    "P H 305",
+    "P H 306",
+    "P H 307",
+    "P H 401",
+    "P H 490",
+    "P H 491",
+    "P H 451",
+    "P H 452",
+    "P H 538A",
+    "P H 497",
+    "P H 499"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "P H 101",
+      "P H 292",
+      "BIOL 100",
+      "BIOL 100L",
+      "BIOL 211",
+      "BIOL 211L",
+      "CHEM 100",
+      "PSY 101",
+      "SOC 101",
+      "PSY 280",
+      "SOC 201",
+      "CHEM 130",
+      "CHEM 232",
+      "MATH 140",
+      "MATH 141",
+      "MATH 150",
+      "MATH 151"
+    ],
+    "Additional Lower Division Courses": [
+      "P H 250",
+      "P H 233"
+    ],
+    "Upper Division Major Electives": [
+      "P H 330",
+      "P H 331",
+      "P H 332",
+      "P H 353",
+      "P H 362",
+      "P H 395",
+      "P H 402",
+      "P H 496",
+      "P H 485",
+      "GEN S 340"
+    ]
+  },
+  "default_electives": [
+    "BIOL 100",
+    "P H 233",
+    "P H 330"
+  ],
+  "unresolved_codes": []
+}

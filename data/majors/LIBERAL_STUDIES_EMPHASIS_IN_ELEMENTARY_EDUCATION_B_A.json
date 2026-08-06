@@ -1,0 +1,69 @@
+{
+  "code": "LIBERAL_STUDIES_EMPHASIS_IN_ELEMENTARY_EDUCATION_B_A",
+  "name": "Liberal Studies, Emphasis in Elementary Education, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12105",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12105",
+  "poid": "12105",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "ECL 306W"
+  ],
+  "lower_division": [
+    "BIOL 100",
+    "BIOL 100L",
+    "GEOL 104",
+    "MATH 210",
+    "GEOG 106",
+    "HIST 109",
+    "HIST 110",
+    "POL S 102",
+    "ECL 220",
+    "THEA 100",
+    "HIST 100",
+    "ED 200",
+    "ENS 241",
+    "MATH 211",
+    "MTHED 212",
+    "MUSIC 102",
+    "TE 170",
+    "CFD 170",
+    "TE 280"
+  ],
+  "upper_required": [
+    "ECL 306W",
+    "LIB S 300",
+    "LIB S 498",
+    "TE 303",
+    "MATH 312",
+    "MATH 313",
+    "PHYS 412",
+    "LING 420",
+    "LING 452",
+    "ART 387",
+    "ECL 306A",
+    "HIST 411",
+    "HIST 413",
+    "MUSIC 343"
+  ],
+  "elective_areas": {
+    "Requirements": [
+      "AAS 100",
+      "AAS 101",
+      "AFRAS 170A",
+      "AFRAS 170B",
+      "AMIND 140",
+      "AMIND 141",
+      "CCS 141A",
+      "CCS 141B"
+    ]
+  },
+  "default_electives": [
+    "AAS 100"
+  ],
+  "unresolved_codes": [
+    "N SCI 100"
+  ]
+}

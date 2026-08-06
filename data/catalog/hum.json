@@ -1,0 +1,488 @@
+[
+  {
+    "course_code": "HUM 101",
+    "title": "Introduction to Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Preliminary investigation: how values and ideals are expressed in literary, artistic, and intellectual achievements of individuals and civilizations throughout the world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 102",
+    "title": "Global Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Themes from standpoint of global interconnections. Interdisciplinary examinations through historical, linguistic, literary, and philosophical lenses. Current issues of global importance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 103",
+    "title": "Introduction to Public Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "How humanities engage diverse and divergent publics. What makes a public, what makes scholarship public humanities, and what can be done in the university to ensure more access, education, and justice outside of it.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 130",
+    "title": "The Jewish Heritage",
+    "units": 3,
+    "department": "HUM",
+    "description": "Hebraic and Jewish influences on the arts, literature, philosophy, and religion of Western civilization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 140",
+    "title": "World Mythology",
+    "units": 3,
+    "department": "HUM",
+    "description": "Comparative themes and figures from various mythologies of the world. Interpretation of myths; their influence on art, culture, and history.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 201",
+    "title": "The Body: Human Organisms and Human Meaning",
+    "units": 3,
+    "department": "HUM",
+    "description": "How bodies shape our understanding of ourselves and others across multiple spheres of private and public life. The body and identity, social power, spirituality, and creativity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 250",
+    "title": "Avenging the Universe: An Introduction to Environmental Humanities and Comics",
+    "units": 3,
+    "department": "HUM",
+    "description": "Avenging the Universe explores the relationship between humanity, nature and visual storytelling. It analyzes comics, graphic novels, cartoon strips, animation, 3-D imaging and film to envision possible futures grounded in equity, justice and a duty to protect the environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HUM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 322",
+    "title": "LGBT History and Culture",
+    "units": 3,
+    "department": "HUM",
+    "description": "Interdisciplinary field of lesbian and gay studies with attention to history and artistic expression. Topics include varying attitudes toward homosexuality in history, as well as literary, artistic, theatrical, and musical contributions of the lesbian, gay, bisexual, and transgender community.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 331",
+    "title": "Eugenics",
+    "units": 3,
+    "department": "HUM",
+    "description": "Historical, political, social, and cultural exploration of the ideology of eugenics; health policy; biotechnology; ethics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 343",
+    "title": "Urban Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Humanities approach to studying the street, the city, and how cultural production engages with urban social and environmental issues. Literature, film, visual culture, graffiti.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 360",
+    "title": "Animal Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Humanities beyond “the human.” Nonhuman animals as subjects in the world. Animals as focus of ethics, literature, philosophy, theory, and visual culture.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 370",
+    "title": "American Culture",
+    "units": 3,
+    "department": "HUM",
+    "description": "Literary, artistic, and intellectual achievements of the United States from colonial times to the present day. Great cultural traditions and influences represented in the contributions of Americans of diverse gender, ethnic, geographic, and political identity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 390W",
+    "title": "Writing in the Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Theoretical approaches in study of humanities. Writing in discipline of humanities through analysis of key thinkers in history.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 400",
+    "title": "Senior Seminar",
+    "units": 3,
+    "department": "HUM",
+    "description": "Senior capstone seminar in major. Discussion and directed reading culminating in formal research project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 403",
+    "title": "Happiness: Spiritual and Rational Foundations",
+    "units": 3,
+    "department": "HUM",
+    "description": "Exploration of happiness across religious, spiritual, and scientific traditions; study of ancient and modern contemplative practices; connections between spiritual orientation and brain science; relationship between happiness and social justice; integration of psychological, cultural, and societal dimensions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 404",
+    "title": "Religion, Medicine, and Health",
+    "units": 3,
+    "department": "HUM",
+    "description": "The relationship between religion, medicine, and health. Concepts and debates related to traditional medicine, religious healing, bioethics, palliative care, and public health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 406",
+    "title": "Renaissance and Self",
+    "units": 3,
+    "department": "HUM",
+    "description": "Rebirth broadly defined, up to the present. The idea of progress. Humanities and cult of antiquity. Innovation in arts and letters. Traversing the globe. Quest for virtue, fame, glory. Questioning the past. The nature of genius.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 407",
+    "title": "Rationalists and Romantics",
+    "units": 3,
+    "department": "HUM",
+    "description": "Eighteenth century Enlightenment and its descendants. Rational interaction with the world. Literature, philosophy, music, art, and poetry representing rationalist and romantic ideologies. Conquest of nature and retreat to nature. Reason versus passion. Romantic responses to rationalists.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 408",
+    "title": "The Modern",
+    "units": 3,
+    "department": "HUM",
+    "description": "Conceptualizing past and present. Valorization of the new and improved. Cultural products of imperialism, monopoly, consumerism, mass media, and corporate identity. The culture of the “Other.” Literary, artistic, and intellectual breakthroughs of the nineteenth and twentieth centuries and their influences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 409",
+    "title": "The Future",
+    "units": 3,
+    "department": "HUM",
+    "description": "Conceiving of time and visions for tomorrow in an ever-changing world. Being human in an age of artificial intelligence and cloning. Utopian and dystopian visions. Thinkers, artists, and scientists from past and present contemplate the unknown. Breakthroughs and possibilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 410",
+    "title": "Studies in Popular Culture",
+    "units": 3,
+    "department": "HUM",
+    "description": "Popular culture informed by significant cultural discourses, historical developments, and political debates. Representative works to include secondary critical readings, animated film, comics, literature, live-action film, and television.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 411",
+    "title": "Understanding Evil",
+    "units": 3,
+    "department": "HUM",
+    "description": "Evil and how the language of evil has been used by diverse religious communities. Conceptions and portrayals of demons, hell, Satan, and vampires. Literature on the Holocaust, terrorism, torture, and war.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 412",
+    "title": "The Human Side of Science and Technology",
+    "units": 3,
+    "department": "HUM",
+    "description": "How science and technology have informed and been informed by the human activities of art, literature, and philosophy throughout the modern era.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 413",
+    "title": "Theory in the Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Humanistic inquiry. Theories and theoretical debates across geographical borders. Foundational theories and recent interventions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HUM 101",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      },
+      {
+        "prereq_code": "HUM 102",
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 430",
+    "title": "Health Justice and the Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Fairness in healthcare; ethics and human rights in medical research/practice. Historical record of and artistic responses to medical abuses; racism, misogyny, and ableism in biomedicine.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HUM 496",
+    "title": "Topics in Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Interdisciplinary topics in literature and the arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HUM",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 580",
+    "title": "Topics in the Humanities",
+    "units": 3,
+    "department": "HUM",
+    "description": "Advanced systematic study of a motif or theme in the humanities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 596",
+    "title": "Topics in Humanities",
+    "units": 1,
+    "department": "HUM",
+    "description": "Interdisciplinary topics in literature and the arts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HUM 599",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HUM",
+    "description": "Directed individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

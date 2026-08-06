@@ -1,0 +1,40 @@
+{
+  "code": "PUBLIC_ADMINISTRATION_B_A",
+  "name": "Public Administration, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12173",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12173",
+  "poid": "12173",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "P A 200",
+    "POL S 102"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Major": [
+      "P A 301",
+      "P A 310",
+      "P A 330",
+      "P A 340",
+      "P A 450",
+      "P A 460",
+      "P A 497",
+      "P A 498"
+    ]
+  },
+  "default_electives": [
+    "P A 301",
+    "P A 310",
+    "P A 330",
+    "P A 340",
+    "P A 450",
+    "P A 460",
+    "P A 497",
+    "P A 498"
+  ],
+  "unresolved_codes": []
+}

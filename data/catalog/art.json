@@ -1,0 +1,2052 @@
+[
+  {
+    "course_code": "ART 100",
+    "title": "Drawing I",
+    "units": 3,
+    "department": "ART",
+    "description": "Fundamentals of observational and subjective drawing in a variety of media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 101",
+    "title": "Two Dimensional Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Fundamentals of elements and organizing principles of two dimensional design to include basic color theory in a variety of media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 102",
+    "title": "Drawing II",
+    "units": 3,
+    "department": "ART",
+    "description": "Line and value in drawing; emphasis on structure and proportion, sketching, gesture, and contour drawing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 103",
+    "title": "Three Dimensional Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Fundamentals of elements and organizing principles of three dimensional design to include a variety of media and processes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 104",
+    "title": "Artists and Designers in Real Time",
+    "units": 3,
+    "department": "ART",
+    "description": "Overview of professional practice in contemporary art, design, art history. Readings and discussion contextualize presentation topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 107",
+    "title": "Photography and Visual Communication",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual expression and literacy using photographic concepts and media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 133",
+    "title": "Modern Making",
+    "units": 3,
+    "department": "ART",
+    "description": "Contemporary object design and production. Introduction to techniques, processes, and technologies used in craft, design, and creative industries.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 148",
+    "title": "Visual Presentation",
+    "units": 3,
+    "department": "ART",
+    "description": "Design drawing techniques including interior presentation drawings, interior detailing, architectural drafting, and lettering. Tools and materials used in the design professions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 157",
+    "title": "Introduction to Art",
+    "units": 3,
+    "department": "ART",
+    "description": "An illustrated lecture course dealing with the meaning of art derived from an investigation of the principles of art. Designed to increase the understanding and appreciation of art.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 203",
+    "title": "Life Drawing I",
+    "units": 3,
+    "department": "ART",
+    "description": "Drawing from the nude model.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 204",
+    "title": "Painting I",
+    "units": 3,
+    "department": "ART",
+    "description": "Pictorial composition and techniques of painting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 210",
+    "title": "Printmaking I",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction and exploration of basic printmaking media. Emphasis on aesthetic and technical processes in intaglio, lithography, relief and serigraphy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 215",
+    "title": "Visual Odyssey through Comics and Sequential Media",
+    "units": 3,
+    "department": "ART",
+    "description": "Techniques and methodologies for applying visual tools such as drawing, photography, and video to the telling of culturally relevant stories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 216",
+    "title": "Sculpture I",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction and experimentation of basic sculpture ideas, methods, and materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 220",
+    "title": "Material Studies in Craft and Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Material processes, craftspersonship, and design strategies for functional objects in various materials such as clay, wood, and metal.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Course Fee",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 223",
+    "title": "Funadamentals of Woodworking",
+    "units": 3,
+    "department": "ART",
+    "description": "An introduction to the fundamentals of woodworking and the basic tools and safe operations of the wood shop.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommended before taking ART 323 and for non-majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 226",
+    "title": "Introduction to Ceramics",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to methods of building, glazing, and firing of handbuilt and wheel-thrown forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 231",
+    "title": "Jewelry and Metalwork Fundamentals",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to design and construction of jewelry. Basic fabrication and elementary surface embellishment techniques in non-ferrous metals, emphasizing the use of the elements and principles of design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 240",
+    "title": "Fundamentals of Digital Media",
+    "units": 3,
+    "department": "ART",
+    "description": "Principles of digital media used in visual communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 247",
+    "title": "The House and Its Environment",
+    "units": 3,
+    "department": "ART",
+    "description": "Architecture, interior design, landscape and city planning for forming the physical and aesthetic environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 248",
+    "title": "Fundamentals of Digital Design and Fabrication",
+    "units": 3,
+    "department": "ART",
+    "description": "Fundamentals of digital design, presentation, and fabrication for artists and designers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 249",
+    "title": "Environmental Presentation",
+    "units": 3,
+    "department": "ART",
+    "description": "Methods, materials, and tools of the professional environmental designer stressing art principles.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 258",
+    "title": "Introduction to Art History I",
+    "units": 3,
+    "department": "ART",
+    "description": "Global art development in art, architecture, and design from prehistory to the 15th century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 259",
+    "title": "Introduction to Art History II",
+    "units": 3,
+    "department": "ART",
+    "description": "Global art development in art, architecture, and design from the 15th century to the modern period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 263",
+    "title": "African, Asian, and Oceanic Art",
+    "units": 3,
+    "department": "ART",
+    "description": "Art, architecture, and design of African, Asian, and Oceanic regions from prehistory to the modern period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ART",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "ART",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 313",
+    "title": "Screen Printing Studio",
+    "units": 3,
+    "department": "ART",
+    "description": "Traditional and experimental processes and techniques of screen printing to include design development and artistic image making through a cohesive body of work utilizing the medium.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 323",
+    "title": "Furniture and Wood I",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to the design and construction\u00a0of functional objects and furniture. Basic techniques in woodworking and joinery.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Recommend ART 223 before ART 323 for non-majors",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 325",
+    "title": "Ceramics I - Wheel Throwing",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to methods of building, glazing, and firing wheel-thrown vessel forms",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 326",
+    "title": "Ceramics I - Handbuilding",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to methods of building, glazing, and firing handbuilt forms",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Course Fee",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 331",
+    "title": "Jewelry and Metalwork I",
+    "units": 3,
+    "department": "ART",
+    "description": "Creative design and construction of jewelry and small objects. Techniques in three-dimensional forming, complex fabrication, and surface manipulation, in non-ferrous metals, emphasizing conceptual development, personal expression, and reflection.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Suggested additional preparation: ART 220 or ART 231 (recommended)",
+    "prerequisites": [
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 340",
+    "title": "Digital Photography I",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual communication and expression using digital photographic media and digital imaging techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 248",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 341",
+    "title": "Graphic Design II",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual problem-solving skills through a variety of design methods. Conceptual thinking, experimentation, and research in design for print and screen-based media. Study of content, form, signs, and symbols.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 342A",
+    "title": "Typography II",
+    "units": 3,
+    "department": "ART",
+    "description": "Typographic issues pertaining to concept, expression, and meaning using design tools for development of printed and screen-based media. Implementation of narrative and time-based typographic systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 342B",
+    "title": "Expressive Typography",
+    "units": 3,
+    "department": "ART",
+    "description": "History, process, and technology of relief printing and experimental concepts using digital technologies, moveable type and photographic processes to create individual and collaborative designs that integrate image and text.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 216",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 226",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 231",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 249",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 343",
+    "title": "Illustration I",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual notation, sketching, representational drawing, and visual translation related to art and design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 344",
+    "title": "Design for the Internet I",
+    "units": 3,
+    "department": "ART",
+    "description": "Creative and practical applications of interactive visual communication for presentation on the Internet.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 345",
+    "title": "History of Graphic Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Evolution of graphic communication from prehistory through postmodern design and the digital revolution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 258",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 259",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 346",
+    "title": "Introduction to Book Arts",
+    "units": 3,
+    "department": "ART",
+    "description": "Terminology, tools, materials, and reproduction processes related to the making of books; historical and contemporary book structures; and development of content in the form of image and text.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 347",
+    "title": "The House and Its Environment",
+    "units": 3,
+    "department": "ART",
+    "description": "Architecture, interior design, landscape, and city planning for forming the physical and aesthetic environment, its simplicities and complexities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 348",
+    "title": "Three Dimensional Digital Media",
+    "units": 3,
+    "department": "ART",
+    "description": "Design communication utilizing digital media as it relates to three-dimensional objects and spatial environments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 248",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 350",
+    "title": "Aesthetics of Architectural Design: Concepts and Practice",
+    "units": 3,
+    "department": "ART",
+    "description": "Addresses fundamental issues of aesthetics related to architecture, interiors, and design-emphasizing modern and contemporary design concerning socioeconomic and multicultural issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 148",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 351",
+    "title": "Light and Color: Designing for Interior Wellbeing",
+    "units": 3,
+    "department": "ART",
+    "description": "Investigates how light and color design elements affect human experience and interior wellbeing. A study in local and international environmental design solutions including recreational, educational and health care facilities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 148",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 352",
+    "title": "Methods and Materials for Sustainable Built Environments",
+    "units": 3,
+    "department": "ART",
+    "description": "Codes, contractual issues, design practices, legal liabilities, professional ethics, and project management. Selection of materials and methods of installation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 357",
+    "title": "World Art in Contemporary Life",
+    "units": 3,
+    "department": "ART",
+    "description": "World art and technology from ancient to post modern era and their relationship to contemporary culture and life. Gallery visits required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ART 371",
+    "title": "Medieval Art",
+    "units": 3,
+    "department": "ART",
+    "description": "Development of painting, sculpture, and architecture from time of Constantine through Gothic period.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 258",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 383",
+    "title": "Creative Coding",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to computer programming and computational thinking in service of creating generative and interactive art. Emphasis on play and experimentation as critical approaches to creative problem solving. No prior coding experience required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 385",
+    "title": "Art Education History and Practice",
+    "units": 3,
+    "department": "ART",
+    "description": "History and theory of art education. Role of art in child and adolescent development, art heritage, diversity and equity in art education and teaching methodologies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 386A",
+    "title": "Art Field Experience with Elementary and Middle School Students",
+    "units": 1,
+    "department": "ART",
+    "description": "Prepares pre-service teachers to be effective educators of visual art. Field observation, class lectures on lesson planning, instructional techniques, and strategies for teaching art to elementary school and middle school students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 386B",
+    "title": "Art Field Experience with High School Students",
+    "units": 1,
+    "department": "ART",
+    "description": "Prepares pre-service teachers to be effective educators of visual art. Field observation, class lectures on lesson planning, instructional techniques, and strategies for teaching art to high school students.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 387",
+    "title": "Art for Elementary School Teacher",
+    "units": 3,
+    "department": "ART",
+    "description": "A design-crafts course that explores in depth materials and processes primarily used by the elementary school teacher.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 391W",
+    "title": "Writing about Art and Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Students will research and read a variety of approaches to writing about art and design, read contemporary writing on art and design, participate in peer editing and dialogue about one another\u2019s writing, and collaborate to create an original publication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ART 403",
+    "title": "Life Drawing II",
+    "units": 3,
+    "department": "ART",
+    "description": "Drawing the nude model.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 203",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 404",
+    "title": "Painting II",
+    "units": 3,
+    "department": "ART",
+    "description": "Concepts that enhance basic painting principles and a broad range of painting issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 406",
+    "title": "Experimental Processes in Art",
+    "units": 3,
+    "department": "ART",
+    "description": "Structure in picture making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 216",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 220",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 248",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 407",
+    "title": "Film Photography I",
+    "units": 3,
+    "department": "ART",
+    "description": "Black and white photography and darkroom techniques combined with independent research in contemporary art and photography. Criticism in contemporary context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 409",
+    "title": "History of Photography",
+    "units": 3,
+    "department": "ART",
+    "description": "Artistic, technological, social, and political influences on photography since the early 19th century.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 258",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 259",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 410",
+    "title": "Intaglio Printmaking",
+    "units": 3,
+    "department": "ART",
+    "description": "Creative intaglio-etching, drypoint, aquatint, engraving and variations. Emphasis on fine print quality and technical development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 346",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 416",
+    "title": "Sculpture II",
+    "units": 3,
+    "department": "ART",
+    "description": "Intermediate level investigations into sculptural ideas, processes, and materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 216",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 423",
+    "title": "Furniture and Wood II: Joinery Techniques",
+    "units": 3,
+    "department": "ART",
+    "description": "An in-depth exploration of individually driven design, and the joinery techniques required to create unique and durable furniture and objects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 425",
+    "title": "Ceramics II - Intermediate Wheel Throwing",
+    "units": 3,
+    "department": "ART",
+    "description": "Investigate intermediate methods of forming, decorating, glazing, and firing vessel forms with an emphasis on the potter\u2019s wheel. Begin developing a conceptual approach to working with clay.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Course Fee",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 426",
+    "title": "Ceramics II - Intermediate Handbuilding",
+    "units": 3,
+    "department": "ART",
+    "description": "Investigate intermediate methods of building, glazing, and firing handbuilt forms. Begin developing a conceptual approach to working with clay.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Course fee.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 431",
+    "title": "Jewelry and Metalwork II - Fabrication and Color",
+    "units": 3,
+    "department": "ART",
+    "description": "Further development of fabrication skills and coloring techniques to expand technical competence while exploring personal design statements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Both ART 231\u00a0and ART 331\u00a0recommended as preparation for this course.",
+    "prerequisites": [
+      {
+        "prereq_code": "ART 231",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 432",
+    "title": "Jewelry and Metalwork II - Process and Material",
+    "units": 3,
+    "department": "ART",
+    "description": "Creative design and technical explorations based on contemporary and historical processes and materials.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Both ART 231\u00a0and ART 331\u00a0recommended as preparation for this course.",
+    "prerequisites": [
+      {
+        "prereq_code": "ART 231",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 440",
+    "title": "Digital Photography II",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual and creative expression using digital photographic media with emphasis on refining technical and conceptual visual communication skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 240",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 407",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 441",
+    "title": "Graphic Design III",
+    "units": 3,
+    "department": "ART",
+    "description": "Analysis and translation of complex information into visual communication systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 442",
+    "title": "Typography III",
+    "units": 3,
+    "department": "ART",
+    "description": "Typographic problem solving including more complex text materials and type with image.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 443",
+    "title": "Illustration II",
+    "units": 3,
+    "department": "ART",
+    "description": "Drawing and illustration methods, materials, tools, and processes as they relate to art and design.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 343",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 444",
+    "title": "Design for the Internet II",
+    "units": 3,
+    "department": "ART",
+    "description": "Intermediate design and development for World Wide Web. Topics include Web standards, CSS, advanced scripting, and experimental applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 344",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 445A",
+    "title": "Professional Practice in Art and Design",
+    "units": 1,
+    "department": "ART",
+    "description": "Evolving role of the artist and designer in contemporary art and design practice, standards of professional conduct, and business practices.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 445B",
+    "title": "Graphic Design Internship",
+    "units": 3,
+    "department": "ART",
+    "description": "Field experience with practicing professionals.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 441",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 442",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 454",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 541",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 445C",
+    "title": "Senior Portfolio/Exhibition",
+    "units": 3,
+    "department": "ART",
+    "description": "Planning, strategy, and development of a comprehensive body of design work to be professionally presented in a portfolio and/or exhibition format.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 441",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 442",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 454",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 541",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 444",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 448",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 540",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 544",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 446",
+    "title": "The Printed Book",
+    "units": 3,
+    "department": "ART",
+    "description": "Creative research focused on concept, context, and form as they relate to communication and personal or collaborative expression within the context of the book.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 346",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 407",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 410",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 448",
+    "title": "Sequential Media",
+    "units": 3,
+    "department": "ART",
+    "description": "Study and presentation of sequential imagery related to digital video production and motion graphics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 344",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 348",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 450",
+    "title": "Packaging Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Principles and theories of design: branding, typography, illustration, and photography applied to three-dimensional form within a specified social and cultural context with emphasis on strategy and concept; structure, functionality and materials; and modular systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 451",
+    "title": "Residential Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Survey, analysis and conceptual design methods of residential design stressing materials, equipment, components and structural detailing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 351",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 452",
+    "title": "Art and Design Internship",
+    "units": 1,
+    "department": "ART",
+    "description": "Field experience with practicing professional artists and designers.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 453",
+    "title": "Construction and Detail Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Approaches to codes and regulations, construction and assembly drawings, contractual agreements, environmental design, project supervision, space planning, and specification writing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 351",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 350",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 454",
+    "title": "Experiential Graphic Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Identification and communication systems applied to environmental solutions. Landmark and wayfinding systems in interior, exterior, and architectural environments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 341",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ART",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ART",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 500",
+    "title": "Advanced Drawing",
+    "units": 3,
+    "department": "ART",
+    "description": "Drawing emphasizing qualitative aspect of visual subject matter.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 203",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 210",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 343",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 406",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 502",
+    "title": "Inter-Media",
+    "units": 1,
+    "department": "ART",
+    "description": "Process and materials in plane and space.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 503",
+    "title": "Life Drawing and Painting III",
+    "units": 3,
+    "department": "ART",
+    "description": "Drawing and painting from nude and costumed models.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 204",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 403",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 504",
+    "title": "Painting III",
+    "units": 3,
+    "department": "ART",
+    "description": "Approaches to contemporary concepts in painting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 404",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 506",
+    "title": "Contemporary Issues",
+    "units": 3,
+    "department": "ART",
+    "description": "Art and design issues relevant to contemporary global society. Sources of inspiration in art and design practice and topical issues examined. Field trips.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 507",
+    "title": "Film Photography II",
+    "units": 3,
+    "department": "ART",
+    "description": "Upper-division undergraduate/graduate studio centered around exploring light-sensitive material including 19th-century photographic processes and a \u201chybrid\u201d analog/digital workflow. Students will expand their disciplinary vocabulary through investigations of photographic history, materiality, and conceptual strategies for developing photographic projects.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 407",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 516",
+    "title": "Sculpture III",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced level investigations into sculptural ideas, processes, and materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 416",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 517",
+    "title": "Figurative Sculpture II",
+    "units": 3,
+    "department": "ART",
+    "description": "Figurative study with emphasis on individual exploration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 216",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 521",
+    "title": "Tangible Interactivity for Art and Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Introduction to tangible interactivity through an exploration of micro-controller coding, embedding, and wiring into small-scale objects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 103",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 523A",
+    "title": "Furniture and Wood III: Cabinetry",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced individual design: Exploration of materials, process, and function through exploration of cabinetry and related techniques. Continued focus on development of\u00a0 specialized techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 523B",
+    "title": "Furniture and Wood III: Seating",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced individual design: Exploration of materials, process, and function through seating and related techniques. Continued focus on development of specialized techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 524",
+    "title": "Digital Fabrication for Art and Design",
+    "units": 3,
+    "department": "ART",
+    "description": "Design, visualization, and fabrication processes utilizing modeling and machining software. Basic techniques in computer-aided design (CAD) and computer-aided manufacturing (CAM). Small-scale production techniques and outsourcing for artists and designers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 525",
+    "title": "Ceramics III - Advanced Ceramics",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced methods of creative design and technical exploration based on conceptual development.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 526",
+    "title": "Clay and Glaze",
+    "units": 3,
+    "department": "ART",
+    "description": "Experimentation with and testing of ceramic materials.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ART 531",
+    "title": "Jewelry and Metalwork III - Fabrication and Color",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced problems involving fabrication and color while exploring personal design statements.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 431",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 532",
+    "title": "Jewelry and Metalwork III - Process and Material",
+    "units": 3,
+    "department": "ART",
+    "description": "Advanced problems involving creative design and technical explorations based on process and materials.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 432",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 540",
+    "title": "Advanced Photographic Projects",
+    "units": 3,
+    "department": "ART",
+    "description": "Visual and creative expression using photographic media, including traditional and digital processes. Emphasis on conceptual project development and portfolio.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 407",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ART 541",
+    "title": "Graphic Design IV",
+    "units": 3,
+    "department": "ART",
+    "description": "Strategy, planning, and problem solving related to visual communication systems with emphasis on social and cultural context.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ART 441",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 442",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 450",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ART 454",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

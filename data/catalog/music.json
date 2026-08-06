@@ -1,0 +1,1498 @@
+[
+  {
+    "course_code": "MUSIC 100",
+    "title": "First Year Seminar",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Music 100 is a first semester colloquium course for music majors. Music 100 provides insight into the various career tracks in the musical field. This course will also introduce music students to the many campus resources available to them throughout their time at SDSU.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is for first year music students.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 101",
+    "title": "Recitals",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Preparation for individual solo performances and attendance at a minimum of 12 concerts or recitals in accordance with music requirements.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 102",
+    "title": "Music for Elementary Classroom Teachers",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Rudimentary music theory involving the elements of music: melody, rhythm, and harmony. Developing the understanding of these elements through instrumental and vocal experiences which include the use of unison and part-singing, the keyboard, and simple melodic and harmonic instruments. For liberal studies and preservice teachers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 105",
+    "title": "Introduction to Elements of Music",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Music from aesthetic, communicative, theoretical, and creative perspective. Development of understanding of aesthetic valuing, musical notation, rhythm, theory, pitch, aural skills, and musical terminology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 106A",
+    "title": "Aural Musicianship I",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Introduction to sight-singing and music dictation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 102.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 106B",
+    "title": "Aural Musicianship II",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Introduction to sight-singing and music dictation continued.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 108",
+    "title": "Introduction to Music Studies",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Introduction to the study of music in academia, including a survey of professional opportunities and the development of applied skills in critical thinking, listening, and communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 151",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 109",
+    "title": "Beginner Class Piano for Non-Music Majors",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Beginner Class Piano is designed for non-music majors with little or no experience to develop basic piano technique, explore appropriate-level piano literature, and study rudimentary elements of music including rhythm, melody, harmony, and improvisation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to music majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 110A",
+    "title": "Piano - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Basic keyboard experience through study of music reading, notation, scales, chords, and sight-reading covering a repertoire of beginning and intermediate songs and piano literature, with emphasis on keyboard harmony. Required of music majors and minors and credential candidates for teaching at the kindergarten-primary level.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 105",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 110B",
+    "title": "Piano - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Basic keyboard experience through study of music reading, notation, scales, chords, and sight-reading covering a repertoire of beginning and intermediate songs and piano literature, with emphasis on keyboard harmony. Required of music majors and minors and credential candidates for teaching at the kindergarten-primary level.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 110A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 111",
+    "title": "Beginning Voice",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Fundamentals of singing and basic musicianship. Students will gain skills in breath management and increase their range and vocal strength via the study of basic solo repertoire across multiple genres of music.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 151",
+    "title": "Introduction to Music",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Elements of music as exemplified by works representing different areas, cultures, styles, and forms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See Class Schedule for specific content. Not open to students with credit in MUSIC 108.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 160",
+    "title": "Introduction to Electro-Acoustic Music",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Historical overview of electro-acoustic music with hands-on introduction to analog multi-track recording/mixing, digital sequencing with emphasis on shared lineage of classical and popular idioms.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 162",
+    "title": "Introduction to Recording and Sound Reinforcement",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Physical and theoretical technologies applied to sound recording and live sound reinforcement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 166",
+    "title": "Elements of Jazz I",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Fundamental harmonic analysis of basic jazz progressions, common modes and blues scale variations, solo transcription analysis, and ear-training.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 170",
+    "title": "SDSU University Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 171",
+    "title": "Experimental Music Ensemble",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Ensemble exploring diverse, under-recognized elements of music-making. Performance, integrating historical and interdisciplinary study. Applied musical research through exploratory listening and musical practices. Collaborative group composition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 174",
+    "title": "Concert Band",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 175",
+    "title": "Marching Band",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Study and public performance of literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 176",
+    "title": "Wind Symphony",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 177",
+    "title": "Symphonic Band",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 180",
+    "title": "Symphony Orchestra",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "four units.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 183",
+    "title": "Opera Workshop",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Opera scenes, specific roles, chorus, design, and technical support functions in opera.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 184",
+    "title": "Opera Theatre",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "The interpretation and characterization of light and grand opera. Specific work in coordination of operatic ensemble.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 185",
+    "title": "SDSU Treble Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 186",
+    "title": "SDSU Chamber Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 189",
+    "title": "Jazz Ensemble",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance organization courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 204",
+    "title": "Music Composition Technology",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Current technology in electro-acoustic music composition, score preparation, performance practices. Open to music majors and minors only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 205A",
+    "title": "Music Theory I",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Music theory, harmony, composition, counterpoint, and analysis. Open to music majors and minors only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 205B, MUSIC 305A, MUSIC 305B, MUSIC 405A, MUSIC 405B.",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 105",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 205B",
+    "title": "Music Theory II",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Music theory, harmony, composition, counterpoint, and analysis. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 305A, MUSIC 305B, MUSIC 405A, MUSIC 405B.",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 205A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 206A",
+    "title": "Aural Musicianship III",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "For music majors only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 206B",
+    "title": "Aural Musicianship IV",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "For music majors only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 207",
+    "title": "Composition Laboratory",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Original writing in different homophonic and polyphonic forms for various media.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 210A",
+    "title": "Piano - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 110B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 110A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 210B",
+    "title": "Piano - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 210A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 110A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 110B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 211A",
+    "title": "Class Piano - Keyboard Major",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Technical studies, keyboard harmony to include figured bass and jazz, performance practice and ornamentation, open score reading, transportation and accompanying skills, improvisation and arranging for the advanced pianist.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 211B",
+    "title": "Class Piano - Keyboard Major",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Technical studies, keyboard harmony to include figured bass and jazz, performance practice and ornamentation, open score reading, transportation and accompanying skills, improvisation and arranging for the advanced pianist.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 211A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 212",
+    "title": "Voice - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Mastery of the fundamentals of voice and vocal pedagogy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 214",
+    "title": "Strings - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Fundamentals of string instruments by lecture and acquisition of elementary skills for purpose of gaining teaching and conducting skills in working with strings. Primarily for music education majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 215",
+    "title": "Woodwinds - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Fundamentals of woodwind instruments by lecture and acquisition of elementary skills for purpose of gaining teaching and conducting skills in working with woodwinds. Primarily for music education majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 216",
+    "title": "Brass - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Fundamentals of brass instruments by lecture and acquisition of elementary skills. Primarily for music education majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 217",
+    "title": "Percussion - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Fundamentals of percussion through acquisition of elementary skill on the snare drum and by demonstration and lecture regarding all commonly used percussion instruments of definite and indefinite pitch. Primarily for music education majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to percussion majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 218",
+    "title": "Guitar - Elementary Class Instruction",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Open to all students interested in fundamentals of guitar and elementary music skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": "Not open to guitar majors.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 243",
+    "title": "Diction I",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Principles of pronunciation and enunciation. Application to song and opera using the IPA, in English and Italian.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 105",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 246A",
+    "title": "Practicum in Music Education I",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Introduction to music education. Exposure to music teaching profession at all grade levels before choosing an area of specialization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 246B",
+    "title": "Practicum in Music Education II",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Methods and materials. Development of lesson plan and selection of appropriate materials and methods. Rehearsal techniques for elementary, junior high, and high school. Observations of public school master teachers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 246A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 250A",
+    "title": "Performance Major Studies: Keyboard",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250B",
+    "title": "Performance Major Studies: Voice",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250C",
+    "title": "Performance Major Studies: Woodwinds",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250D",
+    "title": "Performance Major Studies: Brass",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250E",
+    "title": "Performance Major Studies: Percussion",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250F",
+    "title": "Performance Major Studies: Strings",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 250G",
+    "title": "Performance Major Studies: Classical Guitar",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251A",
+    "title": "Performance Studies: Keyboard",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251B",
+    "title": "Performance Studies: Voice",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251C",
+    "title": "Performance Studies: Woodwinds",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251D",
+    "title": "Performance Studies: Brass",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251E",
+    "title": "Performance Studies: Percussion",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251F",
+    "title": "Performance Studies: Strings",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251G",
+    "title": "Performance Studies: Classical Guitar",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251I",
+    "title": "Performance Studies: Jazz Instruments",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 251L",
+    "title": "Performance Studies: Composition",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Studies in technical, stylistic, and aesthetic elements of artistic performance.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 260",
+    "title": "Electro-Acoustic Music Composition I",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Sound sampling, musique concrete, subtractive synthesis, physics of sound and basic digital audio theory. Emphasis on application of techniques and theoretical knowledge to produce original musical compositions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 160",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 262",
+    "title": "Intermediate Recording and Sound Reinforcement",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Continuing study of physical and theoretical technologies applied to sound recording and live sound reinforcement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 162",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 266",
+    "title": "Elements of Jazz II",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Harmonic analysis of standard and bebop repertoire, less common modes and dominant scales, solo transcription, analysis, and ear-training.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 166",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 290",
+    "title": "Body Modalities",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Alternative movement theory systems including an introduction to body modalities of yoga, Pilates, ideokinesis, Alexander and Feldenkrais techniques, Laban movement analysis and authentic movement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 291",
+    "title": "Yoga and Mindfulness for the Musician",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Designed to assist musicians with stress management, performance anxiety, and self-regulation of practice routines. Throughout the semester, students will practice three different styles of yoga to assist with focus, concentration, and injury prevention.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Open to B.A. or B.M. Music Majors only.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Individual study.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 300",
+    "title": "Transfer Student Seminar",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Music 300 is a first semester colloquium course for transfer student music majors. Music 300 provides insight into the various career tracks in the musical field. This course will also introduce music students to the many campus resources available to them throughout their time at SDSU.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is for transfer students. Not open to students with credit in MUSIC 100.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 301",
+    "title": "Recitals",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Preparation for individual solo performances and attendance at a minimum of 12 concerts or recitals in accordance with music requirements.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 305A",
+    "title": "Music Theory III",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Music theory, harmony, composition, counterpoint, and analysis. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 305B, MUSIC 405A, MUSIC 405B.",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 305B",
+    "title": "Music Theory IV",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Music theory, harmony, composition, counterpoint, and analysis. Continuation of",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 405A\u00a0or MUSIC 405B.",
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 308A",
+    "title": "Music History I: Middle Ages through the Enlightenment",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Survey of Western art music from the Middle Ages to the Enlightenment, examining genres, styles, and practices within their historical, cultural, sociopolitical, technological, and aesthetic contexts. Emphasis on music historiography and the interpretation of primary sources.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 309",
+    "title": "Music History II: American Revolution to the Present",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Survey of Western art music from the American Revolution to the present, examining genres, styles, and practices within their historical, cultural, sociopolitical, technological, and aesthetic contexts. Emphasis on music historiography and the interpretation of primary sources.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students who have completed MUSIC 308B and MUSIC 308DW",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 343",
+    "title": "Music Literature for Children",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Analytical study of music suitable for children of all ages. Background information, musical structure and functions of this music in the lives of children.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 345",
+    "title": "Music Cultures of the World",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Art, folk, popular, and sacred music case studies drawn from Africa, Asia, Europe, Latin America, and the United States with attention to the relationship between culture, history, and music. Concert attendance required in Fall and Spring semesters.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 346",
+    "title": "Practicum in Music Education III",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Practical teaching applications. Students will develop and teach model lessons evaluated by students, faculty, and master teachers. Students choose a primary area of specialization and a master teacher in preparation for the final semester of the practicum series.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 110B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 246B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 347",
+    "title": "Conducting",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Basic techniques of conducting. Baton technique, conducting patterns, score reading, elements of performance and interpretation. Practical experience in typical conducting situations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 349",
+    "title": "Conducting II",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Elements of baton technique and development of skills common to instrumental conducting. Representative literature and techniques for instrumental organizations studied and performed. Practical experience in typical conducting situations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 351",
+    "title": "Music and Culture",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Significant music literature of various historical and cultural periods with emphasis on stylistic characteristics through directed listening.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Not open to music majors. See",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 360",
+    "title": "Electro-Acoustic Music Composition II",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Concepts, terminology, and history combined with composition and recording projects introducing analog electro-acoustic music with multi-track recording and analog synthesizers; or digital electro-acoustic music using digital synthesizers and computer software.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 260",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 366",
+    "title": "Jazz Repertoire",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Post bop repertoire, altered modes and scales, solo transcription, analysis, and ear-training.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 266",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 370",
+    "title": "SDSU University Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques. See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 371",
+    "title": "Experimental Music Ensemble",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Ensemble exploring diverse, under-recognized elements of music-making. Performance, integrating historical and interdisciplinary study. Applied musical research through exploratory listening and musical practices. Collaborative group composition.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 374",
+    "title": "Concert Band",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 375",
+    "title": "Marching Band",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal technique.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 376",
+    "title": "Wind Symphony",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 377",
+    "title": "Symphonic Band",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 380",
+    "title": "Symphony Orchestra",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "four units.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 383",
+    "title": "Opera Workshop",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Opera scenes, specific roles, chorus, design, and technical support functions in opera.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 384",
+    "title": "Opera Theatre",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Interpretation and characterization of light and grand opera. Specific work in coordination of opera ensemble.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 385",
+    "title": "SDSU Treble Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 386",
+    "title": "SDSU Chamber Choir",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for the ensemble. Practical experience in rehearsal technique.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 389",
+    "title": "Jazz Ensemble",
+    "units": 1,
+    "department": "MUSIC",
+    "description": "Study and public performance of representative literature for ensemble. Practical experience in rehearsal techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The performance group courses are devoted to the study in detail and the public performance of a wide range of representative literature for each type of ensemble, and designed to provide students with practical experience in rehearsal techniques.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 405A",
+    "title": "Orchestration",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Orchestration and arranging techniques for comprehensive musicianship composition and arranging projects. Open to music majors and minors only.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 405B",
+    "title": "Counterpoint",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Counterpoint in the sixteenth (the Renaissance) and eighteenth (Classical era) centuries. Two-voice counterpoint, fugues, inventions. Open to music majors and minors only.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 305A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 408B",
+    "title": "Jazz History and Improvisation",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Historical and theoretical overview of jazz art music tradition. Rhythmic, harmonic, and melodic components. Analytical score study. Practical experience in modal and tonal jazz improvisation.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 305B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MUSIC 409W",
+    "title": "Research and Writing for Musicians",
+    "units": 3,
+    "department": "MUSIC",
+    "description": "Capstone seminar for music majors emphasizing advanced research and professional writing. Students navigate information resources, critically evaluate music, performances, and scholarship, and produce a formal research paper and presentation on an original topic. Fulfills the university\u2019s Graduate Writing Assessment Requirement (GWAR).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MUSIC 308DW and MUSIC 408DW. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MUSIC 446",
+    "title": "Practicum in Music Education IV",
+    "units": 2,
+    "department": "MUSIC",
+    "description": "Early field experience. Students will complete a minimum of 45 hours of public school teaching in their area of specialization. Master teachers will provide on-site guidance and evaluation. Field experience and increased effectiveness discussed.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MUSIC 205B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 210A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 346",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MUSIC 347",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

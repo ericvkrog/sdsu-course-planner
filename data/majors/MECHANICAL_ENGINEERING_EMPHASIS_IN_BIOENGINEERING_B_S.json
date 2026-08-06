@@ -1,0 +1,58 @@
+{
+  "code": "MECHANICAL_ENGINEERING_EMPHASIS_IN_BIOENGINEERING_B_S",
+  "name": "Mechanical Engineering, Emphasis in Bioengineering, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12131",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12131",
+  "poid": "12131",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "M E 490W"
+  ],
+  "lower_division": [],
+  "upper_required": [
+    "M E 304",
+    "M E 314",
+    "M E 330",
+    "M E 340",
+    "M E 350",
+    "M E 360",
+    "M E 430",
+    "M E 452",
+    "M E 490W",
+    "M E 491",
+    "A E 341",
+    "BIOL 336",
+    "BIOL 436"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "M E 190",
+      "M E 200",
+      "A E 200",
+      "M E 202",
+      "M E 220",
+      "A E 220",
+      "M E 230",
+      "M E 240",
+      "M E 241",
+      "A E 280",
+      "BIOL 203",
+      "CHEM 202",
+      "CHEM 200",
+      "MATH 150",
+      "MATH 151",
+      "MATH 252",
+      "PHYS 195",
+      "PHYS 195L",
+      "PHYS 196",
+      "PHYS 196L"
+    ]
+  },
+  "default_electives": [
+    "MATH 150"
+  ],
+  "unresolved_codes": []
+}

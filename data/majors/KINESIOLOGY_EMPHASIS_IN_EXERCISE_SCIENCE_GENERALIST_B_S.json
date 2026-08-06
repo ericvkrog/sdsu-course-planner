@@ -1,0 +1,57 @@
+{
+  "code": "KINESIOLOGY_EMPHASIS_IN_EXERCISE_SCIENCE_GENERALIST_B_S",
+  "name": "Kinesiology, Emphasis in Exercise Science Generalist, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12004",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12004",
+  "poid": "12004",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "ENS 303",
+    "ENS 304",
+    "ENS 304L",
+    "ENS 305",
+    "ENS 307",
+    "ENS 308",
+    "ENS 322",
+    "ENS 332",
+    "ENS 333",
+    "ENS 340",
+    "ENS 433",
+    "ENS 434",
+    "ENS 437A",
+    "ENS 437B",
+    "HHS 350",
+    "FN 313"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ENS 265",
+      "CHEM 100",
+      "CHEM 102",
+      "CHEM 200"
+    ],
+    "Statistics": [
+      "BIOL 215",
+      "ECON 201",
+      "PSY 280",
+      "SOC 201",
+      "STAT 119"
+    ],
+    "Upper Division Major Elective": [
+      "ENS 318",
+      "ENS 330",
+      "ENS 331"
+    ]
+  },
+  "default_electives": [
+    "CHEM 100",
+    "STAT 119",
+    "ENS 318"
+  ],
+  "unresolved_codes": []
+}

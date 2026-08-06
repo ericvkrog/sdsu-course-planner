@@ -1,0 +1,1053 @@
+[
+  {
+    "course_code": "P A 200",
+    "title": "The Urban Scene",
+    "units": 3,
+    "department": "P",
+    "description": "Key issues in public administration, social policy, and city planning. Emphasis on government structure and public decision-making process, organizational behavior, effectiveness of criminal justice policies, zoning, and land use considerations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 301",
+    "title": "Concepts and Issues in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Theory and practice of governmental administration in differing environments, role of administrators in public policy, issues facing administrators, techniques of administration.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 310",
+    "title": "Management of Urban Governments",
+    "units": 3,
+    "department": "P",
+    "description": "Problems of local units of government in the urban environment. Organization and function of local agencies. Emphasis on California.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 312",
+    "title": "Management of State Governments",
+    "units": 3,
+    "department": "P",
+    "description": "Administrative and constitutional problems of state management in the American federal system. Emphasis on California.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 315",
+    "title": "Management of the Federal Government",
+    "units": 3,
+    "department": "P",
+    "description": "Problems in the administration of the federal government. Leadership, specialization, unity of command, and oversight.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 320",
+    "title": "Introduction to Urban Planning",
+    "units": 3,
+    "department": "P",
+    "description": "Introduction to community planning: regional, county, and city. Consideration of master plan including its purposes, contents, and method of adoption.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 321",
+    "title": "Foundations of Urban Leadership",
+    "units": 3,
+    "department": "P",
+    "description": "Key underpinnings and critical concepts associated with urban leadership.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 322",
+    "title": "Personal Dimensions of Urban Leadership",
+    "units": 3,
+    "department": "P",
+    "description": "Characteristics and traits of effective leaders. Research and application to personal and professional contexts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 323",
+    "title": "Community Dimensions of Urban Leadership",
+    "units": 3,
+    "department": "P",
+    "description": "Alternative leadership styles to deliver change and positive reform in urban communities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 322",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 324",
+    "title": "Leadership and the Public Sector",
+    "units": 3,
+    "department": "P",
+    "description": "Leadership concepts, theories, and practices with a focus on the public sector. Topics include building trust, ethics, human relations, law, organizational dynamics, and politics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 325",
+    "title": "Introduction to Nonprofit Organizations",
+    "units": 3,
+    "department": "P",
+    "description": "Introduction to nonprofit organizations. Topics include activism, effects of nonprofit influence, and policy advocacy; partnerships with government in contracting, policymaking, and public service provision.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 330",
+    "title": "Public Personnel Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Analysis of personnel problems. Supervision and management of public employees and public organizations in an age of change.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 340",
+    "title": "Administrative Behavior",
+    "units": 3,
+    "department": "P",
+    "description": "Social, psychological, and behavioral theories of organization; concepts of administrative leadership; organization and the individual; emphasis on governmental organizations.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 341",
+    "title": "Administrative Management",
+    "units": 3,
+    "department": "P",
+    "description": "Areas and problems of administrative research. Management and operations in public organizations including forecasting, resource allocation, planning and administration of programs, preparation of administrative reports. Quantitative models of managerial decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 350",
+    "title": "Contemporary Urban Issues",
+    "units": 3,
+    "department": "P",
+    "description": "Focus on urban areas and urbanism from a public policy perspective; course examines and critiques the physical, economic, social and political dimensions of contemporary American cities utilizing a multidisciplinary approach.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 370",
+    "title": "Parks and Recreation Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Introduction to principles and practices that guide parks and recreation administration. Topics include organizational structures, fiscal practices, program planning, facilities operations, and the practice of play to enrich communities. Also will address diversity and inclusion, risk management, and community engagement.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 420",
+    "title": "Methods of Analysis in City Planning",
+    "units": 3,
+    "department": "P",
+    "description": "Methods of primary data collection and analysis of secondary data sources for problem solving in city planning, techniques associated with urban design and urban development.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 320",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 431",
+    "title": "Community Resources in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Connect public administration students with professionals in the field and to potential careers. Students will research and visit a number of government, community and public organizations to better understand how goods and service are delivered in context of efficiency, effectiveness, ethics and equity.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 435",
+    "title": "Project-based Practicum in Public Affairs",
+    "units": 3,
+    "department": "P",
+    "description": "Complete an evaluation or other substantive project as the culminating experience of the undergraduate program. Conduct an evaluation, engage in program or policy design, or complete another substantive project that showcases skills developed over the course of the undergraduate program.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 440",
+    "title": "Microcomputer Applications in Criminal Justice and Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Operation and use of microcomputer hardware and software in criminal justice. Laboratory instruction focuses on applicability of programs to criminal justice operations.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 450",
+    "title": "Fiscal and Budgetary Policy",
+    "units": 3,
+    "department": "P",
+    "description": "Policies of fiscal administration and budgeting; political implications of the governmental budget process; revenue, debt, and treasury management; the functions of accounting and financial reporting.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 460",
+    "title": "Administration and Public Policy Development",
+    "units": 3,
+    "department": "P",
+    "description": "Process of formulating public policy with emphasis on the role of public agencies.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 480",
+    "title": "Leadership and Public Sector",
+    "units": 3,
+    "department": "P",
+    "description": "Leaders as energizing forces for public administration. Analysis of leadership theories and case studies.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 485",
+    "title": "Planning and Public Policy in U.S.-Mexico Border Region",
+    "units": 3,
+    "department": "P",
+    "description": "City planning, regional, and public policy issues in the binational Mexico-U.S. border region. Policy analysis: macro/regional and micro/urban.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "P",
+    "description": "Selected topics.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 497",
+    "title": "Investigation and Report",
+    "units": 3,
+    "department": "P",
+    "description": "Analysis of special topics.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 498",
+    "title": "Internship in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Students will be assigned to various government agencies and will work under joint supervision of agency heads and the course instructor. Participation in staff and internship conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      },
+      {
+        "prereq_code": "P A 330",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      },
+      {
+        "prereq_code": "P A 340",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      },
+      {
+        "prereq_code": "P A 450",
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "P A 499",
+    "title": "Special Study",
+    "units": 3,
+    "department": "P",
+    "description": "Special study in Public Administration.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 501",
+    "title": "Nonprofit Organizations and Government",
+    "units": 3,
+    "department": "P",
+    "description": "How nonprofit organizations interact with government institutions, influence and pressure government through policy advocacy and activism, and partner with government in contracting, public service provision, and policymaking.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 520",
+    "title": "Decision Making in the Urban Community",
+    "units": 3,
+    "department": "P",
+    "description": "Processes of decision making in the management of urban communities.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P A 310",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 525",
+    "title": "The U.S. City Planning Process",
+    "units": 3,
+    "department": "P",
+    "description": "Description and critique of traditional city planning process; styles and roles of city planner; city planning values and ethics.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P A 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 530",
+    "title": "Negotiation and Bargaining in the Public Service",
+    "units": 3,
+    "department": "P",
+    "description": "Specific issues such as strategies, the effects of threat, the physical setting, use of a third-party observer and theories of advocacy. Emphasis on analyzing simulations of the bargaining process and developing effective negotiation skills.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 531",
+    "title": "Governmental Employer-Employee Relations",
+    "units": 3,
+    "department": "P",
+    "description": "Historical development, legal basis, and organizational implications of governmental employer-employee relations; emphasis on California local government.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "P A 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 540",
+    "title": "Community Mapping: Geographic Information Systems",
+    "units": 3,
+    "department": "P",
+    "description": "GIS principles for purposes of community mapping and relevant policy decision-making.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 543",
+    "title": "Community Resources in Public Affairs",
+    "units": 3,
+    "department": "P",
+    "description": "Designed to connect public administration students with professionals in the field and to potential careers. Students will research and visit a number of government, community and public organizations to better understand how goods and service are delivered in context of efficiency, effectiveness, ethics and equity.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 555",
+    "title": "Engaged Citizenship and Homelessness",
+    "units": 3,
+    "department": "P",
+    "description": "Fieldwork in multidisciplinary analyses of civic citizenship and social responsibility through participatory action research and inquiry driven service in pluralistic communities. Service paradigms for engaged citizenship. Students required to complete nine hours of supervised fieldwork per week and to attend weekly meetings with instructor.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 570",
+    "title": "Public Sector Professional Skills",
+    "units": 3,
+    "department": "P",
+    "description": "Skills development in preparation for a career in the public sector. Listening, reading, and thinking critically; speaking and writing with clarity; delivering convincing and organized oral presentations; leading teams; developing team management skills; and engaging the public.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 575",
+    "title": "Corruption, Fraud, and Conspiracy: Understanding White-Collar Crime",
+    "units": 3,
+    "department": "P",
+    "description": "Explores white-collar crime, emphasizing organizational and social dynamics, decision-making, leadership, and ethics. Topics include embezzlement, fraud, corruption, and other offenses at individual, organizational, and inter-organizational levels.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 580",
+    "title": "Comparative Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Administrative organization and process of selected foreign and American governments. Analysis of the cultural basis of administrative systems.",
+    "grading_method": "CNC - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 581",
+    "title": "War, the State, and Governance: Global Perspectives",
+    "units": 3,
+    "department": "P",
+    "description": "Defense and security challenges through global perspectives. Budgetary, intelligence, leadership, logistical, military, organizational, policy, political, and strategic challenges and opportunities confronted by government via case studies.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 582",
+    "title": "War, the State, and Governance: U.S. Perspectives",
+    "units": 3,
+    "department": "P",
+    "description": "Defense and security challenges through U.S. perspectives. Budgetary, intelligence, leadership, logistical, military, organizational, policy, political, and strategic factors confronted by government via case studies.",
+    "grading_method": "CNO - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 596",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "P",
+    "description": "Selected current topics in public administration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 600",
+    "title": "Scope of Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "The development of public administration as an academic discipline; a systematic evaluation of the rise and operations of largescale public bureaucracies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 604",
+    "title": "Methods of Analysis in Public and Urban Affairs",
+    "units": 3,
+    "department": "P",
+    "description": "Research design for problems and cases in public affairs; summarizing and organizing data; methods of projection; sampling theory and application; using census and other secondary data sources.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 605",
+    "title": "Seminar in Applied Research",
+    "units": 3,
+    "department": "P",
+    "description": "Qualitative and quantitative research designs to address public affairs issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 604",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 606",
+    "title": "Seminar in Quantitative Approaches to Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Advanced techniques for analyzing problems in public and urban affairs; emphasis on computer applications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 604",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 620",
+    "title": "Seminar in Management of Urban Governments",
+    "units": 3,
+    "department": "P",
+    "description": "Selected problems in the management of urban governments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 630",
+    "title": "Seminar in Public Personnel Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Analysis of selected problems in personnel administration; special emphasis on organizational development and consultation skills as emerging personnel functions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 640",
+    "title": "Seminar in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Selected topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 642",
+    "title": "Seminar in Administrative Theory",
+    "units": 3,
+    "department": "P",
+    "description": "Organization and management; the executive role, decision making; bureaucracy; authority and power; communication and control and organizational system; tactics and strategies in effective management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 646",
+    "title": "Advocacy Organizations and Policy Change",
+    "units": 3,
+    "department": "P",
+    "description": "Explores how actions of social movements, advocacy organizations, nonprofits, and interest groups affect the development, passage, and implementation of policy. Examines political parties, policy arenas, advocacy actions, and issue framing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 650",
+    "title": "Seminar in Public Financial Management",
+    "units": 3,
+    "department": "P",
+    "description": "Economics and politics of the public sector. Theories of public expenditure analysis and revenue generation. Issues of ethics and efficiency in government financial policy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 660",
+    "title": "Administration and Public Policy Development",
+    "units": 3,
+    "department": "P",
+    "description": "Social, political and administrative problems involved in governmental program development and change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "P A 600",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "P A 792",
+    "title": "Problem Analysis",
+    "units": 3,
+    "department": "P",
+    "description": "Analytical treatment of selected problems in Public Administration. Review of methods for investigation and reporting of data. Consideration of problems in preparation of projects or thesis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 795",
+    "title": "Capstone Seminar in Public Affairs",
+    "units": 3,
+    "department": "P",
+    "description": "Needs assessment and program/policy design, development, or evaluation for public service problems and opportunities. Group projects and reports with community stakeholders. Knowledge integration attained throughout city planning, criminal justice, and public administration graduate programs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 796",
+    "title": "Internship in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "The 12 units of 796 will be exempt from the university’s requirement that courses graded Cr/NC be limited to 30 percent of units for the master’s degree.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 797",
+    "title": "Research in Public Administration",
+    "units": 3,
+    "department": "P",
+    "description": "Research in one of the areas of public administration.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "P",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "P",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "P",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "P A 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "P",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

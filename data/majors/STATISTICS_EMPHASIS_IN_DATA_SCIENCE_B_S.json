@@ -1,0 +1,63 @@
+{
+  "code": "STATISTICS_EMPHASIS_IN_DATA_SCIENCE_B_S",
+  "name": "Statistics, Emphasis in Data Science, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12206",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12206",
+  "poid": "12206",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "STAT 200",
+    "STAT 250",
+    "MATH 150",
+    "MATH 151",
+    "MATH 245",
+    "MATH 252",
+    "MATH 254",
+    "CS 150",
+    "CS 150L",
+    "CS 160",
+    "CS 160L",
+    "CS 210"
+  ],
+  "upper_required": [],
+  "elective_areas": {
+    "Major": [
+      "STAT 325",
+      "STAT 350A",
+      "STAT 350B",
+      "STAT 410",
+      "STAT 551A",
+      "STAT 551B",
+      "STAT 580",
+      "STAT 585",
+      "STAT 420",
+      "CS 503",
+      "CS 514",
+      "MIS 380",
+      "LING 571",
+      "LING 572",
+      "BDA 572",
+      "LING 581",
+      "CS 581"
+    ]
+  },
+  "default_electives": [
+    "STAT 325",
+    "STAT 350A",
+    "STAT 350B",
+    "MIS 380",
+    "STAT 410",
+    "STAT 420",
+    "CS 503",
+    "CS 514",
+    "STAT 551A",
+    "STAT 551B",
+    "LING 571",
+    "LING 572"
+  ],
+  "unresolved_codes": []
+}

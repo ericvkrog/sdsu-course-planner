@@ -1,0 +1,84 @@
+{
+  "code": "ART_B_A",
+  "name": "Art, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=11906",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=11906",
+  "poid": "11906",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [
+    "ART 391W"
+  ],
+  "lower_division": [
+    "ART 100",
+    "ART 101",
+    "ART 103",
+    "ART 104",
+    "ART 204",
+    "ART 220",
+    "ART 240",
+    "ART 258",
+    "ART 259",
+    "PSY 101",
+    "CFD 270",
+    "PSY 230"
+  ],
+  "upper_required": [
+    "ART 391W",
+    "ART 385",
+    "ART 386A",
+    "ART 386B",
+    "ART 387"
+  ],
+  "elective_areas": {
+    "Requirements": [
+      "ART 340",
+      "ART 343",
+      "ART 344",
+      "ART 440",
+      "ART 443",
+      "ART 444",
+      "ART 448",
+      "ART 521",
+      "ART 524",
+      "ART 540"
+    ],
+    "Requirements (2)": [
+      "ART 340",
+      "ART 346",
+      "ART 403",
+      "ART 404",
+      "ART 406",
+      "ART 407",
+      "ART 410",
+      "ART 440",
+      "ART 507"
+    ],
+    "Requirements (3)": [
+      "ART 323",
+      "ART 325",
+      "ART 326",
+      "ART 331",
+      "ART 416",
+      "ART 423",
+      "ART 425",
+      "ART 426",
+      "ART 431",
+      "ART 432",
+      "ART 516",
+      "ART 531",
+      "ART 532"
+    ]
+  },
+  "default_electives": [
+    "ART 340",
+    "ART 346",
+    "ART 323"
+  ],
+  "unresolved_codes": [
+    "ART 544",
+    "ART 559"
+  ]
+}

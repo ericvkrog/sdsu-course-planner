@@ -1,0 +1,81 @@
+{
+  "code": "ME",
+  "name": "Mechanical Engineering, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=11&poid=10886",
+  "verified": true,
+  "source": "hand-verified",
+  "covered_ge_areas": [
+    "2",
+    "5A",
+    "5B",
+    "5C"
+  ],
+  "gwar_covered_by": [
+    "M E 490W"
+  ],
+  "lower_division": [
+    "MATH 150",
+    "MATH 151",
+    "MATH 252",
+    "BIOL 100",
+    "CHEM 200",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "M E 190",
+    "M E 200",
+    "M E 202",
+    "M E 220",
+    "M E 230",
+    "M E 240",
+    "M E 241",
+    "A E 280"
+  ],
+  "upper_required": [
+    "M E 304",
+    "M E 314",
+    "M E 330",
+    "M E 340",
+    "M E 350",
+    "M E 360",
+    "M E 430",
+    "M E 452",
+    "M E 490W",
+    "M E 491",
+    "M E 495",
+    "A E 341"
+  ],
+  "elective_areas": {
+    "Mechanical Systems Concentration": [
+      "M E 410",
+      "M E 415",
+      "M E 420",
+      "M E 445",
+      "M E 520",
+      "M E 530",
+      "M E 532"
+    ],
+    "Thermal Systems Concentration": [
+      "M E 450",
+      "M E 530",
+      "M E 554",
+      "M E 555",
+      "M E 580"
+    ],
+    "Additional Professional Electives": [
+      "M E 496",
+      "M E 497",
+      "M E 498",
+      "M E 499"
+    ]
+  },
+  "default_electives": [
+    "M E 420",
+    "M E 532",
+    "M E 450",
+    "M E 555"
+  ]
+}

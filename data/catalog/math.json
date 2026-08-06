@@ -1,0 +1,1697 @@
+[
+  {
+    "course_code": "MATH 110",
+    "title": "Mathematics for Life",
+    "units": 3,
+    "department": "MATH",
+    "description": "Mathematical problem solving pertinent to daily life. Exponential and logarithmic functions; conversion, estimation, and measurements; personal finance; probability and statistics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 110X",
+    "title": "Mathematics for Life Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Required support course for",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 110",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 118",
+    "title": "Topics in Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Topics selected from algebra, analysis, geometry, logic, probability, or statistics, designed to give student insight into structure of mathematical theories and their applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 120",
+    "title": "Calculus for Business Analysis",
+    "units": 3,
+    "department": "MATH",
+    "description": "Matrix algebra. Calculus including differentiation and integration. Graphing and optimization. Exponential and logarithmic functions. Multivariable calculus.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 124",
+    "title": "Calculus for the Life Sciences",
+    "units": 4,
+    "department": "MATH",
+    "description": "Basic concepts of calculus with life science applications. Topics from differential and integral calculus and an introduction to elementary differential equations. Computer applications to biological problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 141",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 140",
+    "title": "College Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Solution of equations and inequalities, graphs and attributes of functions (domain, end behavior, range, transformations), linear and quadratic functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 140X",
+    "title": "College Algebra Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Required support course for",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 140",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 141",
+    "title": "Precalculus",
+    "units": 4,
+    "department": "MATH",
+    "description": "Rational, trigonometric, exponential and logarithmic functions; conic sections; parametric equations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MATH 124, or MATH 150.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 141S",
+    "title": "Precalculus Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Structured support course to assist students in achieving success in precalculus by engaging in the habits and learning activities that develop student success.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MATH 141A.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 141",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 150",
+    "title": "Calculus I",
+    "units": 4,
+    "department": "MATH",
+    "description": "Algebraic and transcendental functions. Continuity and limits. The derivative and its applications. The integral and the fundamental theorem of calculus.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 141",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 150S",
+    "title": "Calculus I Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Structured support course to assist students in achieving success in Calculus I by engaging in the habits and learning activities that develop student success.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in MATH 150A.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 151",
+    "title": "Calculus II",
+    "units": 4,
+    "department": "MATH",
+    "description": "Techniques and applications of integration. Improper integrals. Differential equations. Infinite series. Conic sections. Curves in parametric form, polar coordinates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 151S",
+    "title": "Calculus II Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Structured support course to assist students in achieving success in Calculus II by engaging in the habits and learning activities that develop student success.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "While it is not mandatory for students enrolled in MATH 151 to take MATH 151S, the two courses are designed to be taken concurrently.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 210",
+    "title": "Number Systems in Elementary Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Number sense, operation concepts, estimation, mental arithmetic, algorithms, problem solving, whole, rational, real numbers, ratio, and number theory. This course or its equivalent is required for students working toward a multiple subject credential in elementary education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 210X",
+    "title": "Number Systems in Elementary Mathematics Support",
+    "units": 1,
+    "department": "MATH",
+    "description": "Required support course for",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 211",
+    "title": "Geometry in Elementary Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Two and three dimensional shapes and interrelationships, congruence, similarity and proportional reasoning, measurement of length, angle size, area, volume, metric system, and problem solving.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 210",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 237",
+    "title": "Elementary Differential Equations",
+    "units": 3,
+    "department": "MATH",
+    "description": "Solving of first-order differential equations, numerical solutions of differential equations, existence and uniqueness, two-dimensional systems of differential equations, homogeneous and non-homogeneous second order equations, Laplace transform methods, series solutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 245",
+    "title": "Discrete Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Logic, methods of proof, set theory, number theory, equivalence and order relations, counting (combinations and permutations), solving recurrence relations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 124",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 252",
+    "title": "Calculus III",
+    "units": 4,
+    "department": "MATH",
+    "description": "Functions of several variables. Vectors. Partial derivatives and multiple integrals. Line integrals and Green\u2019s Theorem.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 254",
+    "title": "Introduction to Linear Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Matrix algebra, Gaussian elimination, determinants, vector spaces, linear transformations, orthogonality, eigenvalues, and eigenvectors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MATH",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MATH",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 302",
+    "title": "Transition to Higher Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Selected topics from Euclidean and non-Euclidean geometry to emphasize proof writing, problem solving, and communication.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 303",
+    "title": "History of Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Historical developments in mathematics, relationships between mathematics and human history, and connections between mathematics, culture, and power.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 312",
+    "title": "Topics from Elementary Mathematics: Statistics and Probability",
+    "units": 3,
+    "department": "MATH",
+    "description": "Topics from statistics and probability. Enrollment limited to future teachers in grades K-8.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 313",
+    "title": "Topics in Elementary Mathematics: Algebra of Change",
+    "units": 3,
+    "department": "MATH",
+    "description": "Capstone course for prospective K-8 teachers. Advanced topics in mathematics selected from algebra, number systems, transformation geometry, and problem solving. Enrollment limited to future teachers in grades K-8.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 211",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 320",
+    "title": "Abstract Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Elementary number theory and rings to include ideals, polynomial rings, quotient rings, ring homomorphisms and isomorphisms. Introduction to basic aspects of group theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 330",
+    "title": "Advanced Calculus I",
+    "units": 3,
+    "department": "MATH",
+    "description": "Completeness of the real numbers and its implications, sequences of real numbers, and continuity and differentiability of functions of one real variable.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 336",
+    "title": "Introduction to Mathematical Modeling",
+    "units": 3,
+    "department": "MATH",
+    "description": "Models from the physical, natural, and social sciences including population models and arms race models. Emphasis on classes of models such as equilibrium models and compartment models.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 340",
+    "title": "Programming in Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Introduction to programming in mathematics. Modeling, problem solving, visualization.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in MATH 242.",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 341",
+    "title": "Mathematics Software Workshop",
+    "units": 1,
+    "department": "MATH",
+    "description": "Lesson plan design using teacher-based technologies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 342A",
+    "title": "Methods of Applied Mathematics I",
+    "units": 3,
+    "department": "MATH",
+    "description": "Vector analysis, divergence and Stokes\u2019 theorem and related integral theorems. Matrix analysis, eigenvalues and eigenvectors, diagonalization. Introduction to ordinary differential equations. Computer software packages for matrix applications, solving, and graphing differential equations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 342B",
+    "title": "Methods of Applied Mathematics II",
+    "units": 3,
+    "department": "MATH",
+    "description": "Second order ordinary differential equations, power series methods, Bessel functions, Legendre polynomials. Linear partial differential equations, separation of variables, Fourier series, Sturm-Liouville theory, orthogonal expansions, Fourier Transforms. Use of computer software packages for symbolic algebra and solution of differential equations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 413",
+    "title": "Mathematics for the Middle Grades",
+    "units": 3,
+    "department": "MATH",
+    "description": "Teacher-level look at mathematics taught in middle grades, to include proportional reasoning, rational and real numbers, probability, and algebra. Intended for those planning to teach mathematics in middle grades; cannot be used as part of major or minor in mathematical sciences with exception of major for single subject teaching credential. Students in the SSTC major must receive instructor permission.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 313",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 414",
+    "title": "Mathematics Curriculum and Instruction",
+    "units": 3,
+    "department": "MATH",
+    "description": "Historical development of mathematics and mathematics curriculum. Principles and procedures of mathematics instruction in secondary schools. For secondary and postsecondary teachers and teacher candidates. Course cannot be used as part of the major or minor in mathematical sciences with exception of major for the single subject teaching credential.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MATH",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MATH",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 508",
+    "title": "Dynamical Systems and Modeling",
+    "units": 3,
+    "department": "MATH",
+    "description": "Differential equations using analytical, graphical, and numerical representations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 510",
+    "title": "Introduction to the Foundations of Geometry",
+    "units": 3,
+    "department": "MATH",
+    "description": "The foundations of Euclidean and hyperbolic geometries. Highly recommended for all prospective teachers of high school geometry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 520",
+    "title": "Algebraic Structures",
+    "units": 3,
+    "department": "MATH",
+    "description": "Continuation of",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 522",
+    "title": "Number Theory",
+    "units": 3,
+    "department": "MATH",
+    "description": "Theory of numbers to include congruences, Diophantine equations, and a study of prime numbers; cryptography.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 524",
+    "title": "Linear Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Vector spaces, linear transformations, orthogonality, eigenvalues and eigenvectors, normal forms for complex matrices, positive definite matrices and congruence.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 525",
+    "title": "Algebraic Coding Theory",
+    "units": 3,
+    "department": "MATH",
+    "description": "Linear codes, perfect and related codes, cyclic linear codes, BCH codes, burst error-correcting codes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 530",
+    "title": "Advanced Calculus II",
+    "units": 3,
+    "department": "MATH",
+    "description": "Formal definitions and analysis within the framework of single variable functions. Advanced concepts in analysis.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 531",
+    "title": "Partial Differential Equations",
+    "units": 3,
+    "department": "MATH",
+    "description": "Boundary value problems for heat and wave equations: eigenfunction expansions, Sturm-Liouville theory and Fourier series. D\u2019Alembert\u2019s solution to wave equation; characteristics. Laplace\u2019s equation, maximum principles, Bessel functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 237",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 532",
+    "title": "Functions of a Complex Variable",
+    "units": 3,
+    "department": "MATH",
+    "description": "Analytic functions, Cauchy-Riemann equations, theorem of Cauchy, Laurent series, calculus of residues, and applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 252",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 537",
+    "title": "Ordinary Differential Equations",
+    "units": 3,
+    "department": "MATH",
+    "description": "Theory of ordinary differential equations: existence and uniqueness, dependence on initial conditions and parameters, linear systems, stability and asymptotic behavior, plane autonomous systems, series solutions at regular singular points.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 237",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 538",
+    "title": "Discrete Dynamical Systems and Chaos",
+    "units": 3,
+    "department": "MATH",
+    "description": "One- and two-dimensional iterated maps, equilibria and their stability, sensitive dependence on initial conditions, Lyapunov exponents, horseshoe maps, period doubling, chaotic attractors, Poincare maps, stable/unstable manifolds, bifurcations. Applications in biology, chemistry, physics, engineering, and other sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 237",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 540",
+    "title": "Mathematical Tools for Data Analysis and Machine Learning",
+    "units": 3,
+    "department": "MATH",
+    "description": "Development of modern mathematical data science techniques including singular value decomposition, Fourier and wavelet transforms, bias/variance analysis, regression, optimization, clustering, and support vector machines. Strong focus on algorithm implementation and visualization and description of results.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 541",
+    "title": "Introduction to Numerical Analysis and Computing",
+    "units": 3,
+    "department": "MATH",
+    "description": "Solution of equations of one variable, polynomial interpolation and approximation, numerical differentiation and quadrature, linear least squares approximation, the fast Fourier transformation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 542",
+    "title": "Introduction to Computational Ordinary Differential Equations",
+    "units": 3,
+    "department": "MATH",
+    "description": "Initial and boundary value problems for ordinary differential equations. Runge-Kutta, linear multi-step, predictor-corrector, adaptive, hybrid, shooting, and general linear methods. System, stiffness, and non-linear problems. Iterative methods.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 237",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 543",
+    "title": "Numerical Matrix Analysis",
+    "units": 3,
+    "department": "MATH",
+    "description": "Singular value decomposition. Projections, QR-factorization, orthogonalization, conditioning and stability, Gaussian Elimination, LU-Factorization, pivoting strategies, Cholesky Factorization. Iterative methods for diagonalization and eigensystem computation. Tridiagonal, Hessenberg, and Household matrices. The QR algorithm.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 579",
+    "title": "Combinatorics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Permutations, combinations, generating functions, recurrence relations, inclusion-exclusion counting. Polya\u2019s theory of counting, other topics and applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 245",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 586",
+    "title": "Climate Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Climate data statistics and visualization, empirical orthogonal functions by singular value decomposition, hypsometric equations, Stefan-Boltzmann radiation, conservation laws of climate dynamics, energy balance climate model, R or Python computer programming.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 590",
+    "title": "Advanced Topics in Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Selected topics in classical and modern mathematical sciences. Typical topics include climate mathematics, mathematics of data science, algebraic topology, semigroup theory.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Maximum credit of\u00a0six\u00a0units of any combination of MATH 590 and MATH 596 courses applicable to a bachelor\u2019s degree.\u00a0Credit for MATH 590 applicable to a master\u2019s degree with approval of the graduate adviser.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 595",
+    "title": "Mathematical Biology and Biomedicine",
+    "units": 3,
+    "department": "MATH",
+    "description": "Mathematical and computational modeling techniques to include difference and differential equations; probabilistic and statistical models.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 237",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 596",
+    "title": "Advanced Topics in Mathematics",
+    "units": 1,
+    "department": "MATH",
+    "description": "Selected topics in classical and modern mathematical sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 600",
+    "title": "Chaos and Fractals",
+    "units": 3,
+    "department": "MATH",
+    "description": "Non-linear dynamics to include Cantor sets, fixed and periodic points, fractal dimensions, fractals, iterative processes, orbit diagrams, orbits, period doubling, and self-similarity.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 601",
+    "title": "Topics in Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Unique factorization domains, rings and ideals, groups, algebraic field extensions. A course designed for secondary school teachers.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 602",
+    "title": "Topics in Analysis",
+    "units": 3,
+    "department": "MATH",
+    "description": "Topics in analysis, including the real number system, convergence, continuity, differentiation, the Riemann-Stieltjes integral, complex analysis, designed to give the secondary teacher a broad understanding of the fundamental concepts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 620",
+    "title": "Groups, Rings, and Fields",
+    "units": 3,
+    "department": "MATH",
+    "description": "Group theory to include finite Abelian groups, isomorphism theorems, matrix groups, and permutation groups. Ring theory to include ideals, principal ideal domains, and unique factorization. Field theory to include field extensions and finite fields.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 520",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 522",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 525",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 621",
+    "title": "Advanced Topics in Algebra",
+    "units": 3,
+    "department": "MATH",
+    "description": "Topics in advanced algebra. Typical courses to include algebra-geometry dictionary, commutative algebra, groups, fields, and Galois theory.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 625",
+    "title": "Algebraic Coding Theory",
+    "units": 3,
+    "department": "MATH",
+    "description": "Algebraic theory of error correction codes and decoding algorithms used in modern communications systems. Reed-Solomon codes and algebraic decoding algorithms. Code duality, MacWilliam\u2019s identities and the linear programming bound. Probabilistic decoding of convolutional codes, low-density parity-check codes and turbo codes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 525",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 520",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 522",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 626",
+    "title": "Cryptography",
+    "units": 3,
+    "department": "MATH",
+    "description": "Design of secure cryptosystems with applications. Classical and public key cryptosystems. Primality testing, factoring, discrete log problem, and knapsack problem.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 320",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 522",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 630",
+    "title": "Applied Real Analysis",
+    "units": 3,
+    "department": "MATH",
+    "description": "Lebesgue measure and integration, metric spaces, Banach spaces, Hilbert spaces.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 530",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 635",
+    "title": "Pattern Formation",
+    "units": 3,
+    "department": "MATH",
+    "description": "Linear stability, marginal stability curves, classification. One dimensional patterns, bifurcations. Two dimensional patterns, square and hexagonal patterns, spirals, defects. Diffusion driven instability, Turing patterns. Spatio-temporal chaos. Applications in biology, chemistry, and physics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 531",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 636",
+    "title": "Mathematical Modeling",
+    "units": 3,
+    "department": "MATH",
+    "description": "Advanced models from the physical, natural, and social sciences. Emphasis on classes of models and corresponding mathematical structures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "A E 280",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 638",
+    "title": "Continuous Dynamical Systems and Chaos",
+    "units": 3,
+    "department": "MATH",
+    "description": "Nonlinear systems of differential equations, potential fields, periodic solutions, Lyapunov functions. Chaos in differential equations, Lyapunov exponents, chaotic attractors, Poincare maps. Lorenz and Rossler attractors, forced oscillators, Chua\u2019s circuit, stable manifolds. Bifurcations. Applications in science and engineering.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 537",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 254",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 639",
+    "title": "Nonlinear Waves",
+    "units": 3,
+    "department": "MATH",
+    "description": "Linear waves, dissipation, dispersion. Conservation laws. Water waves. KdV equation, solitary waves, cnoidal waves. Scattering and inverse scattering. Perturbation theory. Nonlinear Schroedinger equation, dark and bright solitons, vortex solutions. Variational techniques, modulational instability, stability.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 531",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 537",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 668",
+    "title": "Applied Fourier Analysis",
+    "units": 3,
+    "department": "MATH",
+    "description": "Discrete and continuous Fourier transform methods with applications to statistics and communication systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 330",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 524",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 530",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 532",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 693A",
+    "title": "Advanced Numerical Methods: Computational Optimization",
+    "units": 3,
+    "department": "MATH",
+    "description": "Numerical optimization: Newton, Truncated-Newton, and Quasi- Newton methods for unconstrained optimization; with applications to nonlinear least squares, orthogonal distance regression, and nonlinear equations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 524",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 693B",
+    "title": "Advanced Numerical Methods: Computational Partial Differential Equations",
+    "units": 3,
+    "department": "MATH",
+    "description": "Methods for hyperbolic, parabolic, and elliptic partial differential equations: consistency, stability, convergence.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MATH 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 531",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MATH 695",
+    "title": "Communication in Interdisciplinary Applied Mathematics",
+    "units": 3,
+    "department": "MATH",
+    "description": "Analysis of research publications. Communication skills for interdisciplinary mathematics. Development of a grant proposal and outreach item.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 696",
+    "title": "Selected Topics in Mathematical Sciences",
+    "units": 3,
+    "department": "MATH",
+    "description": "Intensive study in specific areas of mathematical sciences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 699",
+    "title": "Graduate Portfolio",
+    "units": 3,
+    "department": "MATH",
+    "description": "Use of modern media generation technology to produce webpages, code repositories, and presentations. Develop a portfolio of work completed during graduate studies to allow students to present their sophisticated skill sets and interests to potential employers or other academic institutions.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Only one of Mathematics 699 and 797 can be used to satisfy the requirements of the Applied Mathematics, MS degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 720",
+    "title": "Seminar",
+    "units": 1,
+    "department": "MATH",
+    "description": "An intensive study in advanced mathematics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 780",
+    "title": "Seminar in Communicating Mathematical Research",
+    "units": 1,
+    "department": "MATH",
+    "description": "Practice in effectively communicating mathematical ideas in various scenarios to include colloquia, poster presentations, seminars, and thesis defenses.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 790",
+    "title": "Practicum in Teaching of Mathematics",
+    "units": 1,
+    "department": "MATH",
+    "description": "Supervision in teaching mathematics. Lecture writing, style of lecture presentation and alternatives, test and syllabus construction, and grading system. Not applicable to an advanced degree. Required for first semester GTA\u2019s.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 797",
+    "title": "Research",
+    "units": 1,
+    "department": "MATH",
+    "description": "Research in one of the fields of mathematics.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MATH",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 799A",
+    "title": "Thesis or Project",
+    "units": 3,
+    "department": "MATH",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 799B",
+    "title": "Thesis or Project Extension",
+    "units": 0,
+    "department": "MATH",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A\u00a0in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis or project is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MATH 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "MATH",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree Registration in 799C limited to two semesters.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

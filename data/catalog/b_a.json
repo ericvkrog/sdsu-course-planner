@@ -1,0 +1,705 @@
+[
+  {
+    "course_code": "B A 100",
+    "title": "First Year Seminar for Business Pre-Majors",
+    "units": 1,
+    "department": "B",
+    "description": "Provides opportunities for students to interact with faculty and staff in a small seminar setting. Students develop learning strategies, time management, and interpersonal skills, and are introduced to various campus resources (e.g., library, advising, career, health and wellness services, etc.).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 210",
+    "title": "Fowler Scholars Seminar I",
+    "units": 1,
+    "department": "B",
+    "description": "Understanding, applying and critiquing ethical business theories as well as examining personal branding and corresponding narrative.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not open to students with four units of credit in GEN S 200. Maximum four units of GEN S 200 and B A 210.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "B",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 300",
+    "title": "Ethical Decision Making in Business",
+    "units": 1,
+    "department": "B",
+    "description": "Theoretical concepts and dimensions of ethics in business decisions. Ethics of decision alternatives using different approaches and philosophies, with application of an integrative ethical decision model to cases from various business subdisciplines.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 305",
+    "title": "Career and Professional Readiness",
+    "units": 1,
+    "department": "B",
+    "description": "Preparation for transition from academic life to professional career. Emphasis on career readiness skills of self-awareness, professional etiquette, personal branding, networking, and job search techniques.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 310",
+    "title": "Foundations of Business in a Global Environment",
+    "units": 1,
+    "department": "B",
+    "description": "Introduction to the program of study leading to the Bachelor of Science in Business Administration. Integration of various business disciplines to accomplish strategic goals. Presentation of the concept of global awareness, one of the fundamental pillars of global competency necessary in today’s business world.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 311",
+    "title": "Lavin Entrepreneur I Seminar",
+    "units": 1,
+    "department": "B",
+    "description": "Lavin entrepreneurs will be introduced to entrepreneurship as a potential path for future career development. Students will begin developing entrepreneurial competencies, professional networks, and be introduced to the basics of ideation, opportunity recognition, and business model development.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 312",
+    "title": "Lavin Entrepreneur II Seminar",
+    "units": 1,
+    "department": "B",
+    "description": "Lavin entrepreneurs will continue building their entrepreneurial competencies and mindset, utilizing entrepreneurship frameworks for business opportunity assessment, ideation, and feasibility analysis techniques in ventures, and how to interact and negotiate with strategic partners.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 311",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 323",
+    "title": "Fundamentals of Finance",
+    "units": 3,
+    "department": "B",
+    "description": "Objectives of financial management. Financing the business enterprise. Internal financial management. Introduction to the cost of capital, valuation, dividend policy, leverage, international finance, and the techniques of present value and its applications. Sources of capital.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 350",
+    "title": "Management and Organizational Behavior",
+    "units": 3,
+    "department": "B",
+    "description": "Human behavior at individual, interpersonal, and group levels including effect of organization structure on behavior. Emphasis on managerial roles, historical evolution of management, ethics, and behavior in multicultural contexts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 360",
+    "title": "Introduction to Operations and Supply Chain Management",
+    "units": 3,
+    "department": "B",
+    "description": "Managerial concepts and quantitative methods associated with the design, execution, and management of operations and supply chain systems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "STAT 119",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "STAT 250",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECON 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 120",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 370",
+    "title": "Marketing",
+    "units": 3,
+    "department": "B",
+    "description": "Function of marketing in organizations and society. Strategic marketing planning in domestic and global settings to include marketing concepts, consumer behavior, market research, product planning, pricing, distribution, promotion, and influence of the external environment on marketing decisions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 400",
+    "title": "Business Honors Seminar",
+    "units": 1,
+    "department": "B",
+    "description": "Current issues affecting local, national, and global business environments.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 401",
+    "title": "Business Internship",
+    "units": 1,
+    "department": "B",
+    "description": "Internships with business firms, non-profit organizations, or government agencies. Work done under joint supervision of intern organization and academic supervisor.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": "Not applicable for credit in the major.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 404",
+    "title": "Small Business Consulting",
+    "units": 3,
+    "department": "B",
+    "description": "Counseling of existing small businesses. Application of principles from all fields of business administration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 300",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 310",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 360",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIS 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 410",
+    "title": "Fowler Scholars Seminar II",
+    "units": 1,
+    "department": "B",
+    "description": "Understanding, applying and critiquing ethical business theories as well as examining personal branding and corresponding narrative. Leading both project teams and guest speaker topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "Not open to students with six units of credit in GEN S 400. Maximum six units of GEN S 400 and B A 410.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 411",
+    "title": "Lavin Entrepreneur III Seminar",
+    "units": 1,
+    "department": "B",
+    "description": "Lavin entrepreneurs will focus on implementing learned entrepreneurial competencies into refined business models, refining start-up opportunities through customer iteration and development. Understand data metrics, successful customer interaction, and pivoting the business model toward success.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 312",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 412",
+    "title": "Lavin Entrepreneur IV Seminar",
+    "units": 1,
+    "department": "B",
+    "description": "The final deliverable of this capstone course in presenting an iterated business model canvas to potential investors. Lavin entrepreneurs have the potential, knowledge, and tools to launch a company, bring their viable business opportunity to life.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 411",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 496",
+    "title": "Selected Topics in Business Administration",
+    "units": 1,
+    "department": "B",
+    "description": "Selected areas of concern in business administration.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "B",
+    "description": "A comprehensive and original study of a problem connected with business administration under the direction of one or more members of the Fowler College of Business staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "B A 600",
+    "title": "Contemporary Executive Toolkit",
+    "units": 3,
+    "department": "B",
+    "description": "Study of aspects of an executive’s work. Include frameworks, skills, and practices to improve effectiveness. Topics include managing oneself, building executive presence, balancing demands and time, managing difficult conversations, and demonstrating your uniqueness.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 626",
+    "title": "Business Economics",
+    "units": 3,
+    "department": "B",
+    "description": "Microeconomic and macroeconomic environments of business. Assessing and forecasting the impact of market structure, economic climate, and governmental policies on pricing, operations, and competitive strategy.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in Business Administration 653.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 627",
+    "title": "Marketing",
+    "units": 3,
+    "department": "B",
+    "description": "Role and function of marketing in the organization and society. Planning, implementation, and evaluation of marketing strategies and programs.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 628",
+    "title": "Operations and Supply Chain Management",
+    "units": 3,
+    "department": "B",
+    "description": "Managerial concepts and quantitative methods associated with the design, execution, and management of operations and supply chain systems.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 640",
+    "title": "Financial Reporting and Analysis",
+    "units": 2,
+    "department": "B",
+    "description": "Financial accounting in profit-directed organizations. Concepts, frameworks, terminology, and tools used to understand and analyze the financial consequences of business activities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": "Not open to students with credit in Business Administration 625.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 641",
+    "title": "Business Ethics and Corporate Responsibility",
+    "units": 1,
+    "department": "B",
+    "description": "Decision-making strategies; principles, rules, and values that ground ethical behavior in the world of business.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 642",
+    "title": "Statistical Analysis",
+    "units": 2,
+    "department": "B",
+    "description": "Applications of statistics for problem solving and managerial decision-making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 643",
+    "title": "Managerial Economics",
+    "units": 2,
+    "department": "B",
+    "description": "Microeconomic environments of business. Assessing and forecasting impacts of economic climate, governmental policy, and of market structure on competitive strategy, operations, and pricing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 644",
+    "title": "Operations and Supply Chain Management",
+    "units": 2,
+    "department": "B",
+    "description": "Managerial concepts and quantitative methods associated with the design, execution, and management of operations and supply chain systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 645",
+    "title": "Marketing",
+    "units": 1,
+    "department": "B",
+    "description": "Foundational concepts and development of marketing strategies and plans.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 649",
+    "title": "Business Analytics",
+    "units": 3,
+    "department": "B",
+    "description": "Business analytics techniques for predictive modeling and customer segmentation. Applications include churn management, business experiments, cluster segmentation, and market basket analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 642",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 670",
+    "title": "Managerial Accounting",
+    "units": 3,
+    "department": "B",
+    "description": "Budgeting, cost control, job costing, overhead allocation, and reporting.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 671",
+    "title": "Legal Environment of Business",
+    "units": 2,
+    "department": "B",
+    "description": "Sources of law. Procedures and ethics associated with implementation of law. Law of torts and intellectual property. Agency and employment, business organizations, contracts and sales, negotiable instruments and banking.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 672",
+    "title": "Managerial Marketing",
+    "units": 3,
+    "department": "B",
+    "description": "Identification, understanding, and resolution of marketing issues in organizations. Theoretical and quantitative tools within a decision-making framework to inform organizational strategic directions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 645",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 673",
+    "title": "Organizational Behavior and Leadership",
+    "units": 3,
+    "department": "B",
+    "description": "Study of individuals and groups within an organizational context. Topics include leadership, individual differences, organizational design, group processes and characteristics, organizational processes and practices; and influence of these on individual, group, and organizational effectiveness.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 674",
+    "title": "Financial Management",
+    "units": 3,
+    "department": "B",
+    "description": "Explore role of finance in a shareholder value based framework. Financial analysis and planning, investment, capital structure, financial markets, capital raising and capital disbursement decisions, valuation, and corporate restructuring.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Business Administration 665.",
+    "prerequisites": [
+      {
+        "prereq_code": "B A 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "B A 676",
+    "title": "Strategic Thinking",
+    "units": 3,
+    "department": "B",
+    "description": "How top managers should formulate and implement strategy across organizational levels and functions by thinking in a logical, holistic, and integrated manner.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 711",
+    "title": "Seminar in Contemporary Challenges",
+    "units": 1,
+    "department": "B",
+    "description": "Challenges facing managers of organizations in modern society: organizational, human resources, operational, economic, environmental, political, international, and technological issues.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 780",
+    "title": "Field Studies in Business",
+    "units": 1,
+    "department": "B",
+    "description": "Application of business concepts to real world organizations. Students work under supervision of a faculty member to perform a project utilizing theories and principles from previous business coursework.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 794",
+    "title": "International Business Development Practicum",
+    "units": 3,
+    "department": "B",
+    "description": "Strategic analysis of business opportunities. Problem definition, data collection, analysis, and prioritization of solution mechanisms. Preparation for comprehensive examination.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 795",
+    "title": "Business Consulting",
+    "units": 1,
+    "department": "B",
+    "description": "Strategic analysis of business problems in a consulting or simulation context. Problem definition analysis and prioritization of solution mechanisms. Culminating experience for students in the M.B.A. program under Plan B.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 796",
+    "title": "Integrative Business Analysis",
+    "units": 3,
+    "department": "B",
+    "description": "Integrative business analysis through cases and simulations. Preparation for the comprehensive examination for students in the M.B.A. program (Plan B).",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "B",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "B",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "B",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "B A 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "B",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

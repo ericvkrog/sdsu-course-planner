@@ -1,0 +1,83 @@
+{
+  "code": "GEOLOGICAL_SCIENCES_EMPHASIS_IN_GEOPHYSICS_B_S",
+  "name": "Geological Sciences, Emphasis in Geophysics, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12031",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12031",
+  "poid": "12031",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "GEOL 538",
+    "GEOL 550",
+    "GEOL 560",
+    "GEOL 580"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "GEOL 100",
+      "GEOL 101",
+      "OCEAN 100",
+      "GEOL 104",
+      "GEOL 205",
+      "GEOL 210",
+      "MATH 150",
+      "MATH 151",
+      "MATH 254",
+      "BIOL 100",
+      "CHEM 200",
+      "PHYS 195",
+      "PHYS 195L",
+      "PHYS 196",
+      "PHYS 196L",
+      "STAT 250",
+      "BIOL 215"
+    ],
+    "Major": [
+      "GEOL 300",
+      "GEOL 302",
+      "GEOL 310",
+      "GEOL 315",
+      "GEOL 323",
+      "GEOL 324",
+      "GEOL 336",
+      "GEOL 390",
+      "GEOL 406",
+      "GEOL 407",
+      "GEOL 490",
+      "GEOL 502"
+    ],
+    "Related Science and Engineering Electives": [
+      "GEOL 502",
+      "GEOL 508",
+      "CIV E 301",
+      "CIV E 462",
+      "E E 340",
+      "M E 304",
+      "PHYS 350",
+      "PHYS 400A"
+    ]
+  },
+  "default_electives": [
+    "GEOL 100",
+    "OCEAN 100",
+    "BIOL 100",
+    "GEOL 101",
+    "GEOL 104",
+    "MATH 150",
+    "MATH 151",
+    "PHYS 195",
+    "PHYS 195L",
+    "PHYS 196",
+    "PHYS 196L",
+    "CHEM 200",
+    "GEOL 205",
+    "GEOL 210",
+    "GEOL 300",
+    "CIV E 301"
+  ],
+  "unresolved_codes": []
+}

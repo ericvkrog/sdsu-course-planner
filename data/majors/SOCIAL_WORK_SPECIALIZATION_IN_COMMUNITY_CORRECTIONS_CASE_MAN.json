@@ -1,0 +1,54 @@
+{
+  "code": "SOCIAL_WORK_SPECIALIZATION_IN_COMMUNITY_CORRECTIONS_CASE_MAN",
+  "name": "Social Work, Specialization in Community Corrections Case Management, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12194",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12194",
+  "poid": "12194",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "SWORK 350",
+    "SWORK 360",
+    "SWORK 361",
+    "SWORK 370",
+    "SWORK 381",
+    "SWORK 382",
+    "SWORK 391",
+    "SWORK 483A",
+    "SWORK 483B",
+    "SWORK 489A",
+    "SWORK 489B",
+    "CJ 300",
+    "CJ 321",
+    "CJ 330",
+    "CJ 531",
+    "CJ 543",
+    "CJ 596",
+    "AFRAS 380"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "SWORK 110",
+      "SWORK 120",
+      "BIOL 100",
+      "BIOL 101",
+      "BIOL 204",
+      "BIOL 261",
+      "ECON 101",
+      "ECON 102",
+      "PSY 101",
+      "SOC 101",
+      "PSY 280",
+      "SOC 201",
+      "STAT 250"
+    ]
+  },
+  "default_electives": [
+    "BIOL 100"
+  ],
+  "unresolved_codes": []
+}

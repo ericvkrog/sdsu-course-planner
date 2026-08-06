@@ -1,0 +1,227 @@
+[
+  {
+    "course_code": "C P 630",
+    "title": "Seminar in Urban Planning Foundations",
+    "units": 3,
+    "department": "C",
+    "description": "Fundamentals to include aesthetics, economic development, environmental planning, general plans, growth, historic planning, history, housing, institutional setting, land use controls, legal dimensions, planning implementation, and transportation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 635",
+    "title": "Seminar in Housing Policy and Community Development",
+    "units": 3,
+    "department": "C",
+    "description": "Study, definition, and analysis of housing needs and problems. Public policies and programs addressing the availability and affordability of housing, and equitable economic development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 640",
+    "title": "Seminar in Planning Theory and History",
+    "units": 3,
+    "department": "C",
+    "description": "Comprehensive analysis of the historical and theoretical forces that have shaped urban planning in the United States.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 660",
+    "title": "City Planning and Geographic Information Systems Applications",
+    "units": 3,
+    "department": "C",
+    "description": "ArcGIS mapping software extensively utilized in city planning. Proficiency necessary to use software in professional context for work required by public and/or private sector planning employment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 675",
+    "title": "Seminar in Land Use and Environmental Law",
+    "units": 3,
+    "department": "C",
+    "description": "Fundamental concepts underlying laws of land use and environmental planning to include California Environmental Quality Act, constitutional issues, general plans, initiatives and referenda, legal research, National Environmental Policy Act, regional planning, takings, zoning, and other environmental topics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 690",
+    "title": "Seminar in Land Use Planning Principles and Techniques",
+    "units": 3,
+    "department": "C",
+    "description": "Land-use and physical planning principles and techniques at the regional, community, specific and subdivision planning levels.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "C P 660",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "C P 695",
+    "title": "Introductory Urban Design Studio",
+    "units": 3,
+    "department": "C",
+    "description": "Acquisition of computer graphics skills to successfully communicate urban design ideas and plans. Focus on laboratory work and the production of planning related graphic pieces.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 700",
+    "title": "Urban Design and Land Use Planning Studio",
+    "units": 3,
+    "department": "C",
+    "description": "Preparation of land-use plans and planning reports at the regional, community and subdivision levels.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "C P 690",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "C P 695",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "C P 710",
+    "title": "Seminar in Urban Design Research",
+    "units": 3,
+    "department": "C",
+    "description": "Perspectives and methodologies of contemporary urban design and its contribution toward improving the quality of the physical, social and economic environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 730",
+    "title": "Seminar in Transportation Planning and Land Use",
+    "units": 3,
+    "department": "C",
+    "description": "Issues, techniques and practices in urban transportation planning with general emphasis on interrelations between transportation and land use planning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 796",
+    "title": "Internship in Urban Planning",
+    "units": 3,
+    "department": "C",
+    "description": "Students will be assigned to various government agencies and will work under joint supervision of agency heads and the course instructor. Participation in staff and internship conferences.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 797",
+    "title": "Research in Urban Planning",
+    "units": 3,
+    "department": "C",
+    "description": "Research in one of the areas of urban planning.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "C",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "C",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "C",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "C P 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "C",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

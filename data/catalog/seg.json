@@ -1,0 +1,47 @@
+[
+  {
+    "course_code": "SEG 360",
+    "title": "Concepts in Social Equity and Governance",
+    "units": 3,
+    "department": "SEG",
+    "description": "Introduce the structural features of oppression that exist within our public and private institutions. Analyze the impact of oppression and the socialization patterns and attributes of groups within these oppressive systems. Develop awareness, knowledge, and processes to examine injustice issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SEG 362",
+    "title": "Research Methods for Social Equity and Governance",
+    "units": 3,
+    "department": "SEG",
+    "description": "This course provides students with a working knowledge of qualitative and quantitative methodological approaches and how these research methods can be utilized for identifying and critically engaging social equity issues and forms of discrimination and oppression.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SEG 364",
+    "title": "Pursuing Social Equity through Public Policy and Government Institutions",
+    "units": 3,
+    "department": "SEG",
+    "description": "Struggle for social equity in public institutions. Diversity in government as tool to counteract structural and institutional forms of discrimination. Responsibility of government leaders, elected officials, and public employees to develop and manage a culture of diversity, equity, and inclusiveness.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

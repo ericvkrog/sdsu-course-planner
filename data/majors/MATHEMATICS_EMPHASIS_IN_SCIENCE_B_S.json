@@ -1,0 +1,69 @@
+{
+  "code": "MATHEMATICS_EMPHASIS_IN_SCIENCE_B_S",
+  "name": "Mathematics, Emphasis in Science, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12127",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12127",
+  "poid": "12127",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "MATH 330",
+    "MATH 531",
+    "MATH 537",
+    "MATH 542",
+    "MATH 340",
+    "MATH 524",
+    "MATH 543",
+    "MATH 320",
+    "MATH 525",
+    "MATH 530",
+    "MATH 532"
+  ],
+  "elective_areas": {
+    "Impacted Program": [
+      "MATH 150",
+      "MATH 151",
+      "MATH 237",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254",
+      "STAT 250",
+      "CS 150",
+      "CS 150L",
+      "CS 200",
+      "STAT 200"
+    ],
+    "Preparation for the Major": [
+      "MATH 150",
+      "MATH 151",
+      "MATH 237",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254",
+      "STAT 250",
+      "CS 150",
+      "CS 150L",
+      "CS 200",
+      "STAT 200"
+    ],
+    "Requirements": [
+      "MATH 303",
+      "MATH 312",
+      "MATH 313",
+      "MATH 342A",
+      "MATH 342B",
+      "MATH 413",
+      "MATH 414"
+    ]
+  },
+  "default_electives": [
+    "MATH 150",
+    "CS 150",
+    "MATH 303"
+  ],
+  "unresolved_codes": []
+}

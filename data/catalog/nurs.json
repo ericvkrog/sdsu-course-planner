@@ -1,0 +1,1404 @@
+[
+  {
+    "course_code": "NURS 202",
+    "title": "Client Assessment",
+    "units": 3,
+    "department": "NURS",
+    "description": "Determining and measuring variables relevant to assessment of psychosocial and physical functioning.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 206",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 206",
+    "title": "Fundamentals of Nursing Practice",
+    "units": 5,
+    "department": "NURS",
+    "description": "Basic nursing skills and integration of diagnosis, planning, and implementation of nursing care. Application of nursing process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 208",
+    "title": "Pathophysiology",
+    "units": 3,
+    "department": "NURS",
+    "description": "Pathophysiologic processes as they apply to nursing care of patients.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 261",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 219",
+    "title": "Information Management for Professional Relationships",
+    "units": 2,
+    "department": "NURS",
+    "description": "Information management in patient care, research, evidence-based practice, outcomes and practice management. Patient/family-provider communication, privacy, security, and ethical decision making on patient care, research, and quality management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 221",
+    "title": "Professional Formation A",
+    "units": 1,
+    "department": "NURS",
+    "description": "History of health care and changing roles of nurses in relation to other health professions. Social, cultural, regulatory agencies, and policy affecting patient care.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 253",
+    "title": "Stress and Human Health",
+    "units": 3,
+    "department": "NURS",
+    "description": "Impacts and potential sources of stress. Methods to manage, prevent, and relieve stress. Relationships between stress and disease.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "NURS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 300",
+    "title": "Nursing Care of the Acute and Chronically Ill Adult and Gerontologic Patient I",
+    "units": 8,
+    "department": "NURS",
+    "description": "Psychological, social, and physiologic stressors affecting acute and chronic illness and health of adults. Appropriate nursing care and interventions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": "Not open to students with credit in Nursing 252.",
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 206",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 208",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 304",
+    "title": "Clinical Pharmacology in Nursing Practice",
+    "units": 2,
+    "department": "NURS",
+    "description": "Major classifications of drugs; pharmacological and toxicological activity; clinical applications. Role of nurse in assessment, intervention, and patient education.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "BIOL 212",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CHEM 102",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "BIOL 261",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 307W",
+    "title": "Research, Evidence Based Practice, and Writing for Nurses",
+    "units": 3,
+    "department": "NURS",
+    "description": "Development of critical reading and writing skills by exploring how research and evidence-based practice contributes to quality and meaning in nursing knowledge development and practice.\u00a0Composition of presentations and writing for a range of nursing audiences, purposes, and settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in NURS 307. Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr.\u00a0Upper-division\u00a0courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who\u00a0has completed fewer than\u00a060 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 312",
+    "title": "Concepts in Professional Nursing",
+    "units": 3,
+    "department": "NURS",
+    "description": "Concepts in professional nursing. Differentiation of professional practice with emphasis on stress theory, therapeutic communication, values clarification, and legal aspects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to generic students.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 316",
+    "title": "Psychiatric-Mental Health Nursing",
+    "units": 5,
+    "department": "NURS",
+    "description": "Theory and clinical laboratory in application of nursing process to care of clients evidencing maladaptive responses to psychosocial stressors. Presentation of theories describing and explaining maladaptive behaviors and application of nursing interventions in a variety of treatment modalities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 320",
+    "title": "Applied Health Assessment Across the Lifespan for the RN to BS",
+    "units": 4,
+    "department": "NURS",
+    "description": "Expands the registered nurse\u2019s ability to measure, interpret and apply the nursing process for promotion of better physical, physiologic, and psychosocial functioning. Includes the clinical presentation of disease/disability and evidence-based practice guidelines for health promotion and disease management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in NURS 501\u00a0and NURS 501L.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 321",
+    "title": "Professional Formation B",
+    "units": 1,
+    "department": "NURS",
+    "description": "Virtue ethics, California Nurse Practice Act, and American Nurses Association Code of Ethics. Societal expectations, obligations, professional requirements, legal decisions, and clinical realities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 221",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 350",
+    "title": "Women\u2019s Health Across the Lifespan",
+    "units": 3,
+    "department": "NURS",
+    "description": "Explores health issues women face across their lives. Focus on developing knowledgeable users of research on causes of and risk factors for health problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not applicable to nursing majors.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 351",
+    "title": "Exploring Healthcare in America",
+    "units": 3,
+    "department": "NURS",
+    "description": "Evolution of federal and state programs and private insurance. Roles of consumer decision-making, corporate influence, and lobbying on health service use. Ethical and social imperatives.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 354",
+    "title": "Nursing Care of the Childbearing Family",
+    "units": 5,
+    "department": "NURS",
+    "description": "Family-centered focus encompassing adaptive and maladaptive responses to stressors in the maternity cycle and their effect on the neonate. Clinical laboratory focuses on the application of nursing theory and process in providing preventive, supportive, and restorative care to mothers and neonates.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 206",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 208",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 356",
+    "title": "Pediatric Nursing",
+    "units": 5,
+    "department": "NURS",
+    "description": "Stressors affecting the child on health-illness continuum. Nursing theory and laboratory focuses on application of nursing process in providing preventive, supportive and restorative therapeutic modalities in a variety of settings. Emphasis on the child in the family and the necessary intervention to promote adaptation of the child to attain, maintain or regain an optimum level of health.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 5,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 206",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 208",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 304",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 397",
+    "title": "Building Success: Nursing Skills for Professional Practice",
+    "units": 1,
+    "department": "NURS",
+    "description": "Through a combination of hands-on practice, one-on-one faculty mentoring, and personalized action plans, nursing students will develop a personalized toolkit to help them excel in both clinical practice and academic pursuits.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 401",
+    "title": "Nursing Care of the Acute and Chronically Ill Adult and Gerontologic Patient II",
+    "units": 6,
+    "department": "NURS",
+    "description": "Study of the theory and clinical laboratory application of the nursing process in the care of adults across the lifespan with acute and chronic health conditions resulting in complex or high-acuity health problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 416",
+    "title": "Community Health Nursing",
+    "units": 5,
+    "department": "NURS",
+    "description": "Assessment and utilization of community health care concepts and delivery with an emphasis on promotion of health, prevention of illness, and individual and group teaching techniques. Consideration is given to cultural aspects of health care.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "The 2 unit lab component of this course requires 90 hours of direct patient care hours. Not open after credit in NURS 415 and NURS 415L.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 421",
+    "title": "Professional Formation C",
+    "units": 1,
+    "department": "NURS",
+    "description": "Current and emerging roles in nursing leadership. Practice environments, expectations of society in these environments, role of health policy and advocacy in leadership, methods to remain current in professional practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 321",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 437",
+    "title": "Care Management of People with Complex Health Needs",
+    "units": 4,
+    "department": "NURS",
+    "description": "Theory and clinical practice in the care management of people of all ages who have complex health concerns that require coordination of care across disciplines and transitions between care settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 444",
+    "title": "Advanced Care of the Acute/Chronically Ill Adult and Gerontological Patient for the RN to BS",
+    "units": 4,
+    "department": "NURS",
+    "description": "Theory and simulated clinical application of advanced evidence-based nursing care of adults of all ages who are experiencing acute and chronic health concerns leading to complex and high acuity health problems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in NURS 400/400L.",
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 320",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 459",
+    "title": "Nursing Leadership and Management",
+    "units": 4,
+    "department": "NURS",
+    "description": "Theories and functions of nursing management and leadership within health care systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "3 units of lecture per week & 45 hours of clinical lab across the semester",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "NURS",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 498",
+    "title": "Cooperative Education Supervised Practice",
+    "units": 1,
+    "department": "NURS",
+    "description": "Supervised practice in application of previously learned knowledge and skills in selected clinical agencies. Professional interaction with other health care workers to strengthen professional nursing identity. Work under supervision of registered nurse preceptor and faculty coordinator.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 20,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "NURS",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 300",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 501",
+    "title": "Advanced Health Assessment",
+    "units": 3,
+    "department": "NURS",
+    "description": "Expands knowledge and skills in physical and psychosocial assessment, differentiation of normal and pathological findings, and health promotion strategies for adult and geriatric populations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 501L",
+    "title": "Advanced Health Assessment Laboratory",
+    "units": 1,
+    "department": "NURS",
+    "description": "Laboratory experience in advanced health assessment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 501",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 596",
+    "title": "Special Topics in Nursing",
+    "units": 1,
+    "department": "NURS",
+    "description": "Selected topics in the practice of nursing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 604",
+    "title": "Theoretical and Research Basis of Advanced Nursing Practice",
+    "units": 3,
+    "department": "NURS",
+    "description": "Integration, evaluation, and use of theory and quantitative & qualitative research analysis, design, ethics, and measurement are covered. Development of scholarly skills for healthcare research and application for practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 608",
+    "title": "Issues and Policies in Healthcare",
+    "units": 3,
+    "department": "NURS",
+    "description": "Explores evolving health care issues and policies through analysis of ethical and political perspectives. The responsibility of healthcare professionals as advocates for patients, populations, and self.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 610",
+    "title": "Advanced Pathophysiology for Nursing Practice",
+    "units": 3,
+    "department": "NURS",
+    "description": "Concepts of advanced pathophysiologic alterations associated with acute and chronic illnesses across the lifespan as a basis for disease prevention, illness, and management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 620",
+    "title": "Foundations of Nursing Leadership",
+    "units": 3,
+    "department": "NURS",
+    "description": "Leadership concepts and theories with a focus on change, communication, innovation and building collaborative relationships across nursing and organizational systems. The development of self for professional leadership roles.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 622",
+    "title": "Process Improvement and Evidence Based Practice in Healthcare",
+    "units": 3,
+    "department": "NURS",
+    "description": "Theory, methods, and tools of process improvement and evidence-based practice within healthcare organizations. Accreditation standards, professional standards, and organizational assessment programs are applied to healthcare settings. Performance\u00a0 excellence within systems thinking.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 624",
+    "title": "Healthcare Systems and Personnel Management",
+    "units": 3,
+    "department": "NURS",
+    "description": "Concepts, strategies, and tactics related to personnel issues in healthcare organizations, including recruiting, hiring, orienting, retaining, evaluating, coaching, counseling, and terminating employees. The development of relationships and trust across the healthcare system.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 658",
+    "title": "Clinical Pharmacology for Advanced Practice Nursing",
+    "units": 3,
+    "department": "NURS",
+    "description": "Knowledge and skills in pharmacology for advanced practice nursing in clinical settings. Emphasis on factors affecting drug therapy, including selection. Parameters for monitoring drug effectiveness. Rationale for continuing, modifying or discontinuing pharmacologic therapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 670",
+    "title": "School Nursing Management Practices",
+    "units": 3,
+    "department": "NURS",
+    "description": "Management of school health services program; designed for school nurse with emphasis on professional and organizational systems.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 672",
+    "title": "Primary Health Care of the School Aged Child",
+    "units": 3,
+    "department": "NURS",
+    "description": "Primary health care of the child and adolescent with emphasis on common health problems, chronic illness, drugs, behavioral problems, and the battered child.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 501L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 684",
+    "title": "Clinical Information Systems for Healthcare Practice",
+    "units": 3,
+    "department": "NURS",
+    "description": "Clinical information systems and information management theory and tools within healthcare organizations. The role of clinicians in a digitized healthcare environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 696",
+    "title": "Seminar in Selected Topics in Nursing",
+    "units": 1,
+    "department": "NURS",
+    "description": "Intensive study in specific areas of nursing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 701",
+    "title": "Advanced Health Assessment",
+    "units": 3,
+    "department": "NURS",
+    "description": "Expands knowledge and skills in physical and psychosocial assessment, differentiation of normal and pathological findings, and health promotion strategies for populations across the lifespan.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 701L",
+    "title": "Advanced Health Assessment - Lab",
+    "units": 2,
+    "department": "NURS",
+    "description": "Laboratory experience in advanced health assessment for populations across the lifespan.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 724",
+    "title": "Healthcare Leadership Practicum",
+    "units": 3,
+    "department": "NURS",
+    "description": "Observation and guided administrative experience specific to the role and function of the healthcare leader. The application of leadership concepts and principles within the contexts of healthcare.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 725",
+    "title": "Healthcare Finance",
+    "units": 3,
+    "department": "NURS",
+    "description": "Healthcare budget planning, economics, financial analysis, and management skills in the current healthcare systems. The development of business analytical skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 726",
+    "title": "Advanced Healthcare Leadership Practicum",
+    "units": 3,
+    "department": "NURS",
+    "description": "Advanced observation and guided administrative experience specific to the role and function of the healthcare leader. The application of advanced leadership principles and concepts within the contexts of healthcare.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 724",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 727",
+    "title": "Integrated Pathophysiology, Pharmacology and Clinical Assessment for Nursing Leadership",
+    "units": 3,
+    "department": "NURS",
+    "description": "Designed to enhance nurse leaders\u2019 understanding of pathophysiology, pharmacology and clinical assessment within the context of the healthcare delivery system, support informed decision making, improve patient care and enhance interdisciplinary collaboration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 741",
+    "title": "Integrated Women\u2019s Health/Nurse-Midwifery Clinical Practicum",
+    "units": 2,
+    "department": "NURS",
+    "description": "Supervised laboratory and clinical experiences (off campus) providing obstetrical, intrapartum, newborn, gynecological, primary and well women care for adolescent and adult women throughout the lifespan in diverse clinical settings.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 751A",
+    "title": "Clinical Nurse Specialist for Adult and Geriatric Populations in Acute and Critical Care- Patient Sphere",
+    "units": 3,
+    "department": "NURS",
+    "description": "Advanced practice nursing role as a Clinical Nurse Specialist (CNS) in the acute/critical care settings. Impact of CNS practice with emphasis on research-based interventions, expanding technology on direct patient outcomes within the patient sphere of the CNS role.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 501L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 604",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 608",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 622",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 658",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 684",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 753A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 751B",
+    "title": "Clinical Nurse Specialist for Adult and Geriatric Populations in Acute and Critical Care - Nurse and Organization Sphere",
+    "units": 3,
+    "department": "NURS",
+    "description": "Advanced practice nursing role as a Clinical Nurse Specialist (CNS) in acute/critical care settings. Impact of CNS practice with emphasis on research-based interventions, expanding technology on direct patient outcomes within the patient sphere of the CNS role.",
+    "grading_method": "LTR - Lett",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 751A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 753A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 753B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 753A",
+    "title": "Clinical Nurse Specialist for Adult and Geriatric Populations in Acute and Critical Care Practicum I",
+    "units": 3,
+    "department": "NURS",
+    "description": "Supervised clinical practicum focused on the advanced practice nursing role as an Adult-Gerontology Clinical Nurse Specialist (CNS) in acute/critical care settings. Impact of the CNS on patient outcomes within the three spheres of CNS practice: Patient, Nurse and Organization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 501",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 501L",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 604",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 608",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 610",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 622",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 658",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 684",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 751A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 753B",
+    "title": "Clinical Nurse Specialist for Adult and Geriatric Populations in Acute and Critical Care Practicum II",
+    "units": 6,
+    "department": "NURS",
+    "description": "Clinical experiences in the advanced practice nursing role developing independent/collaborative\u00a0practice as an Adult-Gerontology Clinical Nurse Specialist (CNS). Impact of the CNS on patient outcomes within the CNS practice: Patient, Nurse and Organization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 795",
+    "title": "Culminating Nurse Leadership Evidence-Based Practice Project Seminar",
+    "units": 2,
+    "department": "NURS",
+    "description": "Designed to prepare nurse leaders with skills required to work in inter-professional teams to plan, design, implement, evaluate and disseminate an evidence-based practice project and apply evidence-based leadership knowledge, skills and attitudes to clinical care systems.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "NURS 620",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "NURS 622",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "NURS 797",
+    "title": "Research",
+    "units": 1,
+    "department": "NURS",
+    "description": "Independent research in a specialized subject.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "NURS",
+    "description": "Independent study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "NURS",
+    "description": "Preparation of a project or thesis for the master\u2019s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "NURS",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A, in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "NURS",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master\u2019s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 800",
+    "title": "Implementation Science",
+    "units": 3,
+    "department": "NURS",
+    "description": "Using implementation science frameworks, students will engage with various techniques to systematically design, implement, and evaluate scholarly approaches to evidence-based practice for purpose of integrating these skills into their own evidence-based project proposal.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 802",
+    "title": "Healthcare Quality and Program Evaluation",
+    "units": 3,
+    "department": "NURS",
+    "description": "Prepares the learner to design and implement nursing quality improvement programs. Focus will be on the principles of quality improvement program design and evaluation in complex healthcare environments utilizing quantitative patient safety measures and operational efficiency outcomes.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 803",
+    "title": "Nursing Curriculum Development in Academia and Practice",
+    "units": 3,
+    "department": "NURS",
+    "description": "Provides nursing professionals skills to effectively educate future nurses. Includes teaching and learning theories, emphasizing generational learning preferences and how they influence learning. Creative teaching methods will be presented that focus on enhancing adult learning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 804",
+    "title": "Pediatrics for the Family Nurse Practitioner: Theory",
+    "units": 3,
+    "department": "NURS",
+    "description": "Prepares the student to utilize evidence-based clinical practice guidelines and standards to manage acute and chronic health problems in pediatric populations. Emphasis on the development of the Family Nurse Practitioner role and implementation of care with pediatric populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 805",
+    "title": "Pediatrics for the Family Nurse Practitioner: Practicum",
+    "units": 2,
+    "department": "NURS",
+    "description": "Supervised advanced practice clinical experiences in the family nurse practitioner role while providing primary/specialized care to pediatric populations in diverse out-patient and acute care settings. Emphasis is on care delivery, role development, interdisciplinary collaboration, and impact on the community.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 806",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Mental Health Assessment Across the Lifespan",
+    "units": 3,
+    "department": "NURS",
+    "description": "Establishes a foundation for the PMH-NP to provide comprehensive psychiatric assessments across the continuum. Topics include interviewing, assessment, diagnoses, and presentation of findings. Emphasis on bio-psycho-social-cultural background, substance use, safety and violence risks, and trauma history.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 807",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Neuroscience",
+    "units": 2,
+    "department": "NURS",
+    "description": "Concepts in Neuroscience relevant to the PMH-NP including neuroanatomy, neurophysiology, neurochemistry and its application to psychiatric diagnoses and psychopharmacology. Topics include scientific knowledge of human behavior and pathophysiology as they relate to neuromodulators, genomics, and neuroimaging assessment and diagnostic procedures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 808",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Clinical Psychopharmacology Across the Lifespan",
+    "units": 3,
+    "department": "NURS",
+    "description": "Principles of psychopharmacological treatment relevant to the PMHNP. Emphasis on clinical decisions regarding drug selection, parameters of effectiveness, and rationale for continuing, modifying, or discontinuing therapy. Considerations in psychotropic agents in specialty populations, legal and regulatory requirements related to practice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 809",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Theory Across the Lifespan I",
+    "units": 3,
+    "department": "NURS",
+    "description": "Focuses on theoretical content and clinical practice guidelines for assessment and treatment of psychiatric disorders across the lifespan. Emphasis on therapeutic communication principles, techniques, and ethics, as well as health promotion and disease, promoting recovery and resilience, and reducing stigma.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 810",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Theory Across the Lifespan II",
+    "units": 3,
+    "department": "NURS",
+    "description": "Focuses on theoretical content/clinical practice guidelines for assessment and treatment of chronic/unstable mental health problems across the lifespan. Emphasis on individual psychotherapy, crisis management, and cultural competency. Includes key concepts of psychodynamic and cognitive behavioral therapeutic approaches.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 811",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Theory Across the Lifespan III",
+    "units": 3,
+    "department": "NURS",
+    "description": "Focuses on theoretical content and clinical practice guidelines for complex case conceptualization and treatment planning. Emphasis on socialization into the PMHNP role at the doctoral-level, and interprofessional treatment of opioid use disorders. Includes key concepts of group and family therapy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 812",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Practicum I-A",
+    "units": 5,
+    "department": "NURS",
+    "description": "Supervised clinical experiences allowing synthesis of advanced clinical competencies in the PMHNP role, including psychiatric assessment, diagnosing, case conceptualization across the lifespan. Develop communication skills, including motivation interviewing techniques and apply advanced theoretical knowledge within an interprofessional team.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 813",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Practicum I-B",
+    "units": 3,
+    "department": "NURS",
+    "description": "Supervised clinical experiences allowing synthesis of advanced clinical competencies in the PMHNP role, focusing on complex treatment planning across the lifespan. Mastery of communication skills and ongoing opportunities to apply advanced theoretical knowledge within an interprofessional team.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 814",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Practicum II",
+    "units": 5,
+    "department": "NURS",
+    "description": "Supervised clinical experiences allowing synthesis of advanced clinical competencies in PMHNP role within diverse clinical settings while applying doctoral-level thinking and advanced practice skills. Development of population-specific expertise and application of theoretical knowledge of individual psychotherapeutic approaches.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 815",
+    "title": "Psychiatric Mental Health Nurse Practitioner: Practicum III",
+    "units": 4,
+    "department": "NURS",
+    "description": "Supervised clinical experiences allowing synthesis of advanced clinical competencies in PMHNP role within diverse clinical settings while applying doctoral-level thinking and advanced practice skills. Development of population specific expertise and application of theoretical knowledge of group and family psychotherapeutic approaches.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 816",
+    "title": "Epidemiology, Population, and Global Health",
+    "units": 3,
+    "department": "NURS",
+    "description": "Examination of how social determinants of health impact health promotion and disease prevention behaviors in specific populations while identifying health risk factors. Construction of why epidemiology is the cornerstone of public health through application of descriptive, analytic, and experimental analysis.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 817",
+    "title": "Advanced Practice Nursing for Adult and Geriatric Populations: Nurse Practitioner Primary Care I",
+    "units": 3,
+    "department": "NURS",
+    "description": "Role development of the doctorally prepared nurse practitioner including health promotion, prevention, and treatment of acute and chronic illnesses in primary care and specialized settings. Application of evidence-based practice guidelines to patient populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 818",
+    "title": "Advanced Practice Nursing for Adult and Geriatric Populations: Primary Care Practicum I",
+    "units": 6,
+    "department": "NURS",
+    "description": "Supervised clinical experiences in diverse clinical settings providing primary and specialized care as an advanced practice nurse. Comprehensive understanding of the nurse practitioner\u2019s full scope of practice and professional responsibilities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 819",
+    "title": "Advanced Practice Nursing for Adult and Geriatric Populations: Nurse Practitioner Primary Care II",
+    "units": 3,
+    "department": "NURS",
+    "description": "Advanced role development for the doctorally prepared nurse practitioner in health promotion and management of acute and chronic illness. The integration of clinical expertise in managing complex comprehensive health of adult and geriatric populations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 820",
+    "title": "Advanced Practice Nursing for Adult and Geriatric Populations: Primary Care Practicum II",
+    "units": 5,
+    "department": "NURS",
+    "description": "Supervised clinical experiences in diverse healthcare settings, delivering primary and specialized care to varied populations. Provide integrative, patient-centered care within an interprofessional team environment.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 821",
+    "title": "Advanced Practice Nursing for Adult and Geriatric Populations: Primary Care Practicum III",
+    "units": 3,
+    "department": "NURS",
+    "description": "Independent clinical experiences in the role of a doctorally prepared nurse practitioner across diverse healthcare settings. Demonstrated expertise as a clinical nursing leader within interprofessional teams to deliver high-quality care.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 824",
+    "title": "Global Health Nursing Practicum",
+    "units": 1,
+    "department": "NURS",
+    "description": "Supervised clinical experience in community-based health. Focus is on cultural awareness when engaging with diverse populations in a global health setting. Emphasis is placed on understanding health disparities, social determinants of health, and collaborating with local healthcare providers and leaders.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "This course is an International Experience. Students will travel to Guatemala with the Non-Governmental Organization (NGO) Nursing Heart to participate in global partnerships. As graduate school nurse practitioner candidates, students perform field work and provide healthcare and wellness screenings to local populations.  Contact the Department for information about the extra costs associated with travel.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 825",
+    "title": "Instructional Theories and Program Development in Nursing",
+    "units": 3,
+    "department": "NURS",
+    "description": "Provides professionals in advanced practice skills in the application of educational theories to curricular and program development. Creates the foundation for the development of intellectual and comprehensive educational programs. Content includes the need for continuous program development and evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 826",
+    "title": "Clinical Instruction Strategies in Nursing",
+    "units": 3,
+    "department": "NURS",
+    "description": "Provides teaching strategies towards professional development of nurse educators in the clinical environment, classroom, and simulation settings. Content includes developing communication skills, evaluation tools, and effective debriefing strategies. Students apply experiential learning towards further development of their clinical knowledge.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 855",
+    "title": "Advanced Practice Nursing for Adult & Geriatric Populations: Clinical Nurse Specialist III - Organizational Sphere",
+    "units": 3,
+    "department": "NURS",
+    "description": "Prepares the learner for the role of the Clinical Nurse Specialist as a change agent in healthcare organizations.  Implementation of data driven, evidence-based healthcare innovation to advance the organization and enhance the health of adult and geriatric patients.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 856",
+    "title": "Advanced Practice Nursing for Adult & Geriatric Populations: Clinical Nurse Specialist Practicum III",
+    "units": 6,
+    "department": "NURS",
+    "description": "Clinical experiences in the advanced practice nursing role developing independent/collaborative practice as an Adult-Gerontology Clinical Nurse Specialist (CNS). Impact of the CNS on patient outcomes within the CNS practice: Patient, Nurse and Organization.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 858",
+    "title": "Advanced Practice Nursing for Adult & Geriatric Populations: Nurse Practitioner Primary Care III",
+    "units": 3,
+    "department": "NURS",
+    "description": "Focuses on the advanced clinical and professional roles for the Nurse Practitioner across the continuum including the management of complex health problems. Emphasis on socialization into the nurse practitioner role at the doctoral-level.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "NURS 895",
+    "title": "Doctor of Nursing Practice Project/Clinical Practice",
+    "units": 1,
+    "department": "NURS",
+    "description": "DNP students will demonstrate advanced levels of clinical practice working within interprofessional teams to plan, design, implement, evaluate and disseminate a comprehensive evidence-based practice project and provide compassionate care to individuals, communities, or populations.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

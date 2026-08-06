@@ -1,0 +1,193 @@
+[
+  {
+    "course_code": "MIL S 101",
+    "title": "Leadership and Personal Development",
+    "units": 3,
+    "department": "MIL",
+    "description": "Structure, organization, and missions of US Army. Preparation and development for officer status.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 102",
+    "title": "Introduction to Tactical Leadership",
+    "units": 3,
+    "department": "MIL",
+    "description": "Officer leadership, development, and functions. Emphasizing command responsibilities for basic foundation of military fundamentals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 110",
+    "title": "United States Military History",
+    "units": 3,
+    "department": "MIL",
+    "description": "Analyze decisions made by American military leaders. Military engagements from colonial period through current operating environment. Principles of war and reviews of decisions affecting outcomes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 201",
+    "title": "Innovative Team Leadership",
+    "units": 3,
+    "department": "MIL",
+    "description": "Scientific approach to leadership theory and its applicability to military settings through study of human behavior and leadership models at individual and group levels using simulations, case studies, and diagnostic instruments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 202",
+    "title": "Foundations of Tactical Leadership",
+    "units": 3,
+    "department": "MIL",
+    "description": "Leadership at organizational level with application to military settings with emphasis on developing leader skills and examination of theories and concepts of civil-military relations, using simulations, case studies, and diagnostic instruments.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MIL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 299",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MIL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 301",
+    "title": "Adaptive Tactical Leadership",
+    "units": 3,
+    "department": "MIL",
+    "description": "Techniques and skills required of military leaders. Military methods of instruction, review of essential map reading skills and case studies of military leadership techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 302",
+    "title": "Leadership in Changing Environments",
+    "units": 3,
+    "department": "MIL",
+    "description": "Current tactical doctrine and military techniques of planning and coordination required to apply doctrine to small unit operations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 401",
+    "title": "Developing Adaptive Leaders",
+    "units": 3,
+    "department": "MIL",
+    "description": "Leadership and management problems encountered in a midlevel sized organization. Role of junior officer. Prepares senior cadets for positions as leaders and managers of resources at platoon/company level.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIL S 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIL S 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIL S 402",
+    "title": "Leadership in a Complex World",
+    "units": 3,
+    "department": "MIL",
+    "description": "Military justice system as it has evolved from international law principles and established national security policies. History of military law, philosophy and structure of system to include court-martial ethics and decision-making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "MIL S 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MIL S 302",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "MIL S 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "MIL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See Class Schedule for specific content. Limit of nine units of any combination of 296, 496, 596 courses applicable to a bachelor’s degree.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "MIL S 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "MIL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

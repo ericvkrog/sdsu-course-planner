@@ -1,0 +1,1042 @@
+[
+  {
+    "course_code": "PHIL 100",
+    "title": "Introduction to Philosophy: Global Philosophies",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Introduction to African, indigenous American, Asian, European, and Hispanic philosophies. Exploration of how diverse philosophies across the globe help address crises like climate change, social injustice, and military conflicts or are reflected in social, economic, and political institutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 101",
+    "title": "Introduction to Philosophy: Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical inquiry, with emphasis on problems of moral value. Students are encouraged to think independently and formulate their own tentative conclusions concerning a variety of vital contemporary issues facing individuals and society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 102",
+    "title": "Introduction to Philosophy: Knowledge and Reality",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Introduction to philosophical inquiry with emphasis on problems of knowledge and reality. Students are encouraged to think independently and formulate their own tentative conclusions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 120",
+    "title": "Introduction to Logic",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Introduction to deductive and inductive logic. Logic and language. Analysis of fallacies. Uses of logic in science and in daily life.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 140",
+    "title": "Technology and Human Nature",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Interaction of technology and human nature. Environmental problems associated with rapid development of technology. Responses to problems by various philosophers and writers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 200",
+    "title": "Critical Thinking and Composition",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Introduction to critical thinking and writing. Evaluation and development of correct reasoning and effective style and organization in argumentative writing. Correct deductive and inductive reasoning. Fallacies. Critical appraisal of evidence. Construction of rebuttals and counter-arguments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AFRAS 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AMIND 120",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "CCS 111B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "LING 100B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ECL 100",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "RWS 105B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PHIL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 299",
+    "title": "Special Study",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 310",
+    "title": "Philosophy and Human Nature",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Concept of human nature. Descriptive and normative aspects of major theories of human nature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 312",
+    "title": "Women and Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Exploration of women’s contributions to philosophy, both present and historically. Concepts relating to women and femininity, both by the philosophical canon and by more recent feminist philosophers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 315",
+    "title": "Philosophy and Literature",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Study of literature of philosophical significance and of philosophical problems of literature.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 325",
+    "title": "A Major Philosophical Topic",
+    "units": 3,
+    "department": "PHIL",
+    "description": "General introduction to a major philosophical topic (e.g. cosmopolitan justice, freedom of the will, the nature and existence of God, theory and evidence).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 328",
+    "title": "Philosophy, Racism, and Justice",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical concepts and theories of racism and racial justice. Arguments for and against such theories.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 329",
+    "title": "Social Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Ethical issues of contemporary life. Individualism vs. collectivism; democracy vs. dictatorship; ethical problems arising in law, medicine, business, government and interpersonal relationships.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 330",
+    "title": "Biomedical Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Value judgments upon which medicine is based and the ethical issues which medicine faces.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 332",
+    "title": "Environmental Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Development of traditional values concerning the natural environment. Reasons for altering values in light of modern changes in relationship of human beings to the environment. Application of ethical principles to actions affecting the environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 333",
+    "title": "Ethics-Food",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Ethics of what we eat to include fair-trade food sourcing, food rituals, shaming, waste; use of GMOs, veganism, and vegetarianism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 335",
+    "title": "Philosophy of Business Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Moral status of business practices; arguments and theories regarding ways to run businesses and corporations; issues that arise in everyday practices of businesses.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "May not be taken in place of",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 336",
+    "title": "Philosophy and the Internet",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Investigate questions raised by the development of internet-driven culture; supply the conceptual tools necessary to make critical value judgments about the internet and society; and develop a practice of approaching the internet with philosophically rigorous inquiry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 337",
+    "title": "Ethics and Artificial Intelligence",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Discussion of ethics and artificial intelligence (AI). May include ethical investigation of biases, preferences, and information of users and technology. Students research, investigate, and discuss ethical implications of AI and its impacts on society.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "For this course to count as fulfilling the GE requirement for Explorations, students must have 60 or more units by the time they complete this course.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 338",
+    "title": "AI and the Public Good",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Exploration of ethical and political challenges posed by artificial intelligence. Students analyze theoretical texts, practical policies, and real-world cases to assess AI’s impact on society and develop informed, ethical responses to emerging technologies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 339",
+    "title": "Philosophy and Video Games",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Metaphysical and ethical investigations into experience playing video games. Topics may include how video games are similar or different from reality, whether we have free will when playing a video game, and what is ethically permissible in a video game.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 340",
+    "title": "Morality of War and Peace",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Historical and contemporary arguments regarding morality of war, pacifism, and terrorism, with contemporary applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 341",
+    "title": "Logic and the Law",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Logic in legal contexts. Inductive reasoning methods applied to legal briefs, case studies, and LSATs. Construction, presentation, and evaluation of written and oral arguments, using historical and contemporary legal decisions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 342",
+    "title": "Morality and the Law",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Understanding and application of the law via contemporary moral controversies in case law and legal practice.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 343",
+    "title": "Ethics Bowl",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Interdisciplinary, case-study approach to contemporary ethical issues. Creative, critical thinking skills and theoretical ethical frameworks;",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 344",
+    "title": "Global Justice",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Current debates in political philosophy concerning the justification, content, and scope of duties of global justice to include distributive justice, nationalism vs. cosmopolitanism, morality of immigration controls, justification of human rights, and limits of sovereignty.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 351",
+    "title": "Chinese Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical traditions which have shaped the intellectual life and culture of China. Emphasis on foundational texts surviving from pre-Han China.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 353",
+    "title": "Buddhist Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Intellectual traditions within Buddhism, both ancient and contemporary, including key areas of metaphysics, epistemology, and axiology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 401A",
+    "title": "History of Philosophy: Pre-Socratic through Medieval",
+    "units": 3,
+    "department": "PHIL",
+    "description": "From Pre-Socratic through Medieval.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Philosophy 411 and 412.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 401B",
+    "title": "History of Philosophy: Renaissance and Early Modern",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Renaissance and early modern philosophy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in Philosophy 412 and 413.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "PHIL",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHIL",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 505",
+    "title": "Nineteenth-Century European Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Major European philosophers of the nineteenth century. May include Hegel, Kierkegaard, Marx, Mill, Nietzsche, and Schopenhauer.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 506",
+    "title": "Twentieth-Century Continental Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Major figures and movements in European philosophy from Husserl to the present.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 508",
+    "title": "Existentialism",
+    "units": 3,
+    "department": "PHIL",
+    "description": "The philosophical aspects of existentialism. Major emphasis is on the diversity of thought within a common approach as this is shown in individual thinkers.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 509",
+    "title": "Theory of Ethics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Advanced topics in ethical theory, including normative ethics and meta-ethics. May include historical or contemporary readings or both. Issues may include content of moral value, nature of moral judgment, and accounts of virtue and right action.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 510",
+    "title": "Philosophy of Law",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical and ethical investigation into the nature of law, rights, liberty, responsibility, and punishment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 512",
+    "title": "Political Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Selected aspects of the political structures within which we live, such as law, power, sovereignty, justice, liberty, welfare.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 514",
+    "title": "Philosophy of Art",
+    "units": 3,
+    "department": "PHIL",
+    "description": "The nature of aesthetic experience. Principal Western theories of art in relation to actual artistic production and to the function of art in society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 516",
+    "title": "Global Aesthetics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "How cultures beyond Amero-Eurocentric traditions developed aesthetic theories complementing, challenging, or expanding more often taught theories. Historical and contemporary works representing a spectrum of philosophies around the globe.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 521",
+    "title": "Deductive Logic",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Principles of inference for symbolic deductive systems; connectives, quantifiers, relations and sets. Interpretations of deductive systems in mathematics, science and ordinary language.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": [
+      {
+        "prereq_code": "PHIL 120",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "PHIL 523",
+    "title": "Theory of Knowledge",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical analysis of knowledge, including conceptions of belief, justification, and truth.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 530",
+    "title": "Metaphysics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Prominent theories of reality, e.g., realism and nominalism, materialism and idealism, teleology and determinism.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 534",
+    "title": "Philosophy of Language",
+    "units": 3,
+    "department": "PHIL",
+    "description": "An introduction to theories of meaning for natural languages and formal systems; concepts of truth, synonymy and analyticity; related epistemological and ontological problems.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 535",
+    "title": "Philosophy of Religion",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical analysis of the nature and existence of God.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 536",
+    "title": "Philosophy of Mind",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Prominent theories and arguments regarding relation between mind and body. Varieties of dualism considered along with major materialist rivals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 537",
+    "title": "Philosophy of Science",
+    "units": 3,
+    "department": "PHIL",
+    "description": "The basic concepts and methods underlying contemporary scientific thought. Contributions of the special sciences to a view of the universe as a whole.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 544",
+    "title": "Queer Theory",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Philosophical aspects of queer theory. Sexualized identity intersections with ability, nationality, race, and other categories. Desire, gender, sex, sexuality; affect, embodiment, identity, and temporality.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 555",
+    "title": "Empirical Perspectives of Buddhism",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Historical and contemporary Buddhist scholarship and practice.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 565",
+    "title": "Asian Philosophies",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Dimensions of Asian philosophies, past and present. Encounter between Buddhism and post-modern science, contemporary Asian philosophers (“global gurus”) and their impact on non-Asian cultures, enigmatic notion of emptiness (sunya, wu).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 575",
+    "title": "A Major Philosopher",
+    "units": 3,
+    "department": "PHIL",
+    "description": "The writings of one major philosopher.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 576",
+    "title": "A Major Philosophical Tradition",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Focused study of a major philosophical tradition (e.g., Platonism, Confucianism, positivism).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 577",
+    "title": "A Major Philosophical Problem",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Focused study of a major philosophical problem (e.g., the problem of evil, the problem of other minds, the existence of God).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 578",
+    "title": "Philosophical Methods",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Focused study of major philosophical methods (e.g., uncertain inferences and non-bivalent logics, phenomenological method, deconstruction).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 596",
+    "title": "Selected Topics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "A critical analysis of a major problem or movement in philosophy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 599",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHIL",
+    "description": "Directed individual study in philosophy on a theme or topic chosen in consultation with the instructor.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 600",
+    "title": "Seminar in the History of Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "A major philosopher, school, or problem. Their historical roots and subsequent historical significance.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 610",
+    "title": "Seminar in Philosophical Problems: Values",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Problems in such fields as ethics, politics, aesthetics.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 620",
+    "title": "Seminar in Philosophical Problems: Knowledge and Reality",
+    "units": 3,
+    "department": "PHIL",
+    "description": "A problem or group of problems in metaphysics, epistemology and logic.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 630",
+    "title": "Seminar in Current Philosophical Issues",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Problems in current philosophical publications.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 650",
+    "title": "Seminar in Teaching Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Critical thinking and writing skills to teach philosophy. Syllabus construction, teaching techniques, assessment, and outcomes measurement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Intensive study in specific areas of philosophy.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 796",
+    "title": "Studies in Philosophy",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Preparation for the comprehensive examination for students taking the M.A. (non-thesis option). Maximum credit three units applicable to a master’s degree. Offered Credit/No Credit only.",
+    "grading_method": "NOG - Cr/N",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "PHIL",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "PHIL",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "PHIL",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "PHIL 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "PHIL",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

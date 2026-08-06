@@ -1,0 +1,86 @@
+{
+  "code": "URBAN_STUDIES_URBAN_PLANNING_DESIGN_AND_MANAGEMENT_SPECIALIZ",
+  "name": "Urban Studies, Urban Planning, Design, and Management Specialization, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12057",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12057",
+  "poid": "12057",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "CCS 355",
+    "LATAM 355",
+    "GEOG 354",
+    "POL S 422",
+    "P A 320",
+    "SOC 448"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "ANTH 102",
+      "P A 200",
+      "ECON 101",
+      "ECON 102",
+      "POL S 101",
+      "POL S 102",
+      "GEOG 102",
+      "SOC 101",
+      "ECON 201",
+      "POL S 201",
+      "SOC 201",
+      "STAT 250"
+    ],
+    "Nine Units of Urban Methods Selected from": [
+      "ECON 301",
+      "GEOG 380",
+      "GEOG 381",
+      "GEOG 385",
+      "GEOG 484",
+      "GEOG 584",
+      "GEOG 585",
+      "GEOG 586",
+      "GEOG 589",
+      "GEOG 590",
+      "P A 420",
+      "P A 540",
+      "SOC 301",
+      "SOC 406",
+      "SOC 407",
+      "SOC 408"
+    ],
+    "Three Units of High Impact Learning": [
+      "GEN S 480",
+      "GEN S 490",
+      "GEOG 499",
+      "GEOG 590",
+      "GEOG 595",
+      "HIST 495",
+      "P A 497",
+      "P A 498"
+    ],
+    "Urban Planning, Design, and Management": [
+      "GEOG 354",
+      "P A 310",
+      "P A 320",
+      "P A 350",
+      "P A 460",
+      "P A 485",
+      "P A 520",
+      "P A 525"
+    ]
+  },
+  "default_electives": [
+    "ECON 101",
+    "POL S 101",
+    "SOC 101",
+    "ANTH 102",
+    "ECON 102",
+    "ECON 301",
+    "GEN S 480",
+    "P A 310"
+  ],
+  "unresolved_codes": []
+}

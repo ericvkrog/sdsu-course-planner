@@ -1,0 +1,451 @@
+[
+  {
+    "course_code": "AUD 696",
+    "title": "Selected Topics in Audiology",
+    "units": 1,
+    "department": "AUD",
+    "description": "Intensive study in specific areas of audiology.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 700",
+    "title": "Hearing Science",
+    "units": 3,
+    "department": "AUD",
+    "description": "Nature of sound and applications to hearing and speech, including acoustics, structure, and function of auditory system, and perception of sound.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 701",
+    "title": "Clinical Practice I",
+    "units": 1,
+    "department": "AUD",
+    "description": "Applications of clinical procedures to patient assessment. Includes computer-based simulated cases, clinical observations, and supervised patient care involving diagnostics and hearing aid evaluations at the on-campus audiology clinic.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 705",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AUD 710",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 702",
+    "title": "Clinical Methods Lab",
+    "units": 1,
+    "department": "AUD",
+    "description": "Practice in tests and methods used in audiological clinical practicum.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 701",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 705",
+    "title": "Diagnostic Audiology I",
+    "units": 3,
+    "department": "AUD",
+    "description": "Theoretical bases and technical experience necessary to perform basic audiologic assessment, including otoscopy, puretone, masking, speech, and immittance measures, testing and patient counseling. Hands-on experiences with different tests and equipment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 710",
+    "title": "Hearing Amplification I",
+    "units": 4,
+    "department": "AUD",
+    "description": "Hearing aid components and signal processing, electroacoustic analysis, prescriptive techniques, verification procedures, hearing aid orientation, follow-up and troubleshooting.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 711",
+    "title": "Audiologic Management",
+    "units": 3,
+    "department": "AUD",
+    "description": "Examines audiology service delivery models including individual, group, community, interprofessional, and telepractice, applied to amplification, aural rehabilitation, verification/validation, counseling, and outcome measurement. Emphasizes patient-centered care, communication access, and quality improvement across clinical and community settings.",
+    "grading_method": "LTR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 712",
+    "title": "Research and Evidence-Based Practice in Audiology",
+    "units": 3,
+    "department": "AUD",
+    "description": "Research methods and scientific writing in audiology/hearing science; critical evaluation of research; evidence-based practice in audiology; research proposal development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 715",
+    "title": "Diagnostic Audiology II",
+    "units": 3,
+    "department": "AUD",
+    "description": "Advanced procedures, including video-otoscopy, cerumen management, multiple component tympanometry, tests for 8th nerve, non-organic, and central involvement, and calibration. Principles and procedures for otoacoustic emission measurements (OAEs). Pathologies as they relate to audiologic measures.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 705",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 720",
+    "title": "Auditory Evoked Potentials I",
+    "units": 4,
+    "department": "AUD",
+    "description": "Theoretical and clinical aspects of auditory evoked potentials, specifically otoacoustic emissions and their measurement, electrocochleography, and auditory brainstem responses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 700",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AUD 705",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 721",
+    "title": "Clinical Case Studies and Staffings I",
+    "units": 1,
+    "department": "AUD",
+    "description": "Presentations and discussion of clinical cases and issues relative to clinical practice. Students’ clinical experiences are discussed relative to medical and audiological assessment and management.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 701",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 725",
+    "title": "Pediatric Audiology",
+    "units": 3,
+    "department": "AUD",
+    "description": "Development of normal and abnormal auditory behavior, behavioral and physiological testing of infants and children, hearing screening for pre-and school-age children, educational audiology, auditory processing disorders, counseling of patient and family, and assistive listening devices.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 700",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AUD 705",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 795",
+    "title": "Research Practicum",
+    "units": 3,
+    "department": "AUD",
+    "description": "Participation in specific faculty research activities. Research methods and objectives of a specific research laboratory. Data collection and analysis.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 798",
+    "title": "Doctoral Special Studies",
+    "units": 1,
+    "department": "AUD",
+    "description": "Individual study in field of specialization.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 800",
+    "title": "Advanced Evoked Potential Measures and Audiological Instrumentation",
+    "units": 4,
+    "department": "AUD",
+    "description": "Advanced concepts and hands-on experience with different audiological instruments and measures to improve diagnostic skills in interpreting and performing behavioral and physiologic tests. Calibration instrumentation and techniques. Critical thinking, problem-solving, and reasoning skills pertaining to equipment testing parameters and use.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 710",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AUD 720",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 801",
+    "title": "Clinical Practice II",
+    "units": 1,
+    "department": "AUD",
+    "description": "Diagnostics and hearing aid evaluations/fittings in the on-campus audiology clinic.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 802",
+    "title": "Clinical Precepting in Audiology",
+    "units": 1,
+    "department": "AUD",
+    "description": "Effective precepting, determining appropriate teaching styles to maximize clinical learning, including timely and positive feedback regarding clinical progress and assigning grades. Identifying need for remediation and developing effective programs to target deficient skills.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 701",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 810",
+    "title": "Seminar in Service Delivery Models in Audiology",
+    "units": 2,
+    "department": "AUD",
+    "description": "Service delivery models in audiology, including 1:1 intervention, group treatment, community-based care, interprofessional collaborative practice, and telepractice.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 812",
+    "title": "Counseling and Communication in Audiology",
+    "units": 2,
+    "department": "AUD",
+    "description": "Principles of culturally competent clinical communication for audiology care. Empathy, the four-habits model, shared decision making, trust. Methods from nursing and medicine. Discussion with parents of children with hearing loss and adults with audiology related concerns. In-class role play, reflection.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 815",
+    "title": "Communication Disorders Across Lifespan and Cultures",
+    "units": 2,
+    "department": "AUD",
+    "description": "Communication processes and disorders from infancy to elderly, including phonetics, phonology, speech, and language. Prepares audiologists to recognize a variety of communication disorders, and to learn how to apply screening instruments, in culturally sensitive ways, and to make appropriate referrals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 830",
+    "title": "Seminar in Contemporary Topics in Audiology and Hearing Science",
+    "units": 2,
+    "department": "AUD",
+    "description": "Audiology and hearing science. Reading and critiquing journal articles and data emerging from research laboratories.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 831",
+    "title": "Field Clinical Practice",
+    "units": 3,
+    "department": "AUD",
+    "description": "Supervised practicum in one or more approved community agencies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 835",
+    "title": "Psychoacoustics",
+    "units": 3,
+    "department": "AUD",
+    "description": "Psychophysical concepts underlying clinical audiology. Psychoacoustic abilities of individuals with normal hearing and sensorineural hearing loss. Practical experience in conducting psychoacoustic tests.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 845",
+    "title": "Hearing Conservation",
+    "units": 1,
+    "department": "AUD",
+    "description": "Hearing conservation programs in various settings. Current research on occupational noise exposure and hearing loss and workers’ compensation coverage of hearing loss.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 700",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "AUD 705",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "AUD 871",
+    "title": "Externship in Audiology",
+    "units": 10,
+    "department": "AUD",
+    "description": "Full-time clinical externship at approved agency. Continuation and intensification of clinical experiences with reduced amount of direct supervision culminating in ability to work independently.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 30,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 891",
+    "title": "On-Line Integrative Clinical Seminar",
+    "units": 2,
+    "department": "AUD",
+    "description": "On-line discussion of clinical experiences and interesting cases.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 897",
+    "title": "Independent Research",
+    "units": 1,
+    "department": "AUD",
+    "description": "Research in audiology or hearing science.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "AUD 899",
+    "title": "Doctoral Project",
+    "units": 1,
+    "department": "AUD",
+    "description": "Individual investigation and preparation of the doctoral project for the audiology degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "AUD 712",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  }
+]

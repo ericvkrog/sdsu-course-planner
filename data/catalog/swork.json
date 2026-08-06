@@ -1,0 +1,1060 @@
+[
+  {
+    "course_code": "SWORK 110",
+    "title": "Social Work Fields of Service",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Fields of services in which social workers perform professional roles. Focus on social work approach to intervention in practice and policy arenas.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 120",
+    "title": "Introduction to Social Work and Social Welfare",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Orientation to field of social work. Develop understanding of social work principles, goals, values, and methods through readings and class discussion. An unpaid assignment in an agency setting is required. Scheduling is flexible.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 350",
+    "title": "Cultural Pluralism",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Understanding of the American society as a culturally pluralistic social process and an understanding of social work as a culturally directed profession with emphasis on the concept of cultural identities created by one’s values, ideologies, knowledge and behavior.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 360",
+    "title": "Perspectives on Human Behavior and the Social Environment",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Interdisciplinary, comparative, and critical approach to explanatory theories of human behavior. Focus on interrelatedness of factors that affect the nature and quality of human life with linkage to the social welfare of individuals, families and communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 361",
+    "title": "Human Behavior Across the Life Span",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Psycho-social, biological, cultural and environmental influences on individual growth and development and how knowledge is utilized by social work generalist practitioners in assessment and intervention.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 370",
+    "title": "Social Policies and Social Issues",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Major social forces and institutions as they relate to and determine social policy emphasizing social welfare services in an industrialized society.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 110",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 120",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 381",
+    "title": "Practice Skills Micro",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Micro skills utilizing motivational interviewing within overall generalist practice framework. Written and verbal communication, interviewing, and assessment with individuals.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 382",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 382",
+    "title": "Practice Skills Macro",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Development of social work practice skills at macro level. Written and verbal communication needs assessment and resource development with organizations and communities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 391",
+    "title": "Methods of Social Work Research",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Definition and purpose of research in social welfare and social work. Formulation of research problems, selecting a design and methodology; techniques of collecting, organizing, interpreting, and analyzing data.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 400",
+    "title": "Social Work Practice: Child Welfare",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Problems of children and supportive, supplementary and substitute social services which have been developed to meet these needs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 410",
+    "title": "Social Work Practice: Family Issues",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Issues relative to social work intervention with families, including major social work and interpersonal family problem situations. Family practice methods and social service provisions, and social policy issues around family needs.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 430",
+    "title": "Alcohol and Other Drug Problems: Prevention and Intervention",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Alcohol and other drug issues related to individuals, groups, and society. Concepts include preventive methods, secondary prevention, self-help groups, models of treatment, prevention strategies in communities, and overview of alcohol and drug policies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 483A",
+    "title": "Generalist Social Work Practice I",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Integration of social work theory, principles, and practice techniques across micro and mezzo social work populations to include families and groups.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 489A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 483B",
+    "title": "Generalist Social Work Practice II",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Integration of social work theory, principles, and practices with emphasis on mezzo and macro generalist practice social work populations and settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 483A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 489A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 489B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 489A",
+    "title": "Field Experience in Social Work",
+    "units": 4,
+    "department": "SWORK",
+    "description": "A minimum of eight units (four in Social Work 489A and four in",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 382",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 483A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 489B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 489B",
+    "title": "Field Experience in Social Work",
+    "units": 4,
+    "department": "SWORK",
+    "description": "A minimum of eight units (four in",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 381",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 382",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 483B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 489A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 497",
+    "title": "Investigation and Report",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Analysis of special topics in social welfare.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Individual study.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 580",
+    "title": "Social Work in Healthcare Settings",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Study of social work in healthcare integrating theory, principles, and social work practice. Topics include treatment modalities, theoretical approaches, levels of practice, specific client groups, and/or specialty areas.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 590",
+    "title": "Seminar in Loss and Grief Theories and Practice",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Multidisciplinary perspectives on bereavement, death, and dying through ethical, legal, medical, psychological, and spiritual lenses. Cultural diversity, direct practice, life span development.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 489A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 489B",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERO 400A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "GERO 400B",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 596",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Selected topics in social work.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 601",
+    "title": "Seminar in Social Welfare Policy and Services",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Social welfare as a social institution; philosophical, historical, and comparative analysis of the welfare functions, issues and problems in both policy and program development, implementation, and evaluation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 610",
+    "title": "Computer Application in Practice for Social Work and Gerontology",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Computer technology in social work practice with emphasis on clinical and administrative applications, program monitoring, and support of service provision and delivery.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 619",
+    "title": "Human Behavior in the Social Environment",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Conceptual framework to view and interpret behavior and to understand functioning of individuals, families, groups, organizations, and communities within ecological systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 620A",
+    "title": "Seminar in Human Behavior and Social Environment: Direct Practice",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Human behavior theories and concepts appropriate to a methods concentration.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 619",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 630",
+    "title": "Social Work Practice: A Generalist Perspective",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Overview of generalist social work practice as a method and process. Generalist social work presented as a basic helping approach used to assist individuals, groups, families, organizations, and communities to achieve personal and social change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 631",
+    "title": "Social Work Practice: Individuals, Families, and Groups",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Preparation for direct intervention with individuals, families, and groups.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 630",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 632",
+    "title": "Social Work and Gerontology: Organizations and Communities",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Theoretical knowledge of elementary organizational and interorganizational decision making in human service programs.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 630",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 650",
+    "title": "Field Practicum",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Field instruction in public or voluntary social work setting. Seven units required. Experiences emphasize application of social work objectives, principles, and skills in service to individuals, families, groups, organizations, and communities.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 670",
+    "title": "Social Work Foundation Practice Skills",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Skill development and application of social work practice. Engagement, assessment, risk assessment, application of theoretical models to client interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 671",
+    "title": "Generalist Foundation of Social Work Practice, Policy, and Human Behavior",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Reviews generalist foundation of social work curriculum. Practice concepts at all practice levels, human development theories, and social welfare policies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 690",
+    "title": "Seminar in Research Methods for Social Work and Gerontology",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Research development, design, and methodology. Application to social work and gerontology in testing theories, advancing practice knowledge, and decision-making.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 696",
+    "title": "Seminar on Selected Topics",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Intensive study in specific areas of social work.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 702",
+    "title": "Seminar in Selected Social Welfare Policy and Services",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Selected social welfare policies used to examine processes of policy formulation, policy analysis skills, and relationships of policy decisions and indecisions to outcomes of social welfare interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 720",
+    "title": "Seminar in Selected Topics in Human Behavior and Social Environment",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Selected topics related to current theories of natural and induced change in human behavior which have utility for social work practice within fields of service.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 620A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 739",
+    "title": "Advanced Seminar in Social Work Practice with Families",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Family dynamics and social work practice related to family change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 744",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 750",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 740",
+    "title": "Advanced Seminar in Administration and Community Development in Social Work and Gerontology",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Human services program design, strategic planning, marketing, organizational performance management, human resource management, and development of grant proposals.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 632",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 755",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 744",
+    "title": "Advanced Seminar in Selected Topics in Direct Practice Social Work",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Study of a selected aspect of direct practice social work. Topics include treatment methodology, theoretical approaches, levels of practice, specific client groups, or special problem areas.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 631",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 632",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 750",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 745",
+    "title": "Advanced Seminar in Selected Topics in Social Work Administration",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Study of selected aspects of administration in human services organizations to include leadership, organizational learning, organizational change management, and supervision.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 740",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 755",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 750",
+    "title": "Advanced Field Practicum: Direct Practice Social Work",
+    "units": 4,
+    "department": "SWORK",
+    "description": "Advanced field instruction in public or voluntary social work setting. Eight units required. Continuation and intensification of experiences in application of social work objectives, principles and skills in service to individuals, families, groups and communities.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 739",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 740",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 744",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 745",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 755",
+    "title": "Advanced Field Practicum: Social Work Administration and Community Development",
+    "units": 4,
+    "department": "SWORK",
+    "description": "Advanced field instruction in public or voluntary social work setting. Eight units required. Continuation and intensification of experiences in application of social work objectives, principles and skills in service organizations and communities.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 8,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 650",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 720",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 740",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "SWORK 745",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 758",
+    "title": "Seminar in Social Work and Selected Fields of Practice",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Traditional and emerging fields of practice and related social work responsibilities and roles.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 780",
+    "title": "Seminar in Social Work and Selected Populations-at-Risk",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Social work practice with selected populations-at-risk such as one-parent families, children in institutions, ethnic minority immigrants, Native-Americans in the urban scene, and foreign-born brides of U.S. servicemen.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 781",
+    "title": "Seminar on Selected Populations-at-Risk",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Knowledge about and analysis of selected populations-at-risk, social work responsibilities in emerging service demands by diverse and needful, high risk segments of the population in a complex society, and implications for social work practice. Population- at-risk for study to be announced in Class Schedule.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 791",
+    "title": "Applied Social Work Practice Research Seminar",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Preparation for practitioner-researcher role through application of social work research concepts and procedures in practice situations (in class and field) of social work interventions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "SWORK 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "SWORK 797",
+    "title": "Research",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Research in one of the areas of social work.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Preparation of a thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "SWORK",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "SWORK",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 800",
+    "title": "Seminar in Etiology and Pharmacology of Substance Abuse",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Advanced seminar experience related to alcohol and other drug etiological models and epidemiology of substance abuse.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 801",
+    "title": "Seminar in Global Approaches to Substance Abuse Prevention and Treatment",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Current science related prevention and treatment of substance misuse. Cultural and societal aspects of substance abuse treatment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 850",
+    "title": "Seminar in Theoretical Approaches to Substance Abuse",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Social science theory as it relates to substance use and misuse. Classic and current theory from ecological approach related to extant science.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 880",
+    "title": "Advanced Seminar in Substance Abuse Research",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Substance abuse to include randomized clinical trials, prevention trials, field research, mixed methods, epidemiological approaches, etiological research. Classic methodological texts and emerging approaches examined.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 881",
+    "title": "Advanced Multivariate Data Analysis",
+    "units": 3,
+    "department": "SWORK",
+    "description": "Substance use and misuse to include analyses of biomarkers, complex survey data, observational data, and multi-level data.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 897",
+    "title": "Doctoral Research",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Prior to advancement to candidacy; Independent investigation including the general field of the dissertation.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "SWORK 899",
+    "title": "Doctoral Dissertation",
+    "units": 1,
+    "department": "SWORK",
+    "description": "Preparation of the dissertation for the doctoral degree. Enrollment is required during the term in which the dissertation is approved.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 15,
+    "notes": null,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,806 @@
+[
+  {
+    "course_code": "ACCTG 201",
+    "title": "Financial Accounting Fundamentals",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Theory and practice of accounting applicable to recording, summarizing, and reporting of business transactions for external reporting and other external uses. Asset valuation; revenue and expense recognition; various asset, liability, and capital accounts.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 202",
+    "title": "Managerial Accounting Fundamentals",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Selection and analysis of accounting information for internal use by managers. Using financial information for planning and control purposes.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "sophomore"
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 325",
+    "title": "Intermediate Managerial and Tax Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Theories, practices, and concepts to provide planning and control information to decision makers; tax considerations that impact managerial planning and decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Credit may not be applied to accounting major.",
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 326",
+    "title": "Intermediate Financial Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Theories, practices, and concepts needed to satisfy the decision making requirements of external users; financial reporting for enterprises engaged in international trade of business. May not be taken for credit by accounting majors.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Credit may be applied to accounting major and is not open to students with credit in ACCTG 331.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 331",
+    "title": "Intermediate Accounting I",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Concepts and methods underlying financial statements (including IFRS introduction).",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Not open to students with credit in ACCTG 326. Students in the ACCTG 331 classes are required to attend an Accounting Major Orientation in mid-September after the add/drop deadline. It is usually organized on a Friday morning and the students will be given a one-lecture release during that week. We highly encourage students to attend in person and remote attendance will be accommodated.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 332",
+    "title": "Federal Income Taxation",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Concepts and methods underlying taxation of individuals and business entities.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 333",
+    "title": "Accounting Information Systems",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Accounting information systems for internal and external decision making.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 334",
+    "title": "Intermediate Accounting II",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Financial reporting issues; preparation and use of financial statement information.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 390W",
+    "title": "Reporting Techniques for Accountants",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Advanced preparation of written and oral reports with application to professional needs of accountants.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Satisfies the Graduation Writing Assessment Requirement (GWAR) for students who get a minimum grade of C or Cr. Upper-division courses should only be taken by students who have completed 60 semester units or more. In exceptional cases, a student who has completed fewer than 60 units may enroll in upper division courses.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 409",
+    "title": "Field Study in Taxation",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Income tax preparation in the field. Follows procedures of IRSVITA Program. IRS instruction followed by faculty supervised fieldwork. Student must be available for special IRS tax school.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 325",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 332",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 503",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 431",
+    "title": "Auditing",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Audit of financial statements in accordance with generally accepted auditing standards; ethics in auditing.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 333",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 496",
+    "title": "Selected Topics in Accountancy",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Selected areas of concern in accountancy.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 498",
+    "title": "Investigation and Report",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "A comprehensive and original study of a problem connected with accounting under the direction of one or more members of the accounting staff.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "senior"
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 501",
+    "title": "Advanced Financial Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Advanced financial accounting topics. Partnerships, consolidations, foreign currency transactions and financial statements, accounting for derivatives and hedging, accounting for bankruptcy and reorganizations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 334",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 503",
+    "title": "Federal Taxation of Individuals",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Taxation of individuals, including income, deductions, credits, social security taxes, and property transactions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 202",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 505",
+    "title": "Fraud Examination",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Skills and tools for auditors, consultants, tax professionals, managers. Techniques and technologies for fraud investigation and interviewing. Case analysis, research of public records, ethical decision making for accountants. Service learning project.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 333",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 390W",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 508",
+    "title": "Accounting for Not-For-Profit Organizations",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Principles of modified accrual accounting in state and local governmental units, hospitals, colleges, and universities. Budgetary accounting, appropriations, encumbrances, internal controls, and auditing procedures.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 326",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 331",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 522",
+    "title": "International Financial Reporting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Accounting convergence, IASB-FASB joint projects. US and international financial reporting issues and standards.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 334",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 530",
+    "title": "Ethics in Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Ethical reasoning and implications for accounting professionals; ethical decision process and professional judgment; professional codes of conduct from the AICPA, IMA, IIA, etc.; the professional accountant’s role in corporate governance and ethical management; audit responsibilities and fraud, including legal and regulatory obligations; current ethical issues facing the accounting profession.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 532",
+    "title": "Cost Management",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Use of accounting information and data analytics to facilitate business decisions; cost management and ethics in managerial accounting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 333",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 323",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 535",
+    "title": "Strategic Cost Management and Control Systems",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Provides an in-depth exploration of contemporary managerial accounting practices and control systems, preparing students to make data-driven financial decisions in complex organizational settings.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 596",
+    "title": "Contemporary Topics in Accounting",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Contemporary topics in modern accounting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 620",
+    "title": "Financial Measurement and Reporting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Measurement concepts and mechanics to translate global business transactions into principal financial statements using U.S. and international accounting standards. Revenue recognition, operating assets, investments, debt and equity financing, compensation, EPS, and cash flows.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 621",
+    "title": "Accounting Information Systems",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Application of accounting information systems to attain organizational objectives, improve planning and control at all levels of the organization. Systems analysis, design methodologies, tools, control frameworks and use of technologies in information systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 624",
+    "title": "Business Entity Taxation",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Concepts and methods underlying federal income taxation of business entities.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 626",
+    "title": "Auditing and Assurance Services",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Duties, responsibilities, and ethics of the auditor; auditor’s reports and procedures for evaluation of financial statements. Compilation and review standards for assurance services provided to non-public companies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 620",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 621",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 650",
+    "title": "Accounting Research and Communication",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Identification, organization, and integration of diverse sources of authoritative literature to reach a conclusion and communicate an accounting or tax decision.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 332",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 503",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 624",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 651",
+    "title": "Seminar in Corporate Tax",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Corporate tax problems involving distributions, liquidations, reorganizations, redemptions, personal holding companies, accumulated earnings tax, and thin capitalization.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 654",
+    "title": "Seminar in Partnership Taxation",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Partnership and S corporation tax laws related to formation, operations, distributions, and liquidations. Flow-through entities in small and medium sized business environments.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 655",
+    "title": "Tax Planning for Individuals",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Selected complex tax laws related to individuals and sole proprietorship businesses, sales and exchanges of property, tax deferred transactions in property, accounting periods and methods, and personal deductions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 656",
+    "title": "Multijurisdictional Tax",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Tax law in a multistate and international context. Multijurisdictional concepts for tax planning.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 659",
+    "title": "Seminar in Taxation Topics",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Contemporary theories and practices in taxation.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 650",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 663",
+    "title": "Financial Statement Analysis",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Illustrative cases and problems to analyze methods for communicating information about financing and operating activities of corporate firms, and techniques for evaluating the information.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "B A 640",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 670",
+    "title": "Seminar in Assurance Services",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Selected conceptual issues in assurance services.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 431",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ACCTG 626",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 673",
+    "title": "Accounting Information Systems (AIS) Development",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "AIS theories, databases, and internal controls in designing, maintaining, and enhancing business processes and systems. Hands-on experience to develop skills with EXCEL, ACCESS, and/or other integrated systems.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 675",
+    "title": "Seminar in Accounting Information Systems Audit and Control",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Risk assessment and management in accounting systems, including impact on clients’ business and audit functions, external and internal auditor issues, internal controls in computerized environments, issues related to Sarbanes-Oxley Act, and application of computer-assisted audit techniques (CAATs) using current audit software.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 677",
+    "title": "Data Analytics for Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Covers data analytics as it pertains to accounting professionals. Data has proliferated in business and managers and accountants need to understand the implications for decision-making and tap into the data to provide better insights into a firm/client/customer/supplier, etc. This course is intended to provide students with an understanding of data analytic thinking and terminology as well as hands-on experience with data analytics tools and techniques. Three major areas that comprise analytics are data reporting, data visualization, and predictive analytics. Students should leave this course with the skills necessary to translate accounting and business problems into actionable proposals that they can competently present to managers and data scientists.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 680",
+    "title": "Seminar in Managerial Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Managerial cost accounting concepts and procedures, including budgetary planning, cost control, advisory functions, measurement of divisional profitability, product pricing, and investment decisions.",
+    "grading_method": null,
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 696",
+    "title": "Seminar in Selected Topics",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Intensive study in specific areas of accountancy.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 12,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 705",
+    "title": "Forensic Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Application of forensic accounting techniques using data analytics to discover fraud anomalies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 729",
+    "title": "Seminar in Current Issues in Accounting and Auditing",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Contemporary theories and practices in relation to changing accounting environment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See Class Schedule for specific content.",
+    "prerequisites": [
+      {
+        "prereq_code": "ACCTG 620",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ACCTG 790",
+    "title": "Analytics in Accounting",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Problem diagnosis, information analysis and evaluation, and decision making for contemporary issues in accounting information systems, auditing, financial reporting, management accounting, and taxation. Preparation for comprehensive examination for students in the M.S. degree in Accountancy under Plan B.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 797",
+    "title": "Research",
+    "units": 3,
+    "department": "ACCTG",
+    "description": "Research in the area of accountancy.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ACCTG 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ACCTG",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  }
+]

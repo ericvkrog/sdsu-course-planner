@@ -1,0 +1,1114 @@
+[
+  {
+    "course_code": "HTM 201",
+    "title": "Introduction to Hospitality and Tourism Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Hospitality and tourism industry with focus on basic management theories and principles as they apply to hospitality and tourism; basic structure, organization, and management of industry components and the services/products they deliver.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 219",
+    "title": "Hospitality, Recreation, and Tourism Professions",
+    "units": 3,
+    "department": "HTM",
+    "description": "Investigation of professional identities through review of literature, collection of data, analysis, and synthesis of findings/results.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 223",
+    "title": "Hospitality Managerial Accounting and Controls",
+    "units": 3,
+    "department": "HTM",
+    "description": "Utilization of accounting information in decision-making, planning, directing, and controlling in hospitality and tourism management. Integrates areas of managerial accounting and controls with applications in hospitality industry.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "Not open to students with credit in",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 250",
+    "title": "Hospitality Law",
+    "units": 3,
+    "department": "HTM",
+    "description": "Hospitality law, legal, and policy areas arranged according to specific entities hospitality managers have primary relationships: guests, employees, third parties, and government.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HTM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 301",
+    "title": "Service Leadership Development",
+    "units": 3,
+    "department": "HTM",
+    "description": "Service leadership theory and development in hospitality and tourism industry. Application of business models and industry metrics. Development of leadership competencies.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 223",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 320",
+    "title": "Hotel Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Hotel management and operations to include room reservations, housekeeping, front desk management, concierge, sanitation, safety, security, and bellstand. Revenue management, forecasting, measuring performance, transient versus group displacement, service quality, pricing and inventory management, ethics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 325",
+    "title": "Global Hospitality Leadership",
+    "units": 3,
+    "department": "HTM",
+    "description": "Finances and revenue centers, future trends, global distribution systems, human resources, management, operations, policies and regulations, sales and marketing.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 327",
+    "title": "Economics and Supply Chain Management in the Events Ecosystem",
+    "units": 3,
+    "department": "HTM",
+    "description": "Theory and practice of supply chain management and economics in the event ecosystem to include event horizons, experience design and production, KPIs for event evaluation, perishable inventory, perspectives of value, project management, and supplier contracts.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 329",
+    "title": "Hospitality Technology",
+    "units": 3,
+    "department": "HTM",
+    "description": "Designed to help students navigate better in the modern post-COVID, technologically saturated environment, to be successful in their hospitality careers and become effective leaders of the future who can take the industry to the next level.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 330",
+    "title": "Event and Meeting Industry",
+    "units": 3,
+    "department": "HTM",
+    "description": "History and motivation behind meetings, elements of events, event operations and project management, types of meetings and events and industry and economic models.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 333",
+    "title": "Weddings and Social Events",
+    "units": 1,
+    "department": "HTM",
+    "description": "Cultural, social, economic, and other factors affecting planning and execution of weddings and other social events.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 340",
+    "title": "Restaurant Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Restaurant and food service principles to operations of casual and fine dining restaurants with emphasis on cost/volume/profit relationships, forecasting demand and market share, market niche/positioning, sanitation and safety, scheduling, quality management, customer service, technology, and ambience/environment.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": false,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 342",
+    "title": "Restaurant Marketing and Menu Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Restaurant marketing and menu design, menu research and development, and other marketing-related management functions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 340",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "B A 370",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 351",
+    "title": "Identities and Organizations in Hospitality, Recreation, and Tourism Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "A fundamental analysis of self-identification and social identities followed by an application of establishing collective identities in hospitality, recreation, and tourism organizations.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 370",
+    "title": "Tribal Gaming: Cultural and Political Context",
+    "units": 3,
+    "department": "HTM",
+    "description": "Social and political context of American Indian tribal gaming, political relationships between federal and tribal governments, contemporary examples of tribal gaming, sociocultural and economic forces leading to gaming as strategy for economic development, and responses by non-Indian communities to tribal gaming.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "This course satisfies the ethnic studies [ES] requirement.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 371",
+    "title": "Tribal Gaming: Casino Operations",
+    "units": 3,
+    "department": "HTM",
+    "description": "Functional units of a casino and how they work together to create a viable business model. Economic and management issues in gaming industry, with emphasis on tribal applications.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 372",
+    "title": "Tribal Gaming: Legal and Regulatory Issues",
+    "units": 1,
+    "department": "HTM",
+    "description": "Legal and regulatory structure of tribal gaming including Federal Indian Gaming Regulatory Act and California compacting process.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 373",
+    "title": "Tribal Gaming: Marketing and Public Relations",
+    "units": 2,
+    "department": "HTM",
+    "description": "Key strategies, tactics, and techniques used by marketing and public relations professionals to fuel demand for tribal casino gaming. Customer relationship marketing (CRM), radio/TV/ print advertising, promotions, and guest incentives.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 375",
+    "title": "Sport, Tourism, and Event Marketing",
+    "units": 3,
+    "department": "HTM",
+    "description": "Explores marketing in sports, events, and tourism, emphasizing fan engagement, sponsorship, branding, technology, and data analytics. Students analyze real-world cases to craft strategies that capture the passion, scale, and experiential value unique to these industries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 381",
+    "title": "Cross-Cultural Interpretations of Gambling Addiction",
+    "units": 3,
+    "department": "HTM",
+    "description": "Cross-cultural applications of scientific knowledge about gambling addiction and disordered gambling. Social and historic place of gambling in government revenue generation and political consequences of particular public policy actions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 398",
+    "title": "Internship I in Hospitality and Tourism",
+    "units": 3,
+    "department": "HTM",
+    "description": "Entry level experience in a hotel, restaurant, or related position at a university approved site. Minimum 300 hours of quality work at site required during semester and completion of project.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Only students who have been approved for placement by internship coordinator may enroll in this course.",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 430",
+    "title": "Specialty Event Management",
+    "units": 2,
+    "department": "HTM",
+    "description": "Special events planning and execution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 431",
+    "title": "Convention Services for Hotels",
+    "units": 2,
+    "department": "HTM",
+    "description": "Planning, developing, and implementing hotel meeting and convention services.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 301",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 432",
+    "title": "Project Management for Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Defining and evaluating success and engagement, financial planning, project management, registration and ticketing, return on investment, site selection and physical design, and time tracking.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 330",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 433",
+    "title": "Destination Management Services",
+    "units": 2,
+    "department": "HTM",
+    "description": "Destination management companies including incentive travel and marketing techniques, structure, governance, business, and services operations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 431",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 435",
+    "title": "Sporting Events and Festival Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Organization and administration of attraction-based events focusing on scheduling, financing, budgeting and revenue distribution, logistics, planning techniques, marketing, contracts, and staging considerations.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 431",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 450",
+    "title": "Venture and Entrepreneurial Management in Hospitality and Tourism",
+    "units": 3,
+    "department": "HTM",
+    "description": "Initiating, expanding, purchasing, and consolidating hospitality and tourism businesses; examination of entrepreneurial approach including concepts, theories, techniques, and practices of managerial innovation/implementation; analysis of entrepreneurial skills.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 453",
+    "title": "Hospitality Sales and Marketing",
+    "units": 3,
+    "department": "HTM",
+    "description": "Sales functions and management skills required of hospitality companies. Tactics and techniques used to reach target audiences.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 455",
+    "title": "Hospitality Financial Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Managerial insights and techniques for understanding, evaluating, and managing hospitality industry financial information and making sound decisions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 456",
+    "title": "Hotel Revenue Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Revenue management in hotel industry including marketplace intelligence, forecasting, pricing, and revenue optimization techniques.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 465",
+    "title": "Hospitality Technology",
+    "units": 1,
+    "department": "HTM",
+    "description": "Operative characteristics of extant hospitality industry technology; techniques for evaluating investments in new technology solutions.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 490",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 480",
+    "title": "Leadership and Coaching in Hospitality",
+    "units": 3,
+    "department": "HTM",
+    "description": "Development of interpersonal communication, coaching, and training skills to maximize employee performance in a service setting.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 301",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 490",
+    "title": "Strategic Management in Hospitality and Tourism",
+    "units": 3,
+    "department": "HTM",
+    "description": "Problems and issues of strategic planning in hospitality and tourism businesses including methods, techniques, and models used to identify strategic issues and generate future-oriented action plans to implement change.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 398",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 480",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 491",
+    "title": "Leadership and Self Development in Hospitality",
+    "units": 3,
+    "department": "HTM",
+    "description": "Capstone leadership course. Advanced leadership topics and completion of student leadership portfolios.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 495",
+    "title": "Innovation in the Experience Economy",
+    "units": 3,
+    "department": "HTM",
+    "description": "Innovation theory with experience economy logic to include memorable experience design and dimensions; idea generation and implementation.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "HTM",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 498",
+    "title": "Internship II in Hospitality and Tourism",
+    "units": 3,
+    "department": "HTM",
+    "description": "Experience in a hotel, restaurant, tribal casino, or tourism site in student’s chosen emphasis at a university approved site. Minimum of 300 hours of quality work at site required during semester in addition to completion of site project.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 398",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HTM",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 596",
+    "title": "Selected Topics in Hospitality and Tourism Management",
+    "units": 1,
+    "department": "HTM",
+    "description": "Selected topics in hospitality, tourism, and/or tribal gaming management.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 601",
+    "title": "Leadership Explorations and Applications in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Concepts, theories, and techniques of leadership as applied to hospitality, tourism, and recreation organizations, and businesses. Experience in teamwork, interpersonal networks, managing change and conflict, controlling environmental factors.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 602",
+    "title": "Theoretical Foundations of Leadership and Management in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Directed reading and discussion of textual materials designed as an underpinning for future coursework and analytical projects pertaining to leadership and management in the hospitality, tourism, and recreation professions.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 651",
+    "title": "Financial Analysis in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Financial decision-making in a hospitality/tourism/recreation context to include analysis of financial statements, capital projects, deploying capital effectively, asset management, battling marginal compression, return on investment, optimizing return performance. Case studies and projects provide practical experience.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 653",
+    "title": "Leading in Complex Human Systems in HTM",
+    "units": 4,
+    "department": "HTM",
+    "description": "Human side of leadership with a focus on individuals, teams, and networks in interdependent and complex organizational systems in hospitality and tourism management. Investigates adaptive leadership, culture development, and performance improvement within the context of organizational development and change.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 655",
+    "title": "Twenty-First Century Marketing in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Advanced concepts and theories of hospitality and tourism marketing in the context of the fast-evolving sub-field of services marketing. Application of advanced marketing strategies to a variety of HTM businesses and organizations nationally and internationally.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 657",
+    "title": "Data Driven Decision Making in Hospitality and Tourism Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Data literacy, budgeting and report preparation, stakeholder assessment and communication.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 661",
+    "title": "Financial Analysis in Meetings and Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Effective financial management in meetings and events industry.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 663",
+    "title": "Leading in Complex Human Systems in Meetings and Events",
+    "units": 4,
+    "department": "HTM",
+    "description": "Leadership systems and theories relating to events, hospitality, meetings, and tourism industries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 664",
+    "title": "Business Analytics and Change Management for Meetings and Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Innovation and change management in meetings and events industries. Development of communications plan based on analysis of relevant stakeholders.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 665",
+    "title": "Event Marketing Principles in Meetings and Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Marketing management in meetings and events professions. Competitive, guest, margin, and market analyses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 602",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 667",
+    "title": "Data Driven Decision Making in Meeting and Event Management",
+    "units": 3,
+    "department": "HTM",
+    "description": "Business event strategy management to include budgeting and report preparation, data literacy, and stakeholder communication and assessment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 680",
+    "title": "Mastering Technology in an HTM Operational Setting",
+    "units": 3,
+    "department": "HTM",
+    "description": "Systems, techniques, strategies, and foundations of technology in hospitality, tourism, and recreation businesses and organizations with emphasis on performance metrics and system adaptability. Project oriented coursework with opportunities for system analysis, integration, and design.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 651",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 653",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 655",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 682",
+    "title": "Sustainability in Hospitality, Tourism, and Recreation Organizations",
+    "units": 2,
+    "department": "HTM",
+    "description": "Development of a comprehensive sustainability management system incorporating marketing and communication, goal setting, developing performance indicators and metrics, benchmarking, and strategies for ongoing, measurable, sustainability performance improvement.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 651",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 653",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 655",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 683",
+    "title": "Sustainability in Meetings and Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Development of sustainability plan within meetings and events industries. Analyses of non-compliance. Performance improvement and communication strategies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 690",
+    "title": "Systems Problems Resolution in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Project oriented course on solving real problems in hospitality, tourism, and recreation organizations and businesses.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 651",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 653",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 655",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 696",
+    "title": "Special Topics in Hospitality and Tourism Management",
+    "units": 1,
+    "department": "HTM",
+    "description": "Study in specific areas of hospitality and tourism management.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 697",
+    "title": "Mentoring and Coaching",
+    "units": 2,
+    "department": "HTM",
+    "description": "Collaboration, experiential learning, and mentorship with executives from meetings and events industries.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 663",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 698",
+    "title": "MentorEDGE Program",
+    "units": 2,
+    "department": "HTM",
+    "description": "Mentoring to include customized learning and competency development. Create a leadership vision along with context, relationship, and self-mastery competencies.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 601",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 780",
+    "title": "Seminar: Strategy Development and Critical Analysis in HTM",
+    "units": 3,
+    "department": "HTM",
+    "description": "Case study analysis requiring command of all previously delivered program course material to include data analysis, effective teamwork and leadership, and overall organizational assessment.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 680",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 682",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 781",
+    "title": "Seminar: Strategy Development and Critical Analysis in Meetings and Events",
+    "units": 3,
+    "department": "HTM",
+    "description": "Comprehensive team case study and presentation. Data analysis, leadership, and teamwork.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "HTM 664",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "HTM 690",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "HTM 797",
+    "title": "Research",
+    "units": 1,
+    "department": "HTM",
+    "description": "Supervised research in an area of hospitality and tourism management.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "HTM",
+    "description": "Individual study, generally for thesis research.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "HTM 799C",
+    "title": "Comprehensive Examination Extension",
+    "units": 0,
+    "department": "HTM",
+    "description": "Registration required of students whose only requirement is completion of the comprehensive examination for the master’s degree. Registration in 799C limited to two semesters.",
+    "grading_method": "Cr/NC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  }
+]

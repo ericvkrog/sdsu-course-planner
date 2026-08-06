@@ -1,0 +1,510 @@
+[
+  {
+    "course_code": "ASTR 101",
+    "title": "Principles of Astronomy",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Discover the universe: planets, stars, galaxies, and our place in the cosmos; the Big Bang; how stars shine; comets, meteors, nebulae, the Milky Way; black holes and other exotic objects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 109",
+    "title": "Astronomy Laboratory",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Demonstration of astronomical principles through observations with astronomical instruments and analysis of astronomical data. A nighttime field trip to Mount Laguna Observatory is required.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 101",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ASTR 201",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 201",
+    "title": "Astronomy for Science Majors",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Directed toward students with a strong interest in science and mathematics. Quantitative introduction to modern astronomy covering gravity, electromagnetic radiation, star formation and evolution, exoplanets, compact objects and high-energy transients, galaxies, and the origin and fate of the universe.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 296",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 303",
+    "title": "A Walk Through the Stellar Graveyard",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Deaths of stars and their exotic corpses to include black holes, neutron stars, and white dwarfs. User-friendly introduction to Einstein’s relativity theories, gravitational waves, and warped space-time.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 305",
+    "title": "The Dark Mysteries of the Universe",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Ancient theories of cosmology; their relation to the development of science; our modern understanding of the origin, size, contents, and evolution of the universe; the Big Bang, dark matter, dark energy, and the universe’s ultimate fate.",
+    "grading_method": "LCR",
+    "offered_fall": false,
+    "offered_spring": true,
+    "max_credits": null,
+    "notes": "Does not count toward the Astronomy B.S. degree. Can count toward the Astronomy B.A. degree or the Astronomy minor.",
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 310",
+    "title": "Astrobiology and the Search for Extraterrestrial Life",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Extraterrestrial life in our solar system and other planetary systems; formation of stars and planets; UFOs and SETI; origin and evolution of life on earth; life in extreme environments; cosmology and structure of universe.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 320",
+    "title": "Solar System Astronomy",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Structures of the planets; their surfaces, atmospheres, and satellite systems; asteroids, comets, and meteoroids. The Sun, its structure, energy production, and influence in the solar system. Life in the solar system.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197L",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 350",
+    "title": "Astronomical Techniques",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Astronomical observation and optics. Data acquisition and reduction for modern astronomical instrumentation including photometry, direct imaging, and spectroscopy. Techniques for obtaining precise measurements and determining measurement uncertainties.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 440",
+    "title": "Astrophysics of Stars",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Lives, interior structures, and physics that determines how stars work. Stellar atmospheres and spectrum of light that emerges from stars.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 360",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 450",
+    "title": "Extragalactic Astronomy",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Review of basic astrophysics; flux and intensity measurements, blackbody radiation, the astronomical magnitude system, interstellar extinction, and distances determinations within the galaxy; morphological properties of galaxies; stellar populations; extragalactic distance indicators and the cosmological distance scale; introduction to cosmology.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 201",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 150",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 151",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 195",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 196",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 197",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 496",
+    "title": "Experimental Topics",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 498A",
+    "title": "Senior Project",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Selection and design of individual projects.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 1,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 498B",
+    "title": "Senior Project",
+    "units": 2,
+    "department": "ASTR",
+    "description": "Individual research project culminating in a final written report.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 2,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 498A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 499",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Individual study.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 510",
+    "title": "Exoplanets",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Extrasolar planet detection; mass and radius determination; transits and eclipses; orbital dynamics and transit timing variations; internal and atmospheric characteristics; the exoplanet population and formation scenarios.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ASTR 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "PHYS 354",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 596",
+    "title": "Advanced Topics in Astronomy",
+    "units": 2,
+    "department": "ASTR",
+    "description": "Selected topics in astronomy or astrophysics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": "See",
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 610",
+    "title": "Binary Stars",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Visual, spectroscopic, and eclipsing binary stars. Review of observational techniques. Methods of orbital analysis with applications emphasizing determination of fundamental stellar properties, such as mass, radius, temperature, and luminosity. Implications for stellar evolution.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 630",
+    "title": "Stellar Atmospheres and Interiors",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Gas thermodynamics and equations of state. Production of stellar continuum radiation and spectral lines. Theories of radiative and convective energy transport. Interior structure and evolution of stars.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 440",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "MATH 342A",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 650",
+    "title": "Galactic Structure and Evolution",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Stellar and gaseous structures of the Milky Way and external galaxies. Properties to include chemical evolution, color distributions, luminosity functions, mass-to-light ratios, scaling relations, and surface brightness profiles. Dark matter halos, gravitational collapse models, and hierarchical structure formation. Contents and physical state of interstellar and circumgalactic media.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 680",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 670",
+    "title": "Foundations of Modern Cosmology",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Big Bang nucleosynthesis, cosmic microwave background, early universe, expansion dynamics, extragalactic distance scale, largescale structure, Newtonian and relativistic cosmology. Observational constraints on cosmological parameters and equation of state.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 680",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 680",
+    "title": "Astronomical Techniques",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Basic methods of data acquisition and analysis. Emphasis is given to CCD direct imaging, spectroscopy, and photometry. Direct experience with telescopes and instruments at Mount Laguna Observatory, as well as with the department computing and image processing facility.",
+    "grading_method": "LTR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": "ASTR 350",
+        "prereq_type": "required",
+        "min_standing": null
+      },
+      {
+        "prereq_code": "ASTR 450",
+        "prereq_type": "required",
+        "min_standing": null
+      }
+    ]
+  },
+  {
+    "course_code": "ASTR 797",
+    "title": "Research",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Research in one of the fields of astronomy.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 798",
+    "title": "Special Study",
+    "units": 1,
+    "department": "ASTR",
+    "description": "Individual study.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 6,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 799A",
+    "title": "Thesis",
+    "units": 3,
+    "department": "ASTR",
+    "description": "Preparation of a project or thesis for the master’s degree.",
+    "grading_method": "RPC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "ASTR 799B",
+    "title": "Thesis Extension",
+    "units": 0,
+    "department": "ASTR",
+    "description": "Registration required in any semester or term following assignment of RP in Course 799A in which the student expects to use the facilities and resources of the university; also student must be registered in the course when the completed thesis is granted final approval.",
+    "grading_method": "CNC",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 0,
+    "notes": null,
+    "prerequisites": []
+  }
+]

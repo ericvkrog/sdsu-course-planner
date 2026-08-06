@@ -1,0 +1,80 @@
+{
+  "code": "MATHEMATICS_EMPHASIS_IN_COMPUTATIONAL_SCIENCE_B_S",
+  "name": "Mathematics, Emphasis in Computational Science, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12126",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12126",
+  "poid": "12126",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [
+    "MATH 150",
+    "MATH 151",
+    "MATH 237",
+    "MATH 245",
+    "MATH 252",
+    "MATH 254",
+    "CS 150",
+    "CS 150L",
+    "CS 160",
+    "CS 160L",
+    "CS 210",
+    "STAT 250"
+  ],
+  "upper_required": [
+    "MATH 320",
+    "MATH 330",
+    "MATH 531",
+    "MATH 537",
+    "MATH 542",
+    "MATH 340",
+    "MATH 524",
+    "MATH 543",
+    "MATH 499"
+  ],
+  "elective_areas": {
+    "Impacted Program": [
+      "MATH 150",
+      "MATH 151",
+      "MATH 237",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254",
+      "CS 150",
+      "CS 150L",
+      "CS 160",
+      "CS 160L",
+      "CS 210",
+      "STAT 250"
+    ],
+    "Requirements": [
+      "COMP 526",
+      "COMP 536",
+      "CS 503",
+      "CS 558",
+      "MATH 336",
+      "MATH 525",
+      "MATH 532",
+      "MATH 537",
+      "MATH 542",
+      "MATH 543",
+      "MATH 586"
+    ],
+    "Requirements (2)": [
+      "MATH 303",
+      "MATH 312",
+      "MATH 313",
+      "MATH 342A",
+      "MATH 342B",
+      "MATH 413",
+      "MATH 414"
+    ]
+  },
+  "default_electives": [
+    "MATH 336",
+    "MATH 303"
+  ],
+  "unresolved_codes": []
+}

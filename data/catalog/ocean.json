@@ -1,0 +1,47 @@
+[
+  {
+    "course_code": "OCEAN 100",
+    "title": "The Ocean Planet",
+    "units": 4,
+    "department": "OCEAN",
+    "description": "Physical, chemical, geological, and biological foundations of the global ocean system, with emphasis on science as a process and its role in environmental issues from global climate change to local pollution.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 4,
+    "notes": null,
+    "prerequisites": []
+  },
+  {
+    "course_code": "OCEAN 320",
+    "title": "Oceans of Change",
+    "units": 3,
+    "department": "OCEAN",
+    "description": "Scientific, socioeconomic, and geopolitical perspectives on human impacts upon the global ocean system to include ocean warming and acidification, regional fisheries depletion, and local coastal issues.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 3,
+    "notes": null,
+    "prerequisites": [
+      {
+        "prereq_code": null,
+        "prereq_type": "required",
+        "min_standing": "junior"
+      }
+    ]
+  },
+  {
+    "course_code": "OCEAN 496",
+    "title": "Experimental Topics",
+    "units": 1,
+    "department": "OCEAN",
+    "description": "Selected topics.",
+    "grading_method": "LCR",
+    "offered_fall": true,
+    "offered_spring": true,
+    "max_credits": 9,
+    "notes": "See",
+    "prerequisites": []
+  }
+]

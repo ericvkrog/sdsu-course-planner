@@ -1,0 +1,66 @@
+{
+  "code": "MATHEMATICS_B_A",
+  "name": "Mathematics, B.A.",
+  "degree": "B.A.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12128",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12128",
+  "poid": "12128",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "MATH 320",
+    "MATH 330",
+    "MATH 531",
+    "MATH 537",
+    "MATH 542",
+    "MATH 340",
+    "MATH 524"
+  ],
+  "elective_areas": {
+    "Impacted Program": [
+      "MATH 150",
+      "MATH 151",
+      "MATH 237",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254",
+      "STAT 250",
+      "CS 150",
+      "CS 150L",
+      "CS 200",
+      "STAT 200"
+    ],
+    "Preparation for the Major": [
+      "MATH 150",
+      "MATH 151",
+      "MATH 237",
+      "MATH 245",
+      "MATH 252",
+      "MATH 254",
+      "STAT 250",
+      "CS 150",
+      "CS 150L",
+      "CS 200",
+      "STAT 200"
+    ],
+    "One Course Selected From": [
+      "MATH 520",
+      "MATH 530",
+      "MATH 531",
+      "MATH 537",
+      "MATH 538",
+      "MATH 542",
+      "MATH 543",
+      "STAT 551B"
+    ]
+  },
+  "default_electives": [
+    "MATH 150",
+    "CS 150",
+    "MATH 520"
+  ],
+  "unresolved_codes": []
+}

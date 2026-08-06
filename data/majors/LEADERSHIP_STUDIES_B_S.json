@@ -1,0 +1,96 @@
+{
+  "code": "LEADERSHIP_STUDIES_B_S",
+  "name": "Leadership Studies, B.S.",
+  "degree": "B.S.",
+  "total_units": 120,
+  "catalog_url": "https://catalog.sdsu.edu/preview_program.php?catoid=12&poid=12596",
+  "verified": false,
+  "source": "scraped:catoid=12:poid=12596",
+  "poid": "12596",
+  "covered_ge_areas": [],
+  "gwar_covered_by": [],
+  "lower_division": [],
+  "upper_required": [
+    "LEAD 420",
+    "LEAD 440",
+    "LEAD 405"
+  ],
+  "elective_areas": {
+    "Preparation for the Major": [
+      "PSY 101",
+      "LEAD 205",
+      "LEAD 250",
+      "CFD 170",
+      "CFD 270",
+      "TE 170",
+      "PSY 230",
+      "COMM 204",
+      "COMM 245"
+    ],
+    "Ethical and Inclusive Leadership Development": [
+      "ED 409",
+      "ED 484",
+      "PHIL 329",
+      "PHIL 332",
+      "PHIL 340",
+      "AFRAS 327",
+      "AFRAS 422",
+      "CCS 340B",
+      "CSP 401",
+      "CSP 585",
+      "GEN S 420",
+      "LGBT 321",
+      "LGBT 322",
+      "PSY 340",
+      "PSY 344",
+      "PSY 442"
+    ],
+    "Organizational Leadership and Communication": [
+      "LEAD 360",
+      "B A 350",
+      "COMM 307",
+      "COMM 485",
+      "JMS 418",
+      "MGT 475"
+    ],
+    "Organizational Systems and Dynamics": [
+      "LEAD 404",
+      "JMS 440",
+      "JMS 480",
+      "P A 330",
+      "P A 340",
+      "PSY 319"
+    ],
+    "Community, National, and Global Perspectives on Leadership": [
+      "LEAD 307",
+      "AAS 486",
+      "AFRAS 423",
+      "ASIAN 480",
+      "CCS 303",
+      "CCS 375",
+      "COMM 371",
+      "P A 480",
+      "POL S 375",
+      "POL S 436",
+      "SOC 433"
+    ]
+  },
+  "default_electives": [
+    "PSY 101",
+    "CFD 170",
+    "TE 170",
+    "COMM 204",
+    "LEAD 205",
+    "LGBT 321",
+    "LGBT 322",
+    "AFRAS 327",
+    "COMM 307",
+    "B A 350",
+    "PSY 319",
+    "P A 330",
+    "CCS 303",
+    "LEAD 307",
+    "COMM 371"
+  ],
+  "unresolved_codes": []
+}
