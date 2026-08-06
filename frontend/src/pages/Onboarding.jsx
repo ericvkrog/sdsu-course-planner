@@ -122,7 +122,30 @@ export default function Onboarding() {
                 <label className="block text-sm font-medium text-gray-700 mb-1">
                   Major
                   {majorsLoading && (
-                    <span className="text-gray-500 font-normal"> — loading majors…</span>
+                    <span className="inline-flex items-center gap-1.5 ml-2 align-middle text-gray-500 font-normal">
+                      <svg
+                        className="h-3.5 w-3.5 animate-spin text-sdsu-red"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        aria-hidden="true"
+                      >
+                        <circle
+                          className="opacity-25"
+                          cx="12"
+                          cy="12"
+                          r="10"
+                          stroke="currentColor"
+                          strokeWidth="4"
+                        />
+                        <path
+                          className="opacity-75"
+                          fill="currentColor"
+                          d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"
+                        />
+                      </svg>
+                      loading majors — can take up to a minute if the
+                      server's waking up
+                    </span>
                   )}
                 </label>
                 <select
