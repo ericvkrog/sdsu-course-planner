@@ -19,7 +19,7 @@ export default function ConflictAlert({ conflicts, onDismiss }) {
       {warnings.length > 0 && (
         <Banner
           tone="amber"
-          title={`${warnings.length} heads-up${warnings.length !== 1 ? "s" : ""} (not blocking)`}
+          title={`${warnings.length} heads-up${warnings.length !== 1 ? "s" : ""}`}
           items={warnings}
           onDismiss={onDismiss}
         />
