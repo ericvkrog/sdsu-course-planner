@@ -2,6 +2,7 @@ services:
   - type: web
     name: sdsu-course-planner-backend
     env: python
+    plan: free
     rootDir: backend
     buildCommand: pip install -r requirements.txt
     # rootDir puts the working directory at backend/, but the app's modules
