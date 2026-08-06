@@ -115,7 +115,7 @@ export default function Onboarding() {
                 <label className="block text-sm font-medium text-gray-700 mb-1">
                   Major
                   {majorsLoading && (
-                    <span className="text-gray-400 font-normal"> — loading majors…</span>
+                    <span className="text-gray-500 font-normal"> — loading majors…</span>
                   )}
                 </label>
                 <select
@@ -161,7 +161,7 @@ export default function Onboarding() {
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
                   Completed Courses{" "}
-                  <span className="text-gray-400 font-normal">(optional)</span>
+                  <span className="text-gray-500 font-normal">(optional)</span>
                 </label>
                 <textarea
                   value={completedInput}
@@ -170,7 +170,7 @@ export default function Onboarding() {
                   rows={4}
                   className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm font-mono focus:outline-none focus:ring-2 focus:ring-sdsu-red focus:border-sdsu-red resize-none"
                 />
-                <p className="text-xs text-gray-400 mt-1">
+                <p className="text-xs text-gray-500 mt-1">
                   One course code per line, or comma-separated (e.g. CS 150, MATH 150)
                 </p>
               </div>
@@ -222,7 +222,7 @@ export default function Onboarding() {
                   onChange={(e) => setMaxUnits(Number(e.target.value))}
                   className="w-full accent-sdsu-red"
                 />
-                <div className="flex justify-between text-xs text-gray-400 mt-0.5">
+                <div className="flex justify-between text-xs text-gray-500 mt-0.5">
                   <span>12 (lighter)</span>
                   <span>15 (default)</span>
                   <span>21 (heavy)</span>
@@ -244,7 +244,7 @@ export default function Onboarding() {
                     />
                     <span className="text-sm text-gray-700">
                       <span className="font-medium">General Education</span>
-                      <span className="text-gray-400"> — 43 units across Areas 1–6 and Upper-Division Explorations</span>
+                      <span className="text-gray-500"> — 43 units across Areas 1–6 and Upper-Division Explorations</span>
                     </span>
                   </label>
                   <label className="flex items-start gap-3 cursor-pointer">
@@ -256,11 +256,11 @@ export default function Onboarding() {
                     />
                     <span className="text-sm text-gray-700">
                       <span className="font-medium">American Institutions</span>
-                      <span className="text-gray-400"> — US History &amp; Government (HIST 140 or POLS 101, required by CA law)</span>
+                      <span className="text-gray-500"> — US History &amp; Government (HIST 140 or POLS 101, required by CA law)</span>
                     </span>
                   </label>
                 </div>
-                <p className="text-xs text-gray-400 mt-2">
+                <p className="text-xs text-gray-500 mt-2">
                   GWAR is always included · Cultural Diversity is satisfied by GE Area 6
                 </p>
               </div>

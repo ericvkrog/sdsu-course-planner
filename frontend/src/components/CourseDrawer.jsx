@@ -105,7 +105,7 @@ export default function CourseDrawer({
           </div>
           <button
             onClick={onClose}
-            className="ml-4 text-gray-400 hover:text-gray-600 text-2xl leading-none mt-1"
+            className="ml-4 text-gray-500 hover:text-gray-600 text-2xl leading-none mt-1"
             aria-label="Close"
           >
             ×
@@ -115,7 +115,7 @@ export default function CourseDrawer({
         {/* Body */}
         <div className="flex-1 overflow-y-auto p-5 space-y-5">
           {loading && (
-            <p className="text-sm text-gray-400 animate-pulse">Loading…</p>
+            <p className="text-sm text-gray-500 animate-pulse">Loading…</p>
           )}
 
           {/* Quick stats */}
@@ -133,7 +133,7 @@ export default function CourseDrawer({
                 Choose a course for this slot
               </h4>
               {swap.area && (
-                <p className="text-xs text-gray-400 mb-2">{swap.area}</p>
+                <p className="text-xs text-gray-500 mb-2">{swap.area}</p>
               )}
 
               {/* GE slots: picking the specific course needs data we haven't scraped yet. */}
@@ -157,7 +157,7 @@ export default function CourseDrawer({
                     />
                   )}
                   {swap.options.length === 0 ? (
-                    <p className="text-xs text-gray-400">
+                    <p className="text-xs text-gray-500">
                       {swap.search
                         ? query
                           ? "No matching courses you can take here."
@@ -181,7 +181,7 @@ export default function CourseDrawer({
                               <span className="font-mono text-xs font-semibold text-gray-900">
                                 {o.course_code}
                               </span>
-                              <span className="text-xs text-gray-400">
+                              <span className="text-xs text-gray-500">
                                 {swapping === o.course_code ? "Swapping…" : `${o.units}u`}
                               </span>
                             </div>
@@ -238,7 +238,7 @@ export default function CourseDrawer({
                       </span>
                     )}
                     {p.prereq_type === "recommended" && (
-                      <span className="text-xs text-gray-400">(recommended)</span>
+                      <span className="text-xs text-gray-500">(recommended)</span>
                     )}
                   </li>
                 ))}

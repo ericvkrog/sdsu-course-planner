@@ -63,7 +63,7 @@ export default function CourseCard({ course, index, onClick }) {
               </p>
             </div>
             <div className="shrink-0 flex flex-col items-end gap-1 mt-0.5">
-              <span className="text-xs font-medium text-gray-400">{course.units}u</span>
+              <span className="text-xs font-medium text-gray-500">{course.units}u</span>
               {isSlot && (
                 <span className="text-[10px] text-violet-500 opacity-0 group-hover:opacity-100 transition-opacity">
                   choose ›

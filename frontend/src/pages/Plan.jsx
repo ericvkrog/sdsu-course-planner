@@ -160,7 +160,7 @@ export default function Plan() {
           onRemoveTerm={removeTerm}
         />
 
-        <p className="text-xs text-gray-400 mt-4">
+        <p className="text-xs text-gray-500 mt-4">
           Drag courses between semesters to adjust your plan. Click any course
           for details.
         </p>

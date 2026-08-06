@@ -34,7 +34,7 @@ export default function PlanGrid({
         {/* Add an optional Summer/Winter term to lighten Fall/Spring loads. */}
         {onAddTerm && (
           <div className="flex flex-col w-48 shrink-0">
-            <h3 className="text-sm font-bold text-gray-400 mb-2">Add a term</h3>
+            <h3 className="text-sm font-bold text-gray-500 mb-2">Add a term</h3>
             <div className="flex-1 rounded-lg border-2 border-dashed border-gray-200 p-2 space-y-2">
               {suggestions.length === 0 && (
                 <p className="text-xs text-gray-300 text-center pt-4">

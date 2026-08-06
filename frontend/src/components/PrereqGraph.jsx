@@ -26,7 +26,7 @@ export default function PrereqGraph({ graph, highlightCode }) {
 
   if (!layout) {
     return (
-      <p className="text-sm text-gray-400 text-center py-6">
+      <p className="text-sm text-gray-500 text-center py-6">
         No prerequisites
       </p>
     );
