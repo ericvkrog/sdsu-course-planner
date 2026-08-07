@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 import Landing from "./pages/Landing.jsx";
 import Onboarding from "./pages/Onboarding.jsx";
 import Plan from "./pages/Plan.jsx";
@@ -12,6 +13,7 @@ export default function App() {
         <Route path="/plan" element={<Plan />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+      <Analytics />
     </BrowserRouter>
   );
 }
