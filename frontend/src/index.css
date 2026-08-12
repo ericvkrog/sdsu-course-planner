@@ -3,8 +3,17 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    color-scheme: light only !important;
+  }
+
   body {
     @apply bg-gray-50 text-gray-900 antialiased;
+    /* !important so extensions that force a dark theme (e.g. BetterCampus)
+       can't recolor text to match their dark background, which made this
+       page look like a blank white screen. */
+    background-color: theme("colors.gray.50") !important;
+    color: theme("colors.gray.900") !important;
   }
 }
 
