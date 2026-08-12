@@ -63,7 +63,10 @@ export default function Landing() {
       </header>
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-sdsu-red to-red-800">
+      {/* bg-sdsu-red sits under the gradient as a fallback: dark-mode browser
+          extensions strip background-image but leave background-color, and
+          without it the white hero text lands on a white page. */}
+      <section className="relative overflow-hidden bg-sdsu-red bg-gradient-to-b from-sdsu-red to-red-800">
         <div className="max-w-4xl mx-auto px-6 py-20 sm:py-28 text-center">
           <span className="inline-block bg-white/15 text-white text-xs font-semibold tracking-wide uppercase rounded-full px-3 py-1 mb-6">
             For San Diego State students
