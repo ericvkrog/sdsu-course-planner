@@ -2,16 +2,24 @@ name: Keep backend & Supabase warm
 
 on:
   schedule:
-    # Every 3 days, well inside Render's 15-min idle sleep and Supabase's
-    # 7-day free-tier pause window.
-    - cron: "0 8 */3 * *"
+    # Daily, well inside Render's 15-min idle sleep and Supabase's 7-day
+    # free-tier pause window. Pinging only through the backend (previous
+    # every-3-days schedule) wasn't enough of a safety margin -- if the
+    # backend itself has a bad day, the DB ping never lands and Supabase
+    # still pauses. Pinging Supabase directly removes that dependency.
+    - cron: "0 8 * * *"
   workflow_dispatch: {}
 
 jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping /departments (hits Supabase through the backend)
+      - name: Ping Supabase directly (REST endpoint, independent of the backend)
+        run: |
+          curl --fail --silent --show-error --max-time 60 \
+            -H "apikey: ${{ vars.SUPABASE_ANON_KEY }}" \
+            "${{ vars.SUPABASE_URL }}/rest/v1/departments?select=dept_code&limit=1" -o /dev/null
+      - name: Ping /departments (hits Supabase through the backend, also warms Render)
         run: |
           curl --fail --silent --show-error --max-time 60 \
             "${{ vars.BACKEND_URL }}/departments" -o /dev/null
